@@ -1,0 +1,6630 @@
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+SUMMARY: Recent Developments and Year-Ahead Outlook
+With the corona pandemic entering Ethiopia in March 2020, macroeconomic 
+policies and priorities this past quarter have shifted sharply towards emergency 
+economic measures that support large-scale public health interventions and limit 
+damage to the real economy. Encouragingly, the corona virus spread in Ethiopia 
+has so far been limited, with around 300 cases and 5 deaths as of mid-May and the 
+lowest reported count among the world’s most populous nations. Looking ahead, 
+as the Government’s disease prevention work is quite extensive and being 
+intensified even further, we continue to expect that the current ‘limited virus 
+spread scenario’ will remain for the period ahead. On this basis, we still see the 
+most adverse economic shocks largely confined to four sub-sectors (hospitality, 
+exports, manufacturers, and banks) whose weight in the Ethiopian economy is 
+much lower than is the case in most peer countries. Moreover, as a large economic 
+stimulus package is now in place and substantial foreign assistance (including debt 
+relief) likely forthcoming, we think the overall negative macro impacts will not be 
+as severe as may have been initially anticipated under some worst-case scenarios.
+Recent Developments:1 
+Growth and Activity Indicators: For the period up to end-March 2020, activity 
+indicators were largely positive and suggested a strong growth outturn for the 
+fiscal year prior to the onset of the Corona virus. In particular, a sampling of 
+economic activity indicators as of March 2020 showed 7 percent real growth in 
+tax collections (26 percent in nominal terms), 4 percent real growth in 
+government capital expenditure (22 percent in nominal terms), 5 percent 
+growth in fuel consumption, 14 percent real growth in bank lending, 20 percent 
+real growth in ECX commodity trades,  33 percent growth in industrial park 
+exports, and 26 percent growth in industrial park employment. In contrast to the 
+above, areas that showed weakness included electricity power generation 
+(down 8 percent), FDI inflows (down 25 percent) and tourist arrivals (down 4 
+percent even as of end-March 2020). As trends in tax collections and bank 
+lending often do well in capturing the pulse of on-going economic activity, and 
+given the already registered agricultural growth of more than 4 percent from the 
+end-2019 harvest, a high single-digit growth outturn was a likely and realistic 
+prospect based on the first nine months of the fiscal year. 
+1 This section on recent developments covers activity to end-March or end-April and is thus largely 
+excluding Corona-related impacts. See next section for the outlook in Q2 2020 and beyond. 
+Quarterly Macroeconomic Review
+First Quarter 2020
+ 
+Macro Research
+Ethiopia
+RESEARCH & ANALYTICS
+May 20, 2020
+research@cepheuscapital.com
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+2
+Investment: Indicators of investment activity just prior to the corona 
+outbreak were somewhat mixed, with negative outturns in some areas such 
+as FDI but positive (though declining) growth rates in other areas. The main 
+weak area continued to be seen in FDI inflows, which were down about 25 
+percent in the first half of the fiscal year vs year-ago levels ($1.8bn vs $1.4bn). 
+Other investment indicators showed growth in areas such as capital goods 
+imports (up 5 percent excluding lumpy aircraft imports), state enterprise 
+borrowing (up 12 percent and indicative of SOE capital expenditures), and in 
+government capital expenditure, which reached Birr 52bn in the first six 
+months of the fiscal year, or growth of 22 percent vs same period last year.  
+Overall, considering that FDI is only around 10 percent of total investment, 
+the data suggest that aggregate investment was likely growing moderately in 
+nominal terms but shrinking somewhat relative to GDP.
+Inflation: Contrary to our expectations, inflation has not declined since the 
+start of 2020 and stood at 22.9 percent (year-on-year) as of April 2020. 
+Inflation has now remained above 20 percent for six consecutive months. 
+Moreover, though previously confined mostly to food items (particularly 
+cereal crops), it has now also spread to non-food items (e.g. beverages, 
+transport) and to services (housing and utilities)—both of which are showing 
+inflation of near 20 percent.  Looking into the latest monthly data from April 
+2020, three specific line-items with a combined weight of nearly 50 percent 
+are the biggest contributors, mainly cereal crops (prices up 31 percent), 
+vegetables (up 24 percent), and housing/utilities (up 26 percent); had these 
+three items shown no price increases, overall inflation would have been only 
+9.9 percent. In some areas, administrative policy changes are contributing to 
+inflation: for example, excise taxes on beer raised beverages inflation by 20 
+percent in just the past two months and by 27 percent year-on-year; 
+electricity bill adjustments are still feeding into higher inflation for the 
+housing/utilities line-item; and taxi fare hikes in April (to adhere to social 
+distancing rules) appear to have contributed to a large (12%) month-on-
+month increase in transport prices.  However, as the latter three items have 
+small weights in the overall inflation index, such administrative-related 
+factors cannot be taken as the dominant source of inflation. Instead, the 
+underlying sources of inflation (which we’ve previously viewed as largely 
+emanating from supply-side shocks) now appear to reflect a broader 
+combination of factors, including: (1) continued supply side shocks for 
+foodstuffs such as cereals and vegetables (i.e. reduced output in some cases 
+as well as insufficient transport to urban areas in other cases); (2) possibly 
+entrenched public expectations (if farmers/traders have come to expect ever-
+rising prices and thus hold back on available supplies), and (3) a macro policy 
+stance that apparently was not sufficiently tight (as seems to be suggested by 
+the spread of inflation to services and non-food items and reflecting perhaps  
+lagged effects of the stance of policies in mid- to late-2019). 
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+3
+Monetary policy:  Growth in broad money supply has fallen to 19 percent 
+(year-on-year), which is one of the slowest increases seen in many quarters. 
+The growth rate was well below nominal GDP growth and inflation, pointing 
+to a decline of money supply in real terms. Looking only at trends in the most 
+recent quarters, one sees an even sharper decline in the growth of money 
+supply measures—with broad money, reserve money, and net credit to 
+government all up only 11 to 13 percent in the first nine months of the fiscal 
+year. While data for upcoming months will no doubt show a substantial 
+loosening, the pre-corona monetary policy trajectory was clearly moving 
+towards significant restraint, reflecting more determined policy efforts to 
+control inflation since the beginning of 2020.   
+Banking developments: In line with slowing monetary growth, banks showed 
+somewhat slower (though still-strong) rates of deposit and lending growth 
+this past quarter. At Birr 990 billion as of March 2020, total deposits were 18 
+percent higher than a year earlier and just on the verge of crossing Birr 1 
+trillion. Lending levels (excluding bonds) reached Birr 567 bn as of March 
+2020, an increase of 32 percent from year-ago levels (and an even higher 
+increase of 38 percent if looking just at private banks). Total financing 
+provided by the banking system (loans plus banks’ holdings of corporate 
+bonds and NBE Bills) reached an estimated Birr 980bn at end March 2020, 
+equivalent to 99 percent of total banking system deposits and indicative of 
+the tight liquidity position at many private banks at the beginning of the year. 
+As has been the case for several quarters now, the private sector continued 
+to be the main beneficiary of recent lending growth, with Birr 212bn of the 
+Birr 262bn credit increase over the past year (roughly 80 percent) going to 
+private borrowers as opposed to Government or SOEs. Indeed, new SOE 
+borrowing via bonds has essentially come to a stop, with their outstanding 
+bond issues essentially flat at Birr 341bn as of December 2019 vs Birr 339bn 
+at June 2019.  In terms of other banking indicators, the sector registered 23 
+percent growth in assets, 12 percent growth in capital (to Birr 80bn), and 18 
+percent growth in branches (to 5,875 nation-wide branches as of March 2020 
+or an increase of around 900 branches in just the past year). For the large 
+state bank, CBE, activity indicators were showing a moderation in growth 
+trends, with deposits only up 15 percent and lending up 25 percent from year-
+ago levels.  By contrast, private banks have collectively been expanding their 
+lending at a rapid rate, or by 37 percent from year-ago levels.  Boosted by 
+these trends, first nine-month profits at the 16 private banks were up around 
+43 percent from year-ago levels, though all of this reflects pre-corona 
+developments.
+Fiscal policy: Revenue performance continues to be positive and indeed 
+showed record-breaking collections in the first nine months of the fiscal year: 
+tax receipts reached Birr 183bn as of March 2020, or a 29 percent jump from 
+year-ago levels. Taxes on domestic activity showed more modest growth of 
+just 13 percent, but this was offset by large increases in trade taxes (up 45 
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+4
+percent), boosted in part by the depreciated exchange rate which increases 
+the Birr value of customs collections even in the midst of slightly negative 
+growth in USD imports. Comprehensive budget data including expenditure 
+and deficit outturns is only available to December 2019, and this showed a 
+six-month deficit of Birr 28bn (0.8 percent of GDP), or well within the 
+budgeted figure of Birr 97bn (near 3 percent of GDP).
+Debt: For the second quarter in a row, total public debt showed declines in 
+level terms and not just as a share of GDP. Public debt reached $53.4bn at 
+end-December 2019, down from its peak of $53.7bn as of June 2019. Relative 
+to this year’s anticipated GDP (Birr 3,418bn or USD 108.3bn), public debt now 
+stands at 49.2 percent, a near 10 percentage points drop from June 2018 
+when the ratio peaked at 58.7 percent of GDP. Looking only at external debt, 
+this now stands at 25.5 percent of GDP, also a major drop from its peak of 31 
+percent seen in June 2018. The latest MOFEC debt data (per the Public Sector 
+Debt Portfolio Report) showed external debt as of end-2019 continuing to 
+have broadly favourable terms, i.e., low average interest rates of below 3 
+percent and long average maturities of around 11 years. 
+Trade: Export growth slowed to 10 percent as of March 2020 versus the 15 
+percent year-on-year growth rates seen at the start the fiscal year. The five 
+top performers—by dollar receipts—continued to be coffee ($563mn in nine 
+months and up 13 percent), flowers ($339mn, up 100 percent), chat 
+($256mn, up 10 percent), textiles ($142mn, up 30 percent) and fruits and 
+vegetables ($69mn, up 56 percent). Two traditionally large export items, 
+oilseeds ($236mn) and pulses ($164mn), are still showing declines from year-
+ago levels and thus holding back Ethiopia’s export growth. With respect to 
+import trends, the headline figures for the first nine months show a 4 percent 
+decline, from $11.7bn to $11.2bn. However, excluding fuel imports (down 10 
+percent due to global oil prices) and one-off aircraft purchases (which inflated 
+last year’s figures), imports were up 6 percent as of March 2020, suggesting 
+relatively moderate levels of economic activity. Areas with strong import 
+trends included fertilizers (up 32 percent), agricultural capital equipment (up 
+50 percent) and raw materials, while measures of discretionary consumer 
+goods (non-durables excluding cereals) shrank by 20 percent as would be 
+expected with the faster rate of exchange rate depreciation put in place since 
+end 2019. 
+Balance of payments (BOP): Data for the first six months of the fiscal year 
+(latest available figures) showed a trade deficit of around $6bn, which was 
+offset by $3.5bn in private and official transfers, resulting in a current account 
+deficit of around $2.6 billion.  In the capital account, total fx inflows were near 
+$2.2bn reflecting around $1bn in net government borrowing and just $1.3bn 
+in FDI inflows.  Reflecting the net impacts of the above as well as other smaller 
+items, and despite the first disbursement of the IMF loan taking place in 
+December 2019, foreign exchange reserves fell by around $450mn over the 
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+5
+first half of the fiscal year, with fx reserves reaching $2,965mn at end-2019  
+versus $3,415mn at end-June 2019. Though full BOP data are not available to 
+end-March 2020, the fx reserves figure seen in monetary data reveal a level 
+of $2.5bn as of end-March 2020, equivalent to around 2 months imports. 
+Exchange rate: The exchange rate reached 32.81 Birr/USD at end-March 
+2020, and fell further to 33.53 at end-April 2020, equivalent to a depreciation 
+of 15 to 17 percent from year-ago levels.  The pace of depreciation has been 
+stepped up from a monthly rate of 21 to 26 cents seen in January and 
+February to monthly rates of 54 cents and 72 cents in March and April 
+respectively. The accelerated rate of annual depreciation observed in recent 
+months is now almost sufficient to cover domestic inflation, which should 
+thus—going forward—help prevent an increase in the real effective exchange 
+rate and what would be a consequent loss of external competitiveness. 
+Sovereign bond and Market Ratings:  Ethiopia’s sole international sovereign 
+bond showed the largest change in prices and yields since its issuance back in 
+2014. Between mid-January and mid-March, as the global consequences of 
+the corona pandemic became apparent (and largely before the first reported 
+case in Ethiopia on March 13, 2020), the bond’s price had already fallen from 
+109.7 to 89.7 (an 18 percent drop), while its yield—indicative of the interest 
+rate needed to attract lenders—jumped by 500 basis points from a record 
+low of just 4.4 percent in mid-January to 9.4 percent by end-March. The yield 
+has moved to an even higher 10.1 percent as of early May, which broadly 
+parallels the rising yields seen for many frontier and emerging markets over 
+the past few months.2 With respect to the rating agencies (which have 
+downgraded over 18 emerging markets in recent months per data from The 
+Economist), Moody’s recently indicated that it will initiate a review of 
+Ethiopia’s B1 rating following a downgrading to a ‘negative’ outlook late last 
+year, while Standard and Poor’s and Fitch Ratings have maintained their ‘B’ 
+credit ratings. 
+2 Per Tellimer research data (Macro Analysis Note April 28, 2020), following expectations of debt 
+relief for many low-income African countries, yields on their USD sovereign bonds are now close 
+to or above 10 percent in many cases, including for  Ghana (12.1%), Nigeria (11.9%), Mozambique 
+(11.6%), Rwanda (9.9%), Kenya (9.1%), Egypt (8.3%) and Cote d’Ivoire (8.0%).
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+6
+Macroeconomic Outlook:
+Main Points
+
+Baseline Assumptions: Our underlying expectation for the year ahead 
+remains that a ‘limited virus spread scenario’ can be maintained due to the 
+substantial scale and scope of public health measures implemented in recent 
+months. Accordingly, we expect the most severe economic impacts of the 
+Corona virus will largely be confined to four sub-sectors whose combined 
+weight in the overall economy is below 20 percent of GDP. 
+
+Policy support: Policy interventions are beginning to provide assistance to  
+affected sectors and the broader economy through direct funding, debt 
+rescheduling, tax relief, and liquidity support. The size of stimulus measures 
+on the fiscal side is close to 3 percent of GDP (including foregone/lower taxes 
+and extra expenditure) and also substantial on the monetary side (with a 
+planned doubling of growth rates in money supply, 1.2 percent of GDP in 
+liquidity support, and a generous relaxation of bank rescheduling rules). In 
+addition, a combination of reduced imports, increased foreign assistance 
+($500mn already received, a similar amount likely forthcoming), and 
+anticipated debt relief (possibly up to $1bn) is mitigating impacts from a 
+balance of payments perspective.
+
+Outlook: As the policy response to the economic shocks brought about by 
+the Corona virus has been substantive, well-managed, and supported by 
+foreign assistance, we think growth next year can reach 5 percent, though 
+this will partly come at the expense of a much larger budget deficit, possibly 
+higher inflation, lower private credit growth, and somewhat higher debt. 
+Overview 
+GDP growth: The severity of the corona pandemic on Ethiopia’s growth 
+prospects will depend mainly on developments in three large sub-sectors that 
+collectively account for 70 percent of GDP—namely agriculture, construction, 
+and wholesale/retail trade. In our view, all three of these sectors are likely to 
+face only modest or moderate impacts:
+o For agriculture (36% of GDP), prospects in this sector are primarily  
+influenced by rainfall conditions plus the availability of key inputs for 
+farmers. In this respect, the outlook for the 2020 crop season shows 
+favourable trends judging from the recent belg rains, the substantial 
+growth in fertilizer imports (up 32 percent from year-ago and with a 
+record 1.7mn tons to be distributed to farmers, per Ministry of 
+Agriculture data) as well as the extensive government preparations 
+taking place in the pre-harvest months (including recent campaigns in 
+many regions to prepare as much lands as possible for the coming 
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+7
+planting season). Regarding concerns over recent locust infestations, this 
+appears substantial at first glance (with around 200,000 hectares 
+affected and 3.6 mn quintals lost according to government and donor 
+assessments),3 but is actually comparatively modest when seen relative 
+to Ethiopia’s total farmland (12.8mn hectares), total crop output (323mn 
+quintals) or overall GDP (the net impact is on the order of 0.36 percent 
+of total economic activity). Accordingly, with a (presumed) favourable 
+rainy season, good supplies of fertilizer in place, and extensive regional 
+plans to boost acreage under cultivation, growth of 3 to 4 percent is 
+plausible—in our view—for the upcoming 2020-21 crop season.4
+o With respect to construction activity (20% GDP), as this sector has not 
+been interrupted by lockdowns and appears to be continuing its activities 
+in most urban areas, growth declines should be modest and temporary, 
+especially when also considering that public sector projects—which are 
+to be maintained—continue to drive a large part of the activity in this 
+area. 
+o For wholesale and retail trade (14% of GDP) this sector might suffer a 
+modest drop in activity, but again most of the activity in this area should 
+not be interrupted for too long as it reflects trading in many non-
+discretionary items such as basic food crops and consumer goods, 
+exports and imports, and routine retail activities. 
+o In contrast to the dominant parts of the economy noted above, the 
+sectors most heavily affected by the corona virus are generally smaller 
+segments of the wider economy, whether for hotels and restaurants 
+(2.6% of GDP), exports (2.8% of GDP), manufacturing (4.1% of GDP), or 
+banking (3.3% of GDP). Moreover, developments in April and early May 
+2020 suggest that anticipated economic damages may turn out less than 
+initially feared thanks in large part to series of measured but still 
+significant policy and regulatory interventions: (1) the hospitality sector 
+is now being compensated by a combination of debt rescheduling, tax 
+relief, employee tax support, and a Birr 3.3bn lending program through 
+commercial banks; (2) exporters are being provided generous debt 
+service relief by banks, flower exports are down sharply but have not 
+totally collapsed either (industry growers suggest 30-40 percent of prior 
+export levels are taking place), and coffee exports are continuing to do 
+well even in the most recent months (reaching $104mn in April 2020 
+alone, or the highest monthly level in over a year); (3) manufacturers are 
+receiving bank support and seeing a quicker-than-expected resumption 
+of supply chains in China; and (4) banks are benefitting from a 
+combination of liquidity relief and (thanks to recent NBE Circulars) 
+3 “Impact of Desert Locust Infestation” report by Govt and Joint Donor Group, April 2020.
+4 National Meteorological Agency data point to an ‘average’ rainfall outlook for the belg period, 
+and they also report a rise in the level and distribution of rains in April/May vs Feb/March 2020.
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+8
+generous regulatory forbearance enabling them to much more flexibly 
+reschedule loans and modify the short-term/long-term maturity mix of 
+their loans without regulatory constraints or penalties.
+ 
+o Overall GDP growth: Considering all of the above, and recalling the late 
+onset of the Corona virus within Ethiopia’s current fiscal year (the four 
+most affected sub-sectors were impacted for only the last four months 
+of the year), we expect GDP growth will be around 6 percent for FY 
+2019/20 versus our pre-corona projections of 8 percent.5  For the coming 
+fiscal year, we maintain our previous growth projection of 5 percent (a 
+2.5 percentage points decline from pre-corona projections), on the 
+expectations that the full-year effects of the corona virus will result in 
+notably slower growth for industry (9% vs 11%) and particularly services 
+(3.5% vs 6.5%).6 In general, given the timing of Ethiopia’s July-to-June 
+fiscal year, we are more optimistic about growth outturns for this fiscal 
+year (being closer to the Government’s 6.2 projection for FY 2019-20 
+rather than the World Bank’s 4.0 percent or the IMF’s 3.2 percent), while 
+we expect slightly lower growth outturns for next fiscal year (closer to 
+the IMF’s 4.3 percent projection for FY 2020-21 rather than the World 
+Bank’s 6.0 percent or the Government’s 8.5 percent).  
+Inflation: With respect to the inflation outlook, there is—as always—
+considerable uncertainty over its upcoming movements and even direction. 
+Several recent developments should certainly help reduce price pressures, 
+including lower global oil prices and the deflationary impact of slowing 
+activity in several service sectors.  At the same time, inflation could remain 
+elevated or rise even further if the upcoming crop season produces weak 
+results, if transport interruptions hinder movements in foodstuffs, and if the 
+large size of fiscal and monetary stimulus measures (see below) aggravate 
+excess demand pressures. On balance, we think a range of pre-emptive 
+measures being taken by government can help minimize such risks: large 
+government procurements of staple foods have recently been initiated to 
+boost stocks of key items (1.8 mn tons of wheat, 320,000 tons of rice, 170,000 
+tons of sugar, and 104mn litres of cooking oil); current transport restrictions 
+across regions are clearly exempting cargo and foodstuff movements; and 
+fiscal/monetary stimulus measures are being put in place only temporarily 
+and expected to be unwound in 2021 (see below). Accordingly, we think it is 
+more likely than not that inflation can trend gradually lower to 18 percent by 
+5 Relative to our Corona Impacts research note of March 31, 2020, we reduce somewhat our 
+services sector projection for the last quarter of this year and thus expect sector growth rates of 
+4.3/11.0/4.0 for agriculture/industry/services, which gives overall growth of 6.0 percent given 
+their respective weights of 33.3/27.1/39.6 percent in real GDP. 
+6 More precisely, our projections reflect an assumption that sectors accounting for about 20 
+percent of GDP experience a 5 percent drop in real activity over the course of the fiscal year, while 
+the remaining non-affected parts of the economy collectively growth at close to 7 percent. 
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+9
+the end of this fiscal year (June 2020), and then fall further to the low teens 
+by end 2020.
+Fiscal policy and debt: Fiscal policy is set to be the most expansionary seen 
+in many years, per the Government-IMF macro program, with the deficit 
+deteriorating by a combined Birr 104bn (2.6 percent of GDP) this year and 
+next (we had estimated a fiscal deterioration of near Birr 90bn or 2.3 percent 
+of GDP).  Considering pre-existing deficit levels (pre-corona), the overall 
+deficit this year will be a record high of Birr 134bn (near 4 percent of GDP) 
+while another Birr 145bn (3.5 percent of GDP) deficit is planned next fiscal 
+year—for a cumulative deficit of 7.5 percent of GDP over the two years.7 This 
+exceptionally high budget deficit reflects large increases in COVID-related 
+expenditure (Birr 69bn net) as well as a big drop in government revenue (Birr 
+35bn net of extra grants).  The financing needed to cover the Birr 134bn 
+deficit is, per the IMF Staff Report, to be secured by a combination of foreign 
+loans (Birr 62bn or nearly $2bn) as well as domestic borrowing (Birr 71bn 
+from NBE, banks, and non-banks). As of May 2020, Birr 32bn ($1bn) out of 
+the Birr 134bn needed financing was still to be identified/secured, though a 
+sizeable portion of this unidentified financing could potentially be covered by 
+debt service relief from multilateral and bilateral creditors, to whom the 
+Government owes around Birr 15bn (~$400mn) in annual debt service dues.8 
+As should be expected, debt ratios will deteriorate in the coming year, 
+reaching 55 percent of GDP vs the 52 percent anticipated pre-corona.
+Monetary developments and banking: Alongside the large fiscal stimulus, a 
+highly expansionary monetary policy is also being put in place to provide the 
+needed support to the economy. While reserve money was (pre-corona) set 
+to increase by only 12.5 percent this year, it is now expected to grow by 
+double that amount, or 25 percent, per data in the latest IMF Staff Report. 
+Similarly, though broad money growth was held to just 18 percent in the 
+original Government-IMF macro program, a much higher broad money 
+growth of 27 percent is now planned for the year, which will take overall 
+money supply from Birr 886 billion as of last June to 1.12 trillion by June 2020 
+(30 percent of GDP). The expanded broad money growth is intended to 
+enable increased monetary financing of the deficit: government borrowing 
+from the domestic financial system is going to be on the order of Birr 42bn 
+this year, reflecting Birr 30bn in net borrowing from the central bank and 
+another Birr 12bn in borrowing from banks and non-banks. One consequence 
+of such expanded government borrowing will be less growth in credit to the 
+private sector, which is likely to moderate next year given policy priorities 
+7 The fiscal and monetary framework referred to here and expected to guide policy-making for 
+the period ahead is based on the Government-IMF macro program as laid out in the May 2020 
+IMF Staff Report; see Tables 2a/3 on the fiscal/monetary accounts respectively. 
+8 Government debt service was $385mn in FY 2018-19 per MOFED Public Debt data. Most of 
+Ethiopia’s nearly $2bn in annual external debt service is owed by state-owned enterprises not 
+Government (see Footnote 9 for details on external debt service figures).
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+10
+(only 6 percent growth is anticipated in the Government-IMF macro program 
+for FY 2020-21, though this seems unrealistically low in our view). The high 
+level of monetary growth and government financing for this year should be 
+short-lived, however, as the macro program shows broad/base money 
+growth reverting to more normal growth rates of just 12/10 percent for FY 
+2020-21, with net government borrowing from the banking system also 
+falling (towards Birr 30bn) by next year. On the regulatory front, besides 
+providing flexibility to banks to reschedule loans without penalties, the 
+central bank has provided a combined Birr 48bn in liquidity and related 
+support to private and public banks as of mid-May (equivalent to 5 percent 
+of deposits, or 1.2 percent of GDP, and close to our expectations at end-
+March that as much as Birr 46bn in liquidity support may be required).
+Balance of payments: With respect to the balance of payments, we broadly 
+retain the outlook presented in our Corona impacts note of end-March 2020. 
+In particular, we expect the balance of payments to show a near $1.5bn 
+deterioration this fiscal year (vs pre-corona expectations), reflecting mainly 
+lower service exports, reduced remittances, and delays in privatization-
+related FDI inflows that were expected by June 2020. More specifically, for 
+the soon-to-be-ending fiscal year, we see goods exports at $2.6bn (3 percent 
+decline from last year), services exports at 4.6bn (a 5 percent drop), and 
+remittances at $5.1bn (a 10 percent drop). On the capital account, we expect 
+FDI will only reach $2.4bn for the year given delayed privatization. Reflecting 
+these developments, we expect the fx reserves stock at the end of the fiscal 
+year will only be around $2.6bn, rather than the $4bn expected pre-corona 
+(which had assumed privatization inflows by June 2020). For next fiscal year, 
+while a deterioration in some of the main current account items is likely (as 
+service exports and remittances take time to recover) this should be more 
+than offset by increased external grants and by a large capital account surplus 
+linked to (presumed) privatization-related FDI inflows and significant foreign 
+borrowing. Accordingly, we project a small balance of payments surplus and 
+a rise in the reserves stock—boosted in part by IMF financing—to $3.7bn by 
+June 2021. These projections do not incorporate potential debt relief from 
+foreign creditors which, if it fully materializes from multilateral/bilateral 
+creditors, would imply close to $1bn of reduced fx outflows and thus—all else 
+equal—a correspondingly higher foreign reserves figure at year-end ($4.7bn 
+rather than $3.7bn by June 2021).9   
+9 Of the near $2bn in annual external debt service dues, and using FY 2018-19 data in MOFEC’s 
+Public Debt Bulletin, $385m is owed by Government and $1,615mn is owed by SOEs. Roughly 
+$620mn reflects interest repayments and $1,375mn are principal payments. By creditor, $207mn 
+of the debt repayments were to multilaterals, $733mn to bilaterals, and $1,054mn to private 
+creditors. Considering debt service relief only from multilateral and bilateral creditors, roughly 
+$940mn (207+733) is very likely to be rescheduled under recent IMF/WB and G-20 initiatives. 
+Some portion of the $1,054mn remaining dues owed to private creditors may be rescheduled, but 
+this is unlikely for interest due on the sovereign bond ($66mn given the 6.65% coupon on the 
+bond) as well as Ethiopian Airlines repayments due to private commercial bank lenders. Figures 
+for this year and FY 2020-21 would be somewhat (but not much) higher than these numbers.
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+11
+Exchange rate: As noted earlier, the pace of exchange rate depreciation has 
+been stepped up since November 2019, and has recently been moving at a 
+rate of 15 to 17 percent from year-ago levels.  The trends observed in the first 
+half of May suggest that the depreciation will continue at a pace that stays 
+within the 15-17 percent annualized rate. We assume this accelerated rate of 
+annual depreciation is being pursued by the central bank to prevent a rise in 
+the real effective exchange rate and so expect this to continue in the current 
+environment of elevated inflation. Accordingly, we anticipate gradual 
+depreciations of 50 to 60 cents per month continuing for the remainder of 
+the calendar year, and thus see the rate at just under 35 Birr/USD by end-
+June 2020 and just under 38 Birr/USD by end-2020. 
+A summary of our full set of macroeconomic projections—covering the real, 
+banking, fiscal, and external sectors—is provided in the attached Annex. 
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+12
+COVID-19: Trends in Ethiopia to May 15, 2020:
+Table A: Ethiopia COVID-19 Cases and Recoveries to May 15, 2020
+Source: Ethiopian Public Health Institute Press Releases
+0
+50
+100
+150
+200
+250
+300
+13-Mar-20
+15-Mar-20
+17-Mar-20
+19-Mar-20
+21-Mar-20
+23-Mar-20
+25-Mar-20
+27-Mar-20
+29-Mar-20
+31-Mar-20
+2-Apr-20
+4-Apr-20
+6-Apr-20
+8-Apr-20
+10-Apr-20
+12-Apr-20
+14-Apr-20
+16-Apr-20
+18-Apr-20
+20-Apr-20
+22-Apr-20
+24-Apr-20
+26-Apr-20
+28-Apr-20
+30-Apr-20
+2-May-20
+4-May-20
+6-May-20
+8-May-20
+10-May-20
+12-May-20
+14-May-20
+COVID-19 Cases in Ethiopia and Recoveries
+Total Cases
+Total Recovered
+
+COVID case counts have reached close to 300 as of mid-May 2020.
+
+With recoveries exceeding 100 persons, the net number of affected persons is now closer to 200.
+Table B: Ethiopia COVID-19 New Cases and Cumulative Total Deaths
+Source: Ethiopian Public Health Institute Press Releases
+0
+5
+10
+15
+20
+25
+30
+13-Mar-20
+15-Mar-20
+17-Mar-20
+19-Mar-20
+21-Mar-20
+23-Mar-20
+25-Mar-20
+27-Mar-20
+29-Mar-20
+31-Mar-20
+2-Apr-20
+4-Apr-20
+6-Apr-20
+8-Apr-20
+10-Apr-20
+12-Apr-20
+14-Apr-20
+16-Apr-20
+18-Apr-20
+20-Apr-20
+22-Apr-20
+24-Apr-20
+26-Apr-20
+28-Apr-20
+30-Apr-20
+2-May-20
+4-May-20
+6-May-20
+8-May-20
+10-May-20
+12-May-20
+14-May-20
+COVID-19 New Cases and Deaths
+New Cases
+Total Deaths
+
+Daily new cases have risen notably since the start of May, averaging 10 per day in the past 
+two weeks vs just 3 per day in the prior two-week period.
+
+The number of deaths remains very low, however, at a total of just 5 cases over the past 
+two months, or an average rate of one death every 12 days.
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+13
+Table C: Top 20 Most Populous Countries and COVID-19 Cases as of May 15, 2020
+World's Most Populous Countries: Above 100mn population
+Population,
+In millions
+Cases as of
+May 15
+Deaths as of
+May 15
+Cases per
+million
+Deaths per
+million
+Countries with population above 100 million
+1 China
+1,438.63
+84,029
+4637
+58.4
+3.2
+2 India
+1,378.29
+82,103
+2649
+59.6
+1.9
+3 United States
+330.76
+1,417,889
+85906
+4,286.8
+259.7
+4 Indonesia
+273.16
+16,006
+1043
+58.6
+3.8
+5 Pakistan
+220.35
+37,218
+803
+168.9
+3.6
+6 Brazil
+212.37
+203,165
+13999
+956.7
+65.9
+7 Nigeria
+205.48
+5,162
+167
+25.1
+0.8
+8 Bangladesh
+164.48
+18,863
+283
+114.7
+1.7
+9 Russia
+145.93
+252,245
+2305
+1,728.6
+15.8
+10 Mexico
+128.76
+42,595
+4477
+330.8
+34.8
+11 Japan
+126.52
+16,120
+697
+127.4
+5.5
+12 Philippines
+109.40
+11,876
+790
+108.6
+7.2
+13 Egypt
+102.09
+10,829
+571
+106.1
+5.6
+14 Ethiopia
+100.8
+287
+5
+2.8
+0.0
+Other Top 20 countries
+15 Vietnam
+97.23
+312
+0
+3.2
+-
+16 DR Congo
+89.21
+1,242
+50
+13.9
+0.6
+17 Turkey
+84.22
+144,749
+4007
+1,718.6
+47.6
+18 Iran
+83.86
+114,533
+6854
+1,365.8
+81.7
+19 Germany
+83.75
+174,478
+7884
+2,083.3
+94.1
+20 Thailand
+69.78
+3,025
+56
+43.4
+0.8
+37,218
+1,043
+114.68
+5.51
+11,560
+555
+114.68
+5.51
+Source: Johns Hopkins University data for COVID-19 cases as of May 15, 2020 and as compiled by worldometers.info
+Population data from worldometers.info, except for Ethiopia which is based on CSA data
+Median, excluding Ethiopia:
+Ethiopia if case/death rates per million
+were at Top 20 median:
+
+Ethiopia still has the lowest reported case among the world’s 20 most populous countries
+
+Reported deaths are also among the lowest, second only to Vietnam which reports zero deaths.
+
+Ethiopia’s low case numbers may reflect limited testing (around 50,000 so far), but the low death 
+count still suggests a relatively contained and/or non-fatal virus spread.
+Table D: Top 20 Most Populous Countries--Trends in COVID-19 Cases and Deaths Since March 2020
+Cases as of
+March 31
+Cases as of
+May 15
+Change in cases,
+Past 45 days
+[As multiple]
+Deaths as
+of March 31
+Deaths as
+of May 15
+Change in deaths,
+Past 45 days
+[As multiple]
+Countries with population above 100 million
+1 China
+81,470
+84,029
+1.0x
+3304
+4637
+1.4x
+2 India
+1,071
+82,103
+76.7x
+29
+2649
+91.3x
+3 United States
+151,944
+1,417,889
+9.3x
+2805
+85906
+30.6x
+4 Indonesia
+1,414
+16,006
+11.3x
+122
+1043
+8.5x
+5 Pakistan
+1,690
+37,218
+22.0x
+21
+803
+38.2x
+6 Brazil
+4,371
+203,165
+46.5x
+141
+13999
+99.3x
+7 Nigeria
+111
+5,162
+46.5x
+2
+167
+83.5x
+8 Bangladesh
+49
+18,863
+385.0x
+1
+283
+283.0x
+9 Russia
+1,836
+252,245
+137.4x
+9
+2305
+256.1x
+10 Mexico
+993
+42,595
+42.9x
+20
+4477
+223.9x
+11 Japan
+1,866
+16,120
+8.6x
+54
+697
+12.9x
+12 Philippines
+1,546
+11,876
+7.7x
+78
+790
+10.1x
+13 Egypt
+609
+10,829
+17.8x
+40
+571
+14.3x
+14 Ethiopia
+26
+287
+11.0x
+0
+5
+…
+Other Top 20 countries
+15 Vietnam
+203
+312
+1.5x
+0
+0
+…
+16 DR Congo
+81
+1,242
+15.3x
+8
+50
+6.3x
+17 Turkey
+10,827
+144,749
+13.4x
+168
+4007
+23.9x
+18 Iran
+41,495
+114,533
+2.8x
+2757
+6854
+2.5x
+19 Germany
+63,929
+174,478
+2.7x
+560
+7884
+14.1x
+20 Thailand
+1,524
+3,025
+2.0x
+9
+56
+6.2x
+Median change, Top 20 countries excl ET:
+13.4x
+…
+…
+19.1x
+Median change, Low- and Middle-Income Countries:
+16.6x
+…
+…
+23.9x
+Median change, Countries with Pop above 100mn:
+22.0x
+…
+…
+38.2x
+Source: Johns Hopkins University data for COVID-19 cases as of May 15, 2020 and as compiled by worldometers.info
+Population data from worldometers.info, except for Ethiopia which is based on CSA data
+
+Trends in cases/deaths since end-March show Ethiopia as having a better-than-average record (an 11x jump 
+over the past month-and-a-half) vs 16.6x in low/mid-income countries.
+
+The limited change in deaths (5 cases) compares to a 19x jump on average in other large countries.
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+14
+Table E: Economic Policy Measures Taken to Combat the Economic Impacts of COVID-19
+Fiscal Measures
+1 Emergency health-sector spending outlays of Birr 5bn
+2 Removal of import taxes on COVID-19 items
+3 Faster VAT refunds to businesses
+4 Tax arrears forgiveness for all dues up to FY 2014-15; this covers 3,099 taxpayers and principal/interest/penalties due
+5 Tax interest and penalty forgiveness for all dues between FY 2015-16 and FY 2018-19. Principal still due with 25% payable
+within 30 days and remainder within a year.
+6 Waiver of rental tax for education institutions and MSMEs by regional/city governments
+7 Waiver of rental tax for private landlords who waive rents for their tenants (for rents not exceeding Birr 10,000 per month)
+8 Waiver of employmet tax of workers for a period of four months
+9 Extension on VAT and Turnover Tax payments of March/April/May up to June 2020
+10 COVID-related charitable donations to be eligible for tax deduction of up to 20 percent
+11 Loss incurred in FY 2019-20 to be carried forward even if already carried forward two FY losses
+12 Pension contributions of private organizations for April/May/June deferred up to July 2020
+Monetary Policy
+1 Liquidity support to private banks [Birr 15bn]
+2 Liquidity support to public banks [Birr 16bn and related other support of Birr 17bn]
+3 Higher limits on mobile money transfers
+4 Relaxation of central bank directives to allow banks flexibility in rescheduling loans for affected sectors
+5 DBE to provide credit to Micro and SMEs via a quick-disbursing special window
+6 DBE to provide credit to Micro-Finance Institutions and Cooperatives to support their respective clients
+7 Tourism sector allocated Birr 3.3bn for working capital to be channeled via commercial banks
+8 Most commercial banks--through own initiative and moral suasion--have reduced lending rates to affected sectors, cut
+fees, and offered postponements on debt service dues Among banks offering such relief, per press reports, are Awash,
+Dashen, Abyssinia, Zemen, CBO, Berhan, DGB and others.
+Other Administrative and/or Regulatory Measures
+1 Priority fx allocations for corona-related imports
+2 Removal of minimum price for flower exports
+3 Enhanced enforcement on 'price-gouging' retailers
+4 Manufacturers previously restricted from selling domestically to be allowed such sales if unable to export
+Source: PM Office Website "Summary of COVID 19 Economic Response Measures", MOFEC/NBE announcements, and press reports.
+Table F: Public Health Measures Taken to Combat COVID-19
+Preventive public health measures
+1 Mandatory 14-day quarantine for entrants to Ethiopia
+2 Closure of all land borders
+3 Closures of schools, universities, and federal government offices in March-April 2020
+4 State of Emergency issued
+5 Mandatory wearing of masks in public places/markets
+6 Social distancing rules in public transport
+7 Close to 10 dedicated hospitals, plus Millenium Hall, prepared for Corona-specific treatments
+8 Extensive public education campaigns via TV, radio, and other media
+9 COVID-19 online training packages offered
+10 Over 220 health centers nationally dedicated for COVID-19
+11 Closure of religious institutions and entertainment centers
+12 Extensive Health Extension Worker corps deployed in rural areas to inform, test, and monitor
+Tesing and Tracing
+1 Around 50,000 tests undertaken as of Mid-May 2020
+2 27 testing centers established
+3 Random temperature checks across the regions
+4 House-to-house population screening taking place in AA and Regions
+5 Tracing activity undertaken for positive cases identified and quarantine imposed
+Other Measures
+1 Production of masks, sanitizers, soaps, etc started/increased at dozens of manufacturing firms
+2 Extensive fund-raising initiatives by public and private companies/institutions/individuals, which
+may raise above Birr 5bn or more over the coming months based on current trends.
+3 1,200 food banks with supplies of basic foodstuffs operating in all of Addis Ababa's 100 woredas
+Source: Ministry of Health, Ethiopian Public Health Institute, PM Office website, and press reports.
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+15
+ECONOMIC ACTIVITY: Recent Developments and Outlook
+Growth outlook:
+
+We expect only a 2 percentage points 
+drop in growth this year, largely since 
+two-thirds of the fiscal year was 
+unaffected by corona impacts and the 
+most heavily affected sub-sectors make 
+up a comparatively limited segment of 
+the economy.
+
+For next fiscal year, we see a somewhat 
+larger drop and forecast 5 percent 
+growth, reflecting mainly service sector 
+impacts. This would mark Ethiopia’s 
+slowest growth in 18 years.
+
+The Government, IMF, and World Bank 
+all expect positive—but reduced—
+growth both this year and next.
+
+We are closer to the Government’s 
+growth projection for this year, but less 
+optimistic than others for next fiscal 
+year.
+
+Activity indicators as of March 2020 
+(thus pre-corona) showed positive 
+trends in many areas—such as in fuel 
+consumption, tax collections, bank 
+lending, industrial park exports as well 
+as employment, and ECX commodity 
+trades of major agricultural products. 
+
+The weak areas observed were in FDI 
+inflows, electricity power generation, 
+and tourist arrivals.  
+Table 1A: Revised Growth Rates for FY 2019-20 and FY 2020-21
+Prev Proj
+Revised Proj
+Prev Proj Revised Proj
+GDP growth
+8.0%
+6.0%
+7.5%
+5.0%
+Agriculture
+4.5%
+4.3%
+4.0%
+3.7%
+Industry
+12.0%
+11.0%
+12.0%
+9.0%
+Services
+8.3%
+4.0%
+7.5%
+3.5%
+Source: Cepheus Research projections
+Current Fiscal Year: 2019-20
+Next Fiscal Year: 2020-21
+Table 1B: Growth Projections by Different Institutions
+Current Fiscal Yr
+2019-20
+Next.
+Fiscal Yr
+2020-21
+Government
+6.2%
+8.5%
+World Bank
+4.0%
+6.0%
+IMF
+3.2%
+3.7%
+Cepheus Capital
+6.0%
+5.0%
+Average
+4.9%
+5.8%
+Source: Publications of the respective institutions and Cepheus Research
+Figure 1C: Activity Indicators for First Quarter and First Half of Fiscal Year
+Data available to end-Dec 2019
+FY 2018-19
+H1
+FY 2019-20
+H1
+Nominal
+growth
+Real
+growth
+Fuel consumption (Tons)
+964,153
+1,013,691
+…
+5.1%
+Electricity power generation (Kwh mns)
+4,171.8
+3,843
+…
+-7.9%
+FDI ($mns)
+1,828.0
+1,362.0
+…
+-25.5%
+Employment created (JCC)
+821,000
+1,184,868
+…
+44.3%
+Data available to end-March 2020
+FY 2018-19
+Nine Months
+FY 2019-20
+Nine Months
+Nominal
+growth
+Real
+growth
+Tax collections
+145.7
+183.2
+25.7%
+7.4%
+o/w Direct tax collections
+88.9
+100.7
+13.2%
+-5.1%
+o/w Trade tax collections
+56.7
+82.4
+45.5%
+27.2%
+Deposit levels
+837
+990
+18.2%
+0.0%
+Loan levels
+428.9
+567
+32.3%
+14.0%
+Industrial parks exports ($mns)
+102.7
+137.1
+…
+33.6%
+Industrial parks employment
+69,866
+87,927
+…
+25.9%
+Tourist arrivals
+564,808
+541,145
+…
+-4.2%
+ECX Traded Commodities (Bn Birr)
+25.1
+30.4
+…
+21%
+ECX Traded Commodities (Tons)
+502,353
+602,823
+…
+20%
+Major Traded Commodities (Tons)
+Coffee
+227,338
+231,885
+2%
+Sesame
+203,632
+211,777
+4%
+Source: NBE, Ministry of Transport, Ministry of Revenue, Banks survey data, ECX, JCC.
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+16
+Recent Developments… continued:
+
+Locust infestations in Ethiopia and 
+the region have continued to be of 
+concern for their potential impact 
+on food crops. 
+
+However, most food-growing areas 
+within 
+Ethiopia 
+are 
+still 
+not 
+substantially affected.
+
+Estimates of affected farmland and 
+crop losses have increased since 
+February, with the size of locust-
+infested areas now estimated at 
+nearly 200,000 hectares versus just 
+70,000 before.
+
+However, even with this increase, 
+the overall impact remains limited 
+to date: 1.5 percent of hectares 
+farmed and 1.1 percent of annual 
+crop output.
+
+Recent rainfall data suggest most 
+areas of the country are having 
+average to above-average rains. 
+
+The 
+Meteorological 
+Agency’s 
+forecast for the kiremt months is 
+not yet available and is expected to 
+be released in June 2020. But if the 
+pattern of recent belg rains 
+continues into the kiremt months, 
+this should bode well for the 
+upcoming crop season.  
+Table 2B: Estimated Impact of Locust Infestation
+Initial Estimate
+Latest Estimate
+Locust-related impacts
+Locust-affected land, in hectares
+70,000
+197,163
+Total land under cultivation, 2019-20
+12,773,912
+12,773,912
+Locust-affected land, percent of all crop land
+0.55%
+1.54%
+Locust-affected crop output, in mns of quintals
+1.8
+3.6
+Total crop output, 2019-20
+329.3
+329.3
+Locust-affected crops, percent of total crop output
+0.55%
+1.09%
+Potential Agricultural GDP impact:
+-0.55%
+-1.09%
+Share of Agriculture in total GDP:
+33.30%
+33.30%
+Potential Total GDP impact:
+-0.18%
+-0.36%
+Source: Per Ministry of Agriculture February 2020 estimate and April 2020 "Joint Assessment Findings" of Govt-Donor group
+Table 2C: Rainfall Chart as of Early 2020
+Source: National Metereological Agency, "FY2019-20 Bega Weather Review and 2020 Belg Rainfall Outlook" Report (Amharic)
+Below Average
+Average
+Above average
+Figure 2A: Locust infestation--Affected areas as of April 2020
+Source: "Impact of Desert Locust Infestation on Household Livelihoods and Food Security in Ethiopia", Joint Assessment Findings,April 2020
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+17
+Recent Developments… continued:
+
+Most 
+investment 
+indicators 
+point 
+to 
+positive 
+nominal 
+growth as of March 2020.
+
+The decline in FDI need not 
+bring down overall investment 
+given 
+its 
+low 
+share 
+(~10 
+percent) in total investment.
+PRICES AND INFLATION: Recent Developments and Outlook
+Inflation outturns:
+
+Inflation has been above 20 
+percent for six months now and 
+stood at 22.9 percent as of April 
+2020. 
+
+Inflation has increasingly spread 
+to non-food items as well as to 
+services 
+(though 
+it 
+was 
+previously very high mainly for 
+food items) 
+
+Items whose inflation rate has 
+risen 
+markedly 
+in 
+recent 
+months 
+are 
+alcoholic 
+beverages, 
+housing/utilities, 
+and transport. 
+Figure 3: Recent Investment Indicators
+FY 2018-19
+H1
+FY 2019-20
+H1
+Percent
+change
+First Half Performance*
+SOE bond borrowing (Birr bns)
+304
+341
+12.0%
+Govt Capital Expenditure (Birr bns)
+43
+52
+21.9%
+Foreign Direct Investment (USD bns)
+2.4
+1.80
+-25.0%
+Nine-Months Performance*
+FY 2018-19
+Nine Months
+FY 2019-20
+Nine Months
+Percent
+change
+Capital Goods Imports (USD bns)
+4.1
+3.4
+-18.7%
+Excluding Aircraft
+3.3
+3.3
+0.8%
+Excluding Aircraft & Transport
+2.0
+3.0
+46.3%
+*Depending on lags in data availability, figures reported are either for Dec 2019 or Mar 2020.
+Source: NBE quarterly bulletin, MOTI,ERCA. EIC
+Figure 4A: Inflation Outturns by key analytical categories -- April 2020
+Weight in
+CPI index
+Weights
+within
+Category
+Inflation
+(M-o-M)
+Inflation
+(Y-o-Y)
+A. Domestically Produced and Domestically Consumed
+27.6%
+1 Bread and Cereals
+17.1%
+47%
+5.5%
+31.2%
+2 Alcoholic beverages and tobacco
+4.9%
+13%
+4.2%
+27%
+3 Other food products
+5.6%
+15%
+0.6%
+30%
+4 Meat
+4.2%
+12%
+3.7%
+32%
+5 Milk, Cheese, Eggs
+3.1%
+9%
+1.8%
+13%
+6 Sugar, jam, honey and others
+1.4%
+4%
+0.7%
+-4%
+Sub-Total
+36.5%
+100%
+B. Domestically produced but also heavily exported
+24.2%
+7 Vegetables
+12.3%
+70%
+3.0%
+24%
+8 Non- alcoholic beverage and coffee
+5.1%
+29%
+-0.3%
+25%
+9 Fruits
+0.2%
+1%
+2.5%
+25%
+Sub-Total
+17.6%
+100.0%
+C. Import-Heavy Commodities
+10.3%
+10 Clothing and footwear
+5.7%
+33%
+0.8%
+9%
+11 Furnishings, Household Equipment, and others
+4.7%
+27%
+0.8%
+8%
+12 Oils and Fats
+4.3%
+25%
+-5.9%
+12%
+13 Miscellaneous goods
+2.5%
+15%
+0.6%
+16%
+Sub-Total
+17.2%
+100.0%
+D. Services
+22.3%
+14 Housing, water, electricity, gas, other fuels
+17%
+59%
+-0.5%
+26%
+15 Restaurants and Hotels
+5.3%
+18%
+0.0%
+20%
+16 Transport
+2%
+9%
+11.7%
+28%
+17 Health
+1%
+5%
+2.2%
+18%
+18 Communication
+2%
+7%
+1.4%
+0%
+19 Recreation and culture
+0%
+1%
+-0.4%
+11%
+20 Education
+0%
+1%
+2.0%
+3.8%
+Sub-Total
+28.7%
+100.0%
+Overall inflation
+100%
+2.1%
+22.9%
+Source: CSAand Cepheus Research for categorizations; shaded figures are those items with highest weight in CPI index
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+18
+Recent Developments… continued:
+
+Cereals (grains) remain the 
+largest contributor to inflation, 
+which also reflects their high 17 
+percent weight in the inflation  
+index
+
+Housing/utilities and vegetable 
+prices were also among the 
+highest sources of inflation. 
+
+Within cereals, price increases 
+for teff have been particularly 
+high (up around 50 percent to 
+Birr 3,700 per quintal from Birr 
+2,400 a year ago)
+
+Prices of other major grains—
+wheat, maize, and sorghum—
+remain roughly flat vs year-ago 
+levels
+
+Three 
+line-items 
+with 
+a 
+combined weight of 50 percent 
+are primarily responsible for 
+Ethiopia’s double-digit inflation. 
+ 
+
+Excluding these three items, 
+inflation would be 9.9 percent.
+Figure 4B: Top five contributors to inflation, April 2020
+Source: CSAand Cepheus Research
+5.35%
+4.33%
+2.95%
+1.35%
+1.34%
+0.00%
+1.00%
+2.00%
+3.00%
+4.00%
+5.00%
+6.00%
+Bread andCereals
+Housing, water,
+electricity, gas, other
+fuels
+Vegetables
+Meat
+Alcoholic beverages
+and tobacco
+Top 5 Contributors
+Table 4C : Price of major grains/cereals (Birr per quintal)
+Source: Ethiopian Grain Trading Enterprise
+857
+841
+973
+991
+1,095
+1,146
+1,146
+944
+744
+905
+999
+978
+990
+2,359
+2,500
+2,713
+2,699
+2,868
+3,036
+3,030
+2,990
+2,988
+2,908
+3,022
+3,466
+3,782
+1,525
+1,629
+1,615
+1,591
+1,890
+1,916
+1,884
+1,795
+1,851
+1,726
+1,740
+1,660
+1,695
+1,555
+1,657
+1,653
+1,643
+1,780
+1,837
+1,932
+1,943
+1,803
+1,705
+1,702
+1,698
+1,695
+-
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+4,000
+Apr-19
+May-19
+Jun-19
+Jul-19
+Aug-19
+Sep-19
+Oct-19
+Nov-19
+Dec-19
+Jan-20
+Feb-20
+Mar-20
+Apr-20
+Price of major grains/cereals (Birr per quintal)
+Maize
+Teff
+Wheat
+Sorghum
+Table 4D: Inflation Excluding Certain Large Components
+Overall Inflation, End-April 2020
+22.9%
+Inflation excluding selected items
+Inflation without cereals price increases
+17.1%
+Inflation without cereals & vegetable price increases
+14.2%
+Inflation without cereals & vegetable & housing/utilities price increases
+9.9%
+Memo items:
+Weight
+Inflation
+Cereals (including bread)
+17.1%
+31.2%
+Vegetables
+12.3%
+24.0%
+Housing and Utilities
+16.8%
+25.7%
+Source: CSAand Cepheus Research
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+19
+Month on month inflation:
+
+Month-on-month 
+inflation 
+remains unusually high, in 
+the range of 2% to 3% 
+recently, and thus over 24% 
+and 36% on an annualized 
+basis.
+
+Month-on-month 
+inflation 
+has exceeded its normal 
+patterns at this time of year 
+(based on the ten-year 
+average) 
+for 
+three 
+consecutive months.
+
+Looking 
+ahead, 
+planned 
+government procurements 
+of 
+staple 
+foods 
+could 
+moderate inflation in the 
+coming months. 
+
+The planned procurement 
+volumes are significant; by 
+our calculations, they are 
+roughly 36 percent of last 
+year’s domestic wheat crop, 
+65 percent of the domestic 
+sugar harvest, and nearly 
+equal to Ethiopia’s (small) 
+annual rice crop. 
+
+Supported by moderating 
+food prices, we expect 1 
+percent 
+month-on-month 
+inflation 
+rates 
+for 
+the 
+coming months, until this 
+switches to negative rates 
+(per 
+seasonal 
+patterns)  
+following crop harvests. 
+
+On this basis, we project 
+inflation of 18 percent by 
+June 2020 and 12 percent by 
+December 2020.
+Table 5B: Large Recent Govt Procurement Announcements of Staple Foods
+Commodity
+Amount
+Units
+Unit price
+Est cost, USD mns
+Est cost, BIrr mns
+Wheat
+1,810,000
+Tons
+220
+$
+398,200,000
+$
+13,538,800,000
+Cooking oil
+104,280,000
+Liters
+1.43
+$
+149,120,400
+$
+5,070,093,600
+Rice
+173,000
+Tons
+550
+$
+95,150,000
+$
+3,235,100,000
+Sugar
+320,000
+Tons
+230
+$
+73,600,000
+$
+2,502,400,000
+Total Estimated Cost:
+716,070,400
+$
+24,346,393,600
+Source: Public Procurement notice and estimated current prices from online commodity price websites.
+Figure 6: Inflation Projections to December 2020
+Price index
+M-o-M inflation
+Y-o-Y inflation
+Actuals
+May 2019
+142.3
+4.3%
+16.3%
+June 2019
+144.4
+1.5%
+15.3%
+July 2019
+146.3
+1.3%
+15.5%
+August 2019
+149.8
+2.4%
+17.9%
+September 2019
+152.3
+1.7%
+18.6%
+October 2019
+152.1
+-0.1%
+18.7%
+November 2019
+153.1
+0.7%
+20.8%
+December 2019
+154.0
+0.6%
+19.8%
+January 2020
+155.1
+0.7%
+18.7%
+February 2020
+159.5
+2.8%
+21.7%
+March 2020
+164.2
+3.0%
+22.6%
+April 2020
+167.6
+2.1%
+22.9%
+Projections
+May 2020
+169.7
+1.3%
+19.3%
+June 2020
+171.4
+1.0%
+18.7%
+July 2020
+173.1
+1.0%
+18.3%
+August 2020
+174.9
+1.0%
+16.7%
+September 2020
+176.6
+1.0%
+16.0%
+October 2020
+174.8
+-1.0%
+14.9%
+November 2020
+174.0
+-0.5%
+13.6%
+December 2020
+173.1
+-0.5%
+12.4%
+Source: CSA and Cepheus Research; M-o-M inflation projections guided by recent trends and
+historical medians
+Figure 5A: Month on Month Inflation
+Source: CSA
+4.3%
+1.5%
+1.3%
+2.4%
+1.7%
+-0.1%
+0.7%
+0.6%
+0.7%
+2.8%
+3.0%
+2.1%
+1.4%
+1.3%
+1.2%
+1.0%
+1.9%
+0.1%
+-0.2%
+0.6%
+1.1%
+0.9%
+2.4%
+1.5%
+-1.0%
+0.0%
+1.0%
+2.0%
+3.0%
+4.0%
+5.0%
+May
+June
+July
+August
+September October November December
+January
+February
+March
+April
+Month on Month Inflation
+M-o-M
+Ten Year Average M-o-M
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+20
+MONETARY POLICY: Recent developments and outlook
+Monetary growth:
+
+Growth in money supply has 
+slowed to 19 percent (year-on-
+year) as of end-March, and to 
+an even lower rate of 11 
+percent on a nine-month basis. 
+
+A more restrained monetary 
+policy 
+stance 
+(to 
+control 
+inflation) was clearly beginning 
+to be put in place as of March 
+2020, prior to the onset of the 
+corona pandemic. 
+Figure 7B: Year-on-Year Growth Rates of Key Monetary Variables
+Source: NBE. March 2020 data is the nine-month growth rate annualized to show the more recent growth slowdown
+30%
+30%
+30%
+29%
+25%
+22%
+20%
+20%
+21%
+20%
+15.0%
+25%
+18%
+16%
+19%
+15%
+13%
+10%
+15%
+7%
+16%
+14.6%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+Sep-17
+Dec-17
+Mar-18
+Jun-18
+Sep-18
+Dec-18
+Mar-19
+Jun-19
+Sep-19
+Dec-19
+Mar-20
+Y-o-Y Growth Rates of Monetary Variables for the Past Ten Quarters
+Broad Money
+Reserve Money
+Figure 7A: Broad Money and Reserve Money (Birr bns)
+Jun-17
+Jun-18
+Mar-19
+Jun-19
+Mar-20
+Y-o-Y
+% Change
+Nine-month
+% Change
+Broad Money
+573.4
+740.6
+832.0
+886.8
+986.8
+18.6%
+11.3%
+o/w Domestic credit
+631.1
+784.6
+888.6
+963.7
+1,147.9
+29.2%
+19.1%
+o/w Net foreign assets
+38.0
+39.4
+27.4
+14.5
+(28.9)
+-205.4%
+-299.3%
+Reserve Money
+146.3
+174.2
+177.8
+200.7
+222.7
+25.3%
+10.9%
+o/w Currency in circulation
+94.2
+112.9
+125.3
+121.8
+139.1
+11.0%
+14.2%
+o/w Bank deposits at NBE
+52.0
+61.3
+52.5
+78.9
+83.6
+59.2%
+5.9%
+Government Borrowing from NBE (net)
+116.6
+140.2
+145.0
+172.2
+195.1
+34.5%
+13.3%
+o/w NBE credit to govt (gross)
+135.6
+160.1
+182.7
+194.7
+221.2
+21.1%
+13.6%
+o/w Government deposits at NBE
+19.0
+19.9
+37.7
+22.5
+26.1
+-30.6%
+16.1%
+Source: NBE
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+21
+Domestic financing
+
+Total financing supplied within 
+the economy grew to Birr 1.4 
+trillion, up around 22 percent 
+from a year-ago.
+
+The public sector’s use of total 
+domestic financing (reflecting 
+past financing patterns) remains 
+dominant but has been declining, 
+from 68 percent two years ago to 
+63 percent as of Dec 2019. 
+
+By instrument, the share of bond 
+financing stands at 36 percent, 
+reflecting large SOE borrowings 
+via bond issues to the CBE 
+Bank loans by sectors:
+
+The four sectors with the fastest 
+credit growth were domestic 
+trade, 
+housing/construction, 
+exports, and personal loans.
+
+Industry remains the largest 
+recipient of loans, reflecting SOE 
+allocations at CBE.
+Figure 8A: Domestic Borrowing by Sector and Instrument
+June 2017
+June 2018
+June 2019
+Sep 2019
+Dec 2019
+% Total
+Total Domestic Borrowing (Birr bns)
+831
+1,026
+1,256
+1,296
+1,372
+100.0%
+By broad sector categories
+831
+1,026
+1,256
+1,296
+1,372
+100.0%
+Public sector borrowers
+568
+696
+819
+840
+866
+63.1%
+Private sector borrowers
+264
+329
+436
+455
+506
+36.9%
+By borrower and instrument:
+831
+1,026
+1,256
+1,296
+1,372
+100.0%
+Government
+278
+341
+388
+400
+397
+28.9%
+o/w Bank loans
+43
+54
+54
+54
+49
+3.6%
+o/w NBEloans (gross basis)
+128
+152
+187
+192
+197
+14.4%
+o/w Bonds held by banks
+40
+45
+32
+32
+32
+2.3%
+o/w Bonds held by NBE
+8
+8
+7
+7
+7
+0.5%
+o/w Bonds held by non-banks
+60
+81
+107
+115
+112
+8.2%
+State Enterprises
+290
+356
+432
+440
+469
+34.2%
+o/w Bank loans
+92
+110
+125
+126
+128
+9.3%
+o/w NBEloans
+-
+-
+-
+-
+-
+o/w Bonds held by banks
+198
+246
+307
+314
+341
+24.8%
+o/w Bonds held by NBE
+-
+Private sector
+264
+329
+436
+455
+506
+36.9%
+o/w Bank loans
+231
+284
+378
+394
+444
+32.4%
+o/w MFI loans
+32
+45
+59
+62
+62
+4.5%
+By instrument type:
+831
+1,026
+1,256
+1,296
+1,372
+100.0%
+Loans
+526
+646
+803
+828
+880
+64.2%
+o/w Bank loans
+366
+449
+557
+574
+621
+45.3%
+o/w NBEloans
+128
+152
+187
+192
+197
+14.4%
+o/w MFI loans
+32
+45
+59
+62
+62
+4.5%
+Bonds
+306
+380
+453
+468
+492
+35.8%
+o/w Bonds held by banks
+238
+291
+339
+346
+373
+27.2%
+o/w Bonds held by NBE
+8
+8
+7
+7
+7
+0.5%
+o/w Bonds held by non-banks
+60
+81
+107
+115
+112
+8.2%
+Source: Cepheus Research categorization based on NBEQuarterly Bulletin data. "Government"line-item includes regional government borrowing.
+Figure 8B: Distribution of Bank Loans by Sector*
+OutstandingBankloansby Sector (Birr bns)
+June 2017
+June 2018
+Dec 2018
+Dec 2019
+% Change
+% Total
+Central Government
+42.6
+54.4
+54.2
+49.0
+-9.5%
+8%
+Agriculture
+20.0
+19.5
+24.5
+21.1
+-14.1%
+3%
+Industry
+130.0
+154.9
+169.5
+202.5
+19.5%
+33%
+Domestic Trade
+41.8
+44.9
+56.0
+81.5
+45.5%
+13%
+International Trade
+52.2
+78.0
+89.3
+117.5
+31.6%
+19%
+of which: Exports
+30.0
+47.8
+58.1
+80.0
+37.8%
+13%
+of which: Imports
+22.2
+30.2
+31.2
+38.3
+22.7%
+6%
+Hotelsand Tourism
+5.8
+9.9
+11.9
+15.5
+30.0%
+2%
+Transport & Communication
+14.4
+13.8
+13.3
+12.4
+-7.0%
+2%
+Housing& Construction
+38.0
+43.6
+41.5
+59.0
+42.1%
+9%
+Mines, Power & Water Resources
+0.2
+0.2
+1.5
+1.7
+9.8%
+0%
+Others
+16.4
+23.0
+8.4
+10.4
+23.0%
+2%
+Personal
+4.3
+6.7
+32.5
+50.0
+54.1%
+8%
+TOTAL LOANSBY BANKS*
+365.6
+449.0
+502.6
+621.3
+23.6%
+100%
+Source: NBE, Quarterly Bulletin
+*Notethisonly coversloansprovided by commercial banks, and thusexcludescredit extended by banks
+in theform ofbondsand also excludescreditsgiven by NBE, MFIs, and non-banks.
+SeeFigure8Afor broader domestic financing sources, instrumentsand users.
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+22
+Outstanding bond issuances:
+
+SOE 
+bond 
+borrowing 
+has 
+essentially come to a stop in the 
+last six months, with their 
+outstanding bond issues up only 
+slightly from Birr 339bn at end 
+June 2019 to Birr 341bn at end 
+December 2019. 
+
+Regional governments are seen 
+to be repaying their bond debt 
+on a net basis. 
+BANKING: Recent developments and outlook
+
+Overall deposit growth has moderated to just 18 percent (year-on-year), and particularly 
+so at CBE (16 percent year-on-year)
+
+Loan growth of 32 percent suggests expanding activity levels in the economy, and especially 
+in the private sector (to whom most private bank lending is provided). 
+Figure 9: Outstanding Bonds Issued as of December 2019
+Jun-17
+Jun-18 Dec 2018
+Jun-19 Dec 2019
+Y-o-Y
+% Change
+Six-month
+% Change
+Total BondsOutstanding (Birr bn)
+237.8
+291.4
+304.4
+338.6
+340.9
+12%
+0.7%
+Public Enterprises
+198.2
+245.5
+256.1
+306.8
+316.7
+24%
+3.2%
+EEPCO
+179.3
+216.4
+224.34
+263.9
+273.7
+22%
+3.7%
+RailwaysCorporation
+18.9
+29.2
+31.79
+42.9
+42.9
+35%
+0.0%
+Regional Government
+39.6
+45.9
+48.2
+31.8
+24.2
+-50%
+-23.7%
+AddisAbabaCity Govt
+39
+45.3
+47.7
+31.2
+23.8
+-50%
+-23.7%
+Other Regions
+0.6
+0.6
+0.6
+0.6
+0.4
+-24%
+-22.7%
+Source: NBE, Quarterly Bulletin
+Figure 10A: Banking Trends (Birr bns)
+Jun 2014
+Jun 2015
+Jun 2016
+Jun 2017
+Jun 2018
+Mar-19
+Jun 2019
+Mar 2020
+Y-o-Y
+% Change
+Nine-Month
+% Change
+Bank deposits
+292
+367
+437
+568
+729
+837
+899
+990
+18.3%
+10.1%
+CBE
+200
+248
+290
+366
+453
+504
+541
+582
+15.5%
+7.5%
+Private Banks
+92
+118
+147
+202
+276
+333
+358
+408
+22.4%
+13.9%
+Bank loans outstanding
+146
+189
+232
+290
+355
+429
+456
+567
+32.3%
+24.4%
+CBE
+93
+115
+141
+157
+177
+193
+197
+243
+25.9%
+23.2%
+Private Banks
+53
+75
+91
+133
+179
+236
+259
+325
+37.5%
+25.3%
+Other indicators--all banks
+Assets
+364
+460
+575
+745
+914
+1,069
+1,165
+1,310
+22.6%
+12.5%
+Paid-up capital
+19
+21
+24
+61
+66
+71.8
+74
+80
+12.0%
+8.8%
+Branches
+1,991
+2,500
+3,145
+3,888
+4,442
+5,104
+5,164
+5,875
+15.1%
+13.8%
+Source: Bank Annual Reports and Bank Survey Data
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+23
+Monetary developments and outlook… continued:
+
+Looking ahead, the Govt-IMF 
+macro program shows a planned 
+loosening of monetary policy, 
+with reserve money growth set to 
+double (25% vs 12.5%) and broad 
+money growth rising by one-and-
+a-half times previous plans (27% 
+vs 18%).  
+
+To help finance the much larger 
+deficit (see below), an increased 
+allowance is being made for net 
+credit to government: Birr 41bn 
+vs a previously planned Birr 7.6bn
+
+Liquidity support to private and 
+public banks explains part of the 
+planned increase in monetary 
+growth. Approximately Birr 48bn 
+in such liquidity and related 
+support is being provided based 
+on NBE announcements. 
+Table 10B: Monetary Program with Post-Corona Adjustments
+Data in Birr mns
+FY 2018-19
+Pre-corona Post-corona
+Pre-corona Post-corona
+Broad Money
+Broad money outstanding
+886.7
+1,046.6
+1,125.9
+1,247.4
+1,265.1
+Growth in broad money
+19.7%
+18.0%
+27.0%
+19.2%
+12.4%
+Base Money
+Reserve money outstanding
+200.7
+225.8
+250.9
+255.3
+276.0
+Growth in reserve money
+15.3%
+12.5%
+25.0%
+13.0%
+10.0%
+Net Credit to Government
+Outstanding stock, year-end
+124.2
+131.8
+165.6
+146.4
+196.5
+Change during fiscal year
+22.2
+7.6
+41.4
+14.6
+30.9
+Growth in Net Credit to Govt
+21.8%
+6.1%
+33.3%
+11.0%
+18.7%
+Source: IMF StaffReport, May 2020, Table 3 on monetary program, and CepheusResearch compilation
+FY 2019-20
+FY 2020-21
+Table 10C: Central Bank Liquidity and Related Support
+Cepheus Estimate:
+March 2020
+Actual Outturns:
+March 2020
+Liquidity support
+46.9
+48.0
+Private banks
+30.1
+15.0
+Public bank
+16.8
+33.0
+Total liquidity support, Birr bn:
+46.9
+48.0
+In USD bns:
+1.4
+$
+1.4
+$
+In % GDP:
+1.2%
+1.2%
+Source: NBE announcements, press reports, and Cepheus Research compilation
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+24
+FISCAL POLICY: Recent developments 
+Revenue performance
+
+Tax collections continued to 
+post positive results (Birr 183bn 
+in nine months), with the latest 
+reading at end-March up 26 
+percent from last year.
+
+Trade taxes, which are boosted 
+by the faster depreciation, did 
+particularly well with growth of 
+46 
+percent 
+from 
+year-ago 
+levels—despite 
+lower 
+USD 
+import levels.
+Budget performance: 
+
+Full budget data (including 
+expenditure outturns) are only 
+available up to Dec 2019 and 
+show spending growth below 
+revenue growth, while the 
+deficit appears to be in line with 
+the year-total levels (Birr 85bn 
+for the year).
+Public debt, in USD terms:
+
+For the second quarter in a row, 
+total public debt is declining in 
+level terms, and not just as a 
+share of GDP. 
+
+Public debt remains roughly 
+evenly split between external and 
+domestic debt.
+Figure 11: Revenue Performance, Birr bns
+FY 2018-19
+Nine months
+FY 2019-20
+Nine months
+% change
+Taxes on domestic activity
+88.9
+100.7
+13.2%
+Direct tax
+47.5
+…
+…
+Indirect tax
+40.8
+…
+…
+Trade taxes
+56.7
+82.4
+45.5%
+Customs tarrif and tax
+54.9
+…
+…
+Non tax revenue
+1.7
+…
+…
+Lottery Sales
+0.2
+0.1
+-7.2%
+TAX REVENUE TOTAL:
+145.7
+183.2
+25.7%
+Source: Ministry of Revenue
+Figure 12:Budget Performance, Birr bns
+FY 2018-19
+H1
+FY 2019-20
+H1
+Percent
+change
+Total revenue and grants
+109.9
+138.5
+26%
+Total Revenue
+108.6
+137.2
+26%
+Grants
+1.3
+1.3
+-1%
+Total Expenditure
+149.3
+166.0
+11%
+Current Expenditure
+34.3
+44.7
+30%
+Capital Expenditure
+42.4
+51.8
+22%
+Regional Transfers
+72.6
+69.5
+-4%
+Deficit, Birr bns
+-39.4
+-27.5
+-30%
+Deficit, Percent of GDP
+-1.5%
+-0.8%
+…
+GDP (Birr bns)
+2,696
+3,418
+27%
+Source: NBE--Full budget data available only until December 2019
+Figure 13: Public Debt, USD bns
+Dec-18
+Mar-19
+June 2019
+Sept 2019
+Dec-19
+% of Total
+Total Public Debt
+51.6
+$
+52.6
+$
+53.7
+$
+53.6
+$
+53.4
+$
+100.0%
+External debt
+26.8
+$
+26.9
+$
+27.0
+$
+26.8
+$
+27.7
+$
+51.8%
+Central Government
+15.3
+$
+15.7
+$
+16.0
+$
+15.9
+$
+16.6
+$
+31.1%
+State Owned Enterprises
+11.5
+$
+11.2
+$
+11.1
+$
+10.8
+$
+11.1
+$
+20.7%
+Domestic Debt
+24.7
+$
+25.6
+$
+26.7
+$
+26.8
+$
+25.7
+$
+48.2%
+Central Government
+11.9
+$
+12.1
+$
+12.5
+$
+12.7
+$
+12.3
+$
+23.0%
+State Owned Enterprises
+12.8
+$
+13.6
+$
+14.2
+$
+14.0
+$
+13.4
+$
+25.2%
+Source: MoFEC Public Debt Bulletin
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+25
+Public debt, relative to GDP:
+
+Relative to this year’s anticipated 
+GDP, public debt is now nearly 10 
+percentage points lower than it 
+was 18 months ago.  
+External debt stocks:
+
+Total external debt has moved 
+slightly upwards in USD terms 
+due to new loans contracted in 
+the past year, but is down relative 
+to GDP when compared to the 
+start of the year. 
+
+Of the nearly $2bn in external 
+debt service dues last year, most 
+of it ($1.6bn or ~70%) was owed 
+by state-owned enterprises. 
+
+By creditor, private lenders are 
+owed the highest share of debt 
+service, followed by bilateral 
+creditors. 
+If 
+recent 
+corona-
+related debt relief schemes cover 
+just multilateral and bilateral 
+creditors, then only about half of 
+Ethiopia’s 
+debt 
+service 
+obligations would be postponed 
+through such debt relief.
+Figure 15B: External Debt Service Payments, FY 2018-19
+USD mns
+Annual external debt service dues:
+1,995
+$
+By payment type
+1,995
+$
+Interest payments
+620
+$
+Principal payments
+1,375
+$
+By debtor
+1,995
+$
+Government
+385
+$
+State Owned Enterprises
+1,610
+$
+By creditor
+1,995
+$
+Multilateral creditors (IMF, WB, etc)
+208
+$
+Bilateal creditors (incl China)
+733
+$
+Private lenders (banks/bondholders)
+1,054
+$
+Source: MoFEC Public Debt Bulletin; Data for FY 2018-19
+Figure 14: Public Debt, % GDP
+June 2017
+June 2018
+Sept 2018
+June 2019
+Sept 2019
+Dec 2019
+Total Public Debt
+56.0%
+58.7%
+52.4%
+56.0%
+49.3%
+49.2%
+External debt
+28.5%
+30.7%
+27.2%
+28.2%
+24.7%
+25.5%
+Central Government
+15.9%
+17.4%
+15.5%
+16.6%
+14.7%
+15.3%
+State Owned Enterprises
+12.7%
+13.3%
+11.7%
+11.6%
+10.0%
+10.2%
+Domestic Debt
+27.5%
+28.0%
+25.2%
+27.8%
+24.7%
+23.7%
+Central Government
+12.6%
+13.1%
+11.9%
+13.1%
+11.7%
+11.3%
+State Owned Enterprises
+14.8%
+14.9%
+13.3%
+14.8%
+12.9%
+12.4%
+Memo items:
+GDP, Birr bns
+1,568
+1,833
+2,200
+2,200
+3,418
+3,418
+Exchange rate, year avg
+23.11
+27.26
+28.91
+28.91
+33.13
+33.13
+GDP, USD bns
+81.8
+$
+84.4
+$
+95.9
+$
+95.9
+$
+108.5
+$
+108.5
+$
+Source: MoFEC Public Debt Bulletin
+Figure 15A: External Debt (Public Sector), In USD bns
+June 2017
+June 2018
+Sept 2018
+June 2019
+Sept 2019
+Dec 2019
+% of Total
+Total External Debt of Public Sector, USD bns
+23.3
+$
+25.9
+$
+26.1
+$
+27.0
+$
+26.8
+$
+27.7
+$
+100%
+Government
+13.0
+$
+14.7
+$
+14.8
+$
+16.0
+$
+15.9
+$
+16.6
+$
+60%
+EAL & Ethio-telecom
+6.9
+$
+7.6
+$
+7.6
+$
+7.3
+$
+7.2
+$
+7.2
+$
+26%
+Other State Enterprises
+3.4
+$
+3.6
+$
+3.7
+$
+3.8
+$
+3.7
+$
+3.8
+$
+14%
+Total External Debt of Public Sector, % GDP
+28.5%
+30.7%
+27.2%
+28.4%
+24.7%
+25.5%
+100.0%
+Government
+15.9%
+17.5%
+15.5%
+16.7%
+14.7%
+15.3%
+60.0%
+EAL & Ethio-telecom
+8.5%
+9.0%
+7.9%
+7.6%
+6.6%
+6.7%
+26.1%
+Other State Enterprises
+4.2%
+4.2%
+3.8%
+4.0%
+3.4%
+3.5%
+13.8%
+GDP, USD bns
+81.8
+$
+84.4
+$
+95.9
+$
+95.9
+$
+108.5
+$
+108.5
+$
+…
+Source: MoFEC Public Debt Bulletin
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+26
+FISCAL OUTLOOK: Post-Covid Developments
+
+ The 
+Government’s 
+Corona 
+Response Plan covers three 
+distinct 
+areas—emergency 
+spending 
+for 
+health, 
+food, 
+nutrition, and shelter; support to 
+the 
+private 
+sector; 
+and 
+accommodating 
+foregone/lost 
+revenues 
+due 
+to 
+reduced 
+business activity. 
+
+The emergency spending needs 
+are 
+areas 
+where 
+Ethiopia 
+normally 
+receives/allocates 
+funding even in past years. 
+
+ The budget deficit was expected 
+to be Birr 85bn pre-corona, but is 
+now projected to reach Birr 
+134bn (2.6% of GDP) due to extra 
+corona related spending and 
+foregone/lower revenue. 
+
+Seen over a two-year time frame, 
+the cumulative budget deficit will 
+be a high 7 percent of GDP. 
+Table 15C : COVID Financing Requirements Per Government Plans
+Financing Needs for COVID Response per Govt Plans
+USD mn
+Birr mn
+% Total
+% GDP
+1 Emergency Resource Needs
+1,641
+$
+54,974
+100%
+1.6%
+Food and Nutrition needs
+635
+$
+21,273
+39%
+0.62%
+Health related spending
+431
+$
+14,439
+26%
+0.42%
+Emergency Shelter/Non-food
+282
+$
+9,447
+17%
+0.28%
+WASH
+152
+$
+5,092
+9%
+0.15%
+Logistics
+60
+$
+2,010
+4%
+0.06%
+Agriculture
+24
+$
+804
+1%
+0.02%
+Nutrition
+17
+$
+570
+1%
+0.02%
+Refugees
+16
+$
+536
+1%
+0.02%
+Social Protection
+15
+$
+503
+1%
+0.01%
+Education
+7
+$
+235
+0%
+0.01%
+Management
+2
+$
+67
+0%
+0.00%
+2 Private sector support
+1,829
+$
+61,265
+100%
+1.8%
+Support to Business and SMEs
+1,000
+$
+33,500
+55%
+0.98%
+Protecting jobs
+329
+$
+11,015
+18%
+0.32%
+BOP financing for private sector imports
+500
+$
+16,750
+27%
+0.49%
+3 Revenue loss
+1,162
+$
+38,917
+100%
+1.1%
+Trade tax losses
+388
+$
+12,998
+33%
+0.38%
+Indirect tax losses
+129
+$
+4,335
+11%
+0.13%
+Employment tax losses
+53
+$
+1,769
+5%
+0.05%
+Non-tax revenue losses
+46
+$
+1,524
+4%
+0.04%
+Privatization proceeds foregone
+546
+$
+18,291
+47%
+0.54%
+GRAND TOTAL:
+4,632
+$
+155,155
+…
+4.6%
+Source: "COVID 19: Economic Impact Responses Assessment and Policy" and Cepheus Research compilation
+Table 15D: Fiscal Impacts of COVID 19 and Deterioration in the Budget Deficit
+FY 2019-20
+FY 2020-21
+Birr mn
+Birr mn
+Birr mn
+USD mn
+% GDP
+Net Fiscal Impacts:
+49,540
+55,722
+105,262
+3,142
+$
+2.6%
+Net revenue impacts
+11,931
+23,743
+35,674
+1,065
+$
+0.9%
+Gross revenue impact
+34,957
+28,551
+63,508
+1,896
+$
+1.6%
+Extra grants received
+23,026
+4,808
+27,834
+831
+$
+0.7%
+Net extra expenditure
+37,609
+31,979
+69,588
+2,077
+$
+1.7%
+Memo items:
+Previous budget deficit (pre-corona)
+84,529
+89,739
+174,268
+5,202
+$
+4.4%
+Change in the budget deficit
+49,540
+55,722
+105,262
+3,142
+$
+2.6%
+Revised budget deficit (post-corona)
+134,070
+145,461
+279,531
+8,344
+$
+7.0%
+Source: IMF Staff Report, May 2020, Table 2A on the fiscal program. Cepheus Research projections ofnominal GDP & exchange rate
+Total for both fiscal years
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+27
+Fiscal outlook… continued:
+
+Financing of the large deficits 
+is relying somewhat more on 
+domestic borrowing though 
+external loans of $2bn this 
+year are also anticipated. 
+
+As of May 2020, and based on 
+the IMF staff report, around 
+Birr 32bn of the needed 
+financing is still to be secured; 
+part of this may be covered by 
+forthcoming 
+debt 
+service 
+relief 
+expected 
+from 
+multilateral 
+and 
+bilateral 
+creditors. 
+
+Figures reported by both the 
+Government and IMF are 
+nearly identical, though there 
+are 
+some 
+compositional 
+differences; our estimates of 
+net required fiscal resources 
+in our March 2020 research 
+note were somewhat below 
+these figures (2.3 percent vs 
+2.7 percent of GDP). 
+Table 15F: Fiscal Impacts of the Corona Virus (FY 2019-20 and FY 2020-21)
+Cepheus
+Estimate:
+March 2020
+Govt COVID
+Econ Report:
+April 2020
+IMF Staff
+Report:
+May 2020
+Fiscal Impacts, Birr bns
+91.9
+106.7
+105.3
+Net Revenue decline
+41.3
+20.6
+35.7
+Grossrevenue decline
+55.0
+20.6
+63.5
+Extra grants
+13.7
+-
+27.8
+Extra expenditure, net
+50.6
+86.1
+69.6
+Grossexpenditureincrease
+…
+99.4
+93.6
+Reductionsin other items
+…
+13.3
+24.0
+Total fiscal impacts, In Birr bns:
+91.9
+106.7
+105.3
+In USD bns:
+2.7
+$
+3.1
+$
+3.1
+$
+In % GDP:
+2.3%
+2.7%
+2.6%
+Note: CephuesEstimatesreflect projectionsin March 2020 Corona ImpactsResearch Note
+The"Govt COVID Economic Report"isthe'Covid19: Economc Impact ResponsesAssessment and Policy"note
+BOP financing to private sector is excluded as not budgetary item and privatization proceeds
+also excluded from revenue as this is a financing item (per conventional classifications)
+Table 15E: Budget Deficit following the COVID-19 Impacts: Total Amounts and Source of Financing
+Birr mn
+USD mn
+% GDP
+Birr mn
+USD mn
+% GDP
+Revenue and Grants
+413,334
+13,126
+$
+12.1%
+542,416
+14,601
+$
+13.5%
+Expenditure
+547,403
+17,383
+$
+16.0%
+687,877
+18,516
+$
+17.1%
+Budget Deficit
+134,070
+4,258
+$
+3.9%
+145,461
+3,916
+$
+3.6%
+External Borrowing, net
+62,699
+1,991
+$
+1.8%
+40,634
+1,094
+$
+1.0%
+External borrowing, gross
+70,048
+2,224
+$
+2.0%
+53,716
+1,446
+$
+1.3%
+IMF Budget Support
+13,000
+413
+$
+0.4%
+-
+-
+-
+Foreign loans
+57,048
+1,812
+$
+1.7%
+53,716
+1,446
+$
+1.3%
+Repayments on past loans
+(7,349)
+(233)
+$
+-0.2%
+(13,082)
+(352)
+$
+-0.3%
+Domestic Borrowing, net
+71,370
+2,266
+$
+2.1%
+60,880
+1,639
+$
+1.5%
+From NBE, net
+29,451
+935
+$
+0.9%
+10,441
+281
+$
+0.3%
+From Commercial Banks, net
+11,939
+379
+$
+0.3%
+20,440
+550
+$
+0.5%
+From Non-banks (implied)
+21,127
+671
+$
+0.6%
+29,999
+808
+$
+0.7%
+Other Domestic--not yet identifed
+8,853
+281
+$
+0.3%
+-
+-
+-
+Privatization proceeds
+-
+-
+-
+43,948
+1,183
+$
+1.1%
+Memo items:
+Total financing not yet identified
+32,320
+1,026
+$
+0.9%
+-
+-
+-
+External
+23,467
+745
+$
+0.7%
+-
+-
+-
+Domestic
+8,853
+281
+$
+0.3%
+-
+-
+-
+Source: IMF Staff Report, May 2020, Table 2A and 3 on fiscal and monetary program respectively.
+Cepheus Research projections of nominal GDP and exchange rate used for data in USD terms and relative to GDP.
+FY 2019-20
+FY 2020-21
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+28
+BALANCE OF PAYMENTS (BOP): Recent developments 
+
+Full balance of payments data 
+are only available to Dec 2019, 
+though some components 
+(exports, imports, reserves) 
+are available and reported 
+here for end-March 2020. 
+
+The outturns for the first half 
+of the fiscal year point to a 
+notable improvement (from 
+year-ago levels) in the trade 
+deficit, 
+but 
+a 
+drop-in 
+remittances, official grants, 
+and FDI.  
+
+Some of these six-month data, 
+such as for grants, may reflect 
+lumpy inflows and may thus 
+reverse 
+in 
+subsequent 
+quarters.
+FX reserves:
+
+Foreign exchange reserves 
+were around $2.5bn at end-
+March 2020, down from 
+nearly $3bn the previous 
+quarter.
+
+Large external debt service 
+repayments appear to explain 
+this drop, which has occurred 
+despite the receipt of the IMF 
+program’s 
+first 
+loan 
+disbursement of $315mn. 
+Figure 16: Balance of Payment--recent outturns, latest available data
+Balance of Payments in USD mns
+FY 2018-19
+H1
+FY 2019-20
+H1
+Percent
+change
+Exports
+1,212.3
+1,333.5
+10%
+Imports
+8,118.4
+7,566.3
+-7%
+Trade Balance
+(6,906.1)
+(6,232.8)
+-10%
+Services, net
+(6.3)
+79.8
+-1362%
+Non-factor services, net
+222.3
+370.8
+67%
+Exports of non-factor services
+2,709.7
+2,591.1
+-4%
+Imports of non-factor services
+2,487.4
+2,220.3
+-11%
+Income, net
+(228.6)
+(291.0)
+27%
+O/w Gross official int. payment
+271.1
+322.0
+19%
+Dividend
+-
+-
+Private transfers, net
+3,227.7
+2,932.4
+-9%
+Remittances
+2,894.1
+2,439.2
+-16%
+Current account balance excluding grants
+(3,684.7)
+(3,220.6)
+-13%
+Official transfers, net
+1,259.6
+585.2
+-54%
+Current account balance including grants
+(2,425.0)
+(2,635.4)
+9%
+Capital account
+3,200.2
+2,218.5
+-31%
+Official Long-term Capital, net
+775.4
+1,029.8
+33%
+Disbursements
+855.9
+1,124.0
+31%
+Amortization
+80.5
+94.2
+17%
+Other public long-term capital
+422.3
+(205.1)
+-149%
+Private sector, long term
+167.9
+87.8
+-48%
+Foreign Direct Investment, net
+1,828.5
+1,361.8
+-26%
+Short term Capital
+6.2
+(55.7)
+-1006%
+Errors and omissions
+(585.7)
+(544.8)
+-7%
+Overall balance
+189.5
+(961.7)
+-608%
+Financing
+(189.5)
+961.7
+-608%
+Reserves [ Increase(-), Decrease (+)]
+(189.5)
+961.7
+-608%
+Central Bank (NFA)
+(135.2)
+688.9
+-610%
+Asset
+(1,110.6)
+450.2
+-141%
+Liabilities
+975.5
+238.7
+-76%
+Commercial banks (NFA)
+(54.3)
+272.8
+-602%
+Source: NBE Quarterly Bulletin
+Figure 17: FX Reserve:, NBE and Commercial Banks (USD mns)
+Source: NBE
+$968
+$905
+$921
+$1,118
+$1,011
+$944
+$987
+$887
+$754
+$750
+$3,023
+$3,131
+$2,847
+$3,745
+$3,958
+$3,920
+$3,415
+$2,597
+$2,965
+$2,450
+$-
+$500
+$1,000
+$1,500
+$2,000
+$2,500
+$3,000
+$3,500
+$4,000
+$4,500
+2017-18(Q2) 2017-18(Q3) 2017-18(Q4) 2018-19(Q1) 2018-19(Q2) 2018-19(Q3) 2018-19(Q4) 2019-20(Q1) 2019-20(Q2) 2019-20(Q3)
+FX Reserve:, NBE and Commercial Banks (USD mns)
+Banks
+NBE
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+29
+TRADE PERFORMANCE: Recent developments
+Export performance:
+
+Exports are continuing to 
+perform moderately well (10 
+percent growth), though this 
+is somewhat below the 15 
+percent growth seen earlier in 
+the fiscal year.
+
+The top performers by dollar 
+receipts continue to be coffee, 
+flowers, and chat—each of 
+which generated more than a 
+quarter billion dollars in just 
+nine months. 
+
+Among large-value exports, 
+those with the best growth 
+record this past quarter were 
+flowers, fruits and vegetables, 
+textiles, coffee, and chat.
+
+The declines seen in two large 
+export items—oilseeds and 
+pulses—continues 
+to 
+hold 
+back Ethiopia’s export growth. 
+A strong increase in these two 
+categories could push export 
+growth to the high teens or 
+above 20 percent. 
+Figure 18A: Export Performance
+Ranked by USD levels this year
+FY 2018-19
+(Nine Month)
+FY 2019-20
+(Nine Month)
+Percent
+Change
+Total Exports
+1,899.8
+2,091.1
+10.1%
+Coffee
+499.6
+562.8
+12.7%
+Flower
+169.5
+338.5
+99.7%
+Chat
+231.9
+256.0
+10.4%
+Oil Seeds
+279.4
+235.9
+-15.6%
+Pulses
+202.7
+164.2
+-19.0%
+Textile & Textile Products
+108.9
+141.9
+30.3%
+Fruits & Vegetables
+43.4
+67.8
+56.2%
+Leather and Leather Products
+91.4
+63.8
+-30.2%
+Meat & Meat Products
+67.1
+52.9
+-21.1%
+Elecricity
+49.1
+43.0
+-12.5%
+Live Animals
+31.8
+41.2
+29.5%
+Electronics
+23.7
+29.3
+23.8%
+Gold
+22.8
+27.1
+18.7%
+Spices
+9.7
+13.1
+34.4%
+Chemicals & Construction Inputs
+13.0
+6.9
+-47.0%
+Natural Gum
+3.4
+4.3
+25.2%
+Cereals and Flour
+2.2
+2.5
+15.7%
+Bees Wax
+1.6
+1.2
+-23.0%
+Others
+48.5
+38.7
+-20.3%
+Source: MOTI, ERCA
+Figure 18B: Export Performance--Ranked by Growth Rate
+FY 2018-19
+Nine Month
+FY 2019-20
+Nine Month
+Percent
+change
+Total Exports, USD mns
+1,900
+2,091
+10.1%
+Ranked by growth rate:
+Flower
+169.5
+338.5
+99.7%
+Fruits & Vegetables
+43.4
+67.8
+56.2%
+Spices
+9.7
+13.1
+34.4%
+Textile & Textile Products
+108.9
+141.9
+30.3%
+Live Animals
+31.8
+41.2
+29.5%
+Natural Gum
+3.4
+4.3
+25.2%
+Electronics
+23.7
+29.3
+23.8%
+Gold
+22.8
+27.1
+18.7%
+Cereals and Flour
+2.2
+2.5
+15.7%
+Coffee
+499.6
+562.8
+12.7%
+Chat
+231.9
+256.0
+10.4%
+Elecricity
+49.1
+43.0
+-12.5%
+Oil Seeds
+279.4
+235.9
+-15.6%
+Pulses
+202.7
+164.2
+-19.0%
+Others
+48.5
+38.7
+-20.3%
+Meat & Meat Products
+67.1
+52.9
+-21.1%
+Bees Wax
+1.6
+1.2
+-23.0%
+Leather and Leather Products
+91.4
+63.8
+-30.2%
+Chemicals & Construction Inputs
+13.0
+6.9
+-47.0%
+Source: MOTI, ERCA
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+30
+Trade performance… continued:
+
+Coffee exports have continued 
+to do well even since the onset 
+of the corona pandemic.
+
+Exports in April 2020 reached 
+$104mn for the month, the 
+highest level seen in a year and 
+up 39 percent from year-ago 
+levels. 
+For 
+Jan-April 
+2020, 
+coffee exports were up by 26 
+percent versus the same four-
+month period last year.
+
+Industrial park exports have 
+declined slightly over the past 
+two 
+consecutive 
+quarters, 
+though they are up 30 percent 
+from year-ago levels ($43mn in 
+the latest quarter vs $33mn a 
+year ago).
+Figure 18D: Industrial Parks Exports: Quarterly Trends since 2018
+Source:EIC
+20
+28
+33
+36
+33
+38
+47
+46
+43
+-
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+Mar 2018
+June 2018
+Sept 2018
+Dec 2018
+Mar 2019
+June 2019
+Sept 2019
+Dec 2019
+Mar 2020
+Industrial Parks Exports($mns)
+Figure 18C: Coffee Exports--Monthly Trends Since Year Ago ($mns)
+Source: MOTI and press reports for April 2020 data
+75
+95
+95
+81
+87
+64
+52
+47
+34
+43
+57
+97
+104
+-
+20
+40
+60
+80
+100
+120
+Apr-19
+May-19
+Jun-19
+Jul-19
+Aug-19
+Sep-19
+Oct-19
+Nov-19
+Dec-19
+Jan-20
+Feb-20
+Mar-20
+Apr-20
+Coffee Exports--Month Trends Since Year Ago
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+31
+Trade performance… continued:
+
+Overall import growth continues 
+to be negative, though slightly 
+less so than earlier in the fiscal 
+year (now -4% vs -7% before). 
+This would normally suggest 
+weak or declining levels of 
+economic activity. 
+
+However, excluding fuel imports 
+and one-off aircraft purchases, 
+import growth shows a more 
+solid rate of 6 percent.
+
+Consumer goods imports are flat 
+in USD terms (and thus shrinking 
+relative 
+to 
+GDP). 
+“Other 
+consumer goods” which were a 
+large share of imports at $627mn 
+last year and represent many 
+discretionary items have fallen by 
+20 percent—likely reflecting their  
+greater sensitivity to a more 
+depreciated exchange rate.
+
+Capital 
+goods 
+imports 
+for 
+industrial and agricultural goods 
+continue 
+to 
+show 
+positive 
+growth, 
+especially 
+so 
+for 
+agricultural machinery. 
+Figure 19A: Import Performance
+FY 2018-19
+Nine Month
+FY 2019-20
+Nine Month
+% Change
+Total Imports
+11,683.4
+11,192.7
+-4.2%
+Raw Materials
+121
+126
+3%
+Semi-finished Goods
+2,031
+2,359
+16%
+Chemicals
+298
+423
+42%
+Fertilizers
+278
+367
+32%
+Textile Materials
+61
+87
+43%
+Others
+1,394
+1,482
+6%
+Fuel
+1,969
+1,779
+-10%
+Crude Petroleum
+0
+0
+97%
+Petroleum Products*
+1,883
+1,709
+-9%
+Others
+86
+70
+-18%
+Capital Goods
+4,136
+3,362
+-19%
+Transport
+1,256
+345
+-73%
+Tyres for Heavy Vehicles
+85
+98
+15%
+Heavy Road Motor Vehicles
+278
+175
+-37%
+Aircraft
+860
+61
+-93%
+Others
+33
+11
+-66%
+Agricultural
+45
+68
+51%
+Industrial
+2,835
+2,949
+4%
+Consumer Goods
+3,217
+3,216
+0%
+Durables
+892
+774
+-13%
+Non-durables
+2,325
+2,441
+5%
+Cereals
+499
+709
+42%
+Other Food
+450
+439
+-2%
+Medical & Pharmaceuticals
+464
+480
+3%
+Textile Fabrics
+285
+312
+9%
+Others
+627
+500
+-20%
+Miscellaneous
+209
+351
+Non-fuel, non-aircraft imports
+8,854.02
+9,351.76
+6%
+Figure 19B: Capital Goods Imports by sub-components
+FY 2018-19
+Nine Month
+FY 2019-20
+Nine Month
+Percent
+change
+Capital Goods Imports
+4,136
+3,362
+-18.7%
+Of which:
+Transport capital goods
+1,256
+345
+-73%
+Aircraft imports
+860
+61
+-93%
+Non-aircraft transport imports
+396
+284
+-28%
+Industrial capital goods
+2,835
+2,949
+4%
+Agricultural capital goods
+45
+68
+51%
+Capital Goods excl transport
+2,880
+3,017
+5%
+Source: MOTI, ERCA
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+32
+BALANCE OF PAYMENTS OUTLOOK: Post-Covid Developments 
+
+The IMF projects a balance of 
+payments 
+deterioration 
+of 
+over 
+$1.9bn this year and $0.3bn next year, 
+for a cumulative impact of $2.2bn over 
+the two years (versus pre-corona 
+projections). 
+
+Most of this deterioration is due to a 
+drop in service exports, remittances, 
+and FDI—which are only partly offset 
+by much reduced imports.
+
+The balance of payments outlook 
+involves considerable uncertainty as a 
+lot depends on judgements regarding 
+the speed and scale of the global 
+recovery in areas such as trade, travel, 
+and remittances.  
+
+For perspective on some of the 
+differing judgements possible on key 
+BOP 
+flows, 
+we 
+compare 
+our 
+projections to those in the latest IMF 
+staff 
+report. 
+We 
+note 
+similar 
+expectations on the current account 
+(but with compositional differences), 
+though show marked differences on 
+the capital account, where we see 
+more scope for net new borrowing to 
+be more in line with recent norms.
+
+The overall BOP deficits anticipated 
+this year and next will be financed in 
+part by exceptional financing from the 
+IMF (not shown in the capital account, 
+per conventions) as well as expected 
+debt relief. Accordingly, fx reserve 
+levels will not decline as implied by the 
+BOP deficit figures shown here (since 
+financing items are not included and 
+debt relief also not shown).  
+Table 19C: Balance of Payments Impacts--IMF Projections
+IMF BOP Projections--Anticipated Change from Pre-Corona Projections
+FY 2019-20
+FY 2020-21
+USD mn
+USD mn
+USD mn
+% GDP
+Overall Balance of Payments
+(1,931)
+$
+(273)
+$
+(2,204)
+$
+-2.0%
+Current account--net impacts
+1,018
+$
+74
+$
+1,092
+$
+1.0%
+Export of goods
+(485)
+$
+(423)
+$
+(908)
+$
+-0.8%
+Export of services
+(1,894)
+$
+(1,183)
+$
+(3,077)
+$
+-2.8%
+Imports of goods
+3,033
+$
+4,123
+$
+7,156
+$
+6.6%
+Imports of services
+2,087
+$
+1,076
+$
+3,163
+$
+2.9%
+Remittances & Private Transfers
+(2,108)
+$
+(3,484)
+$
+(5,592)
+$
+-5.2%
+Official grants
+316
+$
+(121)
+$
+195
+$
+0.2%
+Other current account items
+69
+$
+86
+$
+155
+$
+0.1%
+Capital account--net impacts
+(2,949)
+$
+(347)
+$
+(3,296)
+$
+-3.0%
+Foreign direct investment
+(2,844)
+$
+(292)
+$
+(3,136)
+$
+-2.9%
+Net Government borrowing
+396
+$
+(50)
+$
+346
+$
+0.3%
+Net Public Sector borrowing
+(501)
+$
+(5)
+$
+(506)
+$
+-0.5%
+Other capital account items
+-
+-
+-
+-
+Financing Sources --Identified
+1,426
+$
+45
+$
+1,471
+$
+1.4%
+IMF net
+415
+$
+-
+415
+$
+0.4%
+Lower reserve accumulation
+949
+$
+45
+$
+994
+$
+1.0%
+Secured debt reprofiling
+62
+$
+-
+62
+$
+1.0%
+Financing Sources--To be Identified
+505
+$
+228
+$
+733
+$
+0.7%
+Source: IMF Staff Report, May 2020, Table 4A and Cepheus Research compilation
+Total for both Fiscal Yrs
+Table 19D: Balance of Payments: IMF vs Cepheus Projections
+Post-Corona BOP Projections
+IMF
+Cepheus
+Diff
+IMF
+Cepheus
+Diff
+Current account--net impacts
+(4,944)
+$
+(4,927)
+$
+17
+$
+(4,736)
+$
+(5,104)
+$
+(368)
+$
+Export of goods
+2,452
+$
+2,587
+$
+135
+$
+2,817
+$
+2,716
+$
+(101)
+$
+Imports of goods
+(13,364)
+$
+(14,815)
+$
+(1,451)
+$
+(13,965)
+$
+(14,670)
+$
+(705)
+$
+Export of services
+3,753
+$
+4,677
+$
+924
+$
+5,249
+$
+3,929
+$
+(1,320)
+$
+Imports of services
+(3,795)
+$
+(4,517)
+$
+(722)
+$
+(5,201)
+$
+(3,975)
+$
+1,226
+$
+Net income account
+(603)
+$
+(600)
+$
+3
+$
+(588)
+$
+(725)
+$
+(137)
+$
+Remittances & Transfers
+4,922
+$
+5,841
+$
+919
+$
+5,795
+$
+5,621
+$
+(174)
+$
+Official grants
+1,690
+$
+1,900
+$
+210
+$
+1,157
+$
+2,000
+$
+843
+$
+Capital account--net impacts
+2,668
+$
+4,113
+$
+1,445
+$
+4,486
+$
+6,247
+$
+1,761
+$
+Foreign direct investment
+1,821
+$
+2,400
+$
+579
+$
+4,203
+$
+4,400
+$
+197
+$
+Net Government borrowing
+1,514
+$
+1,757
+$
+243
+$
+1,024
+$
+1,747
+$
+723
+$
+Net Public Sector borrowing
+(667)
+$
+(244)
+$
+423
+$
+(741)
+$
+(100)
+$
+641
+$
+Other capital account items
+-
+$
+200
+$
+200
+$
+-
+$
+200
+$
+200
+$
+Overall Balance of Payments
+(2,276)
+$
+(814)
+$
+1,462
+$
+(250)
+$
+1,143
+$
+1,393
+$
+Source: IMF StaffReport, May 2020, Table4Aand CepheusResearch projections
+FY 2019-20
+FY 2020-21
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+33
+ETHIOPIA’S SOVEREIGN BOND: Recent developments and outlook
+Sovereign Bond Yields:
+
+Ethiopia’s sovereign bond is now 
+showing its highest yield since it was 
+issued back in December 2014.
+
+Ethiopia is not alone in seeing such a 
+rapid and significant jump in yields, 
+however, with most frontier and 
+emerging 
+markets 
+witnessing 
+increases of 4 to 8 percentage points 
+over the past few months. 
+Sovereign Bond Prices:
+
+Prices for the bonds are at record 
+lows, and bondholders (who are 
+mostly US-based asset managers) 
+would thus have seen a drop in their 
+holdings of near 18 percent over the 
+past quarter. 
+
+The price drop reflects expectations 
+that many developing countries will 
+seek 
+debt 
+rescheduling 
+and/or 
+reduction over the coming months, 
+and that this will potentially apply to 
+private as well as official creditors.
+Spread vs US Treasuries:
+
+Spreads vs US Treasures have jumped 
+in line with rising yields; the effective 
+borrowing rate on the Ethiopian bond 
+is thus now 10 percentage points 
+higher 
+than 
+the 
+US 
+Treasury 
+equivalent. 
+
+The larger gap reflects not just the rise 
+in Ethiopia’s sovereign bond yield but 
+also the drop in US 10-year Treasury 
+yields—which are now just 0.65% 
+versus 2.3% this time last year.  
+Figure 20: Ethiopia's Soveregn Bond--Yield to Maturity
+Source: FactSet,*Data till May 8, 2020
+6.41
+5.71
+5.70
+5.74
+5.67
+5.51
+5.50
+4.85
+4.75
+5.28
+9.38
+10.06
+10.11
+4.50
+5.50
+6.50
+7.50
+8.50
+9.50
+10.50
+May-19
+Jun-19
+Jul-19
+Aug-19
+Sep-19
+Oct-19
+Nov-19
+Dec-19
+Jan-20
+Feb-20
+Mar-20
+Apr-20
+May-20*
+Ethiopia's Sovereign Bond--Yield to Maturity
+Figure 21: Ethiopia's Sovereign Bond--End Month Prices
+Source: FactSet,*Data till May 8, 2020
+100.9
+104.2 104.2 104.0 104.3 104.9 104.9
+107.7 108.0
+105.62
+89.70
+87.5
+87.4
+87.0
+92.0
+97.0
+102.0
+107.0
+112.0
+May-19
+Jun-19
+Jul-19
+Aug-19
+Sep-19
+Oct-19
+Nov-19
+Dec-19
+Jan-20
+Feb-20
+Mar-20
+Apr-20
+May-20*
+Ethiopia's Sovereign Bond--End Month Prices
+Figure 22: Ethiopia's Sovereign Bond--Spread vs US Treasuries
+Source: FactSet,*Data till May 8, 2020
+448.2
+395.9
+384.0
+434.6
+412.3
+388.7
+387.9
+317.3
+343.4
+435.8
+896.0
+971.2
+979.7
+310.0
+410.0
+510.0
+610.0
+710.0
+810.0
+910.0
+1,010.0
+1,110.0
+May-19
+Jun-19
+Jul-19
+Aug-19
+Sep-19
+Oct-19
+Nov-19
+Dec-19
+Jan-20
+Feb-20
+Mar-20
+Apr-20
+May-20*
+Ethiopia's Sovereign Bond--Spread vs US Treasuries
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+34
+EXCHANGE RATE: Recent developments and outlook
+Exchange rate trends:
+
+The Birr exchange rate of 33.53 
+per USD at end-April 2020 is 
+now 17 percent below its year-
+ago level. 
+
+While annual depreciation rates 
+were near 6 percent in early 
+2019 
+and 
+before, 
+the 
+annualized 
+exchange 
+rate 
+depreciation has moved to a 
+rate of 13-17 percent since 
+December 2019.
+
+The gap between the official 
+and parallel rates has continued 
+to narrow, though it still 
+remains sizeable. 
+Figure 23A: Trends in Exchange Rate: Last 12 Months
+Source: CBE FX Rates
+28.77
+28.91
+29.03
+29.15
+29.28
+29.43
+30.62
+31.80
+32.06
+32.28
+32.81
+33.53
+26.00
+27.00
+28.00
+29.00
+30.00
+31.00
+32.00
+33.00
+34.00
+May-19
+Jun-19
+Jul-19
+Aug-19
+Sep-19
+Oct-19
+Nov-19
+Dec-19
+Jan-20
+Feb-20
+Mar-20
+Apr-20
+Trends in Exchange Rate: Last 12 Months
+Figure 23B: Gap between parallel and official market
+Source: Cepheus Research
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+January
+February
+March
+Gap between parallel and official market
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+35
+Exchange rate developments… continued:
+
+After moderating in January 
+and February (21 to 26 cents 
+of monthly depreciation), 
+the pace of Birr depreciation 
+has picked up pace in the last 
+two months and has been 
+between 54 and 72 cents per 
+month.
+
+Looking ahead, we assume 
+and expect the accelerated 
+rate of monthly depreciation 
+is being pursued by the 
+central bank to prevent a 
+rise in the real effective 
+exchange rate (and loss of 
+competitiveness) 
+in 
+the 
+context of elevated inflation. 
+
+Accordingly, we anticipate a 
+50 to 60 cents pace of 
+monthly depreciation to the 
+end of the calendar year, 
+and 
+we 
+thus 
+see 
+the 
+exchange rate at just under 
+35 Birr/USD by end June 
+2020 and just under 38 
+Birr/USD by end Dec 2020.
+Figure 24: Monthly Depreciations in Birr Cents
+Source: CBE website FX Rates.
+0.12
+0.12
+0.12
+0.16
+1.19
+1.19
+0.26
+0.21
+0.54
+0.72
+-
+0.20
+0.40
+0.60
+0.80
+1.00
+1.20
+1.40
+Jul-19
+Aug-19
+Sep-19
+Oct-19
+Nov-19
+Dec-19
+Jan-20
+Feb-20
+Mar-20
+Apr-20
+Monthly Depreciations in Birr Cents
+Monthly Depreciation
+Avg Jan2019-Oct 2019
+=14 cents
+Avg Nov 2019-Dec 2019
+=1.19 cents
+January -Feb2020
+=0.24 cents
+Mar-April 2020
+=0.63 cents
+Series6
+Series7
+Avg Jan 2019-Oct 2019
+=14 cents
+Avg Nov 2019-Dec 2019
+=1.19 cents
+January -Feb 2020
+=0.24 cents
+Mar-April 2020
+=0.63 cents
+Figure 25: Exchange Rate: Forecasts to End-2020
+Actuals: End Month
+Buying
+Rate:
+Birr/USD
+Monthly
+Change:
+In Birr
+Depreciation
+from
+year ago
+July 2019
+29.03
+0.12
+6.1%
+August 2019
+29.15
+0.12
+6.1%
+September 2019
+29.28
+0.12
+6.1%
+October 2019
+29.43
+0.16
+6.1%
+November 2019
+30.62
+1.19
+9.8%
+December 2019
+31.80
+1.19
+13.4%
+January 2020
+32.06
+0.26
+13.7%
+February 2020
+32.28
+0.21
+13.9%
+March 2020
+32.81
+0.54
+15.2%
+April 2020
+33.53
+0.72
+17.1%
+Projections: End Month
+May 2020
+34.13
+0.60
+18.6%
+June 2020
+34.73
+0.60
+20.1%
+July 2020
+35.23
+0.50
+21.4%
+August 2020
+35.73
+0.50
+22.6%
+September 2020
+36.23
+0.50
+23.8%
+October 2020
+36.73
+0.50
+24.8%
+November 2020
+37.23
+0.50
+21.6%
+December 2020
+37.73
+0.50
+18.6%
+Source: CBE website for historical data and Cepheus Research for projections
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+36
+ETHIOPIA--Macroeconomic Indicators For the Current and Upcoming Fiscal Year: Recent Projections and Latest Revisions
+2018/19
+2019/20
+FY 2020/21
+2019/20
+FY 2020/21
+2019/20
+FY 2020/21
+Actual
+Initial Proj
+Initial Proj
+Revised Proj
+Revised Proj
+Change in Proj
+Change in Proj
+Real Sector: GDP, Prices, and Investment
+9.0%
+8.0%
+7.5%
+6.0%
+5.0%
+-2.0%
+-2.5%
+Agriculture growth
+3.8%
+4.5%
+4.0%
+4.3%
+3.7%
+-0.2%
+-0.3%
+Industry growth
+12.6%
+12.0%
+12.0%
+11.0%
+9.0%
+-1.0%
+-3.0%
+Services growth
+11.0%
+8.3%
+7.5%
+4.0%
+3.5%
+-4.3%
+-4.0%
+Inflation: CPI (end-of-period)
+15.3%
+13.3%
+10.0%
+18.7%
+8.4%
+5.4%
+-1.6%
+Inflation: CPI (period average)
+12.6%
+17.5%
+10.0%
+19.6%
+12.2%
+2.1%
+2.2%
+Nominal GDP growth
+22.5%
+26.9%
+18.3%
+26.8%
+17.8%
+-0.1%
+-0.5%
+Nominal GDP level (Birr billions)
+2,696.2
+3,422.1
+4,047.0
+3,418.3
+4,026.9
+(3.8)
+(20.1)
+Nominal GDP level (USD billions)
+95.9
+$
+108.4
+$
+114.5
+$
+108.3
+$
+106.7
+$
+(0.1)
+$
+(7.9)
+$
+GDP per capita (USD)
+971.8
+$
+1,075.0
+$
+1,112.1
+$
+1,073.9
+$
+1,035.7
+$
+(1.2)
+$
+(76.4)
+$
+Exchange rate (Birr/USD, end-of-period)
+28.91
+33.16
+37.50
+34.73
+39.94
+1.57
+2.43
+Exchange rate (Birr/USD, year-average)
+28.12
+31.57
+35.33
+31.57
+37.75
+-
+2.42
+Exchange rate annual depreciation (year-average)
+7.2%
+12.3%
+13.1%
+12.3%
+19.6%
+0.0%
+6.5%
+Investment-to-GDP ratio
+35.2%
+34.0%
+36.5%
+33.0%
+32.0%
+-1.0%
+-4.5%
+By investor category:
+Public sector investment-to-GDP ratio
+11.0%
+11.0%
+10.5%
+11.0%
+10.5%
+0.0%
+0.0%
+Private sector investment-to-GDP ratio
+24.2%
+23.0%
+26.0%
+22.0%
+21.5%
+-1.0%
+-4.5%
+By source of financing:
+Domestic Savings-to-GDP ratio
+24.0%
+23.5%
+24.5%
+22.0%
+19.0%
+-1.5%
+-5.5%
+External Savings-to-GDP ratio
+11.2%
+10.5%
+12.0%
+11.0%
+13.0%
+0.5%
+1.0%
+Banking Sector
+2018/19
+2019/20
+FY 2020/21
+2019/20
+FY 2020/21
+2019/20
+FY 2020/21
+Deposits at all commercial banks (Br bn)
+899
+1,088
+1,305
+1,043
+1,199
+(45)
+(106)
+Loans by all commercial banks (Br bn)
+456
+593
+759
+570
+696
+(23)
+(63)
+NBE Bills held by all comm banks (Br bn)
+89
+85
+68
+70
+53
+(15)
+(15)
+Bonds held by all commercial banks (Br bn)
+339
+400
+459
+372
+410
+(27)
+(50)
+Total bank financing: Loans/Bills/Bonds (Br bn)
+883
+1,078
+1,286
+1,013
+1,158
+(65)
+(128)
+Deposit-to-GDP ratio (%)
+33.3%
+31.8%
+32.3%
+30.5%
+29.8%
+-1.3%
+-2.5%
+Total bank financing-to-Deposit ratio (%)
+98.3%
+99.0%
+98.5%
+97.1%
+96.6%
+-2.0%
+-2.0%
+Total commercial bank financing-to-GDP ratio (%)
+32.8%
+31.5%
+31.8%
+29.6%
+28.8%
+-1.9%
+-3.0%
+Annual growth in bank deposits (%)
+23.3%
+21.0%
+20.0%
+16.0%
+15.0%
+-5.0%
+-5.0%
+Annual growth in total bank financing (%)
+23.2%
+22.0%
+19.4%
+14.6%
+14.4%
+-7.3%
+-5.0%
+Fiscal Sector
+2018/19
+2019/20
+FY 2020/21
+2019/20
+FY 2020/21
+2019/20
+FY 2020/21
+Revenue and grants (Birr bns)
+344.9
+425.3
+566.2
+413.3
+542.5
+(12.0)
+(23.7)
+Revenue (Birr bns)
+311.3
+395.1
+532.1
+360.1
+503.6
+(35.0)
+(28.5)
+Grants (Birr bns)
+33.6
+30.2
+34.1
+53.2
+38.9
+23.0
+4.8
+Expenditure (Birr bns)
+413.1
+509.8
+655.8
+547.4
+687.8
+37.6
+32.0
+Fiscal balance after grants (Birr bns)
+-68.2
+-84.5
+-89.6
+-134.1
+-145.3
+(49.6)
+(55.7)
+Revenue and grants (% GDP)
+12.8%
+12.4%
+14.0%
+12.1%
+13.5%
+-0.3%
+-0.5%
+Expenditure (% GDP)
+15.3%
+14.9%
+16.2%
+16.0%
+17.1%
+1.1%
+0.9%
+Fiscal balance after grants (% GDP)
+-2.5%
+-2.5%
+-2.2%
+-3.9%
+-3.6%
+-1.5%
+-1.4%
+Public Sector Debt (% GDP)
+56.0%
+52.2%
+52.1%
+53.1%
+55.9%
+0.9%
+3.8%
+External Debt (% GDP)
+28.2%
+26.3%
+26.5%
+26.4%
+28.3%
+0.0%
+1.8%
+Domestic Debt (% GDP)
+27.8%
+25.8%
+25.6%
+26.7%
+27.5%
+0.9%
+2.0%
+External Sector: Balance of Payments
+2018/19
+2019/20
+FY 2020/21
+2019/20
+FY 2020/21
+2019/20
+FY 2020/21
+Exports of goods (USD mn)
+2,667
+2,880
+3,168
+2,587
+2,716
+(293)
+(452)
+Exports of services (USD mns)
+4,949
+5,196
+5,612
+4,677
+3,929
+(520)
+(1,684)
+Imports of goods (USD mn)
+(15,112)
+(15,036)
+(16,239)
+(14,815)
+(14,670)
+221
+1,570
+Oil imports (USD mn)
+(2,661)
+(2,475)
+(2,598)
+(2,209)
+(1,546)
+266
+1,052
+Non-Oil imports (USD mn)
+(12,451)
+(12,562)
+(13,641)
+(12,607)
+(13,124)
+(45)
+517
+Imports of services (USD mns)
+(4,910)
+(5,401)
+(5,941)
+(4,517)
+(3,975)
+884
+1,966
+-
+-
+Remittances (USD mn)
+5,693
+5,978
+6,456
+5,124
+4,868
+(854)
+(1,588)
+Private transfers (USD mn)
+683
+717
+753
+717
+753
+-
+-
+Foreign official grants (USD mn)
+2,087
+1,800
+1,600
+1,900
+2,000
+100
+400
+Current account balance (USD mn)
+(4,534)
+(4,556)
+(5,407)
+(4,928)
+(5,105)
+(372)
+302
+Current account balance (% GDP)
+-4.7%
+-4.2%
+-4.7%
+-4.6%
+-4.8%
+-0.3%
+-0.1%
+Foreign direct investment (USD mn)
+3,015
+3,500
+5,050
+2,400
+4,400
+(1,100)
+(650)
+Net foreign borrowing: Govt (USDmn)
+1,158
+1,300
+1,500
+1,757
+1,747
+457
+247
+Net foreign borrowing: Public Sector (USDmn)
+1,326
+200
+300
+(244)
+(100)
+(444)
+(400)
+Overall External Balance (USD mn)
+58
+644
+1,743
+(815)
+1,142
+(1,459)
+(601)
+Overall External Balance, excl privatization delay
+58
+644
+1,743
+185
+1,142
+(459)
+(601)
+Stock of Foreign Reserves, (USD mn)
+3,415
+4,059
+5,802
+2,600
+3,742
+(1,459)
+(2,060)
+Stock of Foreign Reserves, months imports
+2.7
+3.2
+4.3
+2.1
+3.1
+(1.1)
+(1.2)
+External Debt Stock (Public Sector, USD bn)
+27.0
+28.5
+30.3
+28.6
+30.2
+0.0
+(0.1)
+External Debt Stock (Public Sector, % GDP)
+28.2%
+26.3%
+26.5%
+26.4%
+28.3%
+0.0%
+1.8%
+Growth of Goods Exports
+-6.1%
+8.0%
+10.0%
+-3.0%
+5.0%
+-11.0%
+-5.0%
+Growth of Goods Imports
+-0.9%
+-0.5%
+8.0%
+-2.0%
+-1.0%
+-1.5%
+-9.0%
+Data Sources: NBE, MOFEC, CSA, and IMF for FY 2018-19; Cepheus Capital Research for projection years (with IMF fiscal data for baseline projection years).
+*Projections for 2019-20 and 2020-21 reflect our judgements under a 'limited virus spread scenario' as described in the text.
+Real GDP growth
+Rev Projs--CORONA IMPACTS*
+Previous Projections
+CHANGE in Cepheus Projections
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not necessarily reflect the views or opinions of 
+the Fund’s Managing Partners, Advisors, or Investors.
+37
+ETHIOPIA--Key Macro Indicators: 2011 to 2021
+2010/11
+2011/12
+2012/13
+2013/14
+2014/15
+2015/16
+2016/17
+2017/18
+2018/19
+2019/20
+2020/21
+Actual
+Actual
+Actual
+Actual
+Actual
+Actual
+Actual
+Actual
+Actual
+Revised Proj
+Revised Proj
+Real Sector: GDP, Prices, and Investment
+11.4%
+8.7%
+9.9%
+10.3%
+10.4%
+8.0%
+10.2%
+7.7%
+9.0%
+6.0%
+5.0%
+Agriculture growth
+9.0%
+4.9%
+7.1%
+5.4%
+6.4%
+2.3%
+6.7%
+3.5%
+3.8%
+4.3%
+3.7%
+Industry growth
+18.6%
+19.7%
+24.0%
+17.1%
+19.9%
+20.5%
+20.3%
+12.2%
+12.6%
+11.0%
+9.0%
+Services growth
+17.0%
+9.6%
+9.0%
+13.0%
+11.1%
+8.6%
+7.2%
+8.8%
+11.0%
+4.0%
+3.5%
+Inflation: CPI (end-of-period)
+38.1%
+20.7%
+7.4%
+8.5%
+10.4%
+7.5%
+8.8%
+14.7%
+15.3%
+18.7%
+8.4%
+Inflation: CPI (period average)
+18.1%
+34.1%
+13.5%
+8.1%
+7.7%
+9.7%
+7.2%
+13.1%
+12.6%
+19.6%
+12.2%
+Nominal GDP growth
+31.6%
+45.1%
+16.0%
+22.4%
+22.4%
+20.8%
+16.9%
+20.0%
+22.5%
+26.8%
+17.8%
+Nominal GDP level (Birr billions)
+515.1
+747.3
+866.9
+1,060.8
+1,298.0
+1,568.1
+1,832.8
+2,200.1
+2,696.2
+3,418.3
+4,026.9
+Nominal GDP level (USD billions)
+32.0
+$
+43.2
+$
+47.6
+$
+55.5
+$
+64.5
+$
+74.1
+$
+81.6
+$
+83.9
+$
+95.9
+$
+108.3
+$
+106.7
+$
+GDP per capita (USD)
+516.4
+$
+554.0
+$
+631.1
+$
+715.8
+$
+803.9
+$
+864.6
+$
+869.3
+$
+971.8
+$
+1,073.9
+$
+1,035.7
+$
+Exchange rate (Birr/USD, end-of-period)
+16.82
+17.73
+18.64
+19.58
+20.57
+21.80
+23.11
+27.26
+28.91
+34.73
+39.94
+Exchange rate (Birr/USD, year-average)
+16.10
+17.28
+18.23
+19.11
+20.13
+21.16
+22.47
+26.23
+28.12
+31.57
+37.75
+Exchange rate annual depreciation (year-average)
+24.8%
+7.3%
+5.5%
+4.8%
+5.3%
+5.1%
+6.2%
+16.7%
+7.2%
+12.3%
+19.6%
+Investment-to-GDP ratio
+27.2%
+34.6%
+32.6%
+38.0%
+39.3%
+37.3%
+38.4%
+34.7%
+35.2%
+33.0%
+32.0%
+By investor category:
+Public sector investment-to-GDP ratio
+26.1%
+24.3%
+17.0%
+17.6%
+16.8%
+14.4%
+12.8%
+11.0%
+11.0%
+10.5%
+Private sector investment-to-GDP ratio
+8.5%
+8.3%
+21.0%
+21.7%
+20.5%
+24.0%
+21.9%
+24.2%
+22.0%
+21.5%
+By source of financing:
+Domestic Savings-to-GDP ratio
+12.8%
+16.5%
+15.9%
+20.5%
+21.8%
+22.4%
+22.4%
+24.1%
+24.0%
+22.0%
+19.0%
+External Savings-to-GDP ratio
+14.4%
+18.1%
+16.7%
+17.5%
+17.5%
+14.9%
+16.0%
+10.6%
+11.2%
+11.0%
+13.0%
+Banking Sector
+2010/11
+2011/12
+2012/13
+2013/14
+2014/15
+2015/16
+2016/17
+2017/18
+2018/19
+2019/20 FY 2020/21
+Deposits at all commercial banks (Br bn)
+143.3
+189.3
+237.8
+292.9
+366.5
+436.7
+567.7
+729.1
+899
+1,043
+1,199
+Loans by all commercial banks (Br bn)
+61.9
+85.4
+116.5
+145.6
+189.3
+232.1
+289.8
+355.4
+456
+570
+696
+NBE Bills held by all comm banks (Br bn)
+3.0
+11.0
+19.1
+25.1
+37.4
+49.9
+54.6
+70.1
+89
+70
+53
+Bonds held by all commercial banks (Br bn)
+43.1
+64.5
+82.8
+111.8
+152.7
+188.7
+237.8
+291.4
+339
+372
+410
+Total bank financing: Loans/Bills/Bonds (Br bn)
+108.0
+160.9
+218.4
+282.5
+379.4
+470.7
+582.2
+716.9
+883
+1,013
+1,158
+Deposit-to-GDP ratio (%)
+27.8%
+25.3%
+27.4%
+27.6%
+28.2%
+27.8%
+31.0%
+33.1%
+33.3%
+30.5%
+29.8%
+Total bank financing-to-Deposit ratio (%)
+75.3%
+85.0%
+91.8%
+96.5%
+103.5%
+107.8%
+102.5%
+98.3%
+98.3%
+97.1%
+96.6%
+Total commercial bank financing-to-GDP ratio (%)
+21.0%
+21.5%
+25.2%
+26.6%
+29.2%
+30.0%
+31.8%
+32.6%
+32.8%
+29.6%
+28.8%
+Annual growth in bank deposits (%)
+40.0%
+32.1%
+25.6%
+23.2%
+25.1%
+19.2%
+30.0%
+28.4%
+23.3%
+16.0%
+15.0%
+Annual growth in total bank financing (%)
+50.7%
+49.0%
+35.7%
+29.4%
+34.3%
+24.1%
+23.7%
+23.1%
+23.2%
+14.6%
+14.4%
+Data Sources: NBE, MOFEC, CSA, and IMF for FY 2018-19; Cepheus Capital Research for projection years (with IMF fiscal data for baseline projection years).
+*Projections for 2019-20 and 2020-21 reflect our judgements under a 'limited virus spread scenario' as described in the text.
+Real GDP growth
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not necessarily reflect the views or opinions of 
+the Fund’s Managing Partners, Advisors, or Investors.
+38
+ETHIOPIA--Key Macro Indicators: 2011 to 2021
+Fiscal Sector
+2010/11
+2011/12
+2012/13
+2013/14
+2014/15
+2015/16
+2016/17
+2017/18
+2018/19
+2019/20 FY 2020/21
+Revenue and grants (Birr bns)
+85.6
+115.7
+137.2
+158.1
+199.6
+243.7
+269.1
+287.6
+344.9
+413.3
+542.5
+Expenditure (Birr bns)
+93.8
+124.4
+153.9
+185.5
+230.5
+272.9
+329.3
+354.2
+413.1
+547.4
+687.8
+Fiscal balance after grants (Birr bns)
+-8.2
+-8.7
+-16.7
+-27.4
+-30.9
+-29.3
+-60.2
+-66.6
+-68.2
+-134.1
+-145.3
+Revenue and grants (% GDP)
+16.6%
+15.5%
+15.8%
+14.9%
+15.4%
+15.5%
+14.7%
+13.1%
+12.8%
+12.1%
+13.5%
+Expenditure (% GDP)
+18.2%
+16.6%
+17.8%
+17.5%
+17.8%
+17.4%
+18.0%
+16.1%
+15.3%
+16.0%
+17.1%
+Fiscal balance after grants (% GDP)
+-1.6%
+-1.2%
+-1.9%
+-2.6%
+-2.4%
+-1.9%
+-3.3%
+-3.0%
+-2.5%
+-3.9%
+-3.6%
+Public Sector Debt (% GDP)
+36.2%
+30.6%
+41.9%
+45.7%
+52.9%
+52.4%
+55.2%
+59.0%
+56.0%
+53.1%
+55.9%
+External Debt (% GDP)
+24.4%
+20.6%
+23.6%
+25.2%
+29.6%
+29.0%
+28.7%
+30.9%
+28.2%
+26.4%
+28.3%
+Domestic Debt (% GDP)
+11.9%
+10.1%
+18.3%
+20.5%
+23.3%
+23.4%
+26.5%
+28.1%
+27.8%
+26.7%
+27.5%
+External Sector: Balance of Payments
+2010/11
+2011/12
+2012/13
+2013/14
+2014/15
+2015/16
+2016/17
+2017/18
+2018/19
+2019/20 FY 2020/21
+Exports of goods (USD mn)
+2,747
+3,153
+3,116
+3,300
+3,019
+2,868
+2,908
+2,840
+2,667
+2,587
+2,716
+Exports of services (USD mns)
+2,586
+2,811
+2,853
+3,174
+3,028
+3,196
+3,331
+4,220
+4,949
+4,677
+3,929
+Imports of goods (USD mn)
+(8,253)
+(11,018)
+(11,461)
+(13,712)
+(16,458)
+(16,725)
+(15,803)
+(15,253)
+(15,112)
+(14,815)
+(14,670)
+Oil imports (USD mn)
+(2,661)
+(2,209)
+(1,546)
+Non-Oil imports (USD mn)
+(12,451)
+(12,607)
+(13,124)
+Imports of services (USD mns)
+(1,828)
+(2,639)
+(2,281)
+(2,461)
+(3,107)
+(3,442)
+(3,393)
+(3,983)
+(4,910)
+(4,517)
+(3,975)
+Remittances (USD mn)
+2,032
+2,401
+2,489
+2,968
+3,797
+4,420
+4,428
+5,121
+5,693
+5,124
+4,868
+Private transfers (USD mn)
+715
+845
+1,086
+1,071
+1,085
+2,008
+1,058
+953
+683
+717
+753
+Foreign official grants (USD mn)
+1,788
+1,530
+1,461
+1,508
+1,391
+1,428
+1,226
+2,087
+1,900
+2,000
+Current account balance (USD mn)
+(210)
+(2,755)
+(2,781)
+(4,352)
+(7,401)
+(6,657)
+(6,528)
+(5,253)
+(4,534)
+(4,928)
+(5,105)
+Current account balance (% GDP)
+-0.7%
+-6.4%
+-5.8%
+-7.8%
+-11.5%
+-9.0%
+-8.0%
+-6.3%
+-4.7%
+-4.6%
+-4.8%
+Foreign direct investment (USD mn)
+1,243
+1,072
+1,232
+1,467
+2,202
+3,269
+4,171
+3,723
+3,015
+2,400
+4,400
+Net foreign borrowing: Govt (USDmn)
+2,073
+938
+1,270
+2,309
+3,352
+1,628
+1,402
+1,632
+1,158
+1,757
+1,747
+Net foreign borrowing: Public Sector (USDmn)
+231
+882
+332
+2,347
+1,052
+626
+937
+1,326
+(244)
+(100)
+Overall External Balance (USD mn)
+1,446
+(1,067)
+(7)
+(97)
+(521)
+(831)
+659
+(201)
+58
+(815)
+1,142
+Stock of Foreign Reserves, (USD mn)
+3,044
+2,262
+2,368
+2,496
+3,249
+3,402
+3,197
+2,843
+3,415
+2,600
+3,742
+Stock of Foreign Reserves, months imports
+4.4
+2.5
+2.5
+2.2
+2.4
+2.4
+2.4
+2.2
+2.7
+2.1
+3.1
+External Debt Stock (Public Sector, USD bn)
+7.8
+8.9
+11.2
+14.0
+19.1
+21.5
+23.4
+25.9
+27.0
+28.6
+30.2
+External Debt Stock (Public Sector, % GDP)
+24.4%
+20.6%
+23.6%
+25.2%
+29.6%
+29.0%
+28.7%
+30.9%
+28.2%
+26.4%
+28.3%
+Growth of Goods Exports
+37.1%
+14.8%
+-1.2%
+5.9%
+-8.5%
+-5.0%
+1.4%
+-2.3%
+-6.1%
+-3.0%
+5.0%
+Growth of Goods Imports
+-0.2%
+33.5%
+4.0%
+19.6%
+20.0%
+1.6%
+-5.5%
+-3.5%
+-0.9%
+-2.0%
+-1.0%
+Data Sources: NBE, MOFEC, CSA, and IMF for FY 2018-19; Cepheus Capital Research for projection years (with IMF fiscal data for baseline projection years).
+*Projections for 2019-20 and 2020-21 reflect our judgements under a 'limited virus spread scenario' as described in the text.
+RESEARCH & ANALYTICS
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does not 
+necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors.
+39
+The compilation of economic and business news reports for the first quarter of 2020 is available 
+through the links below as well as on our website at: https://cepheuscapital.com/insights/
+
+THE WEEK OF MARCH 24 – MARCH 31, 2020
+
+THE WEEK OF MARCH 17 – MARCH 24, 2020
+
+THE WEEK OF MARCH 10 – MARCH 17, 2020
+
+THE WEEK OF MARCH 3 – MARCH 10, 2020
+
+THE WEEK OF FEBRUARY 25 – MARCH 3, 2020
+
+THE WEEK OF FEBRUARY 18 – FEBRUARY 25, 2020
+
+THE WEEK OF FEBRUARY 11 – FEBRUARY 18, 2020
+
+THE WEEK OF FEBRUARY 4 – FEBRUARY 11, 2020
+
+THE WEEK OF JANUARY 28 – FEBRUARY 4, 2020
+
+THE WEEK OF JANUARY 21 – JANUARY 28, 2020
+
+THE WEEK OF JANUARY 14 – JANUARY 21, 2020
+
+THE WEEK OF JANUARY 8 – JANUARY 14, 2020
+
+THE WEEK OF DECEMBER 31 – JANUARY 8, 2020
+Economic and Business News
+First Quarter 2020: January 1 – March 31, 2020
+ 

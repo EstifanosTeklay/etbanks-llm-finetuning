@@ -1,0 +1,1452 @@
+QUARTERLY
+MACROECONOMI
+UPDATES ON THE
+ETHIOPIAN
+ECONOMY
+
+Volume 9 Number 01
+
+April 2024
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+ii 
+© 2024 Ethiopian Economics Association 
+This Quarterly Macroeconomic Updates on the Ethiopian Economy is among the EEA’s 
+flagship publications. 
+This publication is free for all noncommercial purposes. Any other uses require official consent 
+and approval of the Ethiopian Economics Association. 
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+iii 
+Table of Contents 
+ 
+List of Figures 
+.......................................................................................................................... 
+iv 
+List of Tables ............................................................................................................................ v 
+Foreword 
+.................................................................................................................................. 
+vi 
+Acknowledgments .................................................................................................................. 
+vii 
+1. 
+Introduction 
+...................................................................................................................... 1 
+2. 
+Key Highlights 
+.................................................................................................................. 2 
+3. 
+Inflation 
+............................................................................................................................. 3 
+4. 
+Public Debt ....................................................................................................................... 9 
+5. 
+Exchange Rate Developments 
+....................................................................................... 22 
+6. 
+Concluding Remarks ..................................................................................................... 27 
+References 
+............................................................................................................................... 29 
+ 
+ 
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+iv 
+List of Figures 
+ 
+Figure 1: Trends of inflation rates across months (year-on-year, %), Sep. 2022—Sep. 2023 .. 
+4 
+Figure 2: Food and non-food inflation from Sep. 2022 to Sep. 2023 (year-on-year, %) .......... 
+5 
+Figure 3: Inflation at regional levels (year-on-year, September 2023) 
+...................................... 
+6 
+Figure 4: Inflation in Ethiopia and selected countries and regions 
+............................................ 
+7 
+Figure 5: Ethiopia’s public debt stock ($billion), QI, Jul-Sep 2023 
+........................................ 
+10 
+Figure 6: Per capita public debt burden and GDP per capita (current prices), 2018/19-2022/23 
+and 2023/24, QI 
+....................................................................................................... 
+11 
+Figure 7: External debt outstanding ($27.7 billion) by lender category, QI, July-Sept 2023 (% 
+of total external debt) .............................................................................................. 
+11 
+Figure 8: Public debts of SOEs (% total debt), QI, (Jul-Sep 2023) ......................................... 
+12 
+Figure 9: Defense spending (in Billion ETB), 2023 ................................................................ 
+13 
+Figure 10: Composition of domestic debt outstanding by instrument type (% of the total 
+public domestic debt), QI, (Jul-Sep 2023) ............................................................. 
+14 
+Figure 11: Share of domestic borrowing in public debt (%), 2018/19-2023/24 (QI) .............. 
+15 
+Figure 12: The trend of direct advances (Government borrowing from the NBE), million ETB
+................................................................................................................................ 
+16 
+Figure 13: Quarterly debt service to export ratio 
+..................................................................... 
+19 
+Figure 14: Tax revenue (% GDP) ............................................................................................ 
+20 
+Figure 15: Current account deficit, public debt, and inflation 
+................................................. 
+21 
+Figure 16: Official and Parallel Exchange Rates (Birr/USD), January-September 2023 
+........ 
+23 
+Figure 17: Remittance flow (USD million) to Ethiopia and Kenya (2014-2023) ................... 
+24 
+Figure 18: Trend of official development assistance (ODA) disbursements (US dollars, 
+millions) ................................................................................................................. 
+25 
+Figure 19: Trend of export revenue and import (billion USD), 2014-2022 ............................ 
+26 
+ 
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+v 
+List of Tables 
+ 
+Table 1: Inflation in Ethiopia (QI, Jul-Sep 2023) ...................................................................... 
+4 
+Table 2: Debt Sustainability Analysis Indicators 
+..................................................................... 
+17 
+Table 3: Debt servicing by quarter (million USD) .................................................................. 
+18 
+Table 4: Debt service to export ratio by quarter ...................................................................... 
+19 
+Table 5: Exchange rate in the official and parallel market ...................................................... 
+22 
+ 
+ 
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+vi 
+Foreword 
+The Quarterly Macroeconomic Updates, published by the Ethiopian Economic Association 
+(EEA), is a flagship publication that provides vital insights into the Ethiopian macroeconomy. 
+This publication used to be a significant source of information for policymakers, businesses, 
+researchers, and anyone interested in understanding the latest economic trends in Ethiopia until 
+it was discontinued for more than a decade.  
+Recognizing the growing need for a critical analysis of topical national issues changing the 
+economic landscape in Ethiopia, the EEA has decided to resume the publication of the 
+Quarterly Macroeconomic Updates on the Ethiopian economy. This renewed version will 
+continue from where the previous volume left off, providing timely updates on key 
+macroeconomic indicators and emerging challenges. The EEA is delighted to announce the 
+relaunching of the report with this volume 09, number 01 issue. 
+The current issue covers the first quarter of the Ethiopian fiscal year that spans from July 1, 
+2023, to September 30, 2023, offering valuable insights into the state of the Ethiopian economy 
+based on selected macroeconomic indicators.  
+We at the EEA are confident that this publication will once again become a valuable resource 
+for all stakeholders interested in the Ethiopian economy. 
+ 
+The EEA 
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+vii 
+Acknowledgments  
+This Quarterly Macroeconomic Update is written by Dr. Tasew Tadesse, Leader of the 
+Macroeconomy Research Theme of the Ethiopian Economics Association. The Association 
+appreciates his contribution. The Association is also grateful to those who have edited, 
+reviewed, and commented on the draft version of the report, including EEA’s management 
+members, EEA’s senior researchers, and executive committee members of the Association. 
+Furthermore, EEA appreciates Ms. Rahel Yilma for formatting and designing the report. 
+The views expressed in this publication do not necessarily reflect the views of the Ethiopian 
+Economics Association. 
+ 
+ 
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+1 
+1. 
+Introduction  
+This quarterly macroeconomic report provides an update on the macroeconomic situation in 
+Ethiopia. This quarter’s macroeconomic report focuses on three key areas with significant 
+implications for economic stability and growth: inflation, public debt, and the exchange rate 
+market. The report analyses key developments and trends in inflation, and the state, evolution, 
+composition, and sustainability of public debt and its potential implications for fiscal policy 
+space and overall economic stability. Additionally, it highlights developments in the foreign 
+exchange market, providing valuable insights into the issues of currency depreciation, foreign 
+exchange shortage, and widening black market premiums. It covers the first quarter of the 
+Ethiopian fiscal year (EFY 2016) that spans from July 1, 2023, to September 30, 2023. A 
+discussion of the country's macroeconomic environment is provided for the three selected 
+indicators in the following sections. 
+ 
+ 
+ 
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+2 
+2. 
+Key Highlights 
+Inflation: Despite some easing in recent months, inflation remains stubbornly high at 28.4 
+percent. It is significantly higher than the regional average of 10.6% for Sub-Saharan Africa; 
+consequently, eroding the welfare of citizens. 
+Public debt: Ethiopia's public sector debt stock was USD 63.2 billion as of September 30, 
+2023, representing 38.7% of the GDP. At $588.5, the average Ethiopian has a significant and 
+increasing per capita debt burden. Such high debt levels raise concerns about debt 
+sustainability. Consequently, Ethiopia is found at a high risk of external debt distress.  
+Exchange rate: At 55.2 birr per US dollar, Ethiopia’s currency remained weak against major 
+currencies. The exchange rate is not only weakening but also highly misaligned. The gap 
+between the official and parallel market exchange rates has persisted over the past several years 
+and has gradually widened to over 100% in recent months.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+3 
+3. 
+Inflation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inflation remains stubbornly high, putting pressure on the cost of living and 
+eroding the welfare of citizens. Despite slightly easing in recent months, Ethiopia continues 
+to grapple with high inflation. Headline inflation (annual percentage change) averaged 28.4 
+percent in the first quarter (Jul-Sep 2023). A quarter earlier (Apr-Jun 2022), the rate was 31.2 
+percent. Quarterly, headline inflation decreased by 2.8 percentage points. This indicates that 
+there was a sluggish reduction in the inflation rate in the review quarter (Table 1). The slight 
+reduction in headline inflation is due to the reduction in non-food inflation and, also, to the 
+decline in food inflation. Notwithstanding the slight reduction, inflation remains high, and the 
+double-digit rate has persisted through the first quarter. This indicates that the issue remains a 
+significant concern in Ethiopia as it poses a threat to the country's macroeconomic stability. 
+ 
+Key facts and figures 
+Ethiopia continues to grapple with high inflation. The most recent figures indicate a slight 
+slowdown compared to earlier quarters of 2023. 
+Headline inflation averaged 28.4 percent in the first quarter (Jul-Sep 2023). A quarter 
+earlier (Apr-Jun 2022), the rate was 31.2 percent. Quarterly, headline inflation decreased 
+by 2.8 percentage points. 
+At 30.6%, non-food inflation exceeded food and general inflation. The non-food 
+component of the CPI had a year-on-year inflation rate averaging 30.6% in the first 
+quarter, indicating a 30.6% increase compared to the same period in 2022. 
+Looking at inflation rate by region, Benishangul Gumuz, Addis Ababa, and Afar had the 
+highest headline inflation rates, standing at 45%, 38.5%, and 36.9%, respectively.  
+In terms of food inflation, Benishangul Gumuz was leading at 44.3%, followed by Afar at 
+37.3%, and Addis Ababa at 35.5%. 
+Inflation is significantly higher in Ethiopia compared to other Sub-Saharan African 
+countries and low-income nations. With a headline inflation rate of 28.3 percent in 
+September 2023, Ethiopia experienced the highest inflation compared to the SSA average 
+and its East African counterparts such as Rwanda (5.5%) and Kenya (6.7%). 
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+4 
+Table 1: Inflation in Ethiopia (QI, Jul-Sep 2023) 
+Quarter  
+Headline 
+Food 
+Non-food 
+Weights (%) 
+100 
+53.5 
+46.5 
+Apr-Jun 2023 (Q-IV) (A) 
+31.2 
+29.4 
+34 
+Jul-Sep 2023 (Q-I) (B) 
+28.4 
+27 
+30.6 
+Change in percentage points (B-A) 
+-2.8 
+-2.4 
+-3.4 
+Contribution to headline inflation in QI 
+(%) 
+Absolut
+e  
+28.67 
+14.44 
+14.24 
+Relative 
+100 
+50.3 
+49.7 
+Source: Computation based on Ethiopian Statistical Services (ESS) data 
+The inflation rates for both food and non-food items have remained high. Food and 
+non-food items contributed equally to headline inflation, each accounting for approximately 
+50% (Table 1). During Apr-Jun 2023 and Jul-Sep 2023, non-food inflation exceeded food and 
+general inflation. The non-food component of the CPI had a year-on-year inflation rate 
+averaging 30.6% in the first quarter, indicating a 30.6% increase compared to the same period 
+in 2022. 
+Figure 1: Trends of inflation rates across months (year-on-year, %), Sep. 2022—Sep. 
+2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Computation based on ESS and NBE data 
+The country's annual inflation rate has been under observation every month. According 
+to the latest data, the year-on-year inflation rate dropped to 28.3 percent in September 2023. 
+This was about 2.4 percent lower than the figure recorded in the same month of 2022 (Table 
+1). Although there has been a slight decrease in the headline inflation rate, double-digit inflation 
+persists, indicating a high inflation rate. 
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+5 
+The non-food inflation increased by 30 percent, while the inflation rate for food and 
+non-alcoholic beverages rose by 27.1 percent in September 2023 compared to the same month 
+in the previous fiscal year (Figures 1 &2). The relatively higher non-food inflation was due to 
+the more pronounced price increment in the major non-food components of the CPI. According 
+to ESS's data in September 2023, there was a significant increase in inflation rates in various 
+non-food items. Health spending saw a rise of 47.6%, housing, and utility inflation increased 
+by 36.3%, furnishings, household equipment, and routine maintenance of the house increased 
+by 34.2%, restaurants and hotels inflation increased by 28.5%, and clothing and footwear rose 
+to 27.3% from 15.4% in August 2023. These increments have played a significant role in the 
+rise of non-food inflation rates during the review quarter. 
+Looking at the underlying causes, the relatively higher non-food inflation could be due 
+to several factors. It can be explained by the shortage of foreign exchange limiting the volume 
+of imports of such goods. The critical shortage and difficulty of obtaining foreign exchange in 
+the formal market, which forces importers to rely on the black market, has made imports to be 
+priced at parallel market rates. As the gap between the official and black-market rates is over 
+100 percent, this has significantly raised the import prices of non-food items. Moreover, 
+domestically, there is limited supply as the local production of non-food items is not growing 
+in line with the growing demand. Additionally, the phased removal of fuel subsidies is the other 
+possible contributory factor for the higher non-food inflation. The relatively high non-food 
+inflation is thus due to the limited growth of domestic production and the acute shortage of 
+foreign currency. 
+ 
+Figure 2: Food and non-food inflation from Sep. 2022 to Sep. 2023 (year-on-year, %)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Computation based on ESS data 
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+6 
+There is considerable variation in inflation rates across regional states. According 
+to the regional inflation data from September 2023, Benishangul Gumuz, Addis Ababa, and 
+Afar had the highest headline inflation rates, standing at 45%, 38.5%, and 36.9%, respectively. 
+These regions also had the highest food inflation rates, with Benishangul Gumuz leading at 
+44.3%, followed by Afar at 37.3%, and Addis Ababa at 35.5% (Figure 3). The regional 
+differences in inflation rates may be associated with differences in supply shocks that disrupt 
+the supply chain, transportation costs, government spending, conflicts, and unrest. 
+ 
+Figure 3: Inflation at regional levels (year-on-year, September 2023)  
+ 
+ 
+Source: Computation based on ESS data  
+ 
+Inflation is significantly higher in Ethiopia compared to other Sub-Saharan 
+African countries and low-income nations. According to International Monetary Fund (IMF) 
+data, Ethiopia's average inflation rate was over 18% in the ten years leading up to 2023, higher 
+than the regional average of 10.6% for Sub-Saharan Africa and 11.7% for low-income nations. 
+With a headline inflation rate of 28.3 percent in September 2023, Ethiopia has also experienced 
+the highest inflation compared to its East African counterparts such as Rwanda and Kenya. The 
+corresponding inflation rates for Rwanda and Kenya at the end of 2023 were 5.7 and 6.5 
+percent, respectively (Figure 4).  
+Moreover, Ethiopia experienced one of the highest food inflations among Eastern 
+African countries. Food inflation across Eastern Africa averaged 17.3 percent as of September 
+2023 (World Food Project, 2023) while the comparative figure for Ethiopia was a staggering 
+26.1 percent. A comparison of the inflation rates in Ethiopia to the inflation rates in some SSA 
+countries and other regions is given in Figure 4. 
+Inflation has been one of Ethiopia's main macroeconomic issues over the last decade. 
+Several internal and external factors were shown to be the main causes of inflation in recent 
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+7 
+studies. Supply-side shocks like droughts, violence, and internal conflicts that continue to 
+disrupt the supply chain are inflationary (Degye et al., 2022; Deloitte, 2023). Of note is the 
+monetary financing of deficits, particularly the growing government borrowing from the 
+National Bank of Ethiopia (NBE) (direct advances) (Figure 12). Such monetization of deficits 
+significantly increased inflationary pressure because there has not been commensurate growth 
+in production and productive capacities. Perhaps, due to a series of internal and external shocks 
+Ethiopia faced in recent years, fiscal and monetary policies were relaxed to address and respond 
+to the situation (NBE, 2023). 
+ 
+Figure 4: Inflation in Ethiopia and selected countries and regions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Computation based on IMF data1 
+ 
+Moreover, the shortage and depletion of foreign exchange reserves, depreciation of the 
+birr, widening of premiums in the black markets that exceeded 100 percent, and the attendant 
+pricing of imports at the parallel market rate, which has led to expensive imports, have 
+contributed to the inflationary pressure. Though it is easing recently, evidence also shows that 
+cost-push factors of external origin attributable to a surge in world fuel, fertilizer, and food 
+prices have also contributed to the high inflationary pressure in the country (NBE, 2023). 
+Perhaps, on account of its net importer status, Ethiopia was particularly vulnerable to imported 
+inflation (Deloitte, 2023).  
+The high inflationary pressure in Ethiopia is the cumulative effect of the public-
+investment-driven growth model, heavy reliance on domestic borrowing, monetization of 
+deficits, and loose monetary and fiscal policies implemented in the recent past and now (UNDP, 
+2024), imported inflation, supply-side shocks and imprudent policies used by the government 
+to combat the inflationary pressure. In general, an assessment by the NBE (2023) suggests that 
+ 
+1 The data is available at: https://www.imf.org/external/datamapper/PCPIE_PCH@AFRREO/SSA/OEXP/OIMP 
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+8 
+Ethiopia's recent inflation surge is due to supply-side factors, cost-push factors such as external 
+shocks, and expansionary fiscal/monetary policy. 
+Inflation is still high because most government initiatives aimed at reducing 
+inflation have proven to be largely ineffective. The nation's high rate of inflation is a sign of 
+an unstable and unsteady macroeconomic environment. The government of Ethiopia has taken 
+several measures to combat inflation. The measures include Sunday markets that connect 
+producers and consumers directly, the Franco Valuta scheme, subsidies to essential 
+consumables, and tighter monetary policy put in place since August 2023, among others.  
+Recently, to combat inflation with its limited monetary policy tools, the National Bank of 
+Ethiopia (NBE) introduced a tighter monetary policy in August 2023. The monetary policy 
+measures put in place to reduce inflation include limiting the growth of bank credit to the 
+private sector at 14%, reducing NBE’s direct advances to the government to one-third of the 
+prior-year level, and raising the interest rate of NBE’s emergency lending scheme from 16 to 
+18 percent. While the impact of the latest policy measure is yet to be seen, measures taken by 
+the government to lower inflation so far remain largely ineffective. 
+The high inflation, particularly for essential food and non-food items, will continue 
+to worsen the poverty and food insecurity situation of the population. For East African 
+nations, Deloitte’s (2023) review associates inflationary pressures with high cost of living and 
+declining consumer demand in the region. An inflation rate that remains stubbornly high 
+suggests a high cost of living for Ethiopians. The stubbornly high inflation continued to affect 
+many Ethiopians' welfare and level of poverty. In particular, the country's significant domestic 
+food price inflation has made matters worse for those who are net consumers of food, food 
+insecure, and for the bulk of people working in the government and unprotected self-
+employment sectors, whose wages have been fixed. A study by the UNDP (2022) examined 
+the impact of rising inflation on household purchasing power and poverty headcount rates. 
+Evidence from a simulation analysis suggests that the rising inflation in the post-2020 period 
+was found to harm households’ purchasing power. Poverty has risen in Ethiopia due to the 
+rising cost of living, especially for food. The investigation suggested that rising poverty has 
+affected urban and war-torn areas the most. Moreover, according to Afrobarometer (2024), 
+Ethiopians reported increased poverty levels and worsening economic conditions in 2023 
+compared to 2020. 
+Ethiopia continues to grapple with high inflation. The most recent figures indicate a 
+slight slowdown compared to earlier quarters of 2023. The most recent monetary policy 
+measure issued by the NBE in August 2023 foresees to control inflation through a combination 
+of limiting credit expansion by commercial banks and government borrowing from the NBE. 
+Though forecasts are uncertain, inflation is expected to slow down in the future. However, the 
+outlook for the future depends on the efficacy of the newly introduced monetary policy 
+measure, global price developments, and the magnitude of depreciation of the birr. It also 
+depends on success in securing foreign currency to improve the official foreign exchange 
+reserves, and whether domestic supply chain disruptions linked with conflicts and other shocks 
+are addressed, among others. Given the fact that inflation is driven by a myriad of factors, it is 
+highly likely that the inflation rate will remain in double digits. 
+ 
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+9 
+4. 
+Public Debt 
+ 
+ 
+ 
+ 
+ 
+a. The State of Ethiopia’s public debt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a. State of Ethiopia’s Public Debt 
+Ethiopia is at a high risk of (external) debt distress. High debt levels raise concerns 
+about debt sustainability. Public debt in the country increased significantly over the last decade. 
+Ethiopia's public sector debt stock was USD 63.2 billion as of September 30, 2023, representing 
+38.7% of GDP. In terms of composition, it is made up of USD 35.5 billion in domestic debt 
+(21.7% of GDP) and USD 27.7 billion (17% of GDP) in external debt. This falls short of the 
+low-income countries' debt sustainability requirements, which are set at 40% for external debt 
+and 55% for total public sector debt. Examining the quarterly change, the total public sector 
+debt increased marginally by 0.05 percent on September 30, 2023, from USD 63.1 billion in 
+June 30, 2023, to USD 63.2 billion. This can be attributed to the fact that external debt 
+decreased by 1.2 percent although domestic debt rose by a meager 1.07 percent (Figure 5). 
+ 
+ 
+ 
+ 
+ 
+ 
+Key facts and figures 
+Ethiopia's public sector debt stock stood at USD 63.2 billion, representing 38.7% of 
+the GDP as of September 30, 2023. In terms of composition, it was made up of USD 
+35.5 billion in domestic debt (21.7% of GDP) and USD 27.7 billion (17% of GDP) 
+in external debt.  
+At $588.5, the average Ethiopian has a significant and increasing per capita debt 
+burden.   
+When examining the external debt by the lending entities, official creditors hold 82% 
+of the total debt. The remaining 18% of the debt is owed to private creditors.  
+Quarterly, the debt service to export ratio has declined from 54.6% in the fourth 
+quarter of the last Ethiopian fiscal year to 36.8% in the review quarter.  
+The debt service to export ratio is considerably high and persistently remained 
+above the IMF threshold level to consider the country’s debt repayment status at 
+moderate or low-risk status.  
+The debt service to revenue ratio, which stood at 32.7%, breached the recommended 
+threshold in the last IMF’s debt sustainability analysis (DSA).  
+Ethiopia is found at a high risk of external debt distress. 
+ 
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+10 
+Figure 5: Ethiopia’s public debt stock ($billion), QI, Jul-Sep 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Computation based on data from the Ministry of Finance 
+ 
+Compared to Ethiopia, Kenya had a debt-to-GDP ratio of 70.2%, which is far greater. 
+In the same quarter, the ratio of external debt to total debt in Kenya was 54.3 percent, while the 
+proportion of domestic debt to total debt was 45.7 percent in Kenya2.  Moreover, Ethiopia’s 
+debt-to-GDP ratio is also relatively small compared to low-income developing 
+countries. At about 88 percent of GDP in 2022, the latest IMF’s Global Debt Monitor 
+report shows that the level of debt in low-income developing countries was extremely 
+high. However, this seemingly lower debt burden for Ethiopia can be significant 
+considering the difficulties in effectively managing its debt in the face of high inflation, 
+currency depreciation, stagnant export earnings, and limited foreign exchange 
+generation capacity of the economy. Given the status of government revenue and foreign 
+exchange generation capacities, external debt servicing has become onerous for the 
+country. 
+The average Ethiopian has a significant and increasing per capita debt burden. 
+Between 2018/19 and the review quarter, the average Ethiopian per capita debt burden has 
+increased by close to 7 percent. In particular, the growth of the domestic per capita debt burden 
+has been significant since 2021/22. The average per capita public debt burden during the review 
+quarter that concluded in September 2023 was $588.5, although the nation's GDP per capita 
+was $1,787. Average Ethiopians per capita debt for the quarter was around 33% of their GDP 
+per capita (Figure 6). Even though it is rising, Ethiopia has a lesser per capita debt burden than 
+Kenya. During the same period, Kenya's per capita debt burden was $1330.63. 
+ 
+2 https://cytonn.com/topicals/kenyas-public-debt-5  
+3 It is computed based on data from Kenya’s National Treasury and Planning annual public debt management 
+report. 
+$27.70 
+$35.50 
+External debt
+Domestic debt
+$63.
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+11 
+Figure 6: Per capita public debt burden and GDP per capita (current prices), 2018/19-
+2022/23 and 2023/24, QI 
+Source: Computation based on Ministry of Finance (MoF) and IMF data 
+ 
+Multilateral, bilateral, and private creditors were the sources of external financing for 
+the government of Ethiopia. In the quarter’s review, it was found that 41.5% of the total 
+external debt is owed to the World Bank (IDA), followed by the Paris Club (24.2%) and 
+commercial creditors (11%). When examining the outstanding debt categorized by the lending 
+entities, it is observed that official creditors hold 82% of the total debt. Among them, 
+multilateral donors account for 54.4% and bilateral donors account for 27.4% of the total 
+external debt. The remaining 18% of the debt is owed to private creditors (Figure 7). 
+ 
+Figure 7: External debt outstanding ($27.7 billion) by lender category, QI, July-Sept 2023 
+(% of total external debt) 
+ 
+Source: Computation based on MoF data 
+41.5
+24.4
+11.1
+7.6
+3.6
+3.5
+2.9
+2.3
+1.5
+54.4
+27.4
+18.2
+0.0
+10.0
+20.0
+30.0
+40.0
+50.0
+60.0
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+12 
+Several factors have possibly contributed to the rise in the debt burden in the recent 
+past. The government's significant borrowing for financing public infrastructure projects, 
+military spending, and budget deficit has resulted in the mounting debt problem. One of the 
+primary factors contributing to the rise in public debt is the public investment-driven growth 
+model followed by the government that focused on higher public infrastructure investments 
+and state-owned enterprises. Perhaps, the heavy investment projects in infrastructure such as 
+Ethiopian Sugar Corporation, Ethiopian Railways Corporation, and Ethiopian Electric 
+Authority as well as building industrial parks that were part of the growth and transformation 
+plan (GTP) have immensely contributed to the debt burden of the nation. Evidence shows that 
+state-owned enterprises (SOEs) were also the main borrowers both from domestic and external 
+sources. During the review quarter, about 65% of the total debt stock was accounted for by the 
+central government while SOEs accounted for the remaining 35% (Figure 8). In general, as the 
+government has been persistently spending more than it mobilizes revenue, the attendant 
+budget deficit must be financed through borrowing from domestic as well as external sources. 
+Most importantly, the poor export performance, the growing foreign exchange needs, and the 
+resulting export-import gap necessitate external borrowing.  
+ 
+Figure 8: Public debts of SOEs (% total debt), QI, (July - September 2023) 
+ 
+Source: Computation based on MoF data  
+ 
+Despite the heavy borrowing to fund SOEs, some of the large investment projects have 
+not generated sufficient revenue to repay the debt. Even worse, some of the heavy public 
+investment projects, such as the Sugar Corporation, have failed miserably due to inefficient 
+project management systems and other factors. Aside from crowding out the private sector, 
+evidence suggests that some SOEs, for instance, the Sugar Corporation are overburdened with 
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+13 
+debt4. The failure of some SOEs in generating revenues and servicing their debts suggests the 
+need for improving efficiency in project implementation.  
+Defense spending along with debt servicing continued to surpass social spending. 
+The mounting debt stock is also the cumulative effect of recent conflicts that increases military 
+spending significantly, putting a strain on the country’s finances. Spending on defense has risen 
+considerably during the past four years. Ethiopia spent 127.3 percent more on the military in 
+2023/24 than it did in 2021/22 (Figure 9). In the 2023/24 approved budget, the four budget 
+lines with the highest allocation were debt servicing, roads, education, and defense. At close to 
+one billion USD (ETB 50 billion), the budget allocated for defense takes fourth place, with an 
+8.7 percent share (UNICEF, 2023). On the other hand, the budget allocated for social services 
+was only $682.4 million (ETB 37.24 billion) in the same budget year. It appears that part of 
+the explanation for the rising debt burden of the country is due to a spending pattern that 
+prioritizes military spending. 
+ 
+Figure 9: Defense spending (in Billion ETB), 2023   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Computation based on MoF data 
+ 
+The Ethiopian government is increasingly relying on domestic borrowing to 
+finance the growing budget deficit. Domestic debt accounts for more than half of the 
+country’s public debt. Of the overall debt of the public sector, domestic debt made up 56.2 
+percent while external debt accounted for 43.8 percent. With external financing options 
+severely constrained, the government is heavily relying on domestic sources and the deficit 
+ 
+4 The Commercial Bank of Ethiopia reportedly provided loans equivalent to more than $2 billion for expansion 
+and modernization projects. The latest estimates refer to an additional $2 billion in outstanding external debt 
+contracted by the corporation. Available at https://theconversation.com/why-ethiopias-showcase-sugar-projects-
+face-huge-challenges-122871    
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+14 
+continues to be financed mainly through domestic borrowing. External financing disbursement 
+has generally decreased in the past three years or so (Figure 18). Moreover, evidence from the 
+Ministry of Finance shows that during the quarter (July 1, 2023-September 2023), there were 
+no new loans signed. For this reason, reliance on domestic borrowing has increased during the 
+review quarter. A large portion of the burden of funding the budget deficit was borne by 
+domestic lenders. The government used a combination of Treasury Bills, mostly purchased by 
+pension funds and state banks, Treasury Bonds, which private banks bought in the amount 
+equivalent to 20% of their gross lending, and Direct Advances as the main domestic debt 
+instruments.  
+Data from the Ministry of Finance shows that the total outstanding treasury bills 
+increased by 8.75 percent to $2.66 billion [ETB 371,768.35 million] during the review quarter, 
+up from $6.2 billion [ETB 341,869.53 million] in the earlier quarter. Borrowing from the 
+central bank stood at $2.66 [ETB 147] billion in the review quarter (Figure 10). Since the stock 
+of domestic debt is already high, it may leave little room for debt to serve as a key source of 
+financing for deficit and development. 
+ 
+Figure 10: Composition of domestic debt outstanding by instrument type (% of the total 
+public domestic debt), QI, (July - September 2023)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Computation based on MoF data 
+ 
+The structure and size of Ethiopia's public debt appear to reflect its political and 
+diplomatic ties with the West and affiliated international financial institutions. Soaring 
+diplomatic relations with the West and multilateral development partners that intensified in 
+2020 on account of the conflict in Northern Ethiopia have contributed meaningfully to the 
+decline in foreign financial flows5 (Figure 18). For instance, according to Reuters, in January 
+ 
+5 According to Adem’s (2021) commentary on Foreign Policy magazine, the relationship between the West and 
+Ethiopia’s government is now low( https://foreignpolicy.com/2021/11/10/why-ethiopia-should-trust-the-west/)..  
+32%
+2%
+19%
+8%
+39%
+Government bonds
+Medium term bonds
+Treasurby bills
+Direct advance
+SOEs
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+15 
+2021, the EU suspended its budgetary support after it accused the federal government of 
+restricting the access of aid organizations to the Tigray region6. This has forced the government 
+to rely heavily on domestic borrowing, including borrowing from the NBE with implications 
+for inflation and local currency weakening. As a result, dependence on domestic borrowing has 
+considerably increased in the post-2020 period. In 2020/21, domestic borrowing accounted for 
+47.7 percent of total public debt. This share has increased to 56.2 percent in the first quarter 
+(July - September 2023), suggesting significant reliance on domestic borrowing (Figure 11). 
+ 
+Figure 11: Share of domestic borrowing in public debt (%), 2018/19-2023/24 (QI) 
+ 
+Source: Computation based on MoF data 
+ 
+The magnitude of direct advances (government’s borrowing from the NBE) increased 
+dramatically. The government's borrowing from the National Bank of Ethiopia (NBE) 
+increased by 374.2% during the review quarter compared to the pre-war period in 2019/20. 
+When looking at the quarterly change, direct advances increased by 13% from $2.3 billion on 
+June 30, 2023, to $2.66 billion on September 30, 2023 (Figure 12).  
+ 
+6 Available at: https://www.reuters.com/article/us-ethiopia-conflict-eu/eu-suspends-ethiopian-budget-support-
+over-tigray-crisis-idUSKBN29K1SS/  
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+16 
+Figure 12: The trend of direct advances (Government borrowing from the NBE),  
+million ETB  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Computation based on MoF data 
+ 
+To finance its military spending and handle the worsening fiscal position due to the 
+decline in foreign financial flows following the conflict, the government resorted to substantial 
+domestic borrowing. In fact, before slowing down in 2023/24, the amount of domestic debt 
+owed by the central government increased significantly between 2020/21 and 2023/24. On 
+average, the central government's debt grew by more than 19% annually during this period. 
+Such borrowings may fuel inflationary pressure. To ease the inflationary effect of deficit 
+financing through heavy domestic borrowing, it is advisable to mobilize higher domestic 
+revenue and renew ties with development partners to increase foreign aid flows, at least, closer 
+to the level attained in the pre-2020/21 period. This will also be critical in resorting to a non-
+inflationary means of financing deficit and expanding fiscal space. 
+Amid dented external official funding, there has been an overreliance on Bank advances 
+and Treasury Bills to finance the budget deficit. Perhaps, the government has tried to manage 
+the growing budget deficit with the domestic resources at its disposal. However, deficit 
+financing through domestic borrowing, particularly direct advances, is often inflationary and 
+may crowd out private investment. The rise in the amount of national debt that is accounted for 
+by the central government correlates with inflation. In particular, the inflationary pressure was 
+higher in 2021/22 and 2022/23 when the government's domestic debt growth peaked. Perhaps 
+borrowing from the central bank is usually considered a last resort due to the potential 
+inflationary risks in a country with limited growth of productive capacity. Moreover, 
+monetization of the deficit through direct advance, which implies money printing by the NBE, 
+contributed to currency depreciation and the rising domestic debt of the government. In 
+contrast, deficit financing that relies more on Treasury Bills (bought mainly by the state bank 
+and pension funds), and Treasury Bonds (purchased by private banks in amounts equal to 20% 
+of their gross lending) would be key to reducing inflation.  
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+17 
+b. 
+Ethiopia’s Debt Sustainability Analysis 
+Ethiopia is at high risk of debt distress. Concerns about long-term debt sustainability 
+arise due to high debt levels, limited debt servicing capacity, and dwindling foreign exchange 
+earnings. The current public debt to GDP ratio of 38.7% is lower than IMF’s debt sustainability 
+requirements for low-income countries, which are set at 40% for external debt and 55% for 
+total public sector debt. There is debt liquidity rather than a solvency problem. Although 
+Ethiopia's solvency is not at risk given the present ratio of its total debt stock to GDP, Ethiopia’s 
+risk rating is high in terms of external debt sustainability.  
+There is a risk embedded in the external debt service to export and debt service to 
+revenue ratios. Given the problem of liquidity in the country, external debt levels are high, 
+raising concerns about repayments. The present value of the external debt-to-export ratio of 
+199% is significantly higher than the 180% threshold. The external debt service to export ratio 
+reached 36.8% during the review quarter. Though it decreased from 54.6% in the previous 
+quarter, this is above the threshold requirement of 15%. Due to the decline in the stock of 
+external debt disbursements related to the significant drop in external loans, according to 
+UNDP (2022), the debt service to exports ratio has fallen in the past two years. Notwithstanding 
+this, it is still above the required threshold to improve the classification to moderate or low-risk 
+status. 
+Additionally, at 32.7%, the other key indicator of the country’s liquidity, the external 
+debt service to revenues ratio, is above the IMF recommended threshold of 18 percent (Table 
+3). This indicates that about 33 percent of the government’s revenue is devoted to servicing 
+debt, leaving limited fiscal space for other key activities, such as social protection programs, 
+public investments, roads, etc. The existing liquidity indicators (debt service to export ratio and 
+debt service to revenue ratio) breached the recommended threshold in the last IMF’s debt 
+sustainability analysis (DSA). Table 2 shows the debt sustainability thresholds used for 
+assessing Ethiopia’s external debt sustainability.  
+ 
+Table 2: Debt sustainability analysis indicators 
+Indicators  
+Ethiopia (%) 
+Thresholds (%) 
+Present value of total public debt to GDP 
+34.9 
+55 
+Present value of external debt to GDP 
+13.1 
+40 
+Present value of external debt to exports 
+199 
+180 
+External debt service to exports 
+36.8 
+15 
+External debt service to revenues* 
+32.7 
+18 
+Note: *Due to a lack of revenue data for the quarter, the external debt service to revenue ratio statistics 
+is based on the available figure for 2022/23 
+Source: Computation based on MoF data and International Monetary Fund, Article IV 2019 
+ 
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+18 
+The rising public debt has raised concerns over its sustainability and implications 
+for fiscal and overall macroeconomic stability. Concerns have been raised over whether the 
+government would be able to pay back the external debt as the nation failed a $33 million 
+interest payment on its $1 billion Eurobond in December 2023 and the USD 1 billion Eurobond 
+is due to mature on December 11, 2024. This is because the country's nearly $28 billion external 
+debt must be paid in foreign currency, placing more pressure on the public debt situation, which 
+is already worsening due to high fiscal deficits and the significant depreciation of the local 
+currency over the past six years, which has decreased by roughly 58% relative to its value in 
+2019/20. 
+Government spending prioritized debt servicing over social spending with 
+implications for investments in welfare and social protection programs. The 2023/24 
+budget proclamation prioritizes the repayment of public debt above all other expenditures. The 
+analysis of the budget shows that the share of the government budget that goes toward financing 
+debt climbed from 22.3 percent in 2022–2023 to 27.8 percent in 2023–2024. For instance, 
+between 2019/20 and 2022/23, on average, Ethiopia has paid over $1.96 billion annually on 
+external debt servicing. The budget needed to pay down debt is rising because of the growing 
+budget 
+deficit 
+brought 
+on 
+by 
+higher 
+defense 
+expenditures 
+and 
+emergency 
+response/humanitarian assistance for population hit by shocks like drought and violence. This 
+increasing expenditure burden has resulted in increased borrowing, pushing the economy into 
+a high risk of debt distress (UNICEF, 2023). 
+ 
+Table 3: Debt servicing by quarter (million USD) 
+ 
+Principal 
+Interest 
+Total debt service 
+QII Oct-Dec 2022 
+296.95 
+97.51 
+394.46 
+QIII Jan-Mar 2023 
+206.40 
+71.42 
+277.82 
+QIV Apr-Jun 2023 
+415.79 
+125.12 
+540.91 
+QI Jul-Sep 2023 
+242.69 
+64.27 
+306.96 
+Source: Ministry of Finance  
+Looking at the debt servicing during the review quarter, the country has paid close to 
+$307 million on external debt servicing. About 79% of the total amount was paid in principal 
+while the remaining balance covered interest and fees associated with servicing the external 
+debt. Around 54% of the debt was paid by state-owned enterprises, and the central government 
+paid the remaining 47%. During the review quarter, the amount spent on debt servicing was 
+$234 million lower than the amount spent in the previous quarter (Table 3). It is anticipated 
+that there will be a further decrease in the upcoming quarters due to the decision made by the 
+Official Creditor Committee (OCC) under the Paris Club to suspend the payment of 
+government-guaranteed debt, including both the principal and interest, that is owed to OCC 
+members. This suspension is slated to take place between January 2024 and December 2025.  
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+19 
+Figure 13: Quarterly debt service to export ratio 
+Source: Computation based on MoF and Ethiopian Customs Commission data 
+ 
+The growing liquidity problem facing the country is portrayed by the high quarterly 
+debt service to export ratio. This suggests that a larger proportion of the country’s export 
+earnings are going towards servicing external debt, which can limit resources available for 
+import spending and improving the foreign exchange reserves. The debt service to export ratio 
+has declined from 54.6% in the fourth quarter of the last Ethiopian fiscal year to 36.8% in the 
+review quarter (Figure 13 / Table 4). Notwithstanding this, the ratio is considerably high and 
+persistently remained above the IMF threshold level (15%) to consider the country’s debt 
+repayment status at moderate or low-risk status (Figure 13). 
+ 
+Table 4: Debt service to export ratio by quarter  
+ 
+Debt service 
+(Million USD) 
+Exports 
+(Million USD) 
+Debt service to 
+export ratio (%) 
+IMF 
+threshold (%) 
+Oct-Dec 2022 
+394.46 
+571.6 
+69 
+15 
+Jan-March, 2023 
+277.82 
+873.5 
+31.8 
+15 
+April-June, 23 
+540.91 
+990.0 
+54.6 
+15 
+July-Sep. 2023  
+306.96 
+833.1 
+36.8 
+15 
+Source: Computation based on MoF and NBE data 
+ 
+Ethiopia is facing difficulty paying off its external debts due to a growing liquidity 
+problem. There is evidence that during different points in time, the inflow of foreign resources 
+is significantly less than the outflow of external debt. For example, because the total debt 
+service payment (principal and interest) exceeded the disbursement for the quarter, the net 
+resource transfer was negative for the review quarter. In other words, a net resource transfer of 
+USD -155.25 million was made by the country when the principal and interest payments were 
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+20 
+deducted from the disbursements made by creditors of external sources (inflow). More 
+recently, Ethiopia failed to make a $33 million interest payment on its $1 billion Eurobond in 
+December 2023. It became the third African country following Zambia and Ghana to default 
+on its international debts. Consequently, Ethiopia has been categorized as being at a high risk 
+of debt distress. Fitch Ratings downgraded the country’s credit rating to ‘C’ and the Eurobond 
+to ‘restricted default’ after a grace period expired for a payment due on December 11, 2023, 
+due to the high risk involved in external debt repayment. For this reason, the country must 
+negotiate its external debt servicing obligations, create fiscal space for development, and 
+reduce pressure on external accounts7. 
+ 
+Figure 14: Tax revenue (% GDP) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Computation based on IMF data  
+In general, the country's rising debt problem is due to persistent current account deficits 
+resulting from poor export performance and increased spending on imports (Figure 15). 
+Moreover, it was due to a significant fiscal deficit. Ethiopia's fiscal deficit was 2.9% of GDP 
+in 2023. Faced with the significant resource gaps [export-import and revenue-expenditure], the 
+nation’s (public) investment and growth have been financed mainly through domestic and 
+external borrowing. Moreover, the tax-to-GDP ratio of the country is insufficient to support 
+essential spending and fiscal sustainability, let alone finance growth-enhancing investments. 
+At 8.53%, the tax revenue to GDP ratio is lower than its SSA peers such as Kenya (17.18%) 
+(Figure 14). For this reason, during the current fiscal year, the government plans to cover 40% 
+ 
+7 There have been discussions with the G20 on possible debt restructuring under the Common Framework to 
+reduce debt vulnerabilities (UNDP, 2022). Moreover, since Ethiopia is a G20 DSSI eligible country that has signed 
+a Memorandum of Understanding with the Paris Club Secretariat on DSSI related to Paris Club Countries and 
+Non-Paris Club Countries, was not required to make any external debt service payments to its bilateral creditors 
+of central governments following the G20 DSSI during the period (May 1, 2020 - June 30, 2021). It has suspended 
+the central government's external debt service obligations to its bilateral creditors, which amount to USD 216.0 
+million, as a DSSI-eligible country (Ministry of Finance, 2023). 
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+21 
+of its budget through domestic borrowing and 10% through external borrowing. The debt 
+distress, which is one of the key macroeconomic challenges, may signal that the limit to the 
+public debt-induced growth model followed by the country is already reached. Thus, there is a 
+need to balance development financing and debt sustainability in Ethiopia, so that public debt 
+shall be maintained at the right level. 
+Figure 15: Current account deficit, public debt, and inflation  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Computation based on IMF data 
+ 
+ 
+ 
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+22 
+5. 
+Exchange Rate Developments 
+ 
+ 
+The exchange rate of birr against major currencies is not only weakening but also 
+highly misaligned. Ethiopia’s currency continued to be weak against major currencies. 
+Looking at the yearly evolution of the exchange rate, the birr has depreciated nearly by 58% 
+between June 30, 2020, and September 30, 2023. This suggests that the local currency has been 
+depreciating by 19.3 percent on an annual basis.  The exchange rate has risen from ETB 53.6 
+to 55.2 per dollar between January and September 2023 (Figure 16). Moreover, the exchange 
+rate remains misaligned as depicted by the large gap between the official and black-market 
+exchange rates. Data from the review quarter shows the official market rate for the birr was 
+55.2 per dollar, while the parallel market traded, on average, at over 112 birr per dollar (Table 
+5). This gap discourages using official market channels for currency exchange in the country. 
+ 
+Table 5: Exchange rate in the official and parallel market  
+ 
+June 30, 2020, 
+QIV 
+30-Jun-2023 (QIV (A) 30-Sep-2024 (QI) 
+(B) 
+Official Exchange rate 
+34.98 
+54.59 
+55.22 
+Parallel exchange rate 
+44.3 
+102.8 
+112.2 
+Black market premium 
+9.32 
+48.2 
+56.97 
+Source: Computation based on MoF, https://www.exchangerates.org.uk/USD-ETB-spot-exchange-
+rates-history-2023.html and https://ethioblackmarket.com  
+ 
+The high exchange rate misalignment is one of the biggest distortions harming the 
+nation’s economy. The exchange rates in Ethiopia's official and parallel foreign exchange 
+markets are now significantly diverging. The gap between the official and parallel market 
+exchange rates has persisted over the past several years and has gradually widened to over 
+100% in recent months. Table 5 indicates a rise in black market premium from ETB 9.32 only 
+on June 30, 2020, to ETB 48 on June 30, 2023, to a staggering ETB 57 in the review quarter 
+Key facts and figures 
+The exchange rate of the birr against major currencies is weakening and highly misaligned.  
+The Birr has depreciated nearly by 58% between June 30, 2020, and September 30, 2023.  
+The local currency has depreciated by 19.3 percent annually over the past three years.  
+The gap between the official and parallel market exchange rates has persisted over the past 
+several years and has gradually widened to over 100%. 
+The issue of foreign exchange shortages has recently worsened due to a significant decline 
+in foreign financial flows such as official development assistance and remittances over the 
+past few years. 
+ 
+ 
+ 
+ 
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+23 
+(Table 5 and Figure 16). The main causes of the parallel premium are rising demand for foreign 
+currency for import expenditures, the acute shortage of foreign exchange in the formal sector 
+and critical depletion of foreign exchange reserves, prioritization of external debt servicing by 
+the government, and declining confidence in Ethiopia's (formal) economy.  
+ 
+Figure 16: Official and Parallel Exchange Rates (Birr/USD), January-September 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Computation based on https://www.exchangerates.org.uk/USD-ETB-spot-exchange-rates-
+history-2023.html and https://ethioblackmarket.com  
+ 
+The Ethiopian birr has seen a significant depreciation against the US dollar and other 
+major currencies in recent times. Studies identified several contributory factors to the ongoing 
+depreciation of the local currency. The major ones include increased imports to the country, 
+high and rising demand for foreign currency (US dollar) (Deloitte, 2023), acute shortage of 
+foreign currency, depletion of foreign exchange reserves, loose monetary policy, and 
+monetization of deficits (printing of money). All these have contributed to the weakening of 
+the birr against major foreign currencies.  
+Although Ethiopia has been facing foreign exchange shortages for a long time, the issue 
+has recently worsened due to a significant decline in foreign financial flows (remittances, 
+foreign aid, export earnings) over the past few years. An important factor that adds a strain on 
+foreign exchange availability has been the considerable drop in remittance inflow through 
+official channels. Many remittance providers transfer foreign currency using channels outside 
+the formal banking system. Ethiopians living abroad send foreign currency to intermediaries 
+who pay their chosen recipient in Ethiopia with local currency at the black-market rate. Figure 
+17 shows the clear divergence in the magnitude and growth of remittance to Ethiopia and 
+Kenya after 2016. In the post-2016 period, Ethiopia has experienced a significant decrease in 
+the amount of remittance inflow through the banking system while Kenya's remittance has been 
+growing rapidly.  
+ 
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+24 
+Figure 17: Remittance flow (USD million) to Ethiopia and Kenya (2014-2023) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Computation based on KNOMAD data 
+ 
+Some of the explanations for the foreign exchange shortage are also linked to the 
+cumulative effect of the lower external financial flows. In particular, the conflict that broke out 
+in northern Ethiopia in 2020 has led to a considerable reduction in the size of foreign aid and 
+loans from bilateral and multilateral sources, foreign direct investment inflows, tourism, etc. 
+For instance, official development assistance (ODA) inflows have declined significantly in 
+recent years. In 2020, ODA received amounted to $5.6 billion, which decreased to $4 billion 
+in 2021 and then increased again to $4.9 billion in 2022. However, this is still lower than the 
+amount received in 2016/17 (Figure 18). FDI in Ethiopia has been declining in the last three 
+years. For instance, it was estimated to decrease by 13% in 2023, from USD 4.2bn in 2021. 
+The drop in FDI is possibly linked to internal conflicts and foreign exchange shortages 
+considering the difficulty in convertibility of the Ethiopian birr (Deloitte, 2023). 
+The shortage of foreign exchange is also associated with the weakening export 
+performance as indicated by the tiny size and sluggish growth of export earnings, the 
+continuous increase in import expenditure, and the resultant growth of the trade deficit (Figure 
+19). The current account deficit widened from $4.5 billion in 2021 to an estimated $5.9 billion 
+in 2023 (Deloitte, 2023). Data from the Ethiopian Customs Commission indicate that total 
+export proceeds declined by about 16 percent from $990 million in the fourth quarter of 
+2022/23 to $833 million during the review quarter. Moreover, large government imports, 
+including fuel, machinery, and food items are additional factors that further strain the depleting 
+foreign exchange reserves.  
+ 
+ 
+ 
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+25 
+Figure 18: Trend of official development assistance (ODA) disbursements  
+(US dollars, millions)  
+ 
+Source: Computation based on OECD data 
+ 
+World Bank’s data show that Ethiopia’s total reserves were sufficient for two months 
+of imports in 2020. During the review quarter, however, anecdotal evidence suggests that the 
+country's foreign currency reserves amount to approximately $0.9 billion, which is sufficient 
+to cover only 0.7 months (21 days) of imports. This is significantly lower than the traditional 
+rule of thumb for foreign exchange reserves, which are commonly set at 3 months of imports. 
+On the other hand, Kenya’s official foreign exchange reserves stood at $6.5 billion in May 
+2023, sufficient to cover 3.6 months’ worth of import cover (Deloitte, 2023). The critically low 
+foreign currency reserves are creating pressure in the foreign exchange market and widening 
+the black-market premium. This may pressure the government to seek alternative funding and 
+exchange rate mechanisms and regimes. 
+The continuous depreciation of the local currency against major currencies leads to 
+higher inflation rates since the country heavily relies on imports of crucial items such as 
+cooking oil, fuel, and other inputs (Deloitte, 2023). Moreover, the huge divergence in the 
+official and black-market rates is contributing further to higher commodity prices. Since 
+importers are using the black market to obtain foreign exchange, in most cases, imports are 
+priced at the black-market/parallel exchange rate. Such traders who acquire foreign exchange 
+from the parallel market at inflated costs raise prices to maintain their profit margins. The 
+depreciation of the birr against major currencies and the huge black-market premium are 
+contributing to the upward trend in prices across the market and remain important in fueling 
+inflationary pressure. This suggests that the economy is distorted and needs to be addressed. 
+ 
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+26 
+Figure 19: Trend of export revenue and import (billion USD), 2014-2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Computation based on World Bank’s World Integrated Trade Solution 
+ 
+It appears that the depreciation of the local currency along with limited and falling 
+foreign exchange reserves remain significant risks in fueling the inflationary pressure. One of 
+the main issues is the misalignment of the exchange rate. However, simply devaluing the 
+currency or letting the market force a depreciation may not solve the problem due to the 
+complex and deep-rooted causes of the foreign exchange shortage and currency depreciation. 
+Furthermore, devaluation or market-induced depreciation can lead to inflation and may cause 
+more harm than good. Previous attempts to weaken the birr through policy or market forces 
+have not been effective, leaving the government with limited options. 
+To address the foreign exchange shortage, in the short term, improving external 
+assistance and grants, at least, to the level where it was between 2018-2020 is crucial. This can 
+be realized through negotiations and building strong relationships with multilateral funding 
+organizations and improving ties with development partners is vital to reverse the critical 
+depletion of foreign exchange reserves. In the medium-to-long term, policy measures such as 
+increasing the value and diversity of exports and improving local production capacity to reduce 
+import dependency may be necessary to generate more foreign exchange revenue and improve 
+the foreign exchange reserve of the country. Implementing devaluation or allowing free 
+market-induced exchange rate depreciation and/or aligning the official rate with the black-
+market exchange rate may further worsen the problem, and hence should be avoided, at least, 
+for the present. 
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+27 
+6. 
+Concluding Remarks 
+ 
+The Ethiopian economy is facing several challenges that are impacting its 
+macroeconomic stability. Over the past few years, the economy has shown signs of 
+vulnerability and an accumulation of risks that have recently worsened. High debt burden and 
+external debt servicing, continued depreciation and misalignment of the exchange rate, 
+shortage of and dwindling foreign exchange reserves, high and rising inflationary pressure, and 
+limited fiscal space are a few of these.  
+Inflation in the country has remained persistently high, at 28.4% during the review 
+quarter, reflecting the combined impact of the conflicts, currency depreciation, exchange rate 
+misalignment, monetary financing of deficits, drought, and global developments. Non-food 
+inflation remained high relative to food inflation due to the high inflation in housing and 
+utilities, health, clothing and footwear, and hotels and restaurants, among others. 
+Most of the policy measures and initiatives aimed at reducing inflation have proven to 
+be largely ineffective. Unless controlled, the high inflation, particularly for essential food and 
+non-food items, will continue to worsen the poverty and food insecurity situation for consumers 
+of food and vulnerable populations. Moreover, aside from its welfare consequences, it has 
+implications for the fiscal position of the government. As the government is undertaking 
+multiple investments in the country, inflation tends to affect public finances and may aggravate 
+the fiscal imbalance. 
+Along with effectively implementing the recent monetary policy measure taken by the 
+NBE, boosting domestic production and productive capacities, addressing internal conflicts, 
+reducing domestic borrowing particularly direct borrowing from the NBE, cutting military 
+spending, and correcting the exchange rate misalignment are some of the measures at the heart 
+of addressing inflation and the overall macroeconomic problems facing the country. Since 
+internal violence and conflicts have been observed to fuel inflation, the government and other 
+concerned bodies need to resolve the problem. 
+Ethiopia faces serious problems with inflation and debt sustainability, and to maintain 
+long-term financial stability and foster growth, the government needs to focus on lowering 
+inflation and renegotiating debt. Since the country’s ability to service its debt will largely 
+depend on an increase in foreign exchange earnings, securing more foreign currency through 
+ODA, and promoting remittances and exports is critical. As the foreign exchange inflows 
+improve, the birr is expected to stabilize and thereby reduce the black market premium and the 
+inflationary pressure. The widening black-market premium, which has led to the reduction of 
+foreign financial flows such as remittances through official channels and elevated prices of 
+imports, is also a cause for concern. Perhaps, the declining remittance flow through the banking 
+system and channeling through the black market needs serious attention as it is draining the 
+foreign exchange availability in the country.  
+The government is facing challenges in public debt management due to low tax revenue 
+mobilization, a drop in foreign financial flows, high interest on loans from private creditors, 
+and relaxed spending by the government in response to a series of internal and external shocks 
+such as COVID-19, conflicts, etc. As one of the major culprits of the debt problem is military 
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+28 
+spending, the government needs to reduce military spending (where possible) and focus on 
+social services spending and investment in public infrastructure. Otherwise, the present high 
+debt stocks will tend to limit government consumption and public investment in infrastructure, 
+human capital, and social protection programs. In addition, the country must reduce its external 
+debt servicing obligations through negotiations to create fiscal space for development 
+endeavors and relieve the growing pressure on its external accounts. 
+Quarterly Macroeconomic Update    
+Volume 9, Number 01  
+April 2024 
+ 
+29 
+References 
+Afrobarometer. 2024. Afrobarometer Round 9 Survey in Ethiopia: Summary of results. 
+Afrobarometer. 
+Deloitte. 2023. East Africa Macroeconomic Outlook Volume IV. Nairobi: Deloitte. 
+Goshu, D., A. Shumetie, L. Tariku, and D., Getachew. 2022. Inflation and the Ethiopian 
+Economy: Constraints, Drivers, Costs and Policy Options. Addis Ababa: EEA. 
+Ministry of Finance. 2023. Public Sector Debt Statistical Bulletin, Bulletin No. 47. Quarterly, 
+Addis Ababa: MoF. 
+National Bank of Ethiopia. 2023. MONETARY POLICY STATEMENT. Press Release, Addis 
+Ababa: NBE. 
+UNICEF. 2023. Ethiopia: Highlights of the 2023/24 Federal Government. UNICEF. 
+United Nations Development Program (UNDP). 2024. Ethiopia: Quarterly Economic Profile. 
+UNDP. 
+________. 2022. Crisis, Resilience, and Opportunity: Poverty, Human Development, and the 
+Macroeconomy in Ethiopia, 2020-2023. Working Paper Series, UNDP. 
+World Food Project. 2023. Eastern Africa Market and Trade Update. World Food Project. 
+ 
+ 

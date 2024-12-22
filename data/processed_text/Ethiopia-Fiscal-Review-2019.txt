@@ -1,0 +1,1832 @@
+ 
+ 
+ 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and 
+does not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+ 
+ 
+ 
+We put together a data pack on Ethiopia’s recent fiscal performance, focusing 
+on revenue performance over the past few years (including so far this year) 
+and also taking a detailed look at the composition of government spending 
+for the current budget year.  
+ 
+Revenue Performance 
+ 
+§ 
+Revenue performance: While conventional indicators of revenue collection 
+in Ethiopia suggest a weak performance, a closer look at the data shows 
+significant progress registered in recent years as well as a reasonably good 
+record if one takes into account untaxed portions of the economy 
+(agriculture) and tax incentives granted (by intent) for investment 
+promotion purposes.  For this year, while import-related taxes are flat or 
+falling (as fx constraints are holding back import growth), taxes linked to 
+domestic activity are showing strong growth and record levels of collection. 
+ 
+o Government revenue is up from Birr 30bn ten years ago to Birr 
+270bn last year, a 9x jump over ten years. Growth rates in nominal 
+terms have averaged 22 percent per year over the past ten years, 
+while  the number of tax payers has crossed 550,000 as of 2018. 
+Specific revenue line-items with particularly strong yearly growth 
+over the past decade include include domestic indirect taxes (28 
+percent annual growth), direct taxes (26%), and non-tax revenue 
+(24%) (see Table 1). 
+ 
+o Ethiopia’s revenue-to-GDP of just 12.2 percent (for FY 2017-18) is 
+indeed low in a cross-country context, but a more appropriate 
+measure of revenue performance is better captured by revenue to 
+non-agricultural GDP, given that the agricultural sector remains 
+essentially untaxed per long-standing practices. Accounting for this, 
+revenue is around 23 percent of adjusted GDP, and much closer to 
+the norms seen in other African countries (see Tables 2 and 3). 
+ 
+o In addition, the extent to which one large foregone revenue item—
+tax incentives for investors—understates revenue figures is often 
+not well recognized. The World Bank’s detailed 2016 Public 
+Expenditure Review finds tax exemptions and incentives have cost 
+as much as 4 to 5 percent of GDP per annum in recent years, and 
+adding back such exemptions would yield underlying revenue 
+ratios—all else equal—of near 16-17 percent of GDP. 
+Ethiopia’s Recent Fiscal Performance:  
+A Data Pack and some observations 
+ 
+  
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+  RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the 
+Cepheus research team and does not necessarily reflect the views or opinions of 
+the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+2 
+o For the current 2018-19 fiscal year, six month data show just a 9 
+percent increase in revenue on a year-on-year basis, suggesting a 
+slight decline in real terms (inflation was ~10 percent over the same 
+period). However, a decomposition of the revenue data shows that 
+it is import-related tax receipts that are showing a large drop (a 7% 
+decline), reflecting flat/falling imports across many categories due 
+to fx constraints. Excluding import-related items, tax collections 
+linked to domestic economic activity are actually up by 20 percent, 
+suggesting robust growth in both nominal and real terms (Table 4). 
+ 
+o Finally, looking at budget-related external grants, Ethiopia’s record 
+shows comparatively low reliance on such funds. In Birr terms, 
+grants have risen from 13.1 bn to 17.9 over the past ten years, but 
+this amounts to a decline in USD terms (from USD 1.1bn to USD 
+0.7bn) and a significant decline relative to the size of the economy 
+from 4.1 to 0.8 percent of GDP (see Table 5) . Relative to African 
+countries at similar per capita income, Ethiopia also stands out for 
+an unusually low grant-to-GDP ratio from a cross-country context.  
+ 
+Taken all together, the above indicators suggest that revenue collection 
+may not be as weak as is commonly perceived. While the full range of 
+revenue mobilization efforts currently underway remain largely 
+approapriate—including efforts to expand the tax net, formalize business 
+transactions, reduce evasion, and collect unpaid dues—it is equally worth 
+recognizing the significant progress made to date and the relatively good 
+standing seen after accounting for exempted sectors, policy-driven tax 
+incentives and fx-related constraints. Moreover, with respect to grants, 
+Ethiopia’s budget is currently a comparatively low recipient of such inflows, 
+and there is potentially a significant scope for increases in this line-item 
+following the closer re-engagement with external donors over the past year.   
+ 
+Budget expenditure 
+ 
+§ 
+Government spending—the conventional breakdowns:  Per the annual 
+budget document, government spending breakdowns are presented across 
+four categories: (1) current spending; (2) capital spending; (3) subsidies to 
+regions; and (4) support for MDGs. The first two items—current and capital 
+spending—are further categorized into four sub-items: general services, 
+economic services, social development and others.   A breakdown on this 
+(summary budget presentation) basis is presented in Table 6. 
+ 
+§ 
+Government spending—detailed line items: Based on a more detailed 
+itemization of the Federal Budget passed by Parliament in June 2018, we 
+present a more dis-aggregated view of this year’s budget that includes the 
+allocations for the specific public agencies and/or government institutions 
+ 
+  RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the 
+Cepheus research team and does not necessarily reflect the views or opinions of 
+the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+3 
+involved. For easy reference, we also tabulate the top 10 general 
+expenditure items based on this dis-aggregated budget view  
+ 
+o From the total government expenditure of Birr 347bn as passed in 
+the June 2018 budget, Birr 205bn are funds allocated by the federal 
+government for current and capital expenses (see breakdowns in 
+Table 7), while the remaining Birr 142bn represents lump-sum 
+transfers to regions and MDG allocations. 
+ 
+o A breakdown of the Birr 205bn for the federal general budget 
+shows the following Top 10 items (see Table 8): 
+§ 
+Roads remain the single largest budget item, per the norm 
+in recent years, receiving Birr 39bn in funds for FY 2017-18.  
+§ 
+Universities are seen to receive a nearly identical amount 
+as roads (Birr 37bn), spread out over 45 institutions, and 
+with some of the largest recipients (eg AAU) getting almost 
+Birr 2bn in annual allocations while the median size 
+allocated to universities stands at Birr 800mn per year.  
+§ 
+Debt service comprises the third largest federal 
+expenditure allocation, at Birr 22.5bn, with around two-
+thirds of this paid out to external lenders. 
+§ 
+Defense spending makes up the fourth largest recipient at 
+Birr 15 bn, equivalent to 0.6% of current year GDP. 
+Together with security-related allocations (Birr 6.7bn), 
+these two areas receive a combined Birr 21.7bn in funds.  
+§ 
+Three key economic sectors make up the 5th, 7th, and 10th 
+largest budgetary recipients within the Top 10, given the 
+following allocations for Agriculture (Birr 14.0bn), Energy 
+(Birr 12.3bn), and Industry (Birr 6.4). 
+§ 
+Health allocations, at Birr 10.8bn make up the 8th largest 
+recipient within the Top 10, and the second largest social 
+sector allocation after universities/education. 
+§ 
+Finally, what may be termed administrative and overhead 
+outlays of the federal government collectively received Birr 
+13.7bn, or the 6th largest allocation within the Top 10. 
+Conclusion 
+ 
+While Ethiopia’s budget performance often generates weak headline numbers 
+in certain areas (e.g. revenue ratios), a closer look at the figures shows some 
+underlying strengths and qualities. Most notably, revenue collection has shown 
+consistent growth over the years in line with the macroeconomy and stands at 
+a reasonable share of the relevant GDP, while government spending allocations 
+and priorities have been and remain of substantially good quality, oriented as 
+they are towards key public goods such as roads, higher education, and growth-
+enhancing investments in agriculture, energy, industry, and the social sectors.
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 1: Ten Years of Revenue Data(Birr mns)
+Revenue
+2008/09
+2009/10
+2010/11
+2011/12
+2012/13
+2013/14
+2014/15
+2015/16
+2016/17
+2017/18
+Total Revenue and Grants
+57,258
+61,984
+85,611
+115,659
+137,192
+158,077
+199,639
+243,672
+269,106
+287,562
+Revenue
+43,821
+49,044
+69,120
+102,864
+124,077
+146,173
+186,619
+230,657
+256,629
+269,648
+Tax revenue
+32,382
+35,184
+58,981
+85,740
+107,010
+133,118
+165,313
+189,717
+210,136
+235,300
+     
+Direct taxes
+11,108
+11,751
+19,550
+28,858
+36,393
+47,021
+60,154
+71,127
+81,410
+97,646
+       
+Indirect taxes
+21,274
+23,433
+39,431
+56,882
+70,618
+86,098
+105,158
+118,590
+128,725
+137,583
+     
+    Domestic indirect taxes
+6,474
+8,426
+15,705
+23,326
+32,440
+40,499
+52,368
+55,867
+62,523
+67,172
+       
+    Import duties and taxes
+14,800
+15,008
+23,726
+33,556
+38,177
+45,599
+52,790
+62,723
+66,202
+70,411
+       
+Non-tax revenue
+11,439
+13,860
+10,139
+17,124
+17,067
+13,055
+21,306
+40,940
+46,493
+34,418
+       
+Grants 
+13,437
+12,940
+16,491
+12,795
+13,115
+11,904
+13,020
+13,014
+12,477
+17,913
+       
+Growth rates 
+2008/09
+2009/10
+2010/11
+2011/12
+2012/13
+2013/14
+2014/15
+2015/16
+2016/17
+2017/18
+Total Revenue and Grants
+44.2%
+8.3%
+38.1%
+35.1%
+18.6%
+15.2%
+26.3%
+22.1%
+10.4%
+6.9%
+Revenue
+47.1%
+11.9%
+40.9%
+48.8%
+20.6%
+17.8%
+27.7%
+23.6%
+11.3%
+5.1%
+Tax revenue
+36.1%
+8.7%
+67.6%
+45.4%
+24.8%
+24.4%
+24.2%
+14.8%
+10.8%
+12.0%
+Direct taxes
+58.3%
+5.8%
+66.4%
+47.6%
+26.1%
+29.2%
+27.9%
+18.2%
+14.5%
+19.9%
+Indirect taxes
+26.7%
+10.1%
+68.3%
+44.3%
+24.1%
+21.9%
+22.1%
+12.8%
+8.5%
+6.9%
+    Domestic indirect taxes
+27.1%
+30.1%
+86.4%
+48.5%
+39.1%
+24.8%
+29.3%
+6.7%
+11.9%
+7.4%
+    Import duties and taxes
+26.6%
+1.4%
+58.1%
+41.4%
+13.8%
+19.4%
+15.8%
+18.8%
+5.5%
+6.4%
+Non-tax revenue
+90.9%
+21.2%
+-26.8%
+68.9%
+-0.3%
+-23.5%
+63.2%
+92.2%
+13.6%
+-26.0%
+Grants 
+35.6%
+-3.7%
+27.4%
+-22.4%
+2.5%
+-9.2%
+9.4%
+0.0%
+-4.1%
+43.6%
+Percent of GDP
+2008/09
+2009/10
+2010/11
+2011/12
+2012/13
+2013/14
+2014/15
+2015/16
+2016/17
+2017/18
+Total Revenue and Grants
+17.0%
+16.3%
+16.6%
+15.5%
+15.8%
+14.9%
+15.4%
+15.5%
+14.7%
+13.1%
+Revenue
+13.0%
+12.9%
+13.4%
+13.8%
+14.3%
+13.8%
+14.4%
+14.7%
+14.0%
+12.2%
+Tax revenue
+9.6%
+9.3%
+11.5%
+11.5%
+12.3%
+12.5%
+12.7%
+12.1%
+11.5%
+10.7%
+Direct taxes
+3.3%
+3.1%
+3.8%
+3.9%
+4.2%
+4.4%
+4.6%
+4.5%
+4.4%
+4.4%
+Indirect taxes
+6.3%
+6.2%
+7.7%
+7.6%
+8.1%
+8.1%
+8.1%
+7.6%
+7.0%
+6.2%
+    Domestic indirect taxes
+1.9%
+2.2%
+3.0%
+3.1%
+3.7%
+3.8%
+4.0%
+3.6%
+3.4%
+3.0%
+    Import duties and taxes
+4.4%
+3.9%
+4.6%
+4.5%
+4.4%
+4.3%
+4.1%
+4.0%
+3.6%
+3.2%
+Non-tax revenue
+3.4%
+3.6%
+2.0%
+2.3%
+2.0%
+1.2%
+1.6%
+2.6%
+2.5%
+1.6%
+Grants 
+4.0%
+3.4%
+3.2%
+1.7%
+1.5%
+1.1%
+1.0%
+0.8%
+0.7%
+0.8%
+Composition
+Total
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+Revenue
+77%
+79%
+81%
+89%
+90%
+92%
+93%
+95%
+95%
+94%
+Tax revenue
+57%
+57%
+69%
+74%
+78%
+84%
+83%
+78%
+78%
+82%
+Direct taxes
+19%
+19%
+23%
+25%
+27%
+30%
+30%
+29%
+30%
+34%
+Indirect taxes
+37%
+38%
+46%
+49%
+51%
+54%
+53%
+49%
+48%
+48%
+    Domestic indirect taxes
+11%
+14%
+18%
+20%
+24%
+26%
+26%
+23%
+23%
+23%
+    Import duties and taxes
+26%
+24%
+28%
+29%
+28%
+29%
+26%
+26%
+25%
+24%
+Non-tax revenue
+20%
+22%
+12%
+15%
+12%
+8%
+11%
+17%
+17%
+12%
+Grants 
+23%
+21%
+19%
+11%
+10%
+8%
+7%
+5%
+5%
+6%
+Source: NBE
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 2: Revenue as Percentage of GDP, Non agri-GDP
+2008/09
+2009/10
+2010/11
+2011/12
+2012/13
+2013/14
+2014/15
+2015/16
+2016/17
+2017/18
+Revenue, Birr bns
+43.8
+       
+49.0
+       
+69.1
+       
+102.9
+     
+124.1
+     
+146.2
+     
+186.6
+     
+230.7
+     
+256.6
+     
+193.1
+     
+% of GDP
+13%
+13%
+13%
+14%
+14%
+14%
+14%
+15%
+14%
+9%
+% of non agr GDP
+20%
+19%
+23%
+31%
+33%
+34%
+38%
+23%
+23%
+16%
+Memo:
+Total GDP
+336
+        
+380
+        
+515
+        
+747
+        
+867
+        
+1,061
+     
+1,298
+     
+1,568
+     
+1,833
+     
+2,202
+     
+Non- Agricultural GDP 223
+        
+260
+        
+303
+        
+337
+        
+380
+        
+431
+        
+485
+        
+1,024
+     
+1,137
+     
+1,233
+     
+Source: NBE
+Table 3: Comparisons of Revenue to Non Agricultural GDP
+2008/09
+2009/10
+2010/11
+2011/12
+2012/13
+2013/14
+2014/15
+2015/16
+2016/17
+Ethiopia
+20%
+19%
+23%
+31%
+33%
+34%
+38%
+23%
+23%
+Nigeria
+14%
+17%
+23%
+19%
+14%
+13%
+10%
+7%
+8%
+Ghana
+25%
+25%
+27%
+25%
+22%
+25%
+26%
+23%
+23%
+Tanzania
+24%
+24%
+24%
+25%
+24%
+23%
+23%
+24%
+25%
+South Africa
+30%
+30%
+30%
+31%
+31%
+31%
+32%
+33%
+32%
+Egypt
+32%
+28%
+25%
+23%
+23%
+27%
+24%
+19%
+20%
+Vietnam
+32%
+39%
+38%
+32%
+32%
+31%
+33%
+32%
+28%
+Bangladish
+12%
+13%
+13%
+14%
+14%
+14%
+12%
+12%
+12%
+China
+26%
+27%
+30%
+31%
+31%
+31%
+32%
+31%
+30%
+Kenya 
+28%
+30%
+29%
+29%
+30%
+30%
+30%
+30%
+31%
+Avg for 10 comparables
+25%
+26%
+27%
+25%
+25%
+25%
+25%
+23%
+23%
+Source: IMF, WB, NBE
+Table 4: Revenue Performance for the First Half of the Year (Birr bns)
+H1: FY 2017/18
+H1: FY2018/19
+% Change 
+Local Taxes
+51.3
+                  
+61.8
+                     
+20%
+Direct taxes
+28.0
+                  
+35.3
+                     
+26%
+Indirect taxes
+23.0
+                  
+26.1
+                     
+14%
+Non tax revenue 
+0.4
+                    
+0.4
+                       
+10%
+External revenue
+39.5
+                  
+36.8
+                     
+-7%
+Customs tariff and tax
+38.6
+                  
+35.7
+                     
+-7%
+Non tax revenue 
+0.9
+                    
+1.0
+                       
+16%
+Lottery sales
+0.1
+                    
+0.1
+                       
+32%
+Total Revenue
+90.9
+                  
+98.7
+                     
+9%
+Source: ERCA
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 5: Budget Grants in Ethiopia: A Ten Year Perspective
+2008/09
+2009/10
+2010/11
+2011/12
+2012/13
+2013/14
+2014/15
+2015/16
+2016/17
+2017/18
+Ethiopia Budget Grants
+Grants, USDmn
+1,290
+         
+1,004
+         
+1,024
+         
+743
+            
+717
+            
+624
+            
+648
+            
+617
+            
+557
+            
+686
+            
+Grants, Birr mns
+13,437
+       
+12,940
+       
+16,491
+       
+12,795
+       
+13,115
+       
+11,904
+       
+13,020
+       
+13,014
+       
+12,477
+       
+17,914
+       
+Grants, % GDP
+4.0%
+3.4%
+3.2%
+1.7%
+1.5%
+1.1%
+1.0%
+0.8%
+0.7%
+0.8%
+Source: NBE, IMF reports 
+Description 
+2018
+% of Total 
+Total Expenditure 
+By Budget Summary Presentation 
+346.9
+            
+100%
+Federal Government Expenditure 
+205.3
+            
+59%
+Recurrent Expenditure 
+91.7
+              
+45%
+Capital Expenditure 
+113.0
+            
+55%
+Subsidies To Regions 
+135.6
+            
+39%
+SDGS
+6.0
+                
+2%
+By Economic Sector 
+346.92
+          
+100%
+Economic
+75.70
+            
+22%
+Social
+58.46
+            
+17%
+General 
+35.48
+            
+10%
+Others 
+35.67
+            
+10%
+Subsidies To Regions 
+135.60
+          
+39%
+SDGS
+6.00
+              
+2%
+Source: MoFEC
+Table 6: Government Spending by Main Categories 
+ Current Fiscal Year (Birr bn)
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+7 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 7A: Federal Government Expenditure Detail Catagories(Birr Bn)
+2 Economy
+75.70
+       
+2.1
+Agricultural and Rural Development
+13.98
+         
+Total Expenditure 
+205.31
+              
+Ministry of Agriculture and Livestock Resource  
+12.25
+         
+1 Administration and General
+35.48
+                 
+Ethiopian Agricultural Research Institute
+0.80
+           
+1.1
+Organ of State
+3.33
+                    
+Ethiopian Coffee and Tea Development and Marketing Authority
+0.16
+           
+Ministry Of Federal and Pastoral Development Affairs
+1.58
+                    
+Agricultural Transformation Agency
+0.13
+           
+Palace Administration
+0.68
+                    
+Ethiopian Environment and Forest Research Institute
+0.12
+           
+Office of The National Election Board
+0.41
+                    
+Ethiopian Institute of Bio-Diversity 
+0.10
+           
+House of The People's Representatives
+0.32
+                    
+The National Institute for Control and Eradication of Tsetse Fly and Trypanosomosis
+0.08
+           
+Office of the Prime Minister
+0.13
+                    
+Ministry of Environment, Forest and Climate Change
+0.07
+           
+Office of the Auditor General
+0.10
+                    
+Ethiopian Horticulture and Agricultural Investment Authority
+0.07
+           
+House of the Federation
+0.07
+                    
+Veterinary Drug and Animal Feed Administration and Control Authority
+0.06
+           
+Office of The President
+0.03
+                    
+Ethiopia Commodity Exchange Authority
+0.05
+           
+Council of Constitutional Inquiry
+0.02
+                    
+Federal Cooperative Agency
+0.05
+           
+1.2
+Justice and Security
+6.77
+                    
+Ethiopian Agricultural Research Council Secretariat
+0.03
+           
+Federal Police Commision
+2.60
+                    
+2.2
+Water Resources & Energy
+12.34
+         
+Information Network Security Agency
+1.03
+                    
+Ministry of Water, Irrigation and Electricity 11.69
+         
+Federal Prison Administration
+0.99
+                    
+Ethiopian Water Technology Institute
+0.21
+           
+National Intelligence and Security Service
+0.61
+                    
+National Meteorology Agency
+0.16
+           
+Federal Attorney General
+0.57
+                    
+Awash Basin Authority
+0.13
+           
+Federal Courts
+0.41
+                    
+Abay Basin Authority
+0.07
+           
+Documents Authentication and Registration Office
+0.12
+                    
+Rift Valley Lakes Basin Authority
+0.04
+           
+Vital Events Registration Agency
+0.08
+                    
+Ethiopian Energy Authority
+0.02
+           
+Ethiopian Human Right Comission
+0.07
+                    
+Office for Water Development Fund 
+0.01
+           
+Federal Ethics And Anti-Corruption Commission
+0.07
+                    
+2.3
+Trade and Industry  
+1.29
+           
+Institution of The Ombudsman
+0.06
+                    
+Textile Industry Development Institute
+0.26
+           
+Justice and Legal System Research and Training Institute
+0.05
+                    
+Ministry of Trade 
+0.11
+           
+Charities and Societies Agency
+0.05
+                    
+Ethiopian Standards Agency
+0.11
+           
+Cyber Army Development Institute
+0.04
+                    
+Metals Industry Development Institute
+0.10
+           
+Financial Intelligence Center 
+0.03
+                    
+Leather Industry Development Institute
+0.10
+           
+Public Financial Enterprises Agency
+0.02
+                    
+Ministry of Public Enterprises 
+0.10
+           
+1.3
+Defense 
+15.00
+                  
+Ministry of Industry
+0.09
+           
+Ministry of National Defense 
+15.00
+                  
+Chemical and Construction Inputs Industry Development Institute
+0.09
+           
+1.4
+General Service
+10.38
+                  
+Federal Small and Medium Manufacturing Industry Development Agency
+0.07
+           
+Ministry of Foreign Affairs
+2.98
+                    
+Ethiopian Investment Commission
+0.06
+           
+Ethiopian Revenue and Customs Authority
+2.49
+                    
+Ethiopian Meat and Dairy Industry Development Institue
+0.06
+           
+Central Statistics Agency
+1.27
+                    
+Food, Drink and Pharmaceutical Industry Development Institute
+0.06
+           
+Ministry of Finance and Economic Cooperation
+1.13
+                    
+Ethiopian Kaizen Institute
+0.04
+           
+Ministry of Science and Technology 
+0.94
+                    
+Trade Practice and Consumers' Protection Authority
+0.04
+           
+Meles Zenawi Leadership Acadamy
+0.30
+                    
+Ethiopian National Accreditation Office
+0.01
+           
+Ministry of Public Service and Human Development
+0.21
+                    
+2.4
+Mines 
+0.21
+           
+Ethiopian Broadcast Authority
+0.16
+                    
+Geological Surveys of Ethiopia
+0.14
+           
+Ethiopian News Agency
+0.15
+                    
+Ministry of Mines, Oil and Natural Gas
+0.08
+           
+Ethiopian Biotechnology Institute
+0.14
+                    
+2.5
+Transport and Communication
+2.54
+           
+Ethiopian Space Science and Technology Institute
+0.12
+                    
+Maritime Affairs Authority
+0.71
+           
+Policy Study and Research Center
+0.08
+                    
+Transport Authority
+0.68
+           
+Government Communication Affairs Office
+0.07
+                    
+Ministry of Communication and Information Technology 
+0.53
+           
+Ethiopian Mapping Agency
+0.06
+                    
+Ethiopian Civil Aviation Authority
+0.36
+           
+National Planning Commission
+0.05
+                    
+Ethiopian Press Agency
+0.14
+           
+National Metrology Institute of Ethiopia
+0.04
+                    
+Ministry of Transport
+0.10
+           
+The Accounting and Auditing Board of Ethiopia
+0.04
+                    
+Insurance Fund Administration Agency
+0.02
+           
+Science and Technology Information Center 
+0.03
+                    
+2.6
+Urban Development and Construction
+45.33
+         
+Ethiopian Radiation Protection Authority
+0.03
+                    
+Ethiopian Roads Authority
+38.92
+         
+Public Procurment and Property Disposal Service
+0.02
+                    
+Ministry of Urban Development and Housing 3.22
+           
+Ethiopian Intellectual Property Office
+0.02
+                    
+Federal Urban Job Creation and Food Security Agency
+2.54
+           
+Office of National Council for the Coordination of Public Participation on the Construction of the Grand Renaissance Dam
+0.02
+                    
+Ethiopian Construction Project Management Institute
+0.28
+           
+Ethiopian Development Research Institute
+0.01
+                    
+Federal Urban Land & Land Related Property Registration & Information Agency
+0.19
+           
+Public Procurment and Property Administration Agency
+0.01
+                    
+Ministry of Construction
+0.12
+           
+Board Of Trustees For Government Enterprises
+0.01
+                    
+Integrated Infrastructure Development Coordinating  Agency
+0.06
+           
+Ethiopian Foreign Relation Strategic Studies Institute
+0.01
+                    
+Road Fund Office
+0.01
+           
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+8 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 7B: Federal Government Expenditure Detail Catagories(Birr Bn)
+Table 7B: Federal Government Expenditure Detail Catagories(Birr Bn)
+3 Social
+58.46
+                 
+3.2
+Culture and Sport
+3.48
+           
+3.1
+Education
+43.31
+                  
+Ministry of Youth and Sport 
+2.68
+           
+Ministry of Education 
+4.99
+                    
+National Archive and Liberary Agency
+0.16
+           
+Addis Ababa University
+1.98
+                    
+Ethiopian Youth Sports Academy
+0.12
+           
+Bahir Dar University
+1.60
+                    
+Ethiopian Wildlife Conservation Authority
+0.12
+           
+Jimma University
+1.56
+                    
+Authority for Research and Conservation of Cultural Heritage
+0.10
+           
+Mekele University
+1.48
+                    
+Ministry of Culture and Tourism
+0.09
+           
+Hawassa University
+1.43
+                    
+Ethiopian Cultural Center
+0.06
+           
+Gonder University
+1.43
+                    
+Ethiopian Tourism Organization
+0.06
+           
+Haramaya University
+1.31
+                    
+Catering and Tourism Training Center
+0.05
+           
+Arba Minch University
+1.23
+                    
+National Theater
+0.03
+           
+Dilla University
+1.20
+                    
+Ethiopia National Anti-Doping Office
+0.01
+           
+Ambo University
+1.08
+                    
+3.3
+Health
+10.84
+         
+Addis Ababa Science and Technology University
+1.07
+                    
+Ministry of Health
+8.89
+           
+Jigjiga University
+1.04
+                    
+St. Paul Millennium Medical College
+1.33
+           
+Medewollabo University
+1.03
+                    
+Ethiopian Food, Drug and Health Care Administration And Control Authority
+0.21
+           
+Adama Science and Technology University
+1.03
+                    
+Ethiopian Health Insurance Agency
+0.18
+           
+Wellega University
+1.02
+                    
+Ethiopian Public Health  Institute
+0.13
+           
+Wolayita Sodo University
+1.02
+                    
+National Blood Bank Service
+0.08
+           
+Mizan/Teppi University
+1.01
+                    
+National HIV/AIDS Prevention & Control Secretariat
+0.02
+           
+Wollo University
+0.97
+                    
+3.4
+Labor and Social Affairs
+0.11
+           
+Debremarkos University
+0.96
+                    
+Ministry of Labor and Social Affairs
+0.06
+           
+Axum University
+0.95
+                    
+Ministry of Women and Children Affairs 
+0.05
+           
+Semera University
+0.94
+                    
+3.5
+Prevention and Rehabilitation
+0.72
+           
+Debrebirhan University
+0.90
+                    
+The Strategic Food Reserve Agency
+0.64
+           
+Wachemo University
+0.86
+                    
+National Disaster Risk Management Commission
+0.08
+           
+Welkitie University
+0.86
+                    
+4 Others
+35.67
+       
+Dire Dawa University
+0.86
+                    
+4.1
+Transfer
+5.64
+           
+Arsi University
+0.84
+                    
+Industrial Parks Development Corporation
+5.10
+           
+Metu University
+0.84
+                    
+Ethiopian Airports Enterprise 
+0.37
+           
+Adigrat University
+0.83
+                    
+Public Service Employee Transport Service Enterprise
+0.10
+           
+Bule Hora University
+0.79
+                    
+Ethiopian Acadamy of Sciences
+0.05
+           
+Woldiya University
+0.77
+                    
+Ethiopian Patriotic Association
+0.01
+           
+Debre Tabor University
+0.75
+                    
+Ethiopian Red Cross Association
+0.01
+           
+Assosa University
+0.73
+                    
+4.2
+Debt
+22.51
+         
+Gambella University
+0.53
+                    
+External Debt
+14.25
+         
+Ethiopian Civil Service University
+0.48
+                    
+Internal Debt
+8.26
+           
+National Educational Assessment and Examiniation Agency
+0.44
+                    
+4.3
+Contingencies
+7.52
+           
+Technical Vocational Education and Training Institute
+0.40
+                    
+Provision For Salary and Operating Expenditure
+6.51
+           
+Technical Vocational Education and Training Agency
+0.28
+                    
+Commitments
+1.00
+           
+Oda Bultum University
+0.19
+                    
+Provision For Bank Charges
+0.01
+           
+Selale University
+0.19
+                    
+Dembi Dolo University
+0.15
+                    
+Kebridehar University
+0.15
+                    
+Raya University
+0.15
+                    
+Injibara University
+0.15
+                    
+Werabe University
+0.15
+                    
+Jinka University
+0.15
+                    
+Debark University
+0.15
+                    
+Bonga University
+0.15
+                    
+Mekdela Amba University
+0.15
+                    
+Education Strategy Center
+0.05
+                    
+Higher Education Quality and Relevance Agency
+0.04
+                    
+Source: MoFEC
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE 8: Ethiopia's Top 10 General Expenditure Items, Federal Budget of FY 2018-19
+Top 10 General Expenditure Items
+Birr bn
+Notes
+1 Roads
+38.9
+           
+Ethiopian Roads Authority allocation
+2 Universities
+37.1
+           
+Sum of allocations to 45 universities
+3 Debt service
+22.5
+           
+External and domestic debt service
+4 Defence
+15.0
+           
+Defence sector line-item
+5 Agriculture
+14.0
+           
+Sum of agriculture & rural development
+6 Administrative functions/overhead
+13.7
+           
+Sum of 'General Service' & 'Organs of State'
+7 Energy
+12.3
+           
+Energy and Water Resources line-item
+8 Health 
+10.8
+           
+Health sector line-item
+9 Security
+6.7
+             
+Justice and Security' line item
+10 Industry
+6.4
+             
+Trade & Industry' plus IPDC allocation
+Top 10 General Expenditure Items:
+177.5
+         
+All other Gen Expenditure Items:
+27.8
+           
+Total General Expenditure Items:
+205.3
+         
+Top 10 items share in Gen Expd Items:
+86%
+Subsidies to Regions
+135.6
+MDG allocations
+6.0
+Totall Expenditure--GRAND TOTAL:
+346.9
+         

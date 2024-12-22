@@ -1,0 +1,3218 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+ 
+ 
+ 
+We make an effort to assess the likely impacts of the corona virus for Ethiopia’s 
+economic sub-sectors and for the near-term macro outlook. We find that even 
+under a ‘limited virus spread scenario’ (where the dominant agricultural and 
+construction sectors remain largely unaffected), there will still be severe shocks 
+faced by the hospitality industry, exporters, certain manufacturers, and banks. 
+Policy interventions can minimize these impacts but will entail considerable fiscal 
+and monetary resources.  
+ 
+• Ethiopia’s exposure: Ethiopia’s exposure to the corona virus seems to be very 
+limited—so far—based on officially reported statistics. Among the 14 
+countries in the world with populations over 100mn, Ethiopia has the lowest 
+reported virus incidence (26 cases at end-March) and is the only one with 
+zero reported deaths.  
+ 
+• Macro impacts: Given the relatively limited spread of the virus to date, the 
+early economic impacts are concentrated in a few segments of the 
+economy—namely the hospitality industry, exporters (flowers/textiles), 
+certain manufacturers, and banks. The more dominant rural, agricultural, and 
+construction sub-sectors of the economy are so far not much affected, which 
+could continue to be the case if containment efforts are successful in 
+maintaining a ‘limited virus spread scenario’. However, even with just the 
+current sub-set of affected sectors, the economic impacts will be 
+considerable: by our estimates, growth will be 2.5 percentage points lower 
+next year (falling to 5 percent) and net balance payments impacts close to 
+$1.5bn billion. If a wider and more adverse domestic virus spread scenario is 
+assumed, and should the global recovery be prolonged, macro impacts would 
+be several orders of magnitude larger than is presented here. 
+ 
+• Policy responses: While the government has acted quite quickly and 
+decisively with a range of public health measures, interventions on the 
+economic policy front are still in their early stages—especially if seen against 
+the aggressive actions being taken in other developed and developing 
+countries. A range of fiscal, monetary, and sector-specific policies has been 
+put into effect this past week, but an even broader and deeper set of 
+interventions in these areas could potentially do more to reduce adverse 
+impacts for businesses and employees. On the basis of ‘limited virus spread 
+scenario,’ and if the stimulus measures seen in other countries were to serve 
+as a guide, we estimate that fiscal resources needed for public relief packages 
+could reach Birr 90bn (2.3% of GDP) and that central bank liquidity 
+interventions of around Birr 47bn (1.2% of GDP) may be required.   
+ 
+ 
+Macroeconomic Impacts of the Corona Virus:  
+A Preliminary Assessment for Ethiopia 
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research unit team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+2 
+Ethiopia’s exposure 
+ 
+Ethiopia has been fortunate to have a comparatively small number of reported corona virus cases so far.  
+As of end-March, the number of affected persons stood at just 26 persons, was almost exclusively in the 
+capital city, and showed no obvious signs of shifting to an exponential growth trajectory (Table 1). Among 
+the 14 countries in the world with populations of more than 100mn people, Ethiopia shows the lowest 
+reported virus incidence and is the only one with zero reported deaths (Table 2). Even if there may be doubts 
+on Ethiopia’s reported figures (given very limited testing), there is little to suggest that a large number of 
+deaths are occurring or that mass numbers of corona-affected people are filling up hospitals/health centres; 
+this implies that prevalence/sickness is so far generally low within the population 
+  
+ 
+ 
+            
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+Table 2: Top 20 Most Populous Countries and COVID-19 Case Counts as of March 31, 2020 
+  World's Most Populous Countries: Above 100mn population
+Population,     
+In millions
+No of COVID-19 
+Cases
+No of COVID-19 
+Deaths
+Cases per 
+million
+Deaths per 
+million
+1 China
+1,439.3
+               
+81,470
+                    
+3304
+56.6
+                 
+2.30
+                 
+2 India
+138.0
+                    
+1,071
+                       
+29
+7.8
+                    
+0.21
+                 
+3 United States
+331.0
+                    
+151,944
+                 
+2805
+459.0
+              
+8.47
+                 
+4 Indonesia
+273.5
+                    
+1,414
+                       
+122
+5.2
+                    
+0.45
+                 
+5 Pakistan
+220.9
+                    
+1,690
+                       
+21
+7.7
+                    
+0.10
+                 
+6 Brazil
+212.6
+                    
+4,371
+                       
+141
+20.6
+                 
+0.66
+                 
+7 Nigeria
+206.1
+                    
+111
+                           
+2
+0.5
+                    
+0.01
+                 
+8 Bangladesh
+164.7
+                    
+49
+                              
+1
+0.3
+                    
+0.01
+                 
+9 Russia
+145.9
+                    
+1,836
+                       
+9
+12.6
+                 
+0.06
+                 
+10 Mexico
+128.9
+                    
+993
+                           
+20
+7.7
+                    
+0.16
+                 
+11 Japan
+126.5
+                    
+1,866
+                       
+54
+14.8
+                 
+0.43
+                 
+12 Phillippines
+109.6
+                    
+1,546
+                       
+78
+14.1
+                 
+0.71
+                 
+13 Egypt
+102.3
+                    
+609
+                           
+40
+6.0
+                    
+0.39
+                 
+14 Ethiopia
+100.8
+                    
+26
+                              
+0
+0.3
+                    
+-
+                    
+Other countries
+15 Vietnam
+97.3
+                       
+203
+                           
+0
+2.1
+                    
+-
+                    
+16 DR Congo
+89.6
+                       
+81
+                              
+8
+0.9
+                    
+0.09
+                 
+17 Turkey
+84.3
+                       
+10,827
+                    
+168
+128.4
+              
+1.99
+                 
+18 Iran
+84.0
+                       
+41,495
+                    
+2757
+494.0
+              
+32.82
+              
+19 Germany
+83.8
+                       
+63,929
+                    
+560
+763.0
+              
+6.68
+                 
+20 Thailand
+69.8
+                       
+1,524
+                       
+9
+21.8
+                 
+0.13
+                 
+1,546
+                       
+40
+                            
+12.58
+              
+0.39
+                 
+Ethiopia if cases and deaths were at Top 20 median:
+1,268
+                       
+39
+                            
+12.58
+              
+0.39
+                 
+Source:Johns Hopkins University data for COVID-19 cases as of March 31, 2020 and as compiled by worldometers.info 
+Population data from worldometers.info, except for Ethiopia which is based on CSA data
+Median, excluding Ethiopia:
+Table 1: COVID-19 Cases in Ethiopia, Cumulative Total and New Cases
+Source: Ethiopian Public Health Institute Press Release 
+1
+3
+1
+1
+3
+2
+4
+5
+2
+4
+1
+4
+5
+6
+9
+11
+15
+20
+22
+26
+0
+5
+10
+15
+20
+25
+30
+13-Mar-20
+14-Mar-20
+15-Mar-20
+17-Mar-20
+19-Mar-20
+22-Mar-20
+27-Mar-20
+29-Mar-20
+30-Mar-20
+31-Mar-20
+COVID-19 Cases in Ethiopia (New and Total Cases)
+New Cases
+Total Cases
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research unit team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+3 
+Looking ahead, a key question for any macroeconomic assessment is whether current containment policies 
+can continue to maintain this ‘limited virus spread scenario’. If current containment policies are successful 
+and the ‘limited virus spread scenario’ remains in place, then both the number of affected economic sub-
+sectors and the geographic/nation-wide range of impacts will be relatively confined. On the contrary, 
+however, it is possible that the number of infected persons rises exponentially in the coming weeks, reaches 
+a critical number of say 1,000 or more cases, and then crosses a ‘tipping point’ where more drastic lockdown 
+measures are imposed to limit overall economic and social activity. The human and social toll would be 
+sharply different in such an adverse alternate scenario, as will be the attendant economic consequences.1 
+ 
+For our analysis, given the scale and scope of the government’s public health measures as well as the early 
+introduction of many preventive actions, we assume a ‘limited virus spread scenario’ where economic 
+impacts are largely confined to four already affected sub-sectors. Moreover, we assume that the corona 
+impacts will be most severe for the immediate quarter ahead (April-June 2020) while being followed by a 
+slow but gradual recovery of affected economic activity—both in Ethiopia and globally—in the following six 
+months (July-December 2020). Should this overarching assumption be incorrect, and if global ‘lockdown’ 
+conditions turn out to be much longer and deeper than presumed, our assessment below would warrant a 
+full reconsideration. 
+  
+Sector-specific impacts: 
+ 
+Even under a ‘limited virus spread scenario’, at least four economic sub-sectors should clearly be expected 
+to face severe and disruptive shocks: 
+ 
+• Hospitality industry: This sector is facing an almost complete loss of customers, with lots of evidence 
+throughout Addis Ababa of near-empty hotels, restaurants, bars, barbers/salons; of taxis barely finding 
+riders; and of tourist sites experiencing major cancellations for the next 3-6 months. Occupancy rates 
+are reportedly at just a few percent of capacity (consistent with Bole Airport entry figures of as low as 
+50-100 per day). Many hotels have started giving workers mandatory leave (some paid, some unpaid) 
+on the expectation that this will be temporary, but if conditions persist for many months a large share 
+of those staff may be laid off (potentially affecting tens of thousands of workers).  
+ 
+• Flower exporters are threatened by several quarters of near-zero revenue if conditions in Europe—the 
+primary market—take a long time to recover. First half of year exports were $225mn and the fiscal year 
+outlook was for around $450mn in exports (possibly second-largest after coffee); if the last four months 
+of flower exports are near zero, then year total exports will be $150mn lower than expected (Table 3). 
+The recent removal of the NBE minimum price set for flowers (USD 3.8 per kilogram) is not seen as that 
+meaningful since the underlying problem is the collapse in European demand. Around 150,000 workers 
+are reportedly employed in the sector, so numbers of newly unemployed in a few concentrated areas 
+could potentially be quite significant.   
+ 
+1 Though the evidence seems far from certain in this area, experts and commentators have noted that the corona virus shows 
+comparatively lower spread in countries with larger youth populations and in warmer climates, both of which would (if valid) appear to 
+be positive for Ethiopia. At the same time, other characteristics of countries with the socio-economic conditions of Ethiopia work in the 
+opposite direction: high density living areas (at least in cities), congested public transport systems, limited clean water supplies, and weak 
+public health systems. The net impact of these factors is of course highly uncertain.  
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research unit team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+4 
+ 
+ 
+• Textile exporters have faced a suspension of orders from big US, European, and Chinese companies and 
+face considerable uncertainty on how long this will last; some have reportedly been told they will be 
+informed within the next few months. Textile exports were $100mn in the first half of year and a 
+prolonged suspension may thus cost up to $50mn in foregone exports per quarter (Table 4).  
+ 
+ 
+ 
+• Manufacturers, especially those dependent on foreign inputs from China (which supplies 26% of 
+Ethiopia’s total imports), are reporting delays in getting critical inputs, machinery, raw materials or 
+accessories. Manufacturers are also having problems with travel interruptions affecting 
+incoming/existing expatriate staff. Such supply chain interruptions are particularly severe for import-
+dependent manufacturers (a significant share in Ethiopia), and this could reduce or completely stop their 
+operations for several quarters if the Chinese recovery is slow to pick up. 
+Table 3: Flower Exports: Pre-corona trendlines and latest estimated outturn
+Source: NBE for historical data and Cepheus Research for projections
+ 210
+ 260
+ 310
+ 360
+ 410
+ 460
+2016-17
+2017-18
+2018-19
+2019-20 FY
+Flower Exports (USD mns)
+Pre-corona
+trend-line
+Post-corona 
+projection
+Table 4: Textile Product Exports: Pre-corona trendlines and latest estimated outturn
+Source: NBE for historical data and Cepheus Research for projections
+ 80
+ 130
+ 180
+ 230
+ 280
+2016-17
+2017-18
+2018-19
+2019-20 FY
+Exports of Textiles & Textile Product (USD mns)
+Pre-
+corona 
+trend-line
+Post-corona
+projection  
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research unit team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+5 
+• Banks: Already facing very tight liquidity conditions even before the corona crisis (most private banks 
+have effective loan-to-deposit ratios near/above 100%), banks are now threatened by a potential jump 
+in NPLs as businesses become unable to service loan repayments. While Birr 15bn of liquidity support 
+has recently been announced for the sector, bankers have been underwhelmed by this offer and found 
+it largely inadequate. As relayed by those in the sector, the Birr 15bn has been offered against the stock 
+of NBE Bill repayments that Banks were to receive from NBE in the coming year up to June 2021; 
+effectively, the NBE is buying back these Bills and providing banks upfront liquidity in exchange (similar 
+to central bank bond-buying programs in countries with open market operations). However, we 
+understand that deductions are applied to amounts the banks may have still owed to NBE when the 
+policy was discontinued back in November 2019, and so the overall liquidity injection for banks is less 
+than the headline figure may suggest. Moreover, as banks already had outstanding short-term loans due 
+to NBE from recent borrowings (which added up to Birr 14.5bn from emergency loans given out in 
+January and February 2020), most of the fresh funds made available as part of the corona response may 
+effectively be absorbed by those repayments, leaving banks and hence their customers with much fewer 
+net resources.  
+ 
+Multi-sectoral impacts: number of firms and employees 
+ 
+• Firms affected: Seen from the perspective of the numbers of businesses affected—across all sectors—a 
+rough estimation suggests a figure on the order of 15,000 to 20,000. The number of hotels in Addis 
+Ababa is estimated at 500-800 establishments (depending on definitions/coverage) and a similar count 
+might be assumed for the rest of the country. Others in the hospitality and service industry (e.g., 
+restaurants, bars) would number in the range of 6,000 to 8,000 firms in Addis Ababa alone, using 
+historical data and applying recent economy-wide growth rates (Table 5). Broadening the net, the 
+inclusion of other affected service providers such as personal care providers (barbers, salons, gyms), 
+tour operators, taxi drivers, SMEs supplying foodstuffs and other inputs to hotels, could conceivably also 
+an equal 6,000 to 8,000 firms.  Flower exports, per association data, are no more than 100 growers 
+though the top 10 firms—most based in the Ziway area—actually account for the bulk of total sales and 
+total employment. Horticulture exporters would be a broader group of perhaps several hundred 
+growers. Textile companies number in the range of 300-400 firms per CSA statistics and recent Industrial 
+Park figures, while other heavily affected manufacturers (facing supply chain disruptions linked to their 
+imported inputs) may be in the range of 1,000 to 2,000 firms. All considered, a plausible estimate seems 
+to be in the range of 15,000 to 20,000 businesses—mostly SMEs—in the hospitality, export, and 
+manufacturing sectors that could face material declines in revenue over the coming year.   
+ 
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research unit team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+6 
+ 
+ 
+• Employment impacts: Focusing on the potential size of affected employees, the numbers involved could 
+exceed one million based on some plausible assumptions. Starting from the largest employer groups, 
+flower and horticulture farms are reported to employ 150,000 workers in several concentrated 
+locations. The other significantly affected export group, namely textile exporters, employs in the range 
+of 50,000 to 70,000 people. For established hotels, an assumed 1,200 establishments nation-wide and 
+40 staff per median hotel would imply around 50,000 staff. Given the estimated count of affected SMEs 
+noted earlier, and assuming an average of 10 employees per SME would suggest 150,000 to 200,000 
+affected workers. Adding up these estimates would suggest a figure of 400,000 to 500,000 people on a 
+conservative basis. Taking another approach, CSA data on urban employment levels can provide another 
+approximation as these figures show the sector-by-sector breakdown of the 7.5mn employed urban 
+persons in Ethiopia as of 2018 (Table 6). Applying a low-end/high-end range of 10 to 20 percent of this 
+figure as potentially affected workers would suggest 750,000 to 1.5mn workers could be affected, or a 
+midpoint of 1.1mn workers. Of course, not all of these employees are necessarily at risk of job losses, 
+but an illustrative matrix showing different combinations of affected workers and the percent of those 
+affected workers that could face job loss risks reveals magnitudes (taking a mid-range) on the order of 
+330,000 to 560,000 people (Table 7).  
+ 
+Table 5: Private Service Providers in Addis Ababa
+   Ranked by no of service providers
+No of 
+Percent of 
+Service area
+Businesses
+Service Firms
+1 Transport providers
+20,438
+           
+47%
+2 Other services
+4,740
+              
+11%
+3 Hotels, Restaurants, Bars, Cafes
+4,380
+              
+10%
+4 Contractors
+3,436
+              
+8%
+5 Rental Activities
+2,443
+              
+6%
+6 Personal Care businesses
+1,792
+              
+4%
+7 Printing, Photo, Secretarial services
+1,454
+              
+3%
+8 Education & Training Centers
+1,280
+              
+3%
+9 Repairing, Installation, Maintenance
+666
+                   
+2%
+10 Promotion & Production
+609
+                   
+1%
+11 Consultancy
+532
+                   
+1%
+12 Clinic Health Services
+403
+                   
+1%
+13 Recreation, music, entertainment
+395
+                   
+1%
+14 Communication services
+382
+                   
+1%
+15 Cleaning & Sanitation services
+342
+                   
+1%
+16 Engineering services
+209
+                   
+0%
+TOTAL:
+43,501
+           
+100%
+Source: Addis Aaba Trade & Industry Bureau. 
+Data is from FY 2010-11  and figures may thus now be double amounts shown;
+however, breakdown is indicative of approximate numbers and distribution
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research unit team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+7 
+ 
+Table 6: Urban Employed Persons in Ethiopia By Sector
+Total number
+% of Total
+Total Urban Population in Ethiopia
+18,773,035
+         
+…
+Total Urban Working-Age Population (>10 years)
+15,015,000
+         
+…
+Total Employed Persons in Urban Areas
+7,518,858
+            
+100.0%
+1 MANAGERS
+247,049
+                 
+3.3%
+CEOs, Senior Officials, Legislators
+29,578
+                    
+0.4%
+Administrative/Commercial Managers
+79,068
+                    
+1.1%
+Production Managers
+58,742
+                    
+0.8%
+Hospitality and Service Managers
+79,661
+                    
+1.1%
+2 PROFESSIONALS
+757,700
+                 
+10.1%
+Health professionals
+95,654
+                    
+1.3%
+Science/engineering professionals
+95,574
+                    
+1.3%
+Teaching Professionals
+290,778
+                 
+3.9%
+Business /administration professionals 
+186,239
+                 
+2.5%
+Information and communication technology
+12,070
+                    
+0.2%
+Legal/social and cultural professionals 
+77,385
+                    
+1.0%
+3 TECHNICIANS AND ASSOC PROFESSIONALS
+618,679
+                 
+8.2%
+Science and engineering associate
+70,865
+                    
+0.9%
+Heath associate
+106,832
+                 
+1.4%
+Business & administration associate 
+195,493
+                 
+2.6%
+Legal/social,cultural and related associate 
+66581
+0.9%
+Information and communication
+21641
+0.3%
+Teaching associate 
+142,225
+                 
+1.9%
+Special education teaching associate 
+15,042
+                    
+0.2%
+4 CLERICAL SUPPORT WORKERS
+281,468
+                 
+3.7%
+General and Keyboard Clerks
+92,849
+                    
+1.2%
+Customer Service Clerks
+105,255
+                 
+1.4%
+Numerical and Material recording clerks
+41,605
+                    
+0.6%
+Other Clerical Support workers 
+41,759
+                    
+0.6%
+5 SERVICE AND SALES WORKERS
+2,439,816
+            
+32.4%
+Personal Service workers 
+692,009
+                 
+9.2%
+Sales workers 
+1,505,742
+            
+20.0%
+Personal care workers 
+29,027
+                    
+0.4%
+Protective series workers 
+213,038
+                 
+2.8%
+6 SKILLED AGRICULTURAL WORKERS
+468,224
+                 
+6.2%
+Market oriented skilled agricultural workers
+163,869
+                 
+2.2%
+Market oriented skilled forestry, fishery and hunting
+14,368
+                    
+0.2%
+Subsistence farmers, fisheries, hunters and gatherers
+289,987
+                 
+3.9%
+7 CRAFT AND RELATED TRADES WORKERS
+1,065,639
+            
+14.2%
+Building and related trades workers, excl electricians 
+327,584
+                 
+4.4%
+Metal, machinery and related traders workers
+110,809
+                 
+1.5%
+Handicraft and printing workers
+139,860
+                 
+1.9%
+Electrical and electronic trades workers
+39,610
+                    
+0.5%
+Food processing, wood working, garment and other craft
+447,776
+                 
+6.0%
+8 PLANT & MACHINE OPERATORS/WORKERS
+572,061
+                 
+7.6%
+Stationary plant and machinery operators
+106,771
+                 
+1.4%
+Assemblers
+40,975
+                    
+0.5%
+Drivers and mobile plant operators 
+424,315
+                 
+5.6%
+9 ELEMENTARY OCCUPATIONS
+1,068,222
+            
+14.2%
+Cleaners and Helpers
+265,644
+                 
+3.5%
+Agricultural laborers
+68,196
+                    
+0.9%
+Mining, Construction laborers
+269,002
+                 
+3.6%
+Food preparation assistants
+50,989
+                    
+0.7%
+Street& Related Sales Service Workers
+81,676
+                    
+1.1%
+Refuse workers and other basic works
+323,132
+                 
+4.3%
+Others 
+9,583
+                       
+0.1%
+Source: CSA Urban Employment Report (2018) avialable on the CSA website.
+Shaded occupations that will tend to experience stronger shocks due to hospitality sector shocks
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research unit team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+8 
+ 
+ 
+ 
+Macroeconomic impacts: Quantifying Growth and Balance of Payments Impacts 
+ 
+In attempting to quantify key macroeconomic impacts under a ‘limited virus spread scenario’, we review 
+the comparative size of affected sectors and the implications of their decline or inactivity for balance of 
+payments developments: 
+ 
+• 
+GDP impacts: sector-specific shocks: The sectors currently most affected by the corona virus 
+pandemic—hospitality, flower/textile exports, manufacturers, banks—are generally not major 
+components of GDP (Table 8). Hotels and restaurants make up 2.6 percent of GDP, while tourism is 
+still a small share of the economy, at perhaps 4 or 5 percent—much less significant than, say, in a 
+country like Kenya that will be severely hit. Total exports are just 2.8% of GDP, and flower/textile 
+exports—despite impressive growth—even smaller at a combined 0.4% of GDP. Manufacturing is 
+just 4 percent of GDP, while banking activity makes up 3 percent of GDP. Shutdowns of public 
+schools/education (3.4% of GDP) and of public administration services (4.1% of GDP) might be seen 
+as reducing aggregate economic activity, but as long as the vast number of public school teachers 
+and public servants are being paid, their purchasing power is maintained and economic impacts 
+limited. Perhaps most important, the two biggest sub-components of Ethiopia’s economy 
+(agriculture at 36% of GDP and construction at 20% of GDP) should not be substantially affected 
+under a ‘limited virus spread scenario’, i.e., if the virus does not expand nation-wide (particularly to 
+food-growing areas) and if construction activity is not stopped via mandatory lock-downs.  
+Table 7: Potential Job Loss Risks under different shares of urban employees being affected
+10 percent
+15 percent
+20 percent
+750,000
+               
+1,125,000
+            
+1,500,000
+            
+20%
+150,000
+                
+225,000
+                
+300,000
+                
+30%
+225,000
+                
+337,500
+                
+450,000
+                
+50%
+375,000
+                
+562,500
+                
+750,000
+                
+60%
+450,000
+                
+675,000
+                
+900,000
+                
+Source: CSA  data for urban employees (2018), and Cepheus Resesarch scenarios
+For Affected Persons, 
+Assumed Job Loss Risk
+Assumed Share of Urban Employees Affected
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research unit team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+9 
+ 
+ 
+• 
+GDP impacts: overall growth impacts: Given all the above considerations, we estimate that the 
+corona virus’ impact would be at most 1 percentage point of GDP for 2019-20, as two-thirds of the 
+fiscal year (up to February 2020) is essentially unaffected and only a subset of comparatively small 
+sectors (cumulatively adding up to around 10-12 percent of GDP) are significantly affected for the 
+remaining one-third of the year. This reduces growth from our previous expectation of 8 percent for 
+2019-20 to just 7 percent. For upcoming fiscal year, given full-year effects, we think the impact will 
+be more substantive at 2.5 percentage points of GDP, and we would thus reduce our growth 
+projections from the 7.5 growth forecast at the beginning of 2020 to just 5.0 percent.2 Seen from 
+the demand side of GDP, estimates of affected wage-related income/expenditure suggest that 
+impacts from this source alone are likely to be on the order of 0.8 to 1.6 percent of GDP, based on a 
+calculation that uses median salary levels for affected industries (Birr 3,000 per month) and potential 
+numbers of affected persons ranging from 750,000 to 1.5mn being affected for a full year (Table 9).  
+ 
+ 
+2 More precisely, for the current fiscal year, we assume affected sectors make up 15 percent of GDP experience a 20 percent drop in 
+output in the last quarter of the fiscal year. For 2020-21, we assume that affected sectors still experience a 15 percent drop in output 
+for the first six months, followed by a gradual recovery towards normal conditions (zero growth) for the second half of the fiscal year 
+(January-June 2021).  
+Table 8: Ethiopia's GDP by Sector, FY 2018-19
+Sector
+Percent 
+share
+Cumulative 
+share
+1 Agriculture
+35.8%
+35.8%
+2 Construction
+19.5%
+55.3%
+3 Whole Sale and Retail Trade
+14.2%
+69.5%
+4 Real Estate and Renting activities
+4.2%
+73.7%
+5 Large and Medium Scale Manufacturing
+4.1%
+77.8%
+6 Public Administration and Defense
+4.1%
+81.9%
+7 Transport and Communications
+3.9%
+85.8%
+8 Education
+3.4%
+89.2%
+9 Financial Intermediation
+3.3%
+92.5%
+10 Hotels and Restaurants
+2.6%
+95.1%
+11 Small-scale and Cottage Industries
+1.6%
+96.8%
+12 Private Households with Employed Persons
+1.2%
+98.0%
+13 Health and Social Work
+1.1%
+99.1%
+14 Community , Social & Personal Services
+1.1%
+100.2%
+15 Electricity and Water
+0.8%
+100.9%
+16 Mining and Quarrying
+0.1%
+101.1%
+17 Fishing
+0.1%
+101.2%
+   Less FISIM adjustments
+-1.2%
+100.0%
+TOTAL
+100.0%
+100.0%
+Source: MoFEC
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research unit team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+10 
+ 
+ 
+• 
+Balance of Payments impacts, FY 2019-20: Foreign exchange inflows will surely show sharp declines 
+in a number of categories, but the magnitudes are likely to be less severe than appear at first glance 
+after accounting for various offsetting factors (i.e. on a net basis):  
+ 
+o Declines in fx inflows—FY 2019-20: With global demand collapsing for many commodities 
+and transport links also severely disrupted, immediate declines are certainly to be expected 
+for several of Ethiopia’s exports—likely in the range of $300-$400mn during April-June 2020 
+(from expected levels) considering impacts in the flower and textile sectors. Moreover, 
+service exports will be hit sharply, including for Ethiopian Airlines revenue (about $1.5bn on 
+an annualized basis if a 30 percent decline is applied from last year’s $4.1bn revenues) and 
+for tourism (perhaps $500-$700mn if we assume a near-total stop of tourist inflows for the 
+remainder of the fiscal year). Remittances will also likely fall as Ethiopians abroad face 
+difficult employment/financial conditions abroad and thus send less funds to families here—
+though this decline may be moderated by those who choose to maintain their past support 
+or provide even greater support to affected families. Some portion of FDI inflows should also 
+be expected to be put on hold as foreign investors—already cautious due to upcoming 
+elections—find another reason to take a wait-and-see approach.  And finally, as the prospect 
+of recording privatization inflows this fiscal year is now extremely remote (we had previously 
+projected $1bn in flows for FY 2019-20), FDI inflows linked directly to these anticipated 
+inflows will fall by the corresponding amount  
+ 
+o Offsetting factors: Going against these anticipated fx declines, however, are several 
+offsetting factors. Imports will tend to fall in line with lower FDI as well as with reduced 
+consumer demand and lower manufacturing activity. If the collapse in oil prices is sustained 
+for the coming year, this should—by itself—translate into around $1bn or more in reduced 
+imports (given last year’s $2.6bn fuel import bill and global oil prices that are less than half 
+Table 9: Range of income losses under different mix of affected persons & average salaries, Birr mn and % GDP
+10% of Urban Employees 15% of Urban Employees 20% of Urban Employees
+750,000
+                       
+1,125,000
+                     
+1,500,000
+                    
+2,000
+1,500
+                            
+2,250
+                              
+3,000
+                             
+3,000
+2,250
+                            
+3,375
+                              
+4,500
+                             
+6,000
+4,500
+                            
+6,750
+                              
+9,000
+                             
+24,000
+18,000
+                          
+27,000
+                            
+36,000
+                           
+36,000
+27,000
+                          
+40,500
+                            
+54,000
+                           
+72,000
+54,000
+                          
+81,000
+                            
+108,000
+                        
+24,000
+0.5%
+0.8%
+1.1%
+36,000
+0.8%
+1.2%
+1.6%
+72,000
+1.6%
+2.4%
+3.2%
+Source: CSA Urban Employment Report and Cepheus Research for assumptions and scenarios.
+Affected Persons
+Assumed 
+income loss: 
+PER MONTH, 
+Birr mns
+Assumed 
+income loss: 
+PER YEAR, 
+Birr mns
+Assumed 
+income loss: 
+PER YEAR,    
+% GDP
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research unit team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+11 
+of last year’s levels, i.e. now $26 per barrel for Brent crude vs an average of $50-60 last year). 
+Potentially increased grants will likely provide extra support (beyond already expected 
+levels) from the World Bank and other multilaterals. Potential debt service rescheduling 
+from G-20 bilateral lenders (as recently proposed and advocated by the IMF/WB) may 
+provide yet another layer of external support beyond already assumed debt relief in 
+Ethiopia’s case. The size of incremental grant and loan inflows may be limited for the few 
+remaining months of the current fiscal year, but could become significant in 2020-21.    
+ 
+o Overall BOP impacts and magnitudes: An estimation of the above effects is provided in 
+Table 10, and shows our best efforts at quantifying the broad magnitudes involved. For 
+exports, we now expect slightly negative growth this year (vs 8 percent growth anticipated 
+pre-corona), and we also that expect a drop in remittance inflows will bring the year-end 
+figure to just $5.1bn rather than a previously expected $6bn. These two factors contribute 
+to a worsening of the current account this year to 4.6% of GDP vs 4.2% of GDP before. In the 
+capital account, we expect a sharp drop in FDI to around $2.4bn for the year, though this 
+mostly reflects the delay in privatization, and we assume that most other items in the capital 
+account (namely government and public sector net foreign borrowing) remain at their 
+previously expected levels. Reflecting the above factors, we project a year-end reserves 
+figure of $2.6bn (down somewhat from $3bn in December 2019 and well below the $4bn 
+we previously forecast for June 2020, largely due to the delayed privatization). Excluding 
+privatization effects, the balance of payments is deteriorating only by around $500mn this 
+fiscal year vs our expectations at the start of 2020 (reflecting the fact that the negative BOP 
+impacts are only affecting the remaining few months of the fiscal year, namely March to 
+June 2020). 
+ 
+ 
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research unit team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+12 
+ 
+ 
+o Exchange rate: Regarding the outlook for the Birr, as the exchange rate is not market 
+determined, Ethiopia will not experience the sharp depreciations seen recently—given the 
+global crisis—in countries such as Kenya, Nigeria, and South Africa (Table 11A). Still, we 
+expect the central bank will see the need to pursue a somewhat sharper pace of rate 
+adjustment (versus its pre-corona trajectory) to help cope with the net negative balance of 
+payments effects. Indeed, consistent with this view, the depreciation in March 2020 has 
+picked up pace to a rate of 54 cents per month, more than double the 22 cents monthly 
+depreciation seen in both January and February. Compared to year-ago levels, the rate is 
+now exactly 15.2 percent lower (32.81 on March 31 vs 28.49 a year ago), and this magnitude 
+of annual depreciation is likely—in our view—to remain within the central bank’s comfort 
+range. On the basis of rate adjustments of near 50 cents per month up to the end of the 
+fiscal year (justified also by recently higher-than-expected inflation outturns), we thus now 
+expect a buying rate of 34.31 Birr/USD at end-June 2020 vs our previous slightly-less-
+depreciated forecast of 33.16 Birr/USD (Table 11B). 
+  
+Actual
+Balance of Payments
+2018/19
+2019/20
+FY 2020/21
+2019/20
+FY 2020/21
+Exports of goods
+2,667
+           
+2,880
+            
+3,168
+            
+2,587
+            
+2,638
+            
+Imports of goods
+(15,112)
+       
+(15,036)
+         
+(16,239)
+         
+(14,815)
+        
+(14,670)
+        
+Non-oil imports
+(12,511)
+           
+(12,448)
+             
+(13,444)
+             
+(12,607)
+             
+(13,124)
+             
+Oil imports
+(2,601)
+              
+(2,588)
+                
+(2,795)
+                
+(2,209)
+                
+(1,546)
+                
+Services exports
+4,949
+           
+5,196
+            
+5,612
+            
+4,677
+            
+3,929
+            
+Services imports
+(4,910)
+         
+(5,401)
+           
+(5,941)
+           
+(4,517)
+          
+(4,517)
+          
+Income account, net
+(590)
+            
+(690)
+              
+(815)
+              
+(600)
+             
+(725)
+             
+Private transfers
+6,376
+           
+6,695
+            
+7,209
+            
+5,841
+            
+5,467
+            
+Of which: Remittances
+5,693
+                
+5,978
+                  
+6,456
+                  
+5,124
+                 
+4,714
+                 
+Of which: Other Private Transfers
+683
+                    
+717
+                      
+753
+                      
+717
+                      
+753
+                      
+Official transfers
+2,087
+           
+1,800
+            
+1,600
+            
+1,900
+            
+2,000
+            
+Current account total, including grants
+(4,534)
+         
+(4,556)
+           
+(5,407)
+           
+(4,928)
+          
+(5,878)
+          
+Foreign Direct Investment
+3,015
+           
+3,500
+            
+5,050
+            
+2,400
+            
+4,400
+            
+Of which: Regular FDI inflows
+3,015
+                
+2,500
+                  
+3,050
+                  
+2,400
+                 
+2,400
+                 
+Of which: Privatizations
+-
+                      
+1,000
+                  
+2,000
+                  
+-
+                       
+2,000
+                 
+Government, net external borrowing
+1,158
+           
+1,300
+            
+1,500
+            
+1,300
+            
+1,800
+            
+Of which: gross external borrowing
+1,537
+                
+1,513
+                  
+1,801
+                  
+1,513
+                 
+2,101
+                 
+Of which: principal repayments
+(379)
+                   
+(213)
+                     
+(301)
+                     
+(213)
+                    
+(301)
+                    
+Public Sector (Non-Govt), net external borrowing
+1,326
+           
+200
+               
+300
+               
+200
+               
+300
+               
+Of which: gross external borrowing
+…
+1,444
+                   
+1,812
+                   
+1,444
+                  
+1,812
+                  
+Of which: principal repayments
+…
+(1,244)
+                 
+(1,512)
+                 
+(1,244)
+                 
+(1,512)
+                 
+Private sector, net external borrowing
+264
+              
+200
+               
+300
+               
+200
+               
+150
+               
+Short-term capital and other items net
+72
+                
+0
+0
+0
+0
+Capital account total
+5,835
+           
+5,200
+            
+7,150
+            
+4,100
+            
+6,650
+            
+Errors and omissions
+(1,244)
+         
+-
+                
+-
+                
+-
+               
+-
+               
+Overall balance of payments
+58
+                
+644
+               
+1,743
+            
+(828)
+             
+772
+               
+Overall BOP excl delayed privatization
+…
+…
+…
+172
+               
+772
+               
+Foreign exchange reserves
+3,415
+           
+4,059
+            
+5,802
+            
+2,587
+            
+3,359
+            
+Source: Cepheus Research for projections and NBE and IMF for 2018/19 data.
+Previous Projections
+Latest Revisions
+Macroeconomic Handbook 2020
+WITH CORONA IMPACTS
+Table 10: Balance of Payments: Previous Projections and Latest Revisions
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research unit team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+13 
+ 
+ 
+ 
+ 
+• 
+Balance of Payments—Next Fiscal Year: For the upcoming fiscal year that starts in July 2020, we 
+expect overall BOP impacts will be close to $1bn given the full year effects of lower remittances and 
+lower service exports (including Ethiopian Airlines receipts). Needless to say, the impacts next fiscal 
+year will depend critically on the speed and scale of the global recovery, especially—from Ethiopia’s 
+perspective—in areas such as global air travel, remittances, and textile/flower exports.  As the basis 
+Dec 31, 2019 
+exch rate
+March 31, 2019  
+exch rate
+Percent 
+change
+Kenya
+101.2
+            
+104.5
+                   
+3.2%
+Ghana
+5.7
+                
+5.8
+                       
+1.3%
+Nigeria
+359.0
+            
+366.8
+                   
+2.2%
+South Africa
+14.0
+              
+17.9
+                     
+27.3%
+Vietnam
+23,140.3
+       
+23,634.9
+              
+2.1%
+Indonesia
+13,882.5
+       
+16,393.0
+              
+18.1%
+Malaysia
+4.1
+                
+4.3
+                       
+5.9%
+Thailand
+29.7
+              
+32.7
+                     
+9.9%
+Turkey
+6.0
+                
+6.6
+                       
+10.4%
+Brazil
+4.0
+                
+5.1
+                       
+27.4%
+Argentia
+59.8
+              
+64.4
+                     
+7.7%
+Mexico
+18.9
+              
+23.8
+                     
+25.9%
+Average of above cases:
+11.8%
+Ethiopia
+31.8
+              
+32.8
+                     
+3.2%
+Source: CBE website for Ethiopia, and fxtop.com for other countries 
+Table 11A: Exchange rate depreciations in Q1 2020 in Selected Countries
+Table 11B: Exchange Rate: Forecasts to the end of the Fiscal Year
+Actuals: End Month
+Exchange rate 
+(Buying rate)
+Monthly 
+change
+Depreciation 
+from 
+year ago
+July 2019
+29.03
+              
+0.12
+                 
+6.1%
+August 2019
+29.15
+              
+0.12
+                 
+6.1%
+September 2019
+29.28
+              
+0.12
+                 
+6.1%
+October 2019
+29.43
+              
+0.16
+                 
+6.1%
+November 2019
+30.62
+              
+1.19
+                 
+9.8%
+December 2019
+31.80
+              
+1.19
+                 
+13.4%
+January 2020
+32.06
+              
+0.26
+                 
+13.7%
+February 2020
+32.27
+              
+0.21
+                 
+13.9%
+March 2020
+32.81
+              
+0.54
+                 
+15.2%
+Projections: End Month 
+April 2020
+33.31
+              
+0.50
+                 
+16.4%
+May 2020
+33.81
+              
+0.50
+                 
+17.5%
+June 2020
+34.31
+              
+0.50
+                 
+18.7%
+Source: CBE website for historical data and Cepheus Research for projections
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research unit team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+14 
+for our projections, we use what we think is a plausible scenario that includes: (1) a very slow and 
+modest pick-up in export growth (just a 2 percent increase reflecting a slight recovery in early 2021); 
+(2) an extended oil price drop that helps limit imports and the current account deficit; (3) the 
+eventual conclusion of privatization sales in late 2020/early 2021 (thus boosting FDI to $4.4bn); and 
+(4) a moderate increase in grants and low-interest loans from previously assumed levels (up from 
+previous forecasts by $300-$400 mn for each).  Under these assumptions, gross fx reserves at end-
+June 2021 should reach $3.4bn and our exchange rate assumptions—based on a near 15 percent 
+annual average depreciation—would take the rate to 39.4 Birr/USD by end-June 2021 (Appendix 
+Table). Considering both the last quarter of 2019-20 and all of 2020-21, the net corona-related 
+balance of payments impact over this combined period will be near $1.5bn (Appendix). 
+ 
+Policy interventions  
+ 
+Targeted government initiatives are partly reflected in our macroeconomic projections above, as we are 
+already starting to see policy interventions aimed at reducing income losses to businesses and job losses 
+to workers. Indeed, we have assumed active public health measures will work at virus containment, that 
+extra allocations will be made for public health facilities, and that at least some limited support to certain 
+affected groups will be forthcoming. In this context, the mix of economic policy measures taken so far reveals 
+the following:  
+ 
+• 
+Fiscal interventions—extra funding for health facilities, trade tax cuts for corona-related medical 
+imports, and faster VAT refunds to business;  
+• 
+Monetary interventions—Birr 15bn in liquidity support to banks, priority fx allocations to corona-
+related medical imports, higher limits on mobile money transfers; 
+• 
+Sector-specific interventions—removing a minimum price for flower exports ($3.8 per kg, intended 
+to limit transfer pricing), and clamping down on ‘price gouging’ retailers to protect consumers.  
+ 
+While clearly a positive start, an even broader and deeper set of interventions in these areas could 
+potentially do more to reduce income and job losses—thus moderating the anticipated impacts above. 
+Indeed, other country policy responses show aggressive actions being taken in both developed and 
+developing countries. This is partly because—compared to Ethiopia—they are facing a larger incidence of the 
+virus and because larger shares of their economy are currently impacted. Still, to help keep to a minimum 
+the expected domestic shocks and attendant income/job losses, two key questions from a macro perspective 
+are: (1) what more could Ethiopia do? and (2) how much more could it afford to do?  
+ 
+In terms of possible policy initiatives, we tabulate the wide range of recent corona-related economic policy 
+interventions with potential relevance for Ethiopia and highlight their size, forms, beneficiaries, and 
+duration (Table 12):  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research unit team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+15 
+ 
+ 
+Table 12: Macroeconomic Policy Interventions to combat the corona virus: A Sampling of Country Initiatives
+Fiscal Measures
+Monetary Measures
+Sector-Specific Measures
+ETHIOPIA
+● Birr 5bn preliminary fiscal package announced
+● Birr 15bn liquidity support to banks
+● Minimum export flower price removed
+● Import taxes removed for COVID items
+● Priority fx allocations to COVID imports
+● Stronger enforcement against price gouging
+● Faster VAT refunds for businesses
+● Mobile money transfer limits raised
+CHINA
+● RMB 3 turn liquidity injection
+RMB 800bn to support manufactures of medical 
+suppliers 
+● Reserve requirement cuts by 50-100bpts for banks
+● Credit to SMEs (RMB 35bn)
+● Cross-border financing raised by 25% for banks, non-
+banks and enterprises
+INDIA
+● 150bn rupees for health infrastructure
+● Open market operation, to ease liquidity pressures
+● 200bn rupees in Kerala in transfers for  poor
+● regulatory measures to promote credit flows 
+● Tax compliance burden eased
+● foreign exchange swap($2 billion,  6 month)
+BANGLADESH
+● Taka 2.5bn for the health service 
+● Ensuring adequate liquidity in the financial system by 
+buying Treasury Bonds and Bills from banks
+● Taka 50bn ($595mn) package for export 
+industry to help ensure 1.5 months minimum 
+● Expansion of transfer to benefit vulnerable
+● Reduction in reserve requirement (5 to 4.5 percent)
+● Utility payments deferred for 3 months, coverng 
+gas, electricity and water
+● Open market sale program for staple foods
+● Relaxation of loan classification rules: Banks/MFIs to 
+suspend downgrading loans until June 30, 2020
+● Support package for export industries
+VIETNAM
+● $51mn fiscal package, including VND 30trn tax 
+and land rental payment deferrals
+●Rates cut by 50-100bps, short term deposit rates cap by 
+25-30bps, short term lending rates cap by 50bps
+● Tax exemption for medical equipment
+● Raised rates paid on required reserves by 20bps 
+●$800mn to  increase health spending by 50%
+●VDN 250 trn credit package 
+●Exemption of agricultural land use tax, 
+corporate income tax relief for SMEs
+● Reduction of interest rates on existing debts, reducing 
+fees, rescheduling repayments etc.
+● Central bank to intervene in the currency market to 
+smooth excessive exchange rate volatility
+SRI LANKA
+● Issuance of food cards for low-income 
+● Six-month loan moratorium for all business loans
+● Six-month loan moratorium for tourism, 
+apparel, SMEs, plantation, IT and logistics firms
+● Three-month loan moratorium for personal loans
+● Deadline extensions for utility payments 
+targeted at low-income households
+● Six-month grace period for three-wheelers, 
+trucks, and self-employed vehicle lease payments
+PAKISTAN
+● PKR 200bn ($1.2bn) labor package to 'contain 
+the rise in unemployment'
+● Six-month loan moratorium for all business loans
+● PKR 100bn ($600mn) for textile sector 
+exporters to offset cancelled orders
+● PKR 310bn ($1.9bn) for wheat procurement to 
+control food inflation
+● Three-month loan moratorium for personal loans
+● Grants of PKR3,000 per month ($18) for four 
+months for poor families
+● Deferment of utility bills for low-income 
+consumers
+NIGERIA
+●$2.7mn allocated for disease control, and an 
+additional $18mn also planned
+● Reduction in interest rates from 9% to 5%, and one 
+year moratorium on CBN
+● Central bank provided access to its intervention 
+facilities to affected sectors (health care, pharmas, 
+manufacturing)
+● Non-essential capital spending to be 
+cut/delayed by N1.5trillion
+● Central bank extended the principal due on 
+intervention facilities owed to it by an extra year
+● Naira 50bn ($139mn) facility for SMEs, hotels, 
+airlines, and health care mechanges
+●Liquidity injection of N3.6 trn into the banking system
+● Official exchange rate adjusted by 15% (mainly due to 
+oil price collapse)
+SOUTH AFRICA
+● ZAR 12bn ($750mn) fiscal package
+● Rates reduced  by 100 basis points to 5.25%
+● Unemployment Insurance Fund and Special 
+programs to address those affected
+●I Number of repo auctions increased to two
+●Low income workers to receive monthly 
+payment
+●Increased the size of the weekly refinancing operations 
+● Funds to be provided to assist SMEs, mainly 
+tourism and hospitality sectors 
+●Debt relief to be provided by banks to borrowers 
+●Tax reimbursements/credits  to be provided
+● Depreciation of 19.5 percent allowed
+KENYA
+● Extra funds earmarked from existing budget for 
+health expenses
+● Central bank's policy rate reduced by 1 ppt
+● Traders asked not to increase prices of basic 
+goods (but no legal measures to prevent increases)
+● Deficit target for FY 2019-20 being re-assessed
+● Reserve requrement reduced by 1 ppt
+● Banks offered flexibility in loan classification, 
+provisioning, and reschedulings
+●
+●
+EGYPT
+● EGP 100 bn ($6.4bn, 2%GDP) stimulus package 
+announced, includes pension increases, 
+reductions in energy costs, tax relief for 
+industrial/tourism sectors, subsidies to exporters
+● Central bank's policy rate reduced by 3 ppts
+● Of the GP 100 bn ($6.4bn, 2%GDP) stimulus 
+package announced, EGP 50bn for tourism sector
+● Stamp duty on transactions and tax on 
+dividends reduced
+●  Preferential rate for SME loans reduced from 10 to 8 
+percent
+● Capital gains tax postponed until further notice ●  Daily limits for mobile phone payments raised
+●
+●  Debt relief to personal loan borrowers
+●
+●
+●RMB 1.3 trn fiscal package: higher spending on 
+prevention, production of medical equipment, 
+unemployment insurance,  and tax relief
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research unit team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+16 
+ 
+ 
+• 
+Size of policy interventions—relative to GDP: Based on the above compilation and press reports, 
+the size of policy interventions has ranged from a 1-4 percent of country GDP in most countries but 
+has also been as high 10 percent of GDP in countries such as the US. These interventions are generally 
+financed by budgetary re-allocations or by running larger fiscal deficits, especially in those countries 
+with the room to do so and where interest rates are at very low levels. In Ethiopia’s case, coming out 
+of a period of high debt servicing constraints limits the ability to resort to substantial new borrowing, 
+but some combination of foreign grants/loans, domestic borrowing, and local fund-raising efforts are 
+the available options.  
+ 
+Table 12: Cont'd
+Fiscal Measures
+Monetary Measures
+Sector-Specific Measures
+UNITED STATES ● Fiscal stimulus worth S2trn involving funds to 
+affected industries, unemployment benefits, state 
+govt support, food stamps, schools assistance
+●Federal funds rate lower red by 150bp to a range of 
+between 0 to 0.25%
+● $500bn in loans to affected industries as part of 
+$2trn fiscal stimuls
+● Student loan obligation suspended for 60 days 
+● Introduced new facilities to provide liquidity to 
+commercial paper market, money markets, etc 
+● $100bn to hospitals (part of $2trn stimulus)
+● Tax filing deadlines have been delayed
+● $58bn to airlines (part of $2trn stimulus)
+UNITED 
+KINGDOM
+●£5bn funding for NHS and other public services
+● Reduced bank rate by 65 basis points to 0.1 points
+●£27bn to support businesses (tax holiday, 
+grants, sick pay leave)
+● Expansion in central bank holdings by £200bn
+● £7bn for strengthening social safety net
+●incentives for lending to the real economy, esp. SMEs
+● Support to SMEs by deferring tax payments 
+●£350bn loans and guarantees available to businesses
+● 80% of the salary of furloughed employees to be 
+paid (max £2,500 per employee per month)
+●£350bn loans and guarantees available to businesses
+● £150mn to support international response
+Germany
+●€156 bn for health care equipment and 
+expanding access to short term work
+●€120 bn for additional asset purchase (ECB)
+●€ 50bn grants to small business and self 
+employed
+●€ 750bn asset purchase for private and public sector 
+securities  (ECB)
+● €822bn for expanding the volume and access to 
+public loan guarantees for firms
+●€100bn to refinance expanded short term liquidity 
+provision to companies (ECB)
+●€100bn to acquire equity of larger affected companies
+Spain
+●€ 8.9bn budgetary support (including €1bn for 
+health, €2.8bn for regional health services, 
+€110mn for drugs and vaccines)
+●€120 bn for additional asset purchase (ECB)
+●€300mn for supporting dependents, €25mn 
+funding meals for children, 
+●€ 750bn asset purchase for private and public sector 
+securities  (ECB)
+●€14mn:Tax payment deferrals for SMEs& self 
+employed for six months
+●€100bn to refinance expanded short term liquidity 
+provision to companies (ECB)
+● 50% exemption from social security 
+contributions
+● €2 bn public guarantees for exporters
+● One-month mortgage payments for vulnerable
+Italy
+● €25bn emergency package: €3.2bn for 
+strengthening health care system, €10.3 to 
+preserve jobs, €6.4 bn to support business, 
+€5.1bn to support credit supply
+●€120 bn for additional asset purchase (ECB)
+●€ 750bn asset purchase for private and public sector 
+securities  (ECB)
+●€100bn to refinance expanded short term liquidity 
+provision to companies (ECB)
+● Loan repayment for SMEs, tax deferral , state guarantee 
+of €0.5 bn to state devt Bank
+Source: IMF COVID-19 Policy Tracker' at www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19
+Additional inputs from Tellimer Research (Bangladesh, Kenya, Sri Lanka, Pakistan), Renaissance Capital (Egypt), and IDB Compilation of COVID-19 policy measures by regiona
+There is an overlap between 'Fiscal Measures' and 'Sector-Specific Measures' but presented separately to highlight business/household specific support
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research unit team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+17 
+• 
+Instruments—fiscal, monetary, and sector-specific: Fiscal support has typically involved extra 
+spending to assist those directly affected as well as changes in tax rates and rules (temporary waivers, 
+faster refunds, tax exemptions); monetary support has generally involved providing banks with short-
+term liquidity, interest rate changes, and regulatory forbearance (NPL provisioning rules); and sector 
+support has taken the form of grants, loans, loan guarantees, debt service relief, debt write-off, and 
+job creation/transition schemes for affected economic sub-sectors. Some notable and distinctive  
+interventions seen from the cross-country experience include: cash grants to poor households, utility 
+bill deferments for three months, temporary stamp duty and dividend tax reductions, 
+postponements of capital gains taxes, dedicated credits to SMEs, temporary moratoriums on loans 
+of affected businesses, and flexibility for banks in loan classification and provisioning requirements 
+(Table 12).  
+ 
+• 
+Beneficiaries: Those assisted by public interventions have included a wide range of target 
+beneficiaries—given varying approaches taken to give direct grants to households, wage support to 
+keep workers employed, or support to affected businesses (such as airlines, tourism). 
+ 
+• 
+Duration: Country experiences in this area show a mix of one-time support, open-ended support that 
+stays in place until conditions change, or a pre-defined duration announced upfront (e.g. 3 months). 
+ 
+In the Ethiopian context, the sectors most eligible for support are—beyond direct assistance to public 
+health facilities—hospitality and service businesses, exporters, certain manufacturers, and banks. 
+Considering the range of policy interventions seen elsewhere, and in light of the early steps already taken, 
+the potential directions/considerations for further policy support are as follows:  
+ 
+• 
+Support of health sector and public health initiatives: Early steps taken have focused on directly 
+helping the health sector with extra Personal Protective Equipment (PPE) and related resources—as 
+appears to have been the case for the initial Birr 5bn allocation. To the extent that the virus case 
+count increases, and health facilities begin to handle much larger numbers, the need to expand PPE 
+and other equipment resources could rise rapidly. Annual budgetary health sector spending is Birr 
+12.8 per year (5 percent of the federal government spending and 0.5% of GDP), and if we assume an 
+incremental boost equal to 25 to 50 percent on the annual health budget this would translate to Birr 
+3bn to 5bn in extra funds. 
+ 
+• 
+Support to workers: As far as we are aware, direct support to affected/laid off workers is not yet in 
+place. In principle, and if funding were available, the existing urban safety net or similar schemes 
+could be utilized to assist laid off workers with basic incomes for a transitional period. Taking a range 
+of 750,000 to 1.5mn in affected workers (based on 10 to 25 percent of the employed urban 
+population), and were a package of basic income support provided at near sector-specific minimum 
+wages (around Birr 1,500 per month), then this would imply Birr 13bn to 27bn of support on an 
+annual basis (around 0.3 to 0.7 percent of GDP). 
+ 
+• 
+Support to businesses: Direct support to private businesses has—in the Ethiopian context—largely 
+been in the form of tax holidays and duty-free privileges rather than outright financial support. 
+Current approaches taken in the flower sector appear to be a continuation of such non-financial 
+forms of support, including industry-government understandings to limit layoffs (per press reports), 
+removal of regulations such as minimum export prices, and encouragement to banks to voluntarily 
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research unit team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+18 
+postpone/reschedule the sector’s debt service payments. Over time, heavily affected sub-sectors 
+(including hotel and selected service industries) may seek both regulatory relief as well as dedicated 
+financial support, especially for those with significant roles in employment and foreign exchange 
+generation. Were such active business support schemes to be put in place, and prioritizing the most 
+heavily affected sectors (around 5 percent of GDP), potential amounts involved would be in the range 
+of Birr 17bn to 34bn (0.5 to 1 percent of GDP) assuming aid packages equal to 10 to 20 percent of 
+their GDP contribution. Unlike the case for workers, the forms of support provided to businesses 
+would typically take the form of delayed tax payments, temporary credits, as well as loan guarantees, 
+so the actual cash outlays and net costs to government could be considerably lower over time. 
+ 
+• 
+Support to banks: Short-term (repayable) liquidity support has become the most common form of 
+central bank support to banks across the globe. In the Ethiopian context, effective loan-to-deposit 
+ratios have been near or above 100 percent at most private banks (after accounting for reserve 
+requirements and NBE Bill holdings), so they have effectively lent out all mobilized deposits, leaving 
+little room for coping with sizeable cash withdrawals or other shocks. The amount of liquidity support 
+offered so far is only 3.5 percent of total private bank deposits (which stood at Birr 401bn at end-
+2019) and is also below what banks have placed at NBE in the form of reserve requirements (around 
+Birr 20bn, given a 5 percent reserve requirement, which could potentially be released for liquidity 
+purposes subject to inflationary considerations). A 5 to 10 percent liquidity buffer should generally 
+be adequate for the operations of most banks (as they can also cut back on new lending to boost 
+liquidity even if there is a slowdown in loan collections), and on that basis net liquidity support on 
+the order of Birr 20 to 40bn may be seen as a more meaningful level of (repayable) support to private 
+banks.  
+ 
+• 
+Support from/to the private sector: Potential forms of financial relief within the private sector can 
+also make a significant difference, especially if encouraged by the public sector. Rental expenses, for 
+example, are typically the highest share of an SME or service company’s monthly costs and some 
+period of relief from (private and public) landlords could make a material impact in allowing 
+businesses to continue as going concerns. To the extent that the government is the landlord for some 
+portion of private business facilities, the scope for such forbearance is within the scope of public 
+policies and could set an exemplary trend. 
+ 
+In terms of the scale of the financing needed to permit the above policy interventions, a rough estimation 
+of the magnitudes involved suggests an amount of near Birr 90bn would be required ($2.6bn or 2.3 percent 
+of  GDP) for a ‘comprehensive support package’.  This estimate is a mid-point of a low-end and high-end 
+case and includes assumed revenue shortfalls that government will encounter given weakened economic 
+activity (Table 13). This illustrative ‘comprehensive support package’ covers areas where the government has 
+conventionally provided past support (such as support to health facilities), but also unconventional 
+government interventions (such as direct support to individual workers and businesses) that might now be 
+considered given the exceptional nature of the economic disruption. The latter interventions are now 
+increasingly common in a wide range of recent country cases following the corona pandemic, and may merit 
+consideration in Ethiopia as well if the needed financing is potentially available. By our estimates, about 55 
+percent of the resources needed for a ‘comprehensive support package’ can be secured via conventional 
+financing sources (re-allocations of existing funds, domestic fund-raising efforts, somewhat higher grants, 
+and somewhat higher foreign loans), but the remaining 45 percent would need exceptional resources (i.e. 
+substantially higher grants/loans and/or exceptional debt service relief). Should such exceptional resources 
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research unit team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+19 
+not be available, and if only conventional financing sources are on hand, available funding would largely be 
+sufficient for extra public health spending and support to affected workers, but would have to exclude 
+exceptional government assistance to affected SMEs/businesses. The basis for the above conclusions is 
+elaborated below and in greater detail in Table 13:  
+ 
+ 
+ 
+• 
+Re-allocations of existing expenditure: Re-allocation of existing budget items is one immediate and 
+available funding source (of course at the expense of some other government program). Ethiopia’s 
+initial allocations of 5bn appears to have resorted to this funding source. Looking at this year’s 
+Federal Budget, Birr 14bn had been set aside as contingency funds, though given where we are in 
+the fiscal year, it may have already been used to date. Assuming an amount equal to the annual 
+budget contingency can still be re-allocated away from lower priority spending items, then Birr 14bn 
+could conceivably be mobilized for the various corona-fighting efforts.  
+ 
+• 
+Additional external funds—grants and loans:  Running a higher fiscal deficit by taking on more 
+foreign loans is one source of additional funding. The scope here is somewhat limited for Ethiopia, 
+however, as baseline borrowing plans (pre-corona) were already around $1.8bn for this fiscal year. 
+Still, extra borrowing of in the range of $300-$500mn may be available and realistic, which would 
+imply Birr 10bn-18bn in extra resources. If supplementary grants of $300mn-$500mn also become 
+Table 13: Fiscal and Monetary Impacts of the Corona Virus--A Rough Estimate of Magnitudes Involved and Financing Considerations
+Fiscal Policy: Impacts, Interventions and Funding Considerations
+Low-end
+High-end
+Mid-point
+Mid-point
+Mid-point
+Birr bns
+Birr bns
+Birr bns
+USD mns
+In %GDP
+1 Revenue change, net of grants
+-31.0
+-51.6
+-41.3
+(1,203)
+$         
+-1.0%
+     Gross revenue change
+-41.3
+-68.8
+-55.0
+(1,518)
+$         
+-1.4%
+Range of 15 -25% drop considered in Federal Govt revenue 
+     Extra grants (for corona impacts)
+10.3
+17.2
+13.7
+400
+$               
+0.3%
+Roughly 3 to 4 percent of $14bn WB corona virus allocation
+2 Extra government expenditure
+33.7
+67.4
+50.6
+1,395
+$          
+1.3%
+     Support to health sector
+3.2
+6.4
+4.8
+132
+$               
+0.1%
+Extra 25-50% of national health budget, which is Birr 12.8bn
+     Support to workers
+13.5
+27.0
+20.3
+559
+$               
+0.5%
+Range of 0.4-1.1mn affected workers, Birr 1,500/mth  support
+     Support to SMEs/businesses
+17.0
+34.0
+25.5
+704
+$               
+0.6%
+10-20 percent of heavily affected sectors (~5% GDP)
+3 NET FISCAL IMPACT
+64.7
+119.0
+91.8
+2,598
+$          
+2.3%
+      Fiscal Impact excl support to businesses
+47.7
+85.0
+66.3
+1,894
+$         
+1.7%
+   POSSIBLE FINANCING AVAILABLE
+46.3
+55.2
+50.7
+1,421
+$         
+1.3%
+        Re-allocations within budget
+14.0
+14.0
+14.0
+386
+$               
+0.3%
+Same as budget contingency; 6% of Federal Govt spending
+        Extra foreign borrowing
+10.3
+17.2
+13.7
+400
+$               
+0.3%
+Roughly $300-$500mn extra low-interest foreign loans
+        Extra domestic borrowing
+20.0
+20.0
+20.0
+552
+$               
+0.5%
+Birr 20bn in Govt borr from NBE (in line with macro program)
+        Private sector contributions
+2.0
+4.0
+3.0
+83
+$                  
+0.1%
+6-month private fund-raising estimate
+   REMAINING FINANCING NEEDED:
+18.4
+63.8
+41.1
+1,177
+$          
+1.0%
+Implied Remaining Financing need
+      Fin needed excl support to businesses
+1.4
+29.8
+15.6
+473
+$              
+0.4%
+Implied Remaining Financing need, business support
+Monetary Policy: Interventions and Funding Considerations
+Low-end
+High-end
+Mid-point
+Mid-point
+Mid-point
+Est Birr 
+Est Birr
+Est Birr
+USD mns
+In %GDP
+1 NBE liquidity support to private banks
+20.1
+40.1
+30.1
+876.5
+$          
+0.7%
+Liquidity need tof  5 to 10 percent of private banks' deposits
+2 NBE liquidity support to state banks
+11.2
+22.4
+16.8
+489.6
+$          
+0.4%
+Need of  2 to 4% of deposits used given larger absolute size
+TOTAL potential liquidity support:
+31.3
+62.5
+46.9
+1,366
+$          
+1.2%
+Total potential liquidity support
+Source: Cepheus Research compilaton to provide approximate orders of magnitude for possible macro policy interventions and associated funding sources/constraints.
+Period covered is from April 2020 to June 2021, so includes last quarter of this fiscal year and all of the next fiscal year.
+Nominal GDP of Birr 4,002bn and average exchange rate of 34.31 is used for expressing figures in percent of GDP and in USD respectively.
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research unit team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+20 
+available (the World Bank is allocating $14bn globally, which would imply 3-4 percent of those 
+amounts for Ethiopia), then another Birr 10bn-15bn might be mobilized. Seeking external market 
+funding is certainly not an option at this moment, not only because government has committed 
+(including in the IMF program) to avoid such high-interest rate loans but also since the associated 
+costs have jumped in recent weeks—the yield on Ethiopia’s sovereign bond is now up to 7.8% as of 
+end-March 2020 from a low of 4.4 % just a few months ago. 
+ 
+• 
+Additional domestic borrowing: Funding options from domestic sources are generally quite limited 
+at the moment: commercial banks have essentially lent out all their mobilized deposits and non-bank 
+sources of financing (mainly pension funds) are fully invested in government T-Bills (Birr 115 bn as of 
+late 2019) with limited new incremental funds generated. This leaves the central bank—and its ability 
+for money creation—as the main source of domestic financing for the government, though the 
+Government-IMF macro program recently sought to cap this at no more than Birr 20bn to limit 
+inflationary risks. Assuming this amount can now be used given the exceptional circumstances, and 
+noting that net government borrowing from the NBE was close to zero during the first half of the 
+fiscal year (gross credit was up by 10bn but government deposits at NBE also up by a similar amount), 
+then roughly Birr 20bn can be seen as available domestic financing—via NBE net lending to 
+government—to fund the corona impacts. The deficit implications of this domestic borrowing (0.5 
+percent of GDP), plus the foreign borrowing noted above (0.3 percent of GDP), would be a total of 
+almost 1 percent of GDP.  
+ 
+• 
+NBE financial support: Separate from the fiscal considerations above, in the special case of NBE 
+liquidity support, this can be secured from reserve requirement reductions and/or expanding NBE’s 
+balance sheet. Both would need to be subject to potential inflationary considerations, but that may 
+be less of an issue now given various deflationary effects being brought about by the economic crisis 
+(high food inflation may still temporarily persist, however, given this is the ‘lean’ season for most 
+food products and partial shutdowns may lead to more widespread upfront buying). As noted earlier, 
+a 5 to 10 percent liquidity buffer is generally seen as adequate for bank asset-liability management 
+purposes, and on that basis net liquidity support on the order of Birr 20 to 40bn would be a 
+reasonable level for the private banking system to withstand expected shocks. For the large state 
+bank, given its much larger absolute size, liquidity support of a smaller proportion may be sufficient 
+given its deposit levels. Beyond liquidity support, a relaxation of certain regulatory requirements 
+would be in line with many country practices at present: for example, temporarily tolerating breaches 
+of the informal 5 percent NPL ceiling (as many banks may see this ratio rising to near double-digits) 
+would deliver substantial relief both to the banks and their SME/corporate customers.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research unit team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+21 
+Conclusion 
+ 
+Working with the assumption of a ‘limited virus spread scenario’ (severe disruptions to four economic sub-
+sectors for the next three months followed by six months of a slow domestic/globally recovery), this note has 
+attempted to identify the corona virus’ key macro impacts for Ethiopia and our sense of the magnitudes 
+involved. A key conclusion is that even under a ‘limited virus spread scenario’, the economic impacts and costs 
+are considerable: (1) growth would fall to 5 percent; (2) close to $1.5bn in net fx inflows will be lost; (3) between 
+750,000 and 1.5mn jobs are potentially affected; (4) around Birr 27bn to 57bn in wage income could be 
+threatened; (5) fiscal resources of up to Birr 90b (2.3% GDP) would be needed for comprehensive public 
+assistance packages; and (6) central bank liquidity interventions on the order of Birr 47 bn (1.3% GDP) may be 
+required.  
+ 
+Given the highly unpredictable pattern of the virus’ spread, an even more adverse scenario cannot be ruled 
+out, and the economic costs in that case would be several orders of magnitude higher. If case numbers in the 
+coming days/weeks begin to rise exponentially and pass a critical ‘tipping point’ of say 500 or 1,000 cases, then 
+we may see effects that cover a much wider geographic area (if the virus moves beyond Addis Ababa to regional 
+capitals and food-growing rural areas) and that also threaten broader segments of the economy (such as 
+construction and industry should these become subject to government lockdowns). Such a scenario would bring 
+markedly different social and economic consequences (which we don’t venture to estimate at this point). 
+However, on current trends, and given the scale and scope of public health measures actively being put in place, 
+this adverse scenario seems to us to be a low probability event and has not formed the basis for our assessment.  
+ 
+In concluding, we would make it a point to emphasize that, despite the near-term shocks which are inevitable 
+under either scenario, the generally positive and encouraging trends seen in Ethiopia’s macroeconomy at the 
+start of 2020 should not be forgotten—and may perhaps need repeated reminding. As highlighted in our 2020 
+Macroeconomic Handbook, Ethiopia at the start of the year was coming out of a period of strong growth (9 
+percent of GDP last fiscal year) and exhibited still high public and private investment levels that boded well for 
+continued long-term growth. A new Government-IMF macro program was launched (and of course still in place) 
+to help bring more conventional and disciplined macro policies, while also delivering substantially increased 
+external funding via grants, low-interest loans, and rescheduling of upcoming debt service dues. Stricter controls 
+that began to apply on government and state enterprise borrowing were (and are) setting the stage for improved 
+credit and foreign exchange supplies to the private sector. Despite delays in some areas, structural reforms in 
+the areas of privatization, ease of doing business, and the financial sector were also moving in a positive 
+direction—for example, putting an end to mandatory Bill purchase requirements on banks, raising private sector 
+credit to record levels, relaxing restrictive regulations in banking, and introducing for the first time market-based 
+auctions for government debt. The main weak spots in the macroeconomy (pre-corona) continued to be high 
+inflation and fx shortages, but both of these were priority areas under the new macro program with measures 
+initiated for their eventual resolution. In short, in facing the global pandemic, Ethiopia is doing so from a position 
+of relative strength—with strengthened state institutions (indispensable in this environment) now much more 
+capable of mobilizing domestic and external resources, with a better macroeconomic framework and set of tools 
+to navigate needed policy adjustments, and with a much closer engagement with its many multilateral and 
+bilateral partners.  
+ 
+A revised set of macroeconomic forecasts for the current fiscal year and for 2020-21 is included in the Summary 
+Table at the end of this note. 
+ 
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research unit team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+22 
+ACKNOWLEDGEMENT: Cepheus Research acknowledges the feedback from a number of sector specialists, bankers, and private sector 
+businessmen whose inputs have significantly informed the preparation of this note. 
+ 
+ 
+RESEARCH & ANALYTICS 
+ 
+ 
+Disclaimer: This report represents solely the views, analysis, and judgement of the Cepheus research unit team and does 
+not necessarily reflect the views or opinions of the Fund’s Managing Partners, Advisors, or Investors. 
+ 
+23 
+ 
+ETHIOPIA--Macroeconomic Indicators For the Current and Upcoming Fiscal Year: Recent Projections and Latest Revisions
+2018/19
+2019/20
+FY 2020/21
+2019/20
+FY 2020/21
+2019/20
+FY 2020/21
+Actual
+Initial Proj
+Initial Proj
+Revised Proj
+Revised Proj
+Change in Proj
+Change in Proj
+Real Sector: GDP, Prices, and Investment
+9.0%
+8.0%
+7.5%
+7.0%
+5.0%
+-1.1%
+-2.5%
+   Agriculture growth
+3.8%
+4.5%
+4.0%
+4.3%
+3.7%
+-0.2%
+-0.3%
+   Industry growth
+12.6%
+12.0%
+12.0%
+11.0%
+9.0%
+-1.0%
+-3.0%
+   Services growth
+11.0%
+8.3%
+7.5%
+6.5%
+3.5%
+-1.8%
+-4.0%
+Inflation: CPI (end-of-period)
+15.3%
+13.3%
+10.0%
+15.0%
+12.0%
+1.7%
+2.0%
+Inflation: CPI (period average)
+12.6%
+17.5%
+10.0%
+18.0%
+12.0%
+0.5%
+2.0%
+Nominal GDP growth
+22.5%
+26.9%
+18.3%
+26.2%
+17.6%
+-0.7%
+-0.7%
+Nominal GDP level (Birr billions)
+2,696.2
+  
+3,422.1
+     
+4,047.0
+        
+3,403.8
+        
+4,002.1
+        
+(18.3)
+             
+(44.8)
+             
+Nominal GDP level (USD billions)
+95.9
+$     
+108.7
+$      
+114.5
+$         
+108.1
+$         
+107.7
+$         
+(0.6)
+$             
+(6.8)
+$             
+GDP per capita (USD)
+971.8
+$   
+1,077.8
+$   
+1,112.1
+$      
+1,072.0
+$      
+1,045.9
+$      
+(5.8)
+$             
+(66.1)
+$           
+Exchange rate (Birr/USD, end-of-period)
+28.91
+     
+33.16
+        
+37.50
+           
+34.31
+           
+39.41
+           
+1.15
+              
+1.91
+              
+Exchange rate (Birr/USD, year-average)
+28.12
+     
+31.49
+        
+35.33
+           
+31.49
+           
+37.15
+           
+-
+                
+1.82
+              
+Exchange rate annual depreciation (year-average)
+7.2%
+12.0%
+13.1%
+12.0%
+18.0%
+0.0%
+4.9%
+Investment-to-GDP ratio
+35.2%
+34.0%
+36.5%
+33.5%
+33.0%
+-0.5%
+-3.5%
+   By investor category:
+Public sector investment-to-GDP ratio
+11.0%
+11.0%
+10.5%
+11.0%
+10.5%
+0.0%
+0.0%
+Private sector investment-to-GDP ratio
+24.2%
+23.0%
+26.0%
+22.5%
+22.5%
+-0.5%
+-3.5%
+   By source of financing:
+Domestic Savings-to-GDP ratio
+24.0%
+23.5%
+24.5%
+22.5%
+20.0%
+-1.0%
+-4.5%
+External Savings-to-GDP ratio
+11.2%
+10.5%
+12.0%
+11.0%
+13.0%
+0.5%
+1.0%
+Banking Sector 
+2018/19
+2019/20
+FY 2020/21
+2019/20
+FY 2020/21
+2019/20
+FY 2020/21
+Deposits at all commercial banks (Br bn)
+899
+        
+1,088
+        
+1,305
+           
+1,061
+           
+1,241
+           
+(27)
+                
+(64)
+                
+Loans by all commercial banks (Br bn)
+456
+        
+593
+           
+759
+              
+575
+              
+707
+              
+(18)
+                
+(52)
+                
+NBE Bills held by all comm banks (Br bn)
+89
+          
+85
+             
+68
+                
+70
+                
+53
+                
+(15)
+                
+(15)
+                
+Bonds held by all commercial banks (Br bn)
+339
+        
+400
+           
+459
+              
+400
+              
+459
+              
+-
+                
+-
+                
+Total bank financing: Loans/Bills/Bonds (Br bn)
+883
+        
+1,078
+        
+1,286
+           
+1,044
+           
+1,219
+           
+(33)
+                
+(67)
+                
+Deposit-to-GDP ratio (%)
+33.3%
+31.8%
+32.3%
+31.2%
+31.0%
+-0.6%
+-1.2%
+Total bank financing-to-Deposit ratio (%)
+98.3%
+99.0%
+98.5%
+98.4%
+98.2%
+-0.6%
+-0.3%
+Total commercial bank financing-to-GDP ratio (%)
+32.8%
+31.5%
+31.8%
+30.7%
+30.5%
+-0.8%
+-1.3%
+Annual growth in bank deposits (%)
+23.3%
+21.0%
+20.0%
+18.0%
+17.0%
+-3.0%
+-3.0%
+Annual growth in total bank financing (%)
+23.2%
+22.0%
+19.4%
+18.2%
+16.8%
+-3.8%
+-2.6%
+Fiscal Sector
+2018/19
+2019/20
+FY 2020/21
+2019/20
+FY 2020/21
+2019/20
+FY 2020/21
+Revenue and grants (Birr bns)
+344.9
+425.3
+566.2
+417.8
+532.9
+(7.5)
+               
+(33.3)
+             
+Revenue (Birr bns)
+311.3
+395.1
+532.1
+384.5
+487.7
+(10.6)
+               
+(44.4)
+              
+Grants (Birr bns)
+33.6
+30.2
+34.1
+33.3
+45.2
+3.1
+                 
+11.1
+               
+Expenditure (Birr bns)
+413.1
+509.8
+655.8
+524.8
+687.8
+15.0
+              
+32.0
+              
+Fiscal balance after grants (Birr bns)
+-68.2
+-84.5
+-89.6
+-107.0
+-154.9
+(22.5)
+             
+(65.3)
+             
+Revenue and grants (% GDP)
+12.8%
+12.4%
+14.0%
+12.3%
+13.3%
+-0.2%
+-0.7%
+Expenditure (% GDP)
+15.3%
+14.9%
+16.2%
+15.4%
+17.2%
+0.5%
+1.0%
+Fiscal balance after grants (% GDP)
+-2.5%
+-2.5%
+-2.2%
+-3.1%
+-3.9%
+-0.7%
+-1.7%
+Public Sector Debt (% GDP)
+56.0%
+52.0%
+52.1%
+52.3%
+56.0%
+0.3%
+4.0%
+External Debt (% GDP)
+28.2%
+26.3%
+26.5%
+26.4%
+28.4%
+0.1%
+2.0%
+Domestic Debt (% GDP)
+27.8%
+25.8%
+25.6%
+25.9%
+27.6%
+0.2%
+2.0%
+External Sector: Balance of Payments 
+2018/19
+2019/20
+FY 2020/21
+2019/20
+FY 2020/21
+2019/20
+FY 2020/21
+Exports of goods (USD mn)
+2,667
+     
+2,880
+        
+3,168
+           
+2,587
+           
+2,638
+           
+(293)
+              
+(530)
+              
+Exports of services (USD mns)
+4,949
+     
+5,196
+        
+5,612
+           
+4,677
+           
+3,929
+           
+(520)
+              
+(1,684)
+           
+Imports of goods (USD mn)
+(15,112)
+  
+(15,036)
+     
+(16,239)
+        
+(14,815)
+        
+(14,670)
+        
+221
+               
+1,570
+            
+Oil imports (USD mn)
+(2,661)
+      
+(2,475)
+         
+(2,598)
+            
+(2,209)
+            
+(1,546)
+            
+266
+                 
+1,052
+              
+Non-Oil imports (USD mn)
+(12,451)
+    
+(12,562)
+       
+(13,641)
+          
+(12,607)
+          
+(13,124)
+          
+(45)
+                 
+517
+                
+Imports of services (USD mns)
+(4,910)
+    
+(5,401)
+       
+(5,941)
+          
+(4,517)
+          
+(4,517)
+          
+884
+               
+1,424
+            
+-
+                
+-
+                
+Remittances (USD mn)
+5,693
+     
+5,978
+        
+6,456
+           
+5,124
+           
+4,714
+           
+(854)
+              
+(1,742)
+           
+Private transfers (USD mn)
+683
+        
+717
+           
+753
+              
+717
+              
+753
+              
+-
+                
+-
+                
+Foreign official grants (USD mn)
+2,087
+     
+1,800
+        
+1,600
+           
+1,900
+           
+2,000
+           
+100
+               
+400
+               
+Current account balance (USD mn)
+(4,534)
+    
+(4,556)
+       
+(5,407)
+          
+(4,928)
+          
+(5,878)
+          
+(372)
+              
+(472)
+              
+Current account balance (% GDP)
+-4.7%
+-4.2%
+-4.7%
+-4.6%
+-5.5%
+-0.4%
+-0.7%
+Foreign direct investment (USD mn)
+3,015
+     
+3,500
+        
+5,050
+           
+2,400
+           
+4,400
+           
+(1,100)
+           
+(650)
+              
+Net foreign borrowing: Govt (USDmn)
+1,158
+     
+1,300
+        
+1,500
+           
+1,300
+           
+1,800
+           
+-
+                
+300
+               
+Net foreign borrowing: Public Sector (USDmn)
+1,326
+     
+200
+           
+300
+              
+200
+              
+300
+              
+-
+                
+-
+                
+Overall External Balance (USD mn)
+58
+          
+644
+           
+1,743
+           
+(828)
+             
+772
+              
+(1,472)
+           
+(972)
+              
+     Overall External Balance, excl privatization delay
+58
+         
+644
+           
+1,743
+           
+172
+              
+772
+              
+(472)
+             
+(971)
+             
+Stock of Foreign Reserves, (USD mn)
+3,415
+     
+4,059
+        
+5,802
+           
+2,587
+           
+3,359
+           
+(1,472)
+           
+(2,444)
+           
+Stock of Foreign Reserves, months imports
+2.7
+         
+3.2
+            
+4.3
+               
+2.1
+               
+2.7
+               
+(1.1)
+               
+(1.5)
+               
+External Debt Stock (Public Sector, USD bn)
+27.0
+       
+28.5
+          
+30.3
+             
+28.5
+             
+30.6
+             
+-
+                
+0.3
+                
+External Debt Stock (Public Sector, % GDP)
+28.2%
+26.3%
+26.5%
+26.4%
+28.4%
+0.1%
+2.0%
+Growth of Goods Exports
+-6.1%
+8.0%
+10.0%
+-3.0%
+2.0%
+-11.0%
+-8.0%
+Growth of Goods Imports
+-0.9%
+-0.5%
+8.0%
+-2.0%
+-1.0%
+-1.5%
+-9.0%
+Data Sources: NBE, MOFEC, CSA, and IMF for FY 2018-19; Cepheus Capital Research for projection years (with IMF fiscal data for baseline projection years).
+*Projections for 2019-20 and 2020-21 reflect our judgements under a 'benign and limited-spread scenario' as described in the text.
+Real GDP growth 
+Rev Projs--CORONA IMPACTS*
+Previous Projections
+CHANGE in Cepheus Projections

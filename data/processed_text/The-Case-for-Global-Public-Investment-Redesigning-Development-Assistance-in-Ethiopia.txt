@@ -1,0 +1,806 @@
+ 
+ 
+ 
+ 
+The Case for Global Public Investment: 
+Redesigning Development Assistance in 
+Ethiopia 
+ 
+Technical Note 
+ 
+By: Ethiopian Economics Association (EEA) 
+ 
+Technical Team 
+Semeneh Bessie 
+Adem Feto 
+Mengistu Ketema 
+ 
+ 
+March 2024 
+ 
+ 
+ii 
+ 
+Contents 
+ACKNOWLEDGEMENTS .................................................................................................................... iii 
+ACRONYMS AND ABBREVIATIONS .............................................................................................. iv 
+1. 
+INTRODUCTION ............................................................................................................................ 1 
+2. 
+APPROACHES OF THE STUDY ................................................................................................. 4 
+3. 
+FOREIGN DEVELOPMENT AID: HISTORY, IMPORTANCE, AND CHALLENGES .... 4 
+3.1. 
+Trends and Experiences of Development Aid in Africa 
+................................................. 4 
+3.2. 
+Challenges of Aid-Based Development Assistance in Africa ........................................ 6 
+3.3. 
+Challenges of Development Aid in Ethiopia ..................................................................... 7 
+4. 
+CONCEPTUALIZING GLOBAL PUBLIC INVESTMENT 
+..................................................... 8 
+4.1. Basics of GPI .................................................................................................................................. 8 
+4.2. The Thinking behind the GPI Principles ............................................................................... 10 
+4.3. Contextualizing GPI in Ethiopia 
+.............................................................................................. 11 
+5. 
+GPI: BENEFITS AND REQUIRED PREPAREDNESS ........................................................... 13 
+5.1. 
+The Role of GPI to Finance the SDGs 
+.............................................................................. 13 
+5.2. 
+Why is GPI Important for Africa? ..................................................................................... 14 
+5.3. 
+Why is GPI Necessary for Ethiopia? ................................................................................. 15 
+5.4. 
+Preparedness in Implementing GPI 
+.................................................................................. 16 
+6. 
+CONCLUSION AND RECOMMENDATIONS/IMPLICATIONS 
+....................................... 17 
+6.1. Conclusion .................................................................................................................................... 17 
+6.2. Recommendations/Implications .............................................................................................. 18 
+REFERENCES 
+.......................................................................................................................................... 19 
+ 
+ 
+ 
+ 
+iii 
+ 
+ACKNOWLEDGEMENTS 
+This resource was produced by the Ethiopian Economics Association (EEA) with support from 
+Development Initiatives (DI).  
+  
+ 
+ 
+ 
+The EEA assigned a team of experts for developing the document, organized a validation and 
+dissemination workshop (in collaboration with DI), and supported incorporation of feedback 
+from participants, reviewers, and editors. Ideas expressed in this publication are those of the 
+authors and do not necessarily reflect the views of the EEA. 
+DI supported the production of this report, including facilitating peer review and providing 
+editorial assistance and guidance. The opinions expressed are those of the author and do not 
+necessarily reflect the views of DI. 
+EEA is a non-profit, non-partisan and non-religious professional association established in 1991 
+with a mission of promoting professional interests of its members, advancing the discipline of 
+economics, and contributing to the economic development of Ethiopia and beyond. 
+DI unlocks the power of data to enable policies and investments that improve the lives of people 
+experiencing poverty, inequality and crisis. Read more about DI’s work on Global Public 
+Investment.  
+This report is copyright 2024 Ethiopian Economics Association and licensed under a Creative 
+Commons Attribution BY-NC-ND 4.0 International license, unless stated otherwise. We 
+encourage dissemination of the work provided a reference is included. 
+Ethiopian Economics Association would like to thank the Development Initiatives (DI) for its 
+partnership in supporting the production, review, and dissemination of this publication. 
+ 
+ 
+ 
+iv 
+ 
+ACRONYMS AND ABBREVIATIONS 
+AfDB   
+ 
+African Development Bank 
+COVID-19  
+ 
+Coronavirus disease – 2019 
+CRGE     
+ 
+Climate Resilient Green Economy 
+DI  
+ 
+ 
+Development Initiatives 
+EEA   
+ 
+Ethiopian Economics Association 
+EWG-GPI                  Expert Working Group on Global Public Investment  
+GDP   
+ 
+Gross domestic product 
+GPGs   
+ 
+global public goods 
+GPI  
+ 
+ 
+Global Public Investment  
+IDP  
+ 
+ 
+internally displaced persons 
+IMF      
+ 
+ 
+International Monetary Fund                           
+IPCC    
+ 
+Intergovernmental Panel on Climate Change 
+LDCs    
+ 
+Least developed countries 
+ODA   
+ 
+official development assistance 
+SDGs   
+ 
+Sustainable Development Goals 
+ 
+SSA      
+ 
+ 
+sub-Saharan Africa  
+UN  
+ 
+ 
+United Nations 
+UNDP     
+ 
+United Nations Development Programme   
+UNFCCC  
+ 
+United Nations Framework Convention on Climate Change 
+WB  
+ 
+ 
+World Bank 
+ 
+ 
+1 
+ 
+1. INTRODUCTION 
+In the 21st century, globalization and the advancement of research and technology have simplified 
+communications and the lives of people around the globe. At the same time, and sometimes 
+because of this, people in the world are facing multiple challenges due to transboundary problems 
+like the coronavirus disease (COVID-19) pandemic, climate change, and conflict; commonly 
+referred to as “The Global Triple C” challenge. Furthermore, the failure to secure a more 
+equitable and effective allocation of resources to achieve the global common agenda demands 
+global cooperation and solidarity. 
+Many countries have been independently allocating huge resources to tackle these global 
+manmade and natural catastrophes. However, one country cannot single-handedly tackle these 
+challenges and hence global cooperation is required. On the other hand, nations also rely on 
+developmental and humanitarian aid and assistance to combat the effects of global emergencies, 
+yet funding of this nature has failed to bring reliable and long-lasting solutions. 
+Despite the attention given by world leaders to combatting these global problems, the challenges 
+remain. For instance, the impact of climate change has become one of the most serious threats 
+to the global economy. It seems it will continue to be the largest threat in the future worldwide, 
+substantially affecting developing countries. Climate change has been disrupting the global 
+economy, triggering food insecurity, and exacerbating poverty in Africa. The World Economic 
+Forum (2021) estimated that global warming due to climate change will reduce 18% of world 
+gross domestic product (GDP) if no proper action was taken by 2022. According to the 5th 
+Intergovernmental Panel on Climate Change (IPCC) assessment report, Africa is particularly 
+vulnerable to climate change.  
+To tackle climate change and its negative impacts, world leaders held a conference (COP15) in 
+Copenhagen in 2009 and they collectively agreed to allocate huge resources in the form of aid. 
+However, the conventional aid-based financing system has failed to address the challenges of 
+climate change and other transboundary global contests. Moreover, recurrent drought triggered 
+by climate change has become a major challenge in countries like Ethiopia. This requires world 
+leaders, policymakers and financiers to think of a new, inclusive and dynamic means of 
+2 
+ 
+international development finance that takes into account a globally ambitious, long-term and 
+reliable investment in global public goods (GPGs). 
+In a similar vein, the recent COVID-19 pandemic triggered a global economic crisis. The 2022 
+World Bank report showed that the COVID-19 crisis had a dramatic impact on global poverty 
+and aggravated inequality across countries. The report revealed that global poverty has increased 
+for the first time in a generation, and disproportionate income losses among disadvantaged 
+populations has led to a dramatic rise in inequality within and across countries due to the 
+pandemic. The economic impacts of the pandemic were especially severe in Africa where income 
+losses caused by the pandemic worsened some preexisting economic fragilities. For example, the 
+pandemic led to an increase in public expenditure, public deficit, external debt and the debt 
+service ratio in Ethiopia (Geda, 2021). 
+Since the pandemic severally damaged less prepared low-income countries, scholars have debated 
+the conventional aid-based development financing system that centers on “give and take” 
+narratives. Nchofoung et al (2022) criticized the current aid architecture, positing a popular 
+quote: “Teach me to fish instead of giving me fish”. The current public finance model is wrong 
+and relies on donors’ interest. The quote tells us about the need for a concrete, inclusive, longer-
+term and more reliable public finance system that enhances collective decision and investment in 
+the GPGs, capital and infrastructure they require.  
+Conflict also has cross boundary social, economic and political effects. A case in point is the 
+Russia-Ukraine war. The war has been crippling not only the two countries’ economies but has 
+also had a devastating effect on the global economy, impacting the prices of fuel, food and 
+fertilizer. 
+In terms of approach, the existing development financing model is not only skewed in the interests 
+of developed nations but also applies top-down decision-making that cannot fit to the 21st 
+century development and financing requirements. The World Bank (WB) has also criticized aid-
+based development as it failed to ensure ownership, and hence resulted in fragmentation and 
+weak impact at the sector level in Africa (World Bank, 2000). 
+According to Clark, former New Zealand Prime Minister and former UNDP Administrator, “aid” 
+is outdated and ineffective and we require transformation in current international cooperation 
+3 
+ 
+to finance global goods. On top of that, scholars argue that aid made recipient countries 
+dependent. The aid approach has not provided a solution, has not taken people out of poverty, 
+and has not brought about long-lasting and sustainable development. The bottom-line with aid is 
+that it is not jointly owned by the recipients and donors, not mutually decided, and not considered 
+as an investment by developing countries. The motivation of this paper is to discuss new 
+modalities that transform the thinking, ownership, decision, and evaluations. 
+To address these daunting challenges and escape out of the problems, a new funding model is 
+crucial. In order to mobilize the necessary finance, collective actions and strengthening solidarity 
+of global leaders and policymakers is also fundamental. Hence, policymakers, development 
+partners and funding organizations should devise an innovative, inclusive and suitable new funding 
+model. This new model could be a Global Public Investment (GPI) modality. To this effect, the 
+Ethiopian Economics Association (EEA), in collaboration with Development Initiatives (DI), has 
+taken the responsibility to institutionalize and localize the concept and practices of GPI at 
+institutional and national level. 
+This technical note is prepared with the general intention to create awareness, improve 
+ownership and socialize the concept of GPI and its application in Ethiopia. It is prepared to address 
+the following specific objectives: 
+1. Describing the trends of development aid in Africa and Ethiopia; 
+2. Reviewing, documenting, and analyzing the existing conceptual, theoretical and empirical 
+evidence on GPI; and 
+3. Identifying the main challenges and opportunities of aid in Africa and Ethiopia. 
+ 
+ 
+4 
+ 
+2. APPROACHES OF THE STUDY  
+The study reviewed the available conceptual, empirical and theoretical literature focusing on the 
+quest for development assistance and the case for shifting to GPI. It presents  the basics, 
+principles, and approaches of GPI; benefits of GPI; and other related issues. In addition, available 
+secondary data were utilized to indicate the extent and trends of development assistance in Africa 
+and Ethiopia. 
+The findings could provide an opportunity for a discussion among the public sector, private 
+sector, non-state actors, academia, donors, and mainstream and social media that would 
+potentially enhance visibility, socialization and uptake of GPI in Ethiopia. 
+3. FOREIGN DEVELOPMENT AID: HISTORY, IMPORTANCE, AND 
+CHALLENGES 
+3.1. 
+Trends and Experiences of Development Aid in Africa 
+In the last six decades, total global aid has grown more than four-fold, from US$38 billion in 1960 
+to US$185.9 billion in 2021. Similarly, aid to African countries amounted to US$60.5 billion in 
+2021, or 33.6% of total global aid. In 2021, 20.7% of global aid went to low-income countries, 
+27.0% to lower-middle income countries, 11.7% to upper-middle income countries, and 0.1% to 
+high-income countries (World Bank, 2023). 
+In terms of sectors, the health sector received the largest proportion, 18.3% of aid (US$34.9 
+billion). In 2021, 13.9% of aid was humanitarian (US$26.5 billion). From 2020 to 2021, total aid 
+increased by 8.5% in real terms. Some of this increase was due to spending related to COVID-
+19 (including vaccines). Excluding COVID-19, it increased by just 5.2%.  The United States alone 
+provided US$2 billion in humanitarian assistance to the people of Africa in response to the 
+catastrophic drought and flooding that continued to affect countries across the continent. The 
+trend in general shows that aid to African counties continues to increase over time. 
+There are four lines of research on the impact of foreign aid on economic growth. One view is 
+that foreign capital inflows are both necessary and sufficient for economic growth in developing 
+5 
+ 
+countries. The second collection of studies contends that external capital has a major detrimental 
+impact on recipient countries' economic growth. The third point of view holds that foreign aid 
+has no effect on economic growth. The fourth point of view is that the quality of the recipient 
+country's institutions and economic policies, that is, integrated monetary, fiscal, and trade policies, 
+may influence the relationship between foreign aid and economic growth. 
+Figure 1 presents the net official development assistance (ODA) and official aid received by 
+Ethiopia and sub-Saharan African (SSA) countries, GDP growth rate of Ethiopia and the Ethiopian 
+share of aid compared to SSA. In the time period between 1982 to 2021, aid to Ethiopia increased 
+from US$0.2 billion to US$4.0 billion, and from US$7.9 billion to US$62.3 billion for SSA 
+countries. Ethiopia’s share compared to SSA is 6.4%. Ethiopia’s share remained stagnant against 
+the GDP growth rate of the country. Furthermore, Figure 1 shows that aid and economic growth 
+have no relationship. Other factors, other than aid, could be more important in determining the 
+economic growth of the country.  
+Figure 1: Net ODA and Official Aid Received, Share of Ethiopia from SSA, GDP Growth 
+-15
+-10
+-5
+0
+5
+10
+15
+20
+0
+10
+20
+30
+40
+50
+60
+70
+80
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+in %
+in billions
+Year
+Net ODA and official aid received (Ethiopia, billion)
+Net ODA and official aid received, (SSA, billion)
+GDP growth, (Ethiopia, %)
+Share of Ethiopia from SSA (%)
+ 
+Source: Authors own computation Based on World Bank’s World Development Indicators 
+(2023) 
+6 
+ 
+3.2. 
+Challenges of Aid-Based Development Assistance in Africa 
+There are two broad ongoing academic debates regarding the effect of development aid in Africa: 
+the positive and negative impacts of aid. Large bodies of academic literature have devoted 
+reporting on the advantages of aid in Africa in general, and in Ethiopia in particular. Fungibility1, 
+corruption and rent seeking, and lack of absorption capacity and donor conditionalities are some 
+of the unintended effects of development aid in Africa (Jensen, 2010).  
+According to Dambisa Moyo (2009), money in the form of aid from rich countries has harmed 
+Africa, trapping many African nations in a cycle of corruption, slower economic growth and 
+poverty. She pointed out that over US$1 trillion have been pumped into the African continent in 
+the last 50 years. Africa has not enjoyed welfare improvement from aid (Pearse, 2021). The 
+World Bank report showed that aid to sub-Saharan African countries has been less effective in 
+promoting economic growth and development (World Bank, 1991). The report shows that over 
+75% of the global population living in poverty were in Africa in 2022. Moyo strongly argued that 
+the benefit from development aid is zero. According to her view, African people are much worse 
+off, and aid helped make the poor poorer, and growth slower. Using empirical evidence, she also 
+argued that the aid approach is not working in Africa and needs to change. Some of the main 
+problems with development aid are that it makes countries dependent, promotes favoritism, fails 
+to meet recipient countries’ development priorities, corrupts officials, and that it increased the 
+continent’s indebtedness resulting in aid “tying” in Africa (Kwakye, 2010).  Many countries in 
+Africa have failed to record any positive connection between aid and economic growth and 
+development.  
+Indeed, some argued that sadly, the region has fallen behind the rest of the developing world after 
+receiving development aid from western countries for many years (Tigist, 2021). Aprioku (2019), 
+in his empirical analysis, showed that aid is ineffective in addressing the problem of poverty and 
+unemployment in Africa. Alghamdi (2016) explained that reliance on foreign aid creates moral 
+hazards for recipient countries’ around accountability, transparency and ethical leadership with 
+aid in Africa (Maipose, 2000). Recently, China has tended to join and support this view, and the 
+ 
+1 Diversion of resources away from development and social projects. 
+7 
+ 
+current ‘aid’ landscape, has been quickly changing in China from a paradigm of development 
+assistance to development cooperation (Buckley, 2013).   
+Opponents of development aid therefore call on African countries to explore alternative means 
+of mobilizing resources to finance development challenges. From the African perspective, the 
+current aid approach needs some financial engineering to meet the development priorities of 
+African countries and mitigate the impacts of global challenges. 
+3.3. 
+Challenges of Development Aid in Ethiopia 
+Ethiopia’s economic growth and development largely depends on foreign aid received from 
+Western countries and multinational corporations. Evidence shows that 90% of African budgets 
+relied on aid. In 2019, Ethiopia received 50% of its national fiscal budget in the form of aid 
+(Ethiopian Business Review, 2023). However, this amount has declined to 14% in 2023 due to the 
+impact of conflict in the Northern part of the country. From this, a larger proportion of 
+development aid is given to Ethiopia by the US, UK and multinational institutions (WB, IMF and 
+UN). Western countries continued to assist least developed countries to implement the 
+Sustainable Development Goals (SDGs) and spur economic growth. Still, LDC economies heavily 
+rely on foreign aid. Since 2020 alone, the United States has provided an estimated US$3.2 billion 
+in humanitarian assistance in response to the conflict as well as an ongoing drought. 
+Empirical findings show a negative impact of foreign aid in Ethiopia on economic growth in both 
+the long and short term (Gebresilassie et al., 2023). In particular, the aid-based financing system 
+has become less effective in fighting transboundary global common good challenges. 
+Consequently, and despite expectations, foreign aid has failed to bring sustainable economic 
+growth and poverty reduction. For instance, Tigist (2021) suggested alternative sources of 
+financing such as private sector development and entrepreneurship development in Ethiopia. In a 
+nutshell, despite significant assistance received from different countries, poverty, disease, 
+illiteracy, the gender gap, poor governance, and climate change have remained challenges for the 
+country.  
+8 
+ 
+4. CONCEPTUALIZING GLOBAL PUBLIC INVESTMENT  
+4.1. Basics of GPI 
+GPI is a simple concept but one with great potential. It is a new funding approach that aims to 
+diversify international public funds, diversify decision-making around funding and create mutual 
+trust and responsibility to mobilize and allocate international public finance (Njenga and Mwangi, 
+2022). It is a new paradigm that can address current and future public good challenges. Baptiste 
+and Glennie (2022) pointed out that an understanding of GPI among governments and 
+development partners is critical to it playing a role in tackling the challenges facing GPGs and 
+realizing the SDGs. In contrast to ODA or official aid, the concept of GPI recognizes that 
+concessional international public finance should have an ongoing role in responding to current 
+and future global challenges in all countries.  
+GPI is different from “global taxes” (no state is currently willing to abandon fiscal sovereignty), 
+“innovative” forms of public finance cooperation (such as advanced market commitments and 
+public−private partnerships), and existing forms of concessionary international finance (such as 
+development “aid”) of which around 70% is bilateral in nature (Simon Reid-Henry, 2019). Instead, 
+it is a system in which nations commit resources voluntarily to enhance the global commons and 
+finance on domestic public goods such as health systems, infrastructure and basic services 
+provision. GPI has three principles: all contribute according to their means, all benefit according 
+to their needs, and all decide. For this to happen, it requires all countries to work together with 
+no more top-down decision-making and no more patronizing donor−recipient narratives. 
+As Yasmin and Curtain (2022) noted, GPI is a financial model where all countries pay according 
+to their ability, all receive benefits based on their needs and all have a say in how the money is 
+spent via a constituency-based model. The GPI model has been initiated and developed because 
+of its unique characteristics of fairness in tackling inequality and addressing sustainability to have 
+a critical role in responding to current and future global challenges. Despite its significant 
+contribution, little is known on the concept of GPI in Africa in general and in Ethiopia in particular. 
+Figure 2 shows GPI’s principal components and evaluations towards international cooperation. 
+The left-hand column of Figure 2 indicates the concept of GPI is being developed to make the 
+9 
+ 
+case that international public finance has a critical role to play in tackling the climate emergency, 
+preparing for the next pandemic, and financing the SDGs. We need a concrete system of meeting 
+our global ambitions through long-term, reliable investment in the goods, capital and 
+infrastructure they require. The middle column of Figure 2 comprises three universal principles 
+(ALL-contribute-decide-benefit), reflecting a more horizontal approach to addressing the world’s 
+challenges. It is time for all countries to work together to mark a transformation in international 
+cooperation. 
+Figure 2: The GPI Principles and Evolutionary Steps in International Public Financing towards 
+International Cooperation 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: 
+Figure 
+created 
+using 
+Global 
+Public 
+Investment 
+Network 
+icons: 
+https://globalpublicinvestment.net/what-is-gpi/  
+Global Long-Term; 
+Reliable Goods, 
+Capital And 
+Infrastructure 
+Investment 
+Universal 
+Principles 
+Major 
+Evolutions  
+Global Public Investment 
+10 
+ 
+The right-hand column of Figure 2 shows that five major evolutions are needed for GPI to work 
+(i.e., ambition; function; geography; governance and narrative) and to underpin the next 50 years 
+of development cooperation. The push for ambition is move us from a narrow focus on reducing 
+poverty to meeting broader challenges of inequality and sustainability. The function evolution 
+refers to shifting away from seeing international public money as a temporary last resort to valuing 
+it as a permanent force for good. The geography aspect is a shift away from one directional 
+North−South transfers to a universal effort, with all paying in and all benefiting. The governance 
+evolution would take us from outdated post-colonial institutions to representative decision-
+making. Finally, the narrative evolution advances a shift from the patronizing language of “foreign 
+aid”, to the empowering multilateralism of a common fiscal endeavor. 
+4.2. The Thinking behind the GPI Principles 
+The principles of GPI could be applied to create a more effective, equitable and sustainable system 
+of global public financing and coordination for pandemic preparedness. The following 10 points 
+explain the thinking behind GPI: 
+1. Cocreating of GPI: According to the Expert Working Group on GPI, cocreation is at the 
+heart of the approach, from defining the problem that it seeks to address and the principles 
+that it sets out as a solution (McCoy, 2022). 
+2. Equality and sustainability: GPI is necessary for global equality and sustainability. 
+3. Ambition and thinking outside of the box: GPI is an ambitious, out-of-the-box and 
+transformative approach to some of the most pressing problems that international society 
+confronts: from the COVID-19 pandemic to climate change.  
+4. Democracy, inclusivity and multilateralism: All countries commit to spending a fixed 
+proportion of gross national income annually. A new system where every country in the 
+world has a stake, a voice, and mutual accountability and structure has become critical. There 
+has to be a mutual system of naming and shaming and penalization for countries which have 
+failed to comply with the GPI principles and values. 
+5. More money: GPI can raise radically fresh money for global priorities. 
+6. Collective action: All countries contribute according to ability, and all countries receive 
+according to need. 
+11 
+ 
+7. Revise the paradigm: Dismantle the donor−recipient concept (a hangover from the colonial 
+financing system), and enable all countries to contribute and be involved in decision-making. 
+8. Universal contributions: GPI moves beyond the broken promises and patronizing language 
+of the current international order, where “donor” countries give to “recipient” countries. 
+In its place, it introduces an all-contributor approach to international public finance. 
+9. Ongoing commitments: GPI ends the flawed insistence that countries “graduate” after 
+achieving a relatively low level of income per capita. We need to dramatically expand our 
+timescales and begin thinking longer-term. 
+10. Representative control: GPI is a more democratic and accountable approach to the way 
+international public finance is governed. 
+4.3. Contextualizing GPI in Ethiopia 
+The relevance of GPI to Ethiopia could be mainly around the impact of climate change and the 
+country’s development strategy.  
+GPGs such as global health, the global environment, global peace and security, and global 
+infrastructure, benefit both developed and developing countries. However, these GPGs are 
+threatened by climate change, infectious diseases, financial crises, conflict, inequality, social 
+protection and aid decolonization that can harm developing countries disproportionately. 
+Exploiting opportunities, such as the creation of new vaccines, can also benefit developing 
+countries less than developed ones (Nancy and Diofasi, 2015).  
+Due to the catastrophic impacts of climate change, world leaders and the international community 
+have agreed to respond to the problem of climate change by adopting the United Nations 
+Framework Convention on Climate Change (UNFCCC) − signed by 154 states − informally 
+known as the Earth Summit, held in Rio de Janeiro in 1992. In 1997, world leaders agreed to the 
+Kyoto Protocol to stabilize the concentration of greenhouse gases, and the continuation of it was 
+agreed in the Copenhagen Accord of 2009, which is accepted as a political declaration. The Paris 
+Agreement  held in 2015 at COP21 was an international treaty by 196 parties on climate change 
+that covers climate change mitigation, adaptation, and finance. 
+12 
+ 
+According to the African Economic Outlook report (2022), Ethiopia has remained vulnerable to 
+climate change resulting in droughts, flooding, desertification, water scarcity, and increased 
+incidence of pests affecting the agriculture, energy, and health sectors. The 2016 El Niño-induced 
+drought affected about 10.2 million people, required a US$1.9 billion humanitarian response. The 
+Productive Safety Net Programme, adopted in 2005 to reduce vulnerability to climate shocks, 
+covers 8 million–10 million people at an annual cost of US$0.44 billion.  
+Despite its negligible contribution to global warming, Ethiopia is currently facing serious 
+challenges arising from climate change. It is expected to have severe negative impacts on the 
+livelihoods of smallholder farmers, as the country’s economy heavily depends on rain fed 
+agriculture. Climate change affects socio-economic systems such as human health, the 
+environment, agriculture, water supply, sanitation and socio-economic activities in the country. 
+According to the 2022 AfDB report, Ethiopia’s economy decelerated to 5.6% growth in 2021 
+from 6.1% in 2020, due to international and transboundary crises (civil conflict and the effects of 
+COVID-19). In the Borena zone of Ethiopia, around 372,000 people, roughly 30% of the Zonal 
+population, were displaced between March–September 2022 (FEWS NET, 2022) due to the 
+drought. There are over 800,000 residents in the region, and they are facing one of the deadliest 
+droughts the area has seen for years.  
+In order to mitigate and adapt to climate change, the National Adaptation Plan was launched 
+focusing on the sectors that have been identified as most vulnerable, namely agriculture, forestry, 
+health, transport, power, industry, water and urban areas. However, tackling global climate 
+change is an inherently complex problem that requires robust inter-related policies at 
+international, regional and local levels. The 2011 Climate Resilient Green Economy (CRGE) 
+Strategy adopted by the country provides a framework for lowering greenhouse gas emissions 
+and mitigating the effects of climate change.  
+In 2020, an average of US$1.7 billion per year of investments were committed towards climate 
+change-related activities. This is about 7% of Ethiopia’s estimated climate finance needs (US$25.3 
+billion) and less than 2% of Ethiopia’s GDP in 2020.  
+As part of the country’s green economy initiative, Ethiopia has planted 25 billion seedlings since 
+2019. On top of that, according to the Prime Minister of Ethiopia Abiy Ahmed, Ethiopia managed 
+13 
+ 
+to plant more than 560 million trees in just a day (July 17, 2023) mobilizing 34 million Ethiopians 
+to plant trees in over 300,000 hectares of land nationwide. At the COP26 summit, developing 
+nations requested richer nations to finance developing countries’ efforts in mitigating the impacts 
+of climate damage. However, there has been no special reward and recognition from the 
+international financial institutions for the country’s positive externality to the environment. This 
+implies that the conventional aid-based donor−recipient public finance model has failed to address 
+and comply with the fairness principle. Hence, this paper argues that Ethiopia should look for a 
+more reliable, sustainable, and concessional international public financing system known as GPI.           
+5. GPI: BENEFITS AND REQUIRED PREPAREDNESS 
+5.1. The Role of GPI to Finance the SDGs  
+In line with the SDGs, Ethiopia has created an ambitious Ten-Year Development Plan (PDC, 
+2021) and Homegrown Economic Reform Agenda (HGERA, 2019). The implementation of these 
+plans would strongly rely on donors’ aid from multinational corporations. Although the WB and 
+other international development partners used to finance Ethiopia's development arenas such as 
+rural land certification, multinational corporations such as the IMF and WB lack appetite to 
+finance Ethiopia’s current development endeavors, probably for political reasons. This could be a 
+good reason to look for a more reliable, transparent and suitable source of development 
+financing, rather than relying on old-fashioned, donor−recipient bilateral collaborations. 
+The GPI approach is, therefore, the best bet for modernizing international public finance for the 
+21st century as the current system of “aid” is outdated and ineffective. As a result, a sound, 
+politically attractive and feasible approach has to be adopted to socialize and localize the ideas of 
+GPI across countries. In line with this, in 2022 the Expert Working Group on GPI came together 
+to address the challenges of the COVID-19 pandemic, and outlined an eight-step framework. This 
+includes:  
+1. creation of the idea  
+2. validation 
+3. defining the problem  
+4. seek solutions 
+5. organize dialogue 
+14 
+ 
+6. deliberation of the experts’ ideas 
+7. global consultation 
+8. on-going co-creation 
+This framework can be adopted for the current Ethiopian reality. In light of addressing current 
+transboundary challenges, Ethiopia needs to promote the GPI scheme to meet the objectives of 
+the SDGs by 2030. The GPI framework can be realized in Ethiopia via organizing continuous 
+discussion forums.  
+5.2. Why is GPI Important for Africa? 
+Africa is the world’s eighth largest economy, and it aims to become the world’s third largest by 
+2063. Despite ample resources, Africa has been suffering with global social, economic and 
+environmental challenges. African countries  are unable to finance their own development. 
+Indeed, now it has become clearer than ever that serious structural changes are needed to 
+safeguard communities in Africa and around the world. In addition, the world’s financial 
+architecture to support growth and development has several structural problems. For example, 
+Africa is the only region that does not have its own Monetary Fund, meaning African countries 
+can only turn to the IMF as a lender of the last resort (Chacha, 2022).  
+Moreover, the COVID-19 pandemic and other global health events have begun to challenge this 
+limited understanding, especially when applied to key public goods issues, such as infrastructure, 
+health and climate change. In general, the current system of development cooperation has failed 
+to lift African countries out of poverty. Therefore, GPI would mean a better public investment 
+approach that works for everyone. According to Mavis Owusu-Gyamfi, Executive Vice President 
+of the African Center for Economic Transformation “The GPI approach enables Africa to become 
+a key player in global cooperation rather than being perceived as a recipient of aid”. 
+The world’s system of financing public goods and common challenges is not working for the 
+African continent. From climate change to health vaccine inequity, African countries bear the 
+impacts of a global system which it is unable to influence to respond to its own needs and 
+preferences. This is despite the fact that African needs and priorities are well defined and known 
+through Agenda 2063, its six frameworks and 15 flagship projects. To solve the problems facing 
+Africa in a more sustainable manner, a new financing approach is required. With the COVID-19 
+15 
+ 
+crisis spurring desire for a significant transformation in how global objectives are funded, and with 
+the climate crisis in full swing, it is time for African governments, businesses and citizens to insist 
+on better partnerships to leverage its own significant domestic and regional efforts. Recently, 
+scholars, government officials, business people, academics, think tanks and civil society 
+representatives tend to agree with the benefits of GPI. 
+5.3. Why is GPI Necessary for Ethiopia? 
+Many global cooperation efforts do little to include developing countries in priority setting and 
+decision-making. The late Prime Minister of Ethiopia, Meles Zenawi, represented African 
+countries at the Copenhagen climate change talks, and demanded that the rich world compensate 
+Africa. Since Copenhagen, Ethiopia has adopted the CRGE. Development financers are often 
+reliant on the goodwill of advanced economies. It is clear that the current system of addressing 
+global challenges and financing public goods in Ethiopia has also remained ineffective. A case in 
+point is the lack of priority in financing climate change by multilateral institutions. This is despite 
+the significant investment by the Ethiopian government in massive plantation. The country has 
+not received the right compensation for initiating the green legacy and planting about 25 billion 
+trees across the country from 2019 to 2022. To the contrary, the country has been hit by serious 
+drought triggered by climate change. In effect, the country’s natural resources and livelihood 
+assets have been depleted due to continued climate change. As a result, food insecurity and 
+poverty have been widening in the country. Due to global shocks, a large number of livestock has 
+died, and millions of people have been displaced and are in need of urgent humanitarian assistance. 
+In the face of a ravaging global pandemic, and recurring drought triggered by climate change, it 
+has become more critical than ever that the country should have quick, effective and coordinated 
+means of financing its response via the international community. 
+Ethiopia greatly contributes to controlling terrorism, it is home to many internally displaced 
+persons, and it invests in the environment. And yet the world, particularly the current IMF and 
+WB financing system, fails to support it in responding to shocks, or encourage the country’s 
+efforts. Hence, it can be concluded that the current public financing model is not fair and no 
+longer fit to respond to the existing global challenges effectively. The current context in Ethiopia 
+demands the need for increased concessional funding to fight communicable diseases and enhance 
+16 
+ 
+climate adaptation and mitigation. Therefore, it is essential to have more ambitious goals and 
+think outside of the box in order to engage effectively with climate finance at global, regional and 
+local levels. 
+5.4.  Preparedness in Implementing GPI 
+With the current discourse on global financial architecture reform,  change is imminent and GPI 
+provides the much-needed solution. For instance, Simon Reid-Henry (2019) highlighted 
+management complexity, revenue-sharing, systems-coordination and legal compliance as major 
+challenges.  
+There are, however, practical challenges that may slow down the effective implementation of 
+GPI. Political commitment is one of these barriers, and it needs to be consolidated into a coherent 
+plan of action to make GPI a reality. GPI would demand similar but differentiated responsibilities 
+from all stakeholders, rich, poor and middle-income nations alike. It needs to be clear how this 
+can be done practically. 
+Since GPI is a new initiative, it may take time and effort to transform from the old-fashioned aid 
+approach to this new approach. The means and methods for governments, organizations and 
+individuals to promote GPI need to be established. More specifically, the following barriers need 
+to be properly communicated and addressed: 
+• The first main barriers are around collective action, the “Free Rider” and “Weakest Link” 
+problems in particular. Free-riding is the most common problem that public goods-type 
+provision faces at the international level: the incentive for some not to contribute to realizing 
+a particular global good because such goods are, by their nature, available to all. This makes 
+it impossible to exclude non-contributors from consuming the good in question. 
+• The second most commonly raised objection to the feasibility of GPI is the issue of selection. 
+In other words, how do we agree on outcomes and how do we prioritize among them? 
+• The third potential problem of GPI is political feasibility in implementing and administering 
+formal structures of international cooperation. The more new organizations that need to be 
+established and legitimized, especially at the global level, the less likely the chance of success.  
+17 
+ 
+• Finally, there is the issue of demonstrable effect: how can contributors be confident that they 
+really are getting something back from what they pay into the scheme? 
+6. CONCLUSION AND RECOMMENDATIONS/IMPLICATIONS 
+6.1. Conclusion 
+This technical note is prepared by the EEA to trigger discussion on the concept of GPI in Ethiopia. 
+This note provides background on aid flows and the adverse impacts of the current aid 
+architecture. The paper has argued that the current donor−recipient development financing 
+system in Africa in general, and the aid-dependent development approach in Ethiopia in particular, 
+has failed to address transboundary global challenges. As an alternative public finance model, some 
+countries are inclined to support GPI. According to the EWG-GPI (2020), Indonesia, Mexico, 
+Uruguay, Norway, Sweden, and Chile support GPI as a more reliable, inclusive, flexible and 
+sustainable source of public funding. 
+GPI principles can guide the mobilization of public money from all countries to invest in public 
+goods and services that have global benefits to prevent or respond to environmental and health 
+catastrophes, international war and conflict in our planet.  
+Ethiopia has made profound investment in public goods to combat global problems, including 
+climate change, infectious disease, and terrorism. As part of the green economy and SMART 
+agriculture, Ethiopia has been carrying out huge tree plantation projects that could reduce the 
+impact of climate change. Though the country has contributed to reducing climate change through 
+massive reforestation and afforestation, the current aid-based global financial system did not 
+properly recognize Ethiopia’s efforts and compensate the county for investing in such vital GPGs. 
+Since GPI is a new initiative, it may take time and effort to transition from the old-fashioned aid 
+approach to the new approach. However, there should be means and ways for governments, 
+organizations and individuals to promote GPI. 
+The analysis argues that the more flexible approach of GPI should be promoted and adopted in 
+Ethiopia, replacing historical donor−recipient relationships. Such an approach would require much 
+18 
+ 
+stronger international cooperation, which would ultimately lead to a better distribution of 
+resources and sustainable development in the post COVID-19 world. 
+6.2. Recommendations/Implications 
+Based on the findings from the desk review, GPI is a compelling concept that can fit to the current 
+socioeconomic and political context of Ethiopia. It is a feasible means of addressing the problem 
+of “the end of old-fashioned aid scheme”. More specifically:  
+• It provides an alternative that can bring about an end to the language of ‘donors’ and 
+‘recipients’, of ‘aid’ and ‘charity’. It provides an opportunity to start talking about public 
+investment for the common good.  
+• Ensure that the governance in international organizations reflects a shift towards inclusive 
+decision-making, so that net-recipients of funds are equally involved as net-contributors in 
+governance. 
+• Shift the focus of international organizations towards the broad SDG mandate e.g., in Ethiopia, 
+covering inequality, sustainability and all the areas in which international public money can be 
+useful. 
+ 
+ 
+ 
+19 
+ 
+REFERENCES 
+Alemayehu Geda (2021). The Macroeconomic and Social Impact of COVID-19 in Ethiopia in 
+the Global context.  
+Alicia Ely Yamin and Joel Curtain (2022). Lessons from the pandemic: Building a movement 
+for global public investment.  
+Ethiopian Business Review (2022). Foreign Aid: Holds Itself Back. 
+Expert Working Group on Global Public Investment (2022). Building A better system: Making 
+Global public Investment a reality. 
+George Njenga and Brian Mwangi (2022). Global Public Investment: A New Approach to 
+Overseas Development Aid. 
+GPI-Network (2022). Global Public Investment and Africa: A better approach to financing the 
+SDGs. 
+Homegrown Economic Reform Agenda, 2019. 
+Jonathan Glennie (2022). Global Public Investment: how a radical vision became reality 
+Magazine IDEES No. 55 
+Kempe Ronald Hope Sr. (2000). Corruption and Development in Africa. Palgrave Macmillan. 
+Nancy Birdsall and Anna Diofasi. 2015. Global Public Goods for Development: How Much 
+and What For  
+PDC (Planning and Development Commission) (2021). Ten-year Development Plan, Addis 
+Ababa Ethiopia.  
+Samuel Wangwe (2006). Foreign Aid in Africa: Role, Experiences and Challenges. Background 
+Paper for the AfDB Conference in Tunis. 
+Simon Reid-Henry (2019). Global Public Investment: Redesigning International Public Finance 
+for Social Cohesion—A Preliminary Sketch. Revue d'économie du développement 
+2019/2 (Vol. 27), pages 169−201. 
+Solange Baptiste and Jonathan Galenn (2022). Rethinking Humanitarianism | Can Global Public 
+Investment replace aid financing as we know it? The New Humanitarian. 
+The European Parliament resolution of 25 November (2009) on the EU strategy for Climate 
+Change (COP 15) (Provisional version). 
+20 
+ 
+Tii N. Nchofoung, Arsène A. Njamen Kengdo, Eric Mouchili Moumie, Tii Tasheh Fonsoh 
+(2022). Teach me to fish instead of giving me fish: Foreign development aid and 
+employment in Africa. Journal of World Development Sustainability. Volume 1, 
+100032. 
+World Bank World Development Indicators (2023). Excel database report on low-income 
+Sub-Saharan Africa: Ethiopia. Washington DC. USA.  
+World Economic Forum (2021). This is how climate change could impact the global economy. 
+ 
+ 
+ 
+ 

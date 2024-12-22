@@ -1,0 +1,1400 @@
+        AWASH BANK 
+ DIGITAL PRODUCT AND 
+  SERVICES  CATALOGUE
+OCTOBER,  2024
+ADDIS ABABA, ETHIOPIA
+Nurturing Like The River
+Contents
+1.	
+Introduction	 .......................................................................................1
+2.	
+General Objective	 ..............................................................................1
+3.	
+Specific Objectives	..............................................................................1
+4.	
+Scope of the catalogue	 .....................................................................2
+5.  Digital product and services list ........................................................................2
+   5.1  Mobile Banking	
+...............................................................................2
+   5.2	 Internet Banking	 ............................................................................8
+   5.3	 ATM Services	........................................................................................11
+   5.4	 Agent Banking	
+.......................................................................................12
+   5.5  E-Branch Services	.............................................................................22
+   5.6 Digital Voucher Services                                 .................................................................................24
+  5.7   E-School Management System	 ...........................................................24
+  5.8	 Bulk Payment Services	....................................................................26
+6 
+International 
+Card 
+Service 
+.........................................................................27
+1. Introduction
+The digital product and services catalogue, prepared by the 
+Digital Products Marketing Division under the Branding and 
+Communication Directorate, will serve as a comprehensive 
+resource to showcase Awash Bank’s digital offerings. It aims 
+to provide internal staff members with a comprehensive 
+understanding of the bank’s digital products and services, 
+enabling them to effectively promote and support these of-
+ferings to customers. The catalogue is a collaborative effort 
+between the Digital Products Marketing Division and the 
+Branding and Communications Directorate, ensuring that 
+the information is accurate, up-to-date, and aligned with the 
+bank’s strategic objectives.
+2. General Objective
+The general objective of the catalogue is to provide inter-
+nal staff members with a comprehensive overview of Awash 
+Bank’s digital products and services. By doing so, it aims to 
+equip staff members with necessary knowledge and tools to 
+effectively market, promote, and support these digital offer-
+ings. The catalogue supports the bank’s overall digital mar-
+keting strategy, enhancing customer engagement and sat-
+isfaction while driving adoption of digital banking solutions.
+3. Specific Objectives
+ Showcase Digital Offerings: The catalogue aims to 
+showcase and highlight the various digital products and 
+services offered by Awash Bank. 
+ Support Marketing Efforts: The catalogue serves as a 
+valuable resource for the Digital Products Marketing Divi-
+sion, providing them with accurate and up-to-date informa-
+tion on the bank’s digital products and services. 
+ It enables the marketing team to develop targeted mar-
+keting campaigns, create compelling content, and effective-
+ly promote the digital offerings to the bank’s target audi-
+ence.
+ Enable Staff Training and Knowledge Enhancement: 
+The catalogue facilitates staff training and knowledge en-
+hancement by providing comprehensive information about 
+the bank’s digital offerings. 
+ By enhancing staff knowledge, the catalogue ensures 
+that they can confidently address customer inquiries, pro-
+vide accurate information, and deliver exceptional custom-
+er service.
+Page 1
+ 
+ Especially the digital team will be equipped with all dig-
+ital products and services as digital product owners and 
+would be the immediate responsible team for any inquiries 
+or support from all bank units.
+4. Scope of the catalogue 
+The catalogue encompasses all digital products and services 
+offered by Awash Bank. It includes agent banking services, 
+mobile banking services, ATM services, USSD services, card 
+banking services, e-branch services, digital voucher services, 
+e-school management systems, bulk payment services, in-
+ternational card services, and Internet banking services. The 
+scope also covers specific details such as product features, 
+pricing, transaction limits, and any additional terms and con-
+ditions associated with each digital offering.
+5. Digital Product and services list
+1. Mobile Banking services (AwashBIRR Pro Via APP & USSD)
+2. Internet Banking Services 
+3. Card Banking Services (Prepaid MasterCard, Instant Card 
+    etc…)
+4. ATM services 
+5. POS services
+6. Agency Banking Services
+7. E-Branch Services  
+8. Digital Voucher Services
+9. E-School Management system
+10. Bulk Payment services
+11. SACCOS
+12. MPGS (MasterCard payment gateway service)
+1. Mobile Banking 
+1.1. AwashBirr Pro (APP & USSD “*901#”)
+Mobile banking services typically aim to provide customers 
+with convenient access to their bank accounts and various 
+financial transactions using their mobile devices, such as 
+smartphones or tablets and any other non-android phones 
+for USSD purpose. Some common features and services that 
+mobile banking platforms often offer includes:
+1. Account Inquiry: Users can check their account balances, 
+view transaction history, and obtain other account-related 
+information through the mobile banking app or USSD.
+2. Buy Airtime: Mobile banking allows customers to pur-
+chase airtime or mobile phone credit directly from their bank 
+accounts. 
+ Ethio-telecom SIM
+      Safaricom SIM
+Page 2
+3. Merchant Payment: Mobile banking platforms facilitate 
+payments to merchants or businesses. This service can be 
+further categorized into: 
+    3.1. Merchant Payment: - Payments can be made to mer
+           chants either by scanning the QR code or by entering 
+           their merchant code.
+  3.2. Approve Payments: The cashier approves payments 
+         when the transaction is initiated by the customer or
+         payer, and the customer or payer approves payments 
+         when the transaction is initiated by the merchant or 
+         cashier.
+ 4. Bill Payment: Mobile banking services often provide the 
+ability to pay bills directly from the app or USSD.
+ E-school
+Websprix payment
+ Dangote Ethiopia Payment
+ Guzo-Go payments
+eQUB payment
+ ICS (Immigration Citizenship service)
+ Federal Housing Corporation service
+      Oromia civil registration Agency bill payment
+ Ethiopian Airlines
+ DSTV
+ Ethio telecom Postpaid services
+ Derash 
+Safaricom Bill services
+Zagol
+Page 3
+ Unicash
+ Water bill payments 
+5. Self-Onboarding: Mobile banking platforms may of-
+fer a self-service onboarding feature, allowing users to open 
+new mobile banking or register for mobile banking services 
+directly through the app or USSD *901#.
+6. Account Transfer: transfer funds between their own 
+accounts within the same bank or make transfers to other 
+bank accounts held by individuals or businesses. 
+Transfer to Own Accounts
+Transfer to Awash Wallet
+Transfer to Awash Bank Account
+Transfer to Other Banks or IPS
+ Transfer to Telebirr
+Transfer to M-PESA
+ Transfer to Kacha wallet
+ Transfer to Awash SACCOS           
+ Transfer to WalletBirr 
+ Transfer to Awach SACCOS
+7. Cash Out: 
+From Branch: The customer can withdraw cash using a 
+cash withdrawal authorization code at the nearest Awash 
+Bank branch.
+ From ATM: The customer can withdraw cash by using a 
+one-time 4-digit security code sent to both the sender and 
+the receiver. By entering the code at the ATM terminal, the 
+machine dispenses cash without requiring an ATM card.
+ From Agent: The customer can withdraw cash at an 
+agent after initiating the withdrawal process by entering 
+the amount and agent code on the AwashBirr Pro app or via 
+USSD.
+8. Awash Lehulum: Awash Lehulum is a specific service of-
+fered by Awash Bank, which includes:
+               Savings &
+          
+Micro Loans                                  
+9. EEU Payment: The customer can pay their monthly Ethio-
+pian electric bill by entering their payment number.
+10. Other Services:
+    
+Exchange rate
+    
+Change PIN
+    
+Donation
+    
+Schedule payment
+    
+Advice receipt
+        Transaction Checker
+         Feedback
+         Fee & charges
+Page 4
+1.2. IFB-Ikhlas AwashBirr Pro 
+Note: All services listed under Conventional AwashBirr Pro, 
+except for Awash Lehulum, are the same but operate under 
+IFB rules. The unique services under IFB-Ikhlas AwashBirr 
+pro are:
+      
+ Qibla & Salah: An indicator for the direction of Salat.
+           Zakat Al Mal: A platform for calculating Zakat.
+1.3. AwashBirr Pro Service Charge and transac-
+tion Limit
+All Mobile Banking services shall be provided free of charge 
+for Awash Bank staff and Interest Free Banking Customers 
+except Inter Bank transfer. 
+No
+Service Type
+The Revised Commission
+1.1
+Transfer to 
+other Awash 
+account
+Transfer 
+Amount
+Proposed
+Charges
+Up to Birr 
+10,000
+1 Birr
+10,001-
+50,000 
+Birr
+3 Birr
+ 50,001-
+100,000 
+Birr
+5 Birr
+Above 
+100,000 
+Birr
+15 Birr
+1.2
+LMTS(ATM 
+Cash-out)
+                0.35%
+Page 5
+No
+Service Type
+The Revised Commission
+1.3
+Transfer to 
+Partners 
+(Telebirr, 
+M-pesa, Rays, 
+etc.)
+Transfer 
+Amount
+Proposed
+Charges
+Up to 
+5,000 Birr
+2 Birr
+5,001-
+15,000 
+Birr
+5 Birr
+Above 
+15,000 
+Birr
+10 Birr
+1.4
+Transfer to 
+other Bank
+EthSwitch pricing+ 0.2% of 
+the principal amount
+1.5
+Transfer to 
+own
+account
+Free
+1.6
+Merchant 
+payment
+Free
+No
+Service Type
+The Revised Commission
+1.7
+School fee 
+Payment
+Free
+1.8
+Traffic Pen-
+alty
+Payment
+•	
+3 ETB on AwashBirr
+•	
+5 ETB at branch
+1.9
+DSTV Pay-
+ment
+•	
+2 ETB on AwashBirr
+•	
+5 ETB at branch
+1.10
+CANAL+
+•	
+2 ETB on AwashBirr
+•	
+5 ETB at branch
+1.11
+Etho-telecom 
+postpaid
+•	
+2 ETB on AwashBirr
+•	
+5 ETB at branch
+1.12
+Safar\com 
+Bill
+Payments
+•	
+2 ETB on AwashBirr
+•	
+5 ETB at branch
+Page 6
+No
+Service Type
+The Revised Commission
+1.13
+Ethiopian 
+Airlines
+•	
+0.5% and tax of 25 
+ETB on AwashBirr
+•	
+30 ETB at Branch
+1.14
+Electric bill 
+payment
+Free
+1.15
+Et-switch bill
+Per Ethswitch price that will 
+be set in the future + 0.2% of 
+the principal amount
+1.16
+Derash
+Free
+1.17
+Uni-cash
+Free
+1.18
+Webirr
+Free
+1.19
+Any New Bill 
+and Utility 
+Payment
+Negotiable
+1.20
+Re issuance 
+PIN
+Free
+No
+Service Type
+The Revised Commission
+1.21
+Exchange 
+Rate inquiry
+Free
+1.22
+Balance in-
+quiry
+Free
+1.23
+Mini state-
+ment
+Free
+1.24
+Full State-
+ment
+Free
+1.25
+Annual Sub-
+scription
+Fee
+25 Birr Per annum
+Note: Whenever customers inquire about those charges, 
+they can find the information on the AwashBirr Pro app. 
+Before entering their PIN, they should click the three 
+dots at the bottom right of the application and select the 
+“More” option.
+1.4. AwashBirr Pro Transaction Limit
+ Daily transaction limit between Awash Bank, shall      
+     be a maximum of birr 300,000.
+Page 7
+ One-time transaction limit shall be a maximum of
+     birr 100,000 ETB.
+ Daily transaction of Own account transfer shall have
+     no limit
+ Daily transaction limit of inter-bank transaction
+     shall be a maximum of birr 25,000 ETB; and
+ Daily transaction limit of Tele birr, shall be a maximum of 
+ 
+ 
+      ETB 30,000 (Thirty thousand birr).
+1.5. AwashBirr Pro wallet transaction limit and 
+       Account Balance
+      I. Account Level one: The Maximum aggregate daily 
+      account balance is birr 20,000 with daily transaction limit
+     10,000 per transaction; 
+     II.Account Level Two: The Maximum aggregate daily
+      account balance is birr 150,000 with daily transaction limit 
+    75,000 per transaction; 
+2. Internet Banking
+Internet banking is a browser-based application provided by 
+banks to their customers for accessing banking information 
+and conducting transactions online. It offers convenience 
+and accessibility to customers, allowing them to manage 
+2. Send Money: This service enables customers to send 
+money to other individuals or businesses, usually within the 
+same bank or to accounts in other banks.
+3. Bank Transfer: Customers can transfer funds from their 
+bank account to another bank account, often referred to as 
+interbank transfers.
+4. Transfer to Wallet: Internet banking platforms provide the 
+option to transfer funds to mobile wallets or digital payment 
+platforms.
+5. Transfer Cash: This service allows customers to transfer 
+funds to designated recipients who can then withdraw the 
+cash from specified locations.
+6. Bill Payments: Internet banking provides the convenience 
+of paying bills online. Customers can make payments for 
+utilities electronically through the application.
+Page 8
+their accounts and perform various banking activities with-
+out visiting a physical branch.
+1. Fund Transfer: Customers can initiate transfers of funds 
+between their own accounts. This allows them to move 
+money from one account to another within the same bank.
+No.
+Service Type
+The Revised Commission
+2.1
+Transfer to other Bank
+EthSwitch pricing+ 0.2% of the 
+principal amount
+2.2
+(LMTS)ATM cash Out
+0.35%
+2.3
+Transfer to own account
+Free
+2.4
+Transfer to other Awash account
+Free
+2.5
+Cheque book request
+Free
+2.6
+Subscription fee
+Free
+2.7
+Account overview and statement
+Free
+2.8
+View daily currency exchange rate
+Free
+AWASH ONLINE
+Page 9
+2.1. Internet Banking, Service charge and Limit
+All Internet Banking services shall be provided free of charge 
+for Awash Bank staff and Interest Free Banking Customers 
+except Inter Bank transfer.
+3. Card Banking 
+Awash Bank offers various types of cards to its customers.
+1. Awash Debit Card: This card is linked directly to a custom-
+er’s bank account, allowing them to make purchases and 
+withdraw cash from ATMs.
+2. Pre-paid Card: A pre-paid card is a reloadable card that 
+allows customers to load a specific amount of money onto 
+the card in advance. This card can be used for purchases and 
+ATM withdrawals until the loaded balance is exhausted.
+3. Amanah Card (IFB): Amanah card is an Islamic Fi-
+nance-based card that adheres to Sharia principles. It offers 
+services similar to a conventional debit card while complying 
+with Islamic banking principles.
+4. Sheba Miles Card: This card is a co-branded card offered by 
+Awash Bank in partnership with Ethiopian Airlines. It allows 
+customers to earn Sheba Miles, the frequent flyer program 
+of Ethiopian Airlines, while making purchases using the card.
+5. Women’s Advantage Card: This card is designed specifical-
+ly for women and may offer benefits tailored to their needs, 
+such as discounts, rewards, or special promotions at partner 
+merchants.
+6. Student Advantage Card: This card is designed for stu-
+dents and may offer special benefits such as discounts on 
+educational materials, transportation, or other student-re-
+lated expenses.
+7. Credit Card: Awash Bank also provides credit cards that 
+allow customers to make purchases on credit, up to a pre-
+determined credit limit. Customers can repay the amount in 
+full or choose to pay in installments, subject to applicable 
+interest charges.
+8. Prepaid MasterCard: The cards enable customers and 
+merchants to make and receive online payments globally.
+3.1. Card Banking Commissions and limit
+All Card Banking services shall be provided free of charge 
+for Awash Bank staff and Interest Free Banking Customers 
+except ATM Off-us transaction service.
+Page 10
+SN
+Activities
+Revised Fees
+1
+Issuing debt cards
+50 ETB
+2
+Re-issuance of PIN
+15 ETB
+3
+Debit Card Renewal 
+Fee
+Free
+4
+Debt card replace-
+ment fee (lost or 
+stolen)
+100 ETB
+5
+ATM card cancella-
+tion or blocking
+Free
+6
+Additional account 
+link
+Free
+7
+Pre-paid card issu-
+ance
+50 ETB
+8
+Credit card issuance
+150 ETB
+9
+Credit card Replace-
+ment
+200 ETB
+10
+Cash withdrawal -On 
+Us
+0.35%
+11
+Balance inquiry -On 
+Us
+Free
+12
+Mini-statement -On 
+Us
+Free
+SN
+Activities
+Revised Fees
+13
+Fund transfer within 
+Bank account
+Transfer 
+Amount
+Proposed 
+Charges
+Up to 
+10,000 
+Birr
+1 Birr
+10,001-
+50,000 
+Birr
+3 Birr
+50,001-
+100,000 
+Birr
+5 Birr
+Above 
+100,000 
+Birr
+15 Birr
+14
+PIN change 
+Free
+15
+Cash withdrawal-Re-
+mote On-US
+Per Etswitch pricing
+16
+Balance inquiry- Re-
+mote On-US
+0.50 Cents/request
+17
+Mini-statement- Re-
+mote On-US
+Per Etswitch pricing, 
+18
+POS Cash Advance
+Free
+Page 11
+SN
+Activities
+Revised Fees
+19
+POS Merchant 
+Transaction-On Us
+Free
+20
+POS Merchant 
+Transaction-Off Us
+Free
+3.2. Awash Cards limit
+ Daily cash withdrawal limit through ATM shall be a Max-
+imum of Birr 10,000.00
+ Daily Payment limit at Awash merchants through POS 
+shall be a Maximum of Birr 150,000.00
+4. ATM Services
+The features of Awash Bank ATM:
+1. Withdraw Money: Customers can use the ATM to with-
+draw cash from their bank accounts. 
+2. Check Balance: Customers can check the balance of their 
+bank accounts using the ATM. 
+3. Transfer to Other Accounts: The ATM enables customers 
+to transfer money from their account to another account 
+within the bank. 
+4. Get Mini Statement: Customers can request a mini state-
+ment from the ATM, which provides a summary of recent 
+transactions on their bank account. 
+5. PIN Change on the ATM Machine: Customers can change 
+their ATM PIN (Personal Identification Number) directly at 
+the ATM. 
+6. Send Money - Cash Out: The ATM allows customers to 
+send money to individuals who do not have bank accounts. 
+7. Language Options: The ATM provides language options, 
+including English, Amharic, Tigrigna, Afan oromo, Somali 
+and Afar. Customers can choose their preferred language 
+to interact with the ATM, making it more accessible and us-
+er-friendly for individuals who are more comfortable using a 
+specific language.
+5. Agent Banking 
+In agent banking, authorized agents act as intermediaries 
+between the bank and the customers. These agents can be 
+individuals or businesses, such as small retail shops, post 
+Page 12
+offices, or mobile network operators. They are equipped 
+with the necessary technology, such as point-of-sale (POS) 
+devices or mobile phones, to conduct financial transactions 
+on behalf of the bank.
+Account opening: Agents can assist customers in opening 
+bank accounts, enabling them to save money securely.
+ Cash deposits and withdrawals: Agents can accept cash 
+deposits and facilitate withdrawals on behalf of the bank. 
+ Fund transfers: Customers can transfer money between 
+accounts, both within the same bank and to other banks or 
+individuals.
+ Bill payments: Agents can accept payments for utility 
+bills, such as electricity, water, and telecommunications, on 
+behalf of the bank.
+Balance inquiries: Customers can check their account bal-
+ances and obtain mini-statements through the agent.
+Page13
+5.1. Agent Banking, Commission and transaction limit
+Page 14
+S.N
+Service type
+Term and Tariffs
+Remark
+Min. Transac-
+tions
+Max. Transactions
+Customer charge
+Agent Commis-
+sion
+3.1
+Cash-In
+25
+500
+Free
+4.5
+The Bank pays 
+commission to 
+the Agent
+501
+1,000
+6
+1,001
+3,000
+8
+3,001
+6,000
+10
+6,001
+8,000
+11
+8,001
+10,000
+12
+10,001
+15,000
+15
+15,001
+20,000
+18
+Above 20,000
+20
+3.2
+Cash- out
+From (wal-
+let, card and 
+core banking 
+account)
+25
+100
+3
+2.25
+75% of cus-
+tomer charge 
+will be paid to 
+Agent
+The Bank  
+will share 25% 
+of Commission 
+collected from 
+customer
+101
+500
+4.5
+3.375
+501
+1,000
+6
+4.5
+1,001
+3,000
+8
+6
+3,001
+6,000
+10
+7.5
+6,001
+8,000
+11
+8.25
+8,001
+10,000
+12
+9
+10,001
+15,000
+15
+11.25
+15,001
+20,000
+18
+13.5
+Above 20,000
+20
+15
+S.N
+Service type
+Term and Tariffs
+Remark
+Min. Transac-
+tions
+Max. Transactions
+Customer charge
+Agent Commis-
+sion
+3.3
+Bill Payment 
+(all bill pay-
+ment type 
+including 
+school fee)
+25
+500
+Free
+4.5
+The Bank pay 
+the commission 
+and customer is 
+free of charge
+501
+1,000
+6
+1,001
+3,000
+8
+3,001
+6,000
+10
+6,001
+8,000
+11
+8,001
+10,000
+12
+10,001
+15,000
+15
+15,001
+20,000
+18
+> 20,000
+20
+3.4
+Account 
+Opening
+NA
+NA
+Free
+Br. 15
+The Bank pay 
+the commission 
+and customer is 
+free of charge
+Page 15
+Page 16
+S.N
+Service type
+Term and Tariffs
+Remark
+Min. Transac-
+tions
+Max. Transactions
+Customer charge
+Agent Commis-
+sion
+3.5
+Sales Air- 
+time
+NA
+NA
+           
+            Free
+5% 
+The Agent get 
+full amount of 
+the telecom 
+commission 
+income
+3.6
+Transfer 
+to unreg-
+istered 
+customer 
+5
+500
+5
+3.75
+75% of cus-
+tomer charge 
+paid to the 
+Agent
+3.7
+Fund 
+Transfer 
+(Between 
+Awash 
+customer 
+Accounts)
+25
+10,000
+5
+3.75
+75% of cus-
+tomer charge 
+paid to the 
+Agent
+S.N
+Service type
+Term and Tariffs
+Remark
+Min. Transac-
+tions
+Max. Transactions
+Customer charge
+Agent Commis-
+sion
+3.8
+Fund Trans-
+fer (From 
+Agent float 
+to other 
+Awash bank 
+customer 
+account)
+25
+100,000
+NA
+NA and the 
+Agent is free of 
+charge
+This is a 
+service to be 
+consumed by 
+the Agent for 
+his own sake
+3.9
+Inter Bank 
+Transfer 
+(From Awash 
+Bank custom-
+er account to 
+Other bank)
+25
+10,000
+Agent will be 
+charged per 
+Etswitch pricing
+5
+3.10
+Intra Bank 
+Transfer 
+(From Agent 
+float to other 
+bank)
+25
+25,000
+NA
+Agent will be 
+charged per 
+Etswitch pricing
+This is a service 
+to be consumed 
+by the Agent for 
+his own pur-
+pose.
+3.11
+Balance En-
+quiry
+1
+1
+Page 17
+S.N
+Service type
+Term and Tariffs
+Remark
+Min. Transac-
+tions
+Max. Transactions
+Customer charge
+Agent Commis-
+sion
+3.13
+Mini state-
+ment
+1
+1
+3.14
+Pay Local 
+Remittance
+25
+100
+Free
+5
+The Bank pays 
+commission to 
+the Agent since 
+the sender has 
+already charged 
+by the Bank.
+Page 18
+Page 19
+Agency Banking Transaction Limit
+S.N
+Service 
+Types 
+Channel 
+Minimum 
+Transaction 
+Amount per 
+transaction 
+Same Ac-
+count 
+Maximum 
+Amount Per 
+transaction for 
+Same account 
+Total Daily 
+Maximum 
+aggregate 
+Amount for 
+Same ac-
+count   
+Total Daily 
+count For 
+same Account 
+1
+Air Tickect 
+Agent APP,Agent 
+USSD,Agent POSs
+Unlimited 
+Unlimited 
+Unlimited 
+Unlimited 
+2
+Airtime Re-
+charge(Pre-
+paid) 
+Agent APP,Agent 
+USSD,Agent PAX and 
+Android POS
+5 BIRR 
+10,000
+Unlimited 
+Unlimited 
+3
+Canal + pay-
+ment 
+Agent APP,Agent 
+USSD,Agent PAX and 
+Android POS
+Unlimited 
+Unlimited 
+Unlimited 
+Unlimited 
+Page 20
+4
+Cash In
+Agent APP,Agent 
+USSD,Agent PAX and 
+Android POS
+25
+30,000
+30,000
+1
+5
+Cash with-
+drawal 
+Agent APP,Agent 
+USSD,Agent PAX and 
+Android POS,Awash-
+Birr Customer APP 
+and AwashBirr Cus-
+tomer USSD 
+25
+10,000
+30,000
+Unlimited 
+6
+DSTV PAY-
+MENT 
+Agent APP,Agent 
+USSD,Agent PAX and 
+Android POS
+Unlimited 
+Unlimited 
+Unlimited 
+Unlimited 
+7
+Fund Transfer
+Agent APP,Agent 
+USSD,Agent PAX and 
+Android POS
+50
+10,000
+30,000
+Unlimited 
+8
+Inter Bank 
+Transfer
+Agent APP,Agent 
+USSD,Agent PAX and 
+Android POS
+50
+10,000
+30,000
+Unlimited 
+Page 21
+9
+WeBirr
+Agent APP,Agent 
+USSD,Agent PAX and 
+Android POS
+Unlimited 
+Unlimited 
+Unlimited 
+Unlimited 
+10
+Money Re-
+ceive( cardless)
+Agent APP,Agent 
+USSD,Agent PAX and 
+Android POS
+50
+Unlimited 
+Unlimited 
+Unlimited 
+11
+Post Paid
+Agent APP,Agent 
+USSD,Agent PAX and 
+Android POS
+Unlimited 
+Unlimited 
+Unlimited 
+Unlimited 
+12
+ESchool Fee 
+payment 
+Agent APP,Agent 
+USSD,Agent PAX and 
+Android POS
+Unlimited 
+Unlimited 
+Unlimited 
+Unlimited 
+13
+Unicash
+Agent APP,Agent 
+USSD,Agent PAX and 
+Android POS
+Unlimited 
+Unlimited 
+Unlimited 
+Unlimited 
+14
+Traffic Pay-
+ment 
+Agent APP,Agent 
+USSD,Agent PAX and 
+Android POS
+Unlimited 
+Unlimited 
+Unlimited 
+Unlimited 
+6. E-Branch Services
+E-Branches offer a range of convenient services to custom-
+ers, facilitated by digital technologies. These services in-
+clude:
+1. Account Opening: Customers can open a new account us-
+ing Interactive Teller Machines (ITMs) or Smart Teller Ma-
+chines (STMs). For self-service, customers can use STMs. 
+If they require assistance, they can make a video call using 
+ITMs to receive support from a remote teller. 
+2. Cash Deposit: E-Branches are equipped with cash deposit 
+ATMs or ITMs. Customers can easily deposit cash into their 
+accounts by following simple instructions on the ATM. If 
+they need assistance, they can use the ITM to interact with 
+a remote teller.
+3. Cheque Deposit: Using an ITM, customers can scan the 
+cheques they wish to deposit into their accounts and submit 
+them electronically.
+4. Cash Withdrawal: Customers have the option to withdraw 
+cash either from ATMs or through ITMs with the support of 
+a remote teller. 
+5. Cheque Encashment: Customers can encash cheques us-
+ing ITMs, with remote teller assistance.
+6. Fund Transfer: With the help of STMs, customers can eas-
+ily transfer funds from their ATM cards or mobile banking 
+accounts to other accounts without requiring any additional 
+support. Additionally, using ITMs, customers can make fund 
+transfers with remote teller assistance.
+7. Bill Payment: STMs enable customers to conveniently pay 
+their electricity, telephone, water tax, and other bills without 
+the need for assistance. ITMs also facilitate bill payments 
+with the support of a remote teller.
+8. Card Applications: Customers can apply for debit cards, 
+prepaid cards, and credit cards using ITMs or STMs.
+9. PIN Reset: Using ITMs or STMs, customers can apply for a 
+PIN reset if they have forgotten their PIN.
+10. Loan Applications: Customers can apply for loan facilities 
+using STMs.
+11. Account Balance Inquiry: Customers can easily check 
+their account balances using ITMs or STMs.
+12. Dispute Resolution: ITMs and STMs provide customers 
+with the option to log disputes related to their accounts.
+13. Mobile and Internet Banking Services: Using STMs, cus-
+tomers can access their mobile and internet banking ser-
+vices.
+6.1. Limits for ITMs:
+To ensure security and manage risk, ITMs have certain trans-
+action limits:
+ The maximum cash withdrawal amount is 50,000 Birr per 
+day.
+ For account holders or signatories of a cheque, the max-
+imum cheque encashment limit is 50,000 Birr per day. For 
+cheques written for third parties, the maximum encashment 
+limit is 30,000 Birr per day.
+The maximum amount for cheque deposits is 50,000 Birr 
+per day.
+The maximum account-to-account transfer limit is 100,000 
+Page 22
+Birr per day.
+The maximum cash deposit amount is 100,000 Birr per 
+day.
+ITM Services (Interactive Teller Machine):
+ITMs facilitate a range of cash-related and non-cash-related 
+transactions, including:
+Cash-Related Transactions:
+ Cash Deposit
+ Cash Withdrawal
+ Cheque Encashment
+Cheque Deposit
+Fund Transfer
+Bill Payment
+ Forex Exchange
+Non-Cash Related Transactions:
+ Balance Inquiry
+ Bank Statement
+Customer Complaints
+Account Opening (assistance from branch staff is required 
+as it involves document scanning and printing)
+ Any Banking Service (customers can obtain information 
+with the help of a teller)
+STM Services (Smart Teller Machine):
+STMs, in their phase 1 implementation, offer card-based ser-
+vices, including:
+Balance Inquiry
+ Short Statement
+ Fund Transfer
+Use Our eBranch 
+Page 23
+token reference when redeeming the restricted e-vouchers 
+at merchants or bank branches.
+ Beneficiaries can collect cash or specified items at the 
+scheduled date of payment from bank branches or merchant 
+outlets.
+Corporate clients (NGOs) are responsible for submitting a 
+list of merchants for registration at branches.
+ Merchants are required to provide updated trade licenses 
+and identification for registration at bank branches.
+ The NGO must register the submitted list of beneficiaries.
+ The branch or corporate client is responsible for upload-
+ing the distribution schedule. Short code *6460#
+8. E-School Management System 
+E-School Management System is a comprehensive platform 
+designed to streamline and enhance the operations of edu-
+cational institutions. With a focus on schools, this system 
+aims to automate school operations, facilitate efficient fee 
+collection, and cultivate long-term customer relationships. 
+It offers modules for school management, student manage-
+ment, campus management, finance and payment manage-
+ment, e-learning management, e-library management, and 
+other essential services.
+1. School Management Module:
+Create, update, and delete schools.
+ Manage school information and bank account details.
+ Efficiently handle classes, including creation, updating, 
+Page 24
+ Money Send
+PIN Change
+ Statement Request
+Customer Complaint Interface
+7. Digital Voucher Services
+Digital voucher /E-voucher is a digital or electronic form of 
+a voucher that can be used as a means of payment or ex-
+change for goods, services, or specific items. E-vouchers 
+are typically generated and issued electronically, allowing 
+for easy distribution, tracking, and redemption. They can be 
+used in various sectors, including retail, hospitality, health-
+care, and social welfare programs.
+Restricted Aid Distribution Service:
+Enables entities, corporations, companies, businesses, 
+and organizations to distribute restricted funds or items to 
+recipients without requiring a bank account.
+ Designed specifically for the distribution of aid funds to 
+beneficiaries.
+ Key parties involved: corporate clients (NGOs), recipients, 
+merchants, and the bank (teller or agent).
+ Corporate clients (NGOs) are required to open a bank ac-
+count, deposit sufficient funds, and provide distribution or-
+ders for beneficiaries.
+Detailed beneficiary lists must be submitted by corporate 
+clients for distribution purposes.
+ Beneficiaries must present their ID, mobile number, and 
+and deletion.
+ Define primary bank accounts for different school sec-
+tions.
+2. Student Management Module:
+Create, update, and delete student records.
+ Enable bulk import of student data.
+Approve uploaded data for accuracy.
+ Archive student records.
+Perform bulk balance adjustments.
+ Promote students to the next class.
+ Generate student credentials and reports.
+3. Campus Management Module:
+ Manage multiple campuses within a single institution.
+ Streamline administrative tasks across different cam-
+puses.
+4. Finance and Payment Management Module:
+ Define penalties, including frequency, charges, and expi-
+ry options.
+ Manage various fee types (one-time or recurrent).
+ Send SMS reminders for payment.
+ Track fee amounts and effective dates.
+ Access school transaction history and bank statements.
+ Reconcile payments between e-school and school bank 
+accounts.
+Page 25
+Page 26
+9. Bulk Payment Services 
+The Bulk Payment Service Business to Customer (B2C) of-
+fered by Awash Bank provide organizations with a conve-
+nient way to make payments and disbursements from a cen-
+tralized portal to Awash Bank customers or individuals using 
+the bank’s wallet service. This service enables real-time 
+transactions with just a single click, making it efficient and 
+user-friendly. It caters to various types of payments such as 
+salary payments, dividend payments, Sacco payments, and 
+more.
+9.1.	
+Services of Bulk Payment
+The Bulk Payment service offers a range of services to meet 
+the diverse payment needs of organizations and individuals. 
+These services include:
+ Salary payment for companies and casuals’ payments: 
+The bulk payment system allows companies to disburse sal-
+aries to their employees efficiently. It supports both regular 
+salary payments for permanent employees and payments 
+for casual workers.
+ Payment of suppliers, petty cash, daily wages: Organiza-
+tions can utilize the bulk payment service to make payments 
+to suppliers, manage petty cash expenses, and facilitate dai-
+ly wage payments. 
+ Aid distribution: The bulk payment system also caters 
+to aid distribution efforts. Organizations involved in humani-
+5. E-Learning Management Module:
+Assign and view classwork and assignments.
+Create virtual classrooms (e-rooms) for online learning.
+ Conduct video conferences for remote teaching.
+ Upload recorded educational videos.
+Review past e-sessions and learning materials.
+6. E-Library Management Module:
+ Provide a digital library accessible through the internet.
+ Store and manage various digital media formats, includ-
+ing text, images, audio, video, and documents.
+ Offer online access to learning resources and materials.
+7. Other Services:
+Syllabus and lesson plan management.
+Home schooling module for remote learning.
+ School library module for managing physical libraries.
+ Time tabling and scheduling of classes, tests, tasks, and 
+meetings.
+Notice board and announcements feature.
+ Report card generation, academic tracking, and grading.
+Transcript and certificate generation.
+ Dissertation management for higher education institu-
+tions.
+tarian or social welfare projects can easily disburse funds to 
+beneficiaries in need, ensuring timely assistance.
+ Promotional payments: Companies running promotional 
+campaigns or loyalty programs can utilize the bulk payment 
+service to make payments to customers or participants. 
+Dividend Payments: The service facilitates the seamless 
+distribution of dividends to shareholders. 
+ Disbursement of various project funds: The bulk payment 
+service is particularly useful for organizations managing 
+projects that require disbursement of funds to multiple ben-
+eficiaries. 
+10. International Card Services 
+Awash Bank allows the use of the mentioned international 
+cards of
+ Mastercard, 
+Visa Card, 
+ China UnionPay, 
+Diners Club, 
+ JCB) at the following locations:
+1. ATMs (Automated Teller Machines): Customers can use 
+their international cards to withdraw cash or perform other 
+ATM-related transactions at Awash Bank’s ATMs. This al-
+lows cardholders to access their funds conveniently.
+2. E-Branch: Awash Bank’s e-Branch, which refers to online 
+banking services or digital banking platforms, provides cus-
+tomers with the ability to use their international cards for 
+online transactions. This includes making payments, fund 
+transfers, and managing their accounts through secure dig-
+ital channels.
+3. POS (Point of Sale) Terminals: Awash Bank’s POS termi-
+nals are equipped to accept payments from international 
+cards. Customers can use their cards for purchases at var-
+ious merchants, retailers, and businesses that have POS 
+terminals integrated with Awash Bank’s payment network.
+Page 27
+===================End===============
+NB: This catalog will serve as a source of truth, providing 
+accurate and up-to-date information about each Digital 
+products and services.
+===================End===============
+                      October , 2024
+Page 29
+Page 30
+ Scan and Download
+   Follow us
+Contact Us
+Contact Center : 8980
+P.O.Box: 12638
+Fax: +251-11-557-01-36
+Swift Code: AWINETAA
+E-mail: Contactcenter@awashbank.com

@@ -1,0 +1,5241 @@
+FINANCIAL
+EDUCATION STRATEGY
+
+2021- 202 5
+
+ 
+ 
+ 
+ 
+ 
+National Financial  
+Education Strategy: Ethiopia  
+ 
+ 
+ 
+ National Bank of Ethiopia 
+Addis Ababa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+August 2020 
+ 
+ 
+i 
+ 
+Contents 
+List of tables ................................................................................................................................................ iii 
+List of figures 
+............................................................................................................................................... iii 
+List of acronyms .......................................................................................................................................... iv 
+ACKNOWLEDGMENTS ............................................................................................................................ v 
+EXECUTIVE SUMMARY ......................................................................................................................... vi 
+1. 
+INTRODUCTION ................................................................................................................................ 1 
+2. 
+CURRENT STATE OF FINANCIAL CAPABILITY IN ETHIOPIA................................................. 4 
+2.1. 
+Financial access and inclusion .......................................................................................................... 4 
+2.2. 
+Barriers to financial access ............................................................................................................... 7 
+2.3. 
+Financial awareness .......................................................................................................................... 7 
+2.4. 
+Financial numeracy and literacy ....................................................................................................... 9 
+2.5. 
+Financial planning and money management 
+................................................................................... 11 
+2.6. 
+Learning preferences 
+....................................................................................................................... 12 
+2.7. 
+Sources of information 
+.................................................................................................................... 13 
+3. 
+STOCK-TAKING OF KEY FINANCIAL EDUCATION PROGRAMS 
+.......................................... 14 
+3.1. 
+Donor-led financial education programs ........................................................................................ 14 
+3.2. 
+Government-led financial education program ................................................................................ 15 
+3.3. 
+Financial sector programs ............................................................................................................... 16 
+4. 
+OVERARCHING CHALLENGES TO FINANCIAL EDUCATION ............................................... 17 
+4.1. 
+Underdeveloped infrastructure and limited centers ........................................................................ 17 
+4.2. 
+Fragmented programs, modules and ineffective delivery channels ................................................ 18 
+4.3. 
+Unsustainable dissemination and rollout ........................................................................................ 18 
+4.4. 
+Absence of coordination, monitoring and evaluation system ......................................................... 19 
+5. 
+NFES FRAMEWORK 
+........................................................................................................................ 20 
+5.1. 
+NFES framework for action 
+............................................................................................................ 20 
+5.2. 
+Rationale ......................................................................................................................................... 21 
+5.3. 
+Mission ........................................................................................................................................... 21 
+5.4. 
+Vision statement ............................................................................................................................. 21 
+5.5. 
+Objectives ....................................................................................................................................... 21 
+5.6. 
+Main Strategies ............................................................................................................................... 22 
+ 
+ 
+ii 
+ 
+5.7. 
+Financial education targets ............................................................................................................. 25 
+6. 
+COORDINATION AND INSTITUTIONAL ARRANGEMENTS OF THE STRATEGY .............. 28 
+6.1. 
+Linkages with NFIS governance structure 
+...................................................................................... 28 
+6.2. 
+Policy guidance and implementation oversight .............................................................................. 28 
+6.3. 
+Stakeholders coordination and consultation ................................................................................... 28 
+6.4. 
+Consumer Protection and Financial Education Directorate (CPFED) ............................................ 29 
+6.5. 
+The financial inclusion secretariat .................................................................................................. 31 
+6.6. 
+Reporting and communicating progress ......................................................................................... 31 
+6.7. 
+Funding ........................................................................................................................................... 33 
+7. 
+MONITORING AND EVALUTAION (M&E) ................................................................................. 34 
+7.1. 
+Data infrastructure .......................................................................................................................... 34 
+7.2. 
+Financial education results framework ........................................................................................... 35 
+7.3. 
+Action plan tracking system ........................................................................................................... 35 
+7.4. 
+Rigorous testing and evaluation 
+...................................................................................................... 36 
+7.5. 
+Reviews 
+........................................................................................................................................... 36 
+8. 
+PRIORITY ACTIONS 
+........................................................................................................................ 37 
+ANNEXES 
+.................................................................................................................................................. 38 
+Annex 1: Financial Literacy Implementation Action Plan ......................................................................... 38 
+Annex 2: Description of Priority Actions ................................................................................................... 44 
+Annex 3:  Roles and Responsibility of Key Stakeholder 
+............................................................................ 48 
+Annex 4: Target Group Profiles 
+.................................................................................................................. 50 
+Annex 5: SWOT Analysis .......................................................................................................................... 57 
+Annex 6: Good Principles to Consider for Financial Education in Ethiopia .............................................. 58 
+Annex 7: Financial Education Mapping Exercise ...................................................................................... 63 
+Annex 8: Major Organizations Providing Financial Education 
+.................................................................. 64 
+Annex 9: General Category of Stakeholders for Financial Education 
+........................................................ 66 
+Annex 10: Working Group Members ......................................................................................................... 67 
+Annex 11: Experiences on development and implementation of financial education strategy .................. 68 
+ 
+ 
+ 
+ 
+iii 
+ 
+List of tables 
+ 
+Table 5.1 
+Demand Side Results Framework 
+26 
+Table 5.2 
+Supply Side Results Framework 
+27 
+ 
+List of figures 
+ 
+Figure 2.1 
+Ownership of Formal Financial Products and Services in Ethiopia 
+4 
+Figure 2.2 
+Account Access across Regions 
+5 
+Figure 2.3 
+Types of Account Ownership 
+6 
+Figure 2.4 
+Awareness of Financial Terms 
+8 
+Figure 2.5 
+Percentage of Adults Who Answered Literacy Question Concepts 
+9 
+Figure 2.6 
+Understanding of Financial Concepts by Gender 
+10 
+Figure 2.7 
+Financial Numeracy and Literacy 
+11 
+Figure 2.8 
+Keeping   Track   of   Expenses    
+12 
+Figure 2.9 
+Learning Preferences by Urban and Rural Populations 
+13 
+Figure 5.1 
+NFES Framework for Action 
+20 
+Figure 6.1 
+Financial Education Strategy Reporting Structure 
+32 
+ 
+ 
+ 
+iv 
+ 
+List of Acronyms  
+ 
+ACSI 
+Amhara Credit and Saving Institution 
+AEMFI 
+Association of Ethiopian Microfinance Institutions  
+BSD 
+Banking Supervision Directorate 
+CBE 
+Commercial Bank of Ethiopia  
+CPFED 
+Consumer Protection and Financial Education Directorate  
+DFS 
+Digital Financial Services 
+DVV 
+Deutscher Volkshochsihu Verband-The German Adult Education Association 
+EBA 
+Ethiopian Bankers Association  
+EIA 
+Ethiopian Insurers Association  
+EIFS 
+Ethiopian Institute of Financial Studies 
+FCA 
+Federal Cooperative Agency 
+FCP 
+Financial Consumer Protection 
+FSMMIPA 
+Federal Small & Medium Manufacturing Industry Promotion Authority 
+FeUJC & FSA 
+Federal Urban Job Creation and Food Security Agency 
+GRAD 
+Graduation with Resilience to Achieve Sustainable Development 
+FIS 
+Financial Inclusion Secretariat  
+HABP 
+Household Asset Building Program 
+HIDA 
+Hiwot Integrated Development Authority 
+ISD 
+Insurance Supervision Directorate 
+MFI 
+Microfinance Institutions  
+MFSD 
+Microfinance Supervision Directorate  
+MSMEs 
+Micro, Small and Medium Enterprises  
+MWCY 
+Minister of Women, Children & Youth 
+NBE 
+National Bank of Ethiopia  
+NCFI 
+National Council for Financial Inclusion 
+NFISC 
+National Financial Inclusion Steering Committee  
+NFES 
+National Financial Education Strategy 
+NGO 
+Non-Government Organization 
+PSNP 
+Productive Safety Net Program 
+PSSD 
+Payment Systems and Settlement Directorate  
+RuSACCOs 
+Rural Savings and Credit Cooperatives 
+SACCOs 
+Savings and Credit Cooperatives 
+SNNPRS 
+Southern Nations Nationalities and Peoples Regional States 
+UNCDF 
+United Nations Capital Development Fund  
+ 
+ 
+v 
+ 
+ACKNOWLEDGMENTS 
+The National Bank of Ethiopia has developed the National Financial Education Strategy 2021-
+2025 in close collaboration with all key stakeholders including development partners on financial 
+inclusion and financial education. Various institutional and individual counter parts in the public, 
+private and social sectors have been involved throughout the process, and have shared their time, 
+experience and insights to the development of this document. The NBE is extremely grateful to its 
+counterparts for their support and would like to reiterate the commitment to continue to join the 
+efforts for the successful implementation of the National Financial Education Strategy 2021-
+2025.The NBE would also like to thank to its partners, specifically the World Bank Group and the 
+Financial Education Working members for their support throughout the development of this 
+strategy. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vi 
+ 
+EXECUTIVE SUMMARY  
+1. Introduction 
+Financial education refers to the process of bringing and building basic knowledge, skills, 
+attitudes, confidence and behaviors of target groups to enable them understand, select, make use of 
+and manage financial products and services that fit their needs.  Currently, different financial 
+education programs and efforts have been undergoing in Ethiopia by self-initiated NGOs with 
+extensive support from donors, the government in a school curriculum and that steered by the 
+financial institutions with the aim to aware their clients and the general public about the products 
+and services on offer. Due to the absence of financial education strategy, however, these efforts 
+are sporadic, uncoordinated and lack strategic focus and goal.  Consequently, financial literacy 
+and capability in Ethiopia are at the lowest stage compared even with peers in Sub-Sahara African 
+and negatively influence the level of financial inclusion.  Roughly, 82 percent of the unbanked 
+adults reported not owning an account due to lack of financial literacy or awareness. With this 
+background, the National Financial Education Strategy has been formulated to provide for a 
+coherent, collaborative and institutionally coordinated approach that synchronizes all efforts 
+towards achieving a commonly shared and envisioned national goals and targets.     
+ 
+2. Current status of financial education  
+Financial Capability Survey-Ethiopia, conducted by the WBG in 2017, uncovered the low level of 
+financial literacy and capability with a significant gap remains particularly between rural and 
+urban and men and women adults:  
+ While only 24 percent of rural adults own transaction accounts, adults in urban areas own 
+29 percent;  
+ Lack of financial literacy or awareness affected more women than men. Roughly 85 percent 
+of unbanked women reported not knowing how or where to open an account as opposed to 
+80 percent of men; 
+ Women are less aware of financial terms than their male counterparts.  88 percent of male 
+respondents have heard or know about public banks, as compared to only 78 percent of 
+women. Women are also less likely to know how to open an account or consider 
+alternatives before selecting a financial product than men; 
+ Roughly 14 percent of rural adults have heard or know about ATMs compared to 71 
+ 
+ 
+vii 
+ 
+percent of urban adults;  
+ Women displayed significantly lower financial numeracy and literacy skill than their male 
+counterparts. About 78 percent of male respondents can perform division while only 65 
+percent of surveyed women can do the same. Similarly, 45 percent of men understand the 
+concept of inflation as compared to 38 percent of women;  
+ A little over half of surveyed group reported always planning how their money will be 
+spent, and only 42 percent always stick to their plan; and  
+ Roughly 90 percent of the surveyed people reported seeking advice from their immediate 
+social network before making an important financial decision. Around 59 percent of women 
+reported receiving financial advice specifically from their spouse or partner, while men tend 
+to rely more broadly on family and friends instead. Furthermore, those women in rural areas 
+reported usage of some information from radio in addition to depending on their community 
+leaders for information. 
+ 
+This has put Ethiopia among countries that have low level of financial literacy, capability and 
+financial inclusion.   
+ 
+3. The current financial education programs 
+The current financial education efforts in Ethiopia can be grouped into three broad categories that 
+have been steered by the: 
+i. Financial sector: To raise awareness to targeted clients and the general public, players in 
+the financial sector run different  programs through different media;  
+ii. Government: Ministry of Education has curriculums specifically dealing with financial 
+education tropics under Civics and Ethical Education subjects for Grade 5 -12. Ministry of 
+Finance as well has financial literacy package to the beneficiaries of the Productive Safety 
+Net Program.  Federal Cooperative Agency‟s runs specially designed financial education 
+programs for the cooperative societies; and   
+iii. Non-profit or donor organizations: Provide financial education for adults in their own 
+initiatives which are the most common in Ethiopia. 
+ 
+ 
+viii 
+ 
+ 
+This Strategy capitalizes on these efforts to steer and speed up the financial education processes in 
+Ethiopia. Sporadic efforts will be coordinated and directed towards achieving commonly shared 
+national goals and targets of the NFES as assorted in the main documents.   
+ 
+4. Barriers to financial education  
+Although there are different and specific barriers to the low level of financial literacy and 
+capability in Ethiopia, the overarching challenges can be grouped in to the following four strategic 
+pillars: i/ Underdeveloped financial education infrastructure and limited centers; ii/ Fragmented 
+programs, modules and ineffective delivery channels; iii/ Unsustainable dissemination and rollout; 
+and iv/ Absence of coordination, monitoring and evaluation system. 
+ 
+The purpose of this National Financial Education Strategy is, therefore, directed to provide a 
+coherent, institutionally coordinated and focused approach to financial education delivery that 
+will enhance the financial literacy and capability of millions of targeted groups by strategically 
+addressing the foregoing challenges and barriers.  
+ 
+5. Strategic framework 
+Mission 
+The mission of the National Financial Education Strategy is: 
+“To improve and increase the financial literacy and capability of adults, households and 
+enterprises, through financial education, to enable them make informed financial decisions”.  
+ 
+Vision statement 
+The vision of the National Financial Education Strategy is:  
+“Ensure that adults, households and enterprises in Ethiopia are capable of making well- 
+informed financial decisions and ultimately improving their financial well-being by 2025”. 
+ 
+ 
+ 
+ 
+ 
+ix 
+ 
+Main strategies 
+The following strategic pillars, which are derived from and aligned with the foregoing overarching 
+underlying barriers, are formulated to translate the above stated vision and mission of the NFES to 
+a reality:   
+Strategy 1:  
+Build robust national financial education infrastructure; 
+Strategy 2:  
+Design and implement impactful national financial education programs, 
+modules and channels; 
+Strategy 3: 
+ Ensure sustainable dissemination and rollout to reach scale; and  
+Strategy 4:  
+Build and implement effective coordination, monitoring and evaluation 
+system. 
+ 
+Each of these strategic pillars is followed by specific programs: Rural Program, Women Program, 
+Youth Program, Children Program and General Public Program.  Specific modules with respect to 
+saving, credit, insurance, payment and pension have also been packaged under each the programs1.    
+Priority actions have been well identified and assorted in main document.   
+ 
+Analysis of preference of delivery of financial education indicated that women and most rural 
+adults have a preference to learn about financial products and services through the local 
+government office like kebele officials. Male respondents and urban adults reported a preference to 
+learn through TV or advertisements and agents of financial service providers. For rural adults, face 
+to face interactions were indicated as the preferred mode of delivery at the local Kebele level, 
+followed by audio technologies. In view of these, the method and medium of delivery of the 
+financial education have been adequately considered.   
+ 
+ Financial education targets 
+The NFES aims to ensure 75% of adults to report their awareness about financial products and 
+services by 2025 from the current baseline of 47%. This would be complemented by a supply 
+side target that roughly 10 million adults to be educated during the strategy period, 2021-2025.   
+As part of the Financial Education Results Framework, therefore, high-level KPIs have been set 
+                                                          
+ 
+1 To reconsider opportunities, challenges and emerging incidents that dictate basic changes in the main elements of the strategy, a mid-term 
+review of the strategy has been planned to be carried out by the end of 2023.    
+ 
+ 
+x 
+ 
+to monitor and evaluate the progress and impacts of the financial education efforts.    
+ 
+6.  Coordination and institutional arrangements  
+Linkages with NFIS governance structure 
+The National Financial Education Strategy capitalizes on the existing governance structure of the 
+National Financial Inclusion Strategy and purported to establish a Directorate to execute this 
+strategy as well as the routines of the financial consumers‟ protection framework. The structures 
+comprise of: 
+ 
+i. The National Council for Financial Inclusion;   
+ 
+ii. The National Financial Inclusion Steering Committee; 
+ 
+iii. The National Bank of Ethiopia; and 
+ 
+iv. The Financial Education and Consumer Protection Directorate housed at the National 
+ 
+Bank of Ethiopia2 
+ 
+7. Monitoring and evaluation (M&E) 
+To ensure effective implementation of the NFES: to track progresses, identify bottlenecks and 
+measure impacts of the implementation of the strategy, a robust and well-planned M&E 
+framework has been formulated.  
+  
+8. Funding the implementation of the NFES 
+Implementing the NFES strategy, among others, assumes the deployment and use of large number 
+of trainers that will serve around the nation, such as Development Agents (DA) of MoA, self-
+initiated NGOs‟ and donors. These efforts call for training of trainers, development, printing and 
+dissemination of education materials and top up for the trainers on the field such as DAs‟ of MoA 
+etc. These require financial outlay. Bearing these in mind, the NBE may consider various funding 
+options and approaches to support the implementation of this Strategy. The funding options may 
+include, but not limited to, self-funding, donors fund and pooled funding depending on the sources. 
+                                                          
+ 
+2 To implement the NFES and Financial Consumer protection tasks, a Financial Education and Consumers Protection Directorate (CPFED) has been 
+proposed in the NFES and approved by the board of the NBE.  
+ 
+ 
+1 
+ 
+1. INTRODUCTION 
+According to the 2017 Findex Survey3, an estimated 1.7 billion adults remain unbanked globally4, 
+and are excluded from the use of formal financial services. In Ethiopia, an estimated 36.7 
+million adults do not own any type of formal transaction account. In a concerted effort to reduce 
+financial exclusion and address the needs of the people, the National Bank of Ethiopia launched an 
+ambitious National Financial Inclusion Strategy5 (NFIS) in October 2017. 
+ 
+In Ethiopia, one underlying barrier to financial inclusion is the low level of financial capability 
+and awareness among Ethiopian adults. Being financially capable means having the financial 
+knowledge, skills, attitudes, confidence and behaviors to manage financial resources and 
+understand, select, and make use of financial services that fit one‟s needs6. Having sufficient 
+financial capability is critical in the context of financial inclusion as it helps to improve 
+individuals‟ and households‟ financial well-being by enabling consumers to act in their own best 
+financial interest. 
+ 
+Increasing the levels of financial awareness and capability of adults is not only a core pillar of the 
+NFIS, it also broadly contributes to the achievement of Ethiopia‟s reform programs. To help 
+ensure that an appropriate range of financial services are offered to consumers with increased 
+financial capability, the NFIS action plan includes the following financial literacy actions: (i) 
+conducting a mapping of financial education / literacy initiatives; (ii) conducting of a baseline 
+survey to assess the levels of financial capability, and relevant gaps; and (iii) developing a 
+National Financial Education Strategy to drive financial literacy and capability progress forward 
+in Ethiopia. 
+ 
+In June 2016, a mapping of financial education was conducted to identify existing initiatives, 
+assess gaps and highlight opportunities that can help drive progress on financial literacy in 
+Ethiopia. This mapping exercise was followed by a financial capability survey (conducted 
+                                                          
+ 
+3 The World Bank Group. Global Findex Database 2017. <https://globalfindex.worldbank.org/> 
+4 Unbanked in this context means without an account at a financial institution or through a mobile money provider. 
+5 The strategy intends to help increase the percentage of Ethiopians that have access to a formal transaction account 
+from 22 percent in 2014 (25 percent in 20164), to 60 percent by 2020 
+6 Responsible Finance. World Bank. < http://responsiblefinance.worldbank.org/> 
+ 
+ 
+2 
+ 
+between January and June 2017) to establish a baseline measure of the levels of financial 
+knowledge, behaviors, literacy and numeracy skills of different Ethiopian populations. 
+ 
+In the absence of a financial education strategy, financial education efforts can be sporadic, 
+uncoordinated and lack strategic focus. To this end, this National Financial Education Strategy has 
+been designed to provide a coherent, institutionally coordinated and collaborative approach to 
+financial education delivery. 
+ 
+This National Financial Education Strategy defines the terms „Financial Capability‟, „Financial 
+Education‟ and „Financial Literacy; as follows7: 
+ 
+ 
+Financial education is a tool for increasing consumer financial literacy. According 
+to OECD (2005), financial education is the process by which financial consumers and 
+investors improve their understanding of financial products, services and concepts 
+and, through information, instruction and objective advices, develop skills and 
+confidence to become more aware of financial risks and opportunities to make 
+informed choices, know where to go for help, and take other effective actions to 
+improve their financial well-being. 
+ 
+ 
+Financial literacy characterizes the level of aptitude in understanding personal 
+finance. It often refers to awareness and knowledge of key financial concepts required 
+for managing personal finances and is generally used as a narrower term than financial 
+capability. 
+ 
+ 
+Financial capability is the capacity of consumers to act in one‟s best financial 
+interest, given socio-economic environmental conditions. It encompasses the 
+knowledge (literacy), skills, attitudes, behaviors and confidence of consumers 
+regarding managing their resources, and understanding, selecting and making use of 
+financial services that fit their needs.8 
+                                                          
+ 
+7  Definitions based from (World Bank n.d.) 
+8 Definitions based from World Bank. < http://responsiblefinance.worldbank.org/> 
+ 
+ 
+3 
+ 
+The terms financial education, literacy and capability are often used interchangeably, but 
+represent very distinct concepts. In short, financial education is intended to increase the financial 
+literacy of consumers, which enables individuals to become more financially capable (an 
+outcome of improved financial literacy) when putting their knowledge into practice. 
+ 
+This National Financial Education Strategy aims to: (i) analyze the current state of financial 
+capability in Ethiopia, including key financial education programs; (ii) identify priority target 
+populations and actions; (iii) provide guidance on how to establish and operationalize a financial 
+education coordination structure including monitoring, evaluation and reporting systems; and 
+(iv) include resources (annexed) to equip key stakeholders with knowledge and tools required to 
+implement the strategy. The rest of this National Financial Education Strategy (NFES) is 
+structured as follows: 
+ Section 2 assesses the current state of financial capability in Ethiopia and capability 
+levels of Ethiopians; 
+ Section 3 takes stock of strategic financial education activities, gaps and opportunities; 
+ Section 4 explains the purpose, rationale and vision of this NFES, as well as strategy 
+priorities and areas of focus, based on evidence presented in Section 2; 
+ Section 5 provides a strategy framework for action; 
+ Section 6  provides details on the coordination structure and NFES institutional arrangements; 
+ Section 7 details a comprehensive Monitoring & Evaluation (M&E) framework to track 
+financial education progress; and 
+ Section 8 outlines priority actions of the NFES.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+2. CURRENT STATE OF FINANCIAL CAPABILITY IN ETHIOPIA9 
+2.1. 
+Financial access and inclusion 
+According to Global Findex10, access to a transaction account at a regulated institution among 
+adults (ages 15+) has steadily grown from 22 percent in 2014 to 35 percent in 2017. However, a 
+significant gap remains, particularly between rural and urban Ethiopian adults. Similarly, the recent 
+Ethiopian Financial Capability Survey11   estimates account access to be 29 percent of adults 
+aged 18+. However, the survey found that while roughly 61 percent of adults in urban areas own an 
+account at either a bank, MFI or SACCO, rural populations lag behind. Only 24 percent of rural 
+Ethiopian adults own a transaction account. Figure 3.1 below provides a breakdown of ownership 
+of different financial products and services by Ethiopian adults. 
+Figure 2.1: Ownership of Formal Financial Products and Services in Ethiopia 
+ 
+ 
+ 
+ 
+Financial access varies greatly by region. Account access in Addis Ababa and Dira Dawa city is 
+                                                          
+ 
+9  The data analysis provided within this document is taken from the Ethiopia Financial Capability Survey 
+in 2017 unless otherwise noted. 
+10 World Bank Group, Global Findex Database. < https://globalfindex.worldbank.org/> 
+11The Ethiopian Financial Capability survey was conducted between January – June, 2017. The survey 
+forms the basis of the analysis (unless otherwise noted), and was conducted using a nationally 
+representative sample of 3500 Ethiopians across different regions. The survey was conducted in 
+coordination with the NBE and CSA. 
+ 
+29% 
+14% 
+7% 
+5% 
+3% 
+3% 
+1% 
+1% 
+Transaction/savings
+account
+Credit product from
+MFI
+Insurance product
+Money transfer
+service
+Credit product from
+a SACCO
+Debit card
+Mobile money
+service
+Mortgage product
+ 
+ 
+5 
+ 
+roughly 70 percent and 83 percent respectively; however, the percentage of adults that own an 
+account drops greatly, outside of those two cities. Account ownership also varies by region, and 
+some regions like SNNPRS, Tigray and Amhara exhibit higher rates of financial inclusion than 
+other regions like Somali, Oromia, Afar or Benishangul Gumze. Figure 2.2 below provides a 
+breakdown of the level of financial exclusion by region (measured as lack of ownership of a 
+formal financial product from a bank, MFI or SACCO). 
+ 
+Figure 2.2 Account Access across Regions 
+ 
+ 
+ 
+Most urban adults that own an account do so using either a public or private commercial bank (or 
+both), whereas rural adults more frequently own products from either public banks or other 
+financial service providers like MFIs or SACCOs. Roughly 61 percent of urban adults own an 
+account – within this 61 percent, 90 percent own an account at the Commercial Bank of Ethiopia 
+(CBE) and 42 percent own an account at a private bank12. This suggests that most urban adults who 
+own an account have more than one account within the formal financial sector. Approximately 24 
+                                                          
+ 
+12  Among the 61 percent of urban adults, some might have an account at the Commercial Bank of Ethiopia and 
+another account at a private bank. 
+ 
+ 
+30 
+17 
+70 
+71 
+70 
+79 
+81 
+76 
+65 
+59 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+Addis AbabaAddis AbabaAddis Ababa
+DiredawaDiredawaDiredawa
+TigrayTigrayTigray
+AfarAfarAfar
+AmharaAmharaAmhara
+OromiaOromiaOromia
+SomaliSomaliSomali
+BenishangulBenishangulBenishangul
+SNNPRSSNNPRSSNNPRS
+GambellaGambellaGambellaLevel of Financial ExclusionLevel of Financial ExclusionLevel of Financial Exclusion  
+ 
+ 
+6 
+ 
+percent of rural adults own an account and they mainly report owning an account either at the CBE 
+(61 percent) or with an MFI (68 percent), and 22 percent own an account through a SACCO. 
+Rates of account ownership of the CBE are consistent with NBE supply side data, as roughly 
+70 percent of the total number of accounts in Ethiopia are reported by the CBE. This may be due 
+to the large coverage of the Commercial Bank of Ethiopia (CBE) and their branch expansion plan 
+into rural areas. 
+ 
+Figure 2.3 Types of Account Ownership 
+ 
+ 
+Few Ethiopians own a mobile money account (roughly 1 percent of adults). The vast majority of 
+mobile money owners and users reside in urban areas. Therefore, mobile money products are not 
+yet reaching rural adults. In general, mobile money awareness is low and only 13 percent of 
+adults have heard of mobile money services (the majority living in urban areas). In addition, only 
+50 percent of Ethiopian adults report regularly using a mobile phone (and only 43 percent of 
+women). Lack of phone ownership or regular usage has implications on both access to and usage of 
+mobile products and services. In addition, if adults, predominantly rural adults, are not using 
+mobile phones frequently it becomes difficult to attempt to deliver both financial services as well 
+as financial education through mobile phones. 
+90% 
+25% 
+42% 
+5% 
+10% 
+71% 
+53% 
+23% 
+17% 
+4% 
+61% 
+68% 
+13% 
+22% 
+1% 
+Has an account in public
+commercial banks
+Has an account in
+microfinance
+organizations
+Has an account in
+private commercial
+banks
+Has account with a
+SACCO
+Has mobile money
+account
+Account Ownership [as % of adults that own an account] 
+Urban
+All
+Rural
+Institutions 
+ 
+ 
+7 
+ 
+2.2. 
+Barriers to financial access 
+Roughly 82 percent of unbanked adults reported not owning an account due to a financial 
+literacy or awareness barrier. Lack of financial education, literacy and capability is a significant 
+barrier to financial access and prevents adults (many of whom are transacting frequently within 
+the informal sector) from accessing or using a formal financial product. Financial literacy as a 
+barrier to account ownership disproportionately affects more women than men. Roughly 85 
+percent of unbanked women reported not knowing how or where to open an account (as opposed 
+to 80 percent of men). 
+ 
+Other barriers to account access include not having enough money to transact or save. Roughly 
+66 percent of unbanked adults reported not having enough money to appropriately use financial 
+products or services. This often indicates that the respondents of the survey either did not think 
+that they had enough money which warranted traveling to, opening and using an account or that 
+the respondents did not have any cash left over after their daily expenses. However, of this 
+group, 68 percent report using informal financial services like Iddir or Equb to manage risks and 
+save. Therefore, there is a clear need to improve the levels of financial awareness and literacy 
+levels in Ethiopia. This includes better understanding of non-traditional collaterals, credit 
+reporting, and related financial opportunities. This will enable Ethiopian adults to be better 
+informed about the range of products and services available to them. In addition, it will help adults 
+understand how to open and use accounts, and how to take advantage of available formal financial 
+services to help improve their financial well-being. 
+ 
+2.3. 
+Financial awareness 
+Awareness of various financial products, services and concepts is pivotal to further enabling 
+financial access and inclusion.  Basic awareness of financial products and services is a prerequisite 
+to understanding and appropriately selecting the right financial tools to manage money and 
+mitigate risks. However, many Ethiopians are unaware of basic terms associated with available 
+financial products and services. Lack of awareness of financial products or delivery channels is 
+often due to low level of exposure and access to various financial institutions and services. 
+ 
+Overall Ethiopian women are less aware of financial terms than their male counterparts and may 
+require further targeting to improve their financial awareness. For example, 88 percent of male 
+ 
+ 
+8 
+ 
+respondents have heard or know about public banks, as compared to only 78 percent of women. 
+Roughly 79 percent of male respondents have heard or know about microfinance organizations, 
+compared to only 66 percent of women. Ethiopian women are also less likely to know how to 
+open an account or consider alternatives before selecting a financial product than men. This is 
+further pronounced among rural women, where only 27 percent know how to open an account 
+(as compared to 41 percent of men) and 34 percent report considering alternatives before selecting 
+a financial product (as compared to 41 percent of men). 
+ 
+Location is also a critical factor that correlates to levels of financial awareness, and rural adults are 
+less aware of financial terms than their urban counterparts. For instance, only 14 percent of rural 
+adults have heard or know about ATMs compared to 71 percent of their urban adult peers. A 
+similar pattern is observed with awareness of other access points like bank agents, money transfer 
+services, etc. For instance, only 34 percent of rural Ethiopians report knowing how to open an 
+account at a bank or MFI, while knowledge on account opening is indeed much higher among 
+urban adults (77 percent). 
+ 
+Lack of education is also a key factor in financial awareness. Roughly 79 percent of adults with 
+higher education are aware of ATMs as compared to only 22 percent with a primary education. 
+These factors are often compounded, as rural adults, particularly women, receive less educational 
+opportunities than their urban, particularly male, peers. 
+ 
+Figure 2.4 Awareness of Financial Terms 
+ 
+Source: World Bank Financial Capability Survey, Ethiopia - 2017 
+88% 
+79% 
+68% 
+65% 
+50% 
+29% 
+23% 
+22% 
+21% 
+78% 
+66% 
+57% 
+57% 
+41% 
+29% 
+22% 
+24% 
+19% 
+0%
+20%
+40%
+60%
+80%
+100%
+Public banks
+(like CBE)
+Microfinance
+organizations
+SACCOs
+Private banks
+Insurance
+companies
+Money
+transfer
+Mobile
+money
+agents
+ATM
+Bank agents
+% of Adults Aware of Financial Terms 
+Male
+Female
+Institutions 
+ 
+ 
+9 
+ 
+2.4. 
+Financial numeracy and literacy 
+As part of the National Financial Capability Survey, a financial literacy quiz was enumerated 
+to all respondents. In general, Ethiopian‟s demonstrate having a good foundation of financial 
+numeracy skills in some areas and correctly answered multiple financial numeracy questions 
+within the quiz. Roughly 71 percent of Ethiopian adults were able perform basic division, 
+and roughly 44 and 41 percent were able to demonstrate an understanding of discounting and 
+inflation. 
+ 
+Figure 2.5 Percentages of Adults Who Correctly Answered Financial Literacy Question Concepts 
+ 
+ 
+Urban, male adults, particularly those who were already formally banked, hold higher levels of 
+financial literacy than others. Women, on the other hand, displayed significantly lower financial 
+capability and knowledge than their male counterparts. Significant gender gaps in understanding 
+financial concepts emerged when answering various numeracy and financial literacy questions. 
+For instance, roughly 78 percent of male respondents can perform division while only 65 percent 
+of surveyed women can do the same. Similarly, 45 percent of men understand the concept of 
+inflation as compared to 38 percent of women. Figure 2.6 below demonstrates the gender divide in 
+understanding different financial concepts applied in a numeracy quiz and demonstrates that 
+across all topics women scored less than men. It is interesting to note, however, that the gender 
+gap is higher when quizzed on basic division (where many respondents had a broader range of 
+education levels – or even no education at all) but that the gender gap narrows as education 
+71% 
+44% 
+41% 
+16% 
+15% 
+0%
+20%
+40%
+60%
+80%
+Can do division
+Understands discounting
+Understands inflation
+Understands simple
+interest calculation
+Understands compound
+interest calculation
+ 
+ 
+10 
+ 
+levels increase, which is demonstrated by respondents who answer more difficult questions (like 
+discounting) correctly. 
+ 
+Figure 2.6 Understanding of Financial Concepts by Gender 
+ 
+ 
+ 
+ 
+Significant divides between urban and rural Ethiopians also persists when testing for financial 
+literacy and numeracy skills. For instance, 17 percent of rural adults were unable to answer any 
+financial literacy quiz questions administered through the national financial capability survey, as 
+compared to 9 percent of urban Ethiopians. Regional differences are also pervasive, as, for 
+instance, those in Tigray regions lag behind on this quiz – with only 33 percent and 40 percent 
+able to score above average (as opposed to 50 percent). Banked adults tend to have better 
+knowledge of basic financial concepts – 75 percent score above average on the financial literacy 
+quiz as compared to 53 percent of unbanked adults that score above average. This demonstrates 
+that a correlation exists between lack of exposure and usage of financial services and lower 
+financial literacy and numeracy levels. 
+ 
+ 
+ 
+ 
+11 
+ 
+17% 
+26% 
+30% 
+18% 
+9% 
+1% 
+9% 
+20% 
+27% 
+26% 
+16% 
+2% 
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+Didn't get any
+financial literacy quiz
+questions correct
+Got 1 financial
+literacy quiz question
+correct
+Got 2 financial
+literacy quiz
+questions correct
+Got 3 financial
+literacy quiz
+questions correct
+Got 4 financial
+literacy quiz
+questions correct
+Got 5 financial
+literacy quiz
+questions correct
+Rural
+Urban
+Figure 2.7 Financial Numeracy and Literacy 
+Source: World Bank Financial Capability Survey, Ethiopia - 2017 
+2.5. 
+Financial planning and money management 
+Budgeting is a basic strategy to manage one‟s finances to meet expenses and reach financial 
+goals. With respect to financial management, a little over half of surveyed Ethiopians report always 
+planning how their money will be spent, and only 42 percent always stick to their plan. A much 
+smaller percentage of adults actually keep track of their day-to-day spending (26 percent) and those 
+that are banked are more likely to keep exact track as compared to adults that are not formally 
+served. Adults that often stick to their plan or keep track of their day-to-day spending also tend to 
+score higher on the financial literacy quiz. 
+ 
+Almost all Ethiopians reported having a financial goal (94 percent). Some of the more important 
+goals are to build or upgrade their home (38 percent), start a business (16 percent) or invest in a 
+farm (15 percent). 91 percent of adult mention planning for their children‟s future as a financial 
+goal. Almost all Ethiopians plan for their children‟s education by providing them with an 
+education; this is quite consistent across gender, location, education and employment levels. 
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+ 
+Figure 2.8 Keeping Track of Expenses  
+Source: World Bank Financial Capability Survey, Ethiopia – 2017 
+2.6. 
+Learning preferences 
+Ethiopian adults demonstrate a large appetite for learning more about formal financial services. 
+Roughly 85 percent of Ethiopians indicate that they would like to learn more about services 
+provided by banks, MFIs, debit cards and mobile money. However, different population groups 
+also have different learning preferences. For instance, women and most rural adults prefer 
+learning about financial products through the local government office like their kebele officials. 
+Male respondents and urban adults reported a preference to learn through TV shows or 
+advertisements and agents sent by financial service providers. For rural adults, face to face 
+interactions were indicated as the preferred mode of education delivery at the local Kebele level, 
+followed by audio technologies. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+33% 
+27% 
+39% 
+23% 
+38% 
+38% 
+0%
+10%
+20%
+30%
+40%
+50%
+Exactly knows how much money their
+household has for day-to-day spending
+at the moment
+No idea of how much money their
+household has for day-to-day spending
+at the moment
+Rough idea of how much money their
+household has for day-to-day spending
+at the moment
+Keeping Track of Expenses 
+Banked
+Unbanked
+ 
+ 
+13 
+ 
+Figure 2.9 Learning Preferences by Urban and Rural Populations 
+Source: World Bank Financial Capability Survey, Ethiopia – 2017 
+2.7. 
+Sources of information 
+Most Ethiopians (90 percent) report seeking advice from their immediate social network before 
+making an important financial decision. However, men and women receive advice from different 
+sources. Roughly 59 percent of women report receiving financial advice specifically from their 
+spouse or partner, while men tend to rely more broadly on family and friends instead. 
+ 
+Mass media tools like radio adverts or mobile phones are commonly used in financial education 
+programs to raise awareness about money management. However, in Ethiopia, adoption of mass 
+media and using it as a platform for information differs by location and gender. Therefore, many 
+channels that policy makers typically leverage to provide financial messages or awareness may not 
+reach the Ethiopian populations that need it most. For instance, only 32% of rural women regularly 
+use a mobile phone and therefore mobile messaging campaigns may not reach them well.  
+However, those in rural areas and women report high usage of radio in addition to depending on 
+their community leaders for information, suggesting that radio programming is a good channel to 
+reach a national audience, including people living in remote rural areas. 
+43% 
+33% 
+10% 
+8% 
+2% 
+1% 
+1% 
+1% 
+11% 
+22% 
+5% 
+19% 
+28% 
+8% 
+4% 
+4% 
+Local govt. office (like kebele officials)
+Providers sending agents to their community
+Radio
+Mobile phones
+TV shows/advertisement
+Internet
+Books or comics
+Newspaper
+The percentage of adults that would like to learn more about 
+formal financial services prefer the following sources: 
+Urban
+Rural
+ 
+ 
+14 
+ 
+3. STOCK-TAKING OF KEY FINANCIAL EDUCATION PROGRAMS 
+To address low financial capability levels in Ethiopia, financial education programs were mapped 
+as part of this NFES. The stock-taking of key financial education programs helps identify 
+the range of current efforts and understand an approach for coordinating and building on past 
+efforts. In Ethiopia, most financial education activities are integrated into a more general 
+education initiative or coupled with the roll-out of a new financial service. The majority of 
+financial education programs is donor-supported, relatively small scale and implemented over a 
+limited time period13. 
+ 
+Financial education efforts in Ethiopia can be grouped into three broad categories, 
+ 
+i. Efforts by the financial sector to raise awareness among clients and provide financial 
+education to the general public; 
+ii. E f f o r t s  by the government at the national and regional levels to improve financial 
+education levels. This includes the addition of a Financial Education Team in the national 
+curriculum for grades 5 through 12 in the course on Civics and Ethical Education; 
+iii. Efforts led by non-profit or donor organizations to provide financial education through 
+various channels. Donor-driven initiatives for financial education are the most common 
+in Ethiopia. 
+A summary table of relevant financial education programs identified during the Ethiopian 
+Financial Education Mapping exercise is available in Annex 8. 
+ 
+3.1. 
+Donor-led financial education programs 
+Most financial education efforts in Ethiopia are donor-driven. There is an extensive network of 
+international organizations that provide financial education programs. These are usually as part 
+of a larger initiative and not necessarily specifically focused on financial education. 
+ 
+One of the efforts was driven by CARE Ethiopia, which had created 2,59114 Villages Economic 
+                                                          
+ 
+13   A mapping exercise of financial education programs in Ethiopia was conducted to inform development of the 
+National Financial Education Strategy. 
+14 GRAD: Graduating Out of Social Assistance And Into Long-Term Food Security (available at 
+https://www.care.org/wp-content/uploads/2020/05/GRAD-Brief_0.pdf) 
+ 
+ 
+15 
+ 
+and Social Associations having around 57,175 members that are enrolled in PSNP and educated 
+under GRAD15 program.   Similarly, YouthStart, an initiative launched by UNCDF in partnership 
+with MasterCard Foundation, aimed to increase access to financial services for low-income 
+youth with an emphasis on savings and financial education and coordinated with Ethiopia ACSI 
+and PEACE MFI to provide financial education to almost 280,000 youth. Such programs often 
+develop a wealth of pre-tested and relevant financial education content and tools, adapted to the 
+context of Ethiopia. These financial education experiences and materials can often be further 
+leveraged and adopted by other programs or government initiatives to reduce duplication or re- 
+inventing the wheel. 
+3.2. 
+Government-led financial education program 
+Ministry of Education 
+One of the few stand-alone financial education efforts in Ethiopia is the Ministry of Education‟s 
+effort to incorporate a Financial Education Team in the national school curriculum for students in 
+grades 5 through 12. This is taught as part of the Civics and Ethical Education course. The 
+Ministry of Education is also undergoing a curriculum review in 2018. With coordination from 
+donor-led financial education programs, the Ministry of Education in coordination with the NBE 
+may be able to improve their financial education curricula and materials by further aligning to 
+good practices, adopting relevant pre-tested content and understanding lessons learned from 
+other large-scale financial education initiatives. 
+ 
+Productive Safety Net Program 
+Ethiopia‟s Productive Safety Net Program (PSNP) established in 2005, is an unconditional cash 
+transfer program that reaches approximately 8 million households and includes a livelihood 
+training that provides financial education for beneficiaries. PSNP beneficiaries who participated 
+in the Livelihoods component under the Households Assets and Building Program (HABP) were 
+incentivized to attend financial literacy trainings. However, the livelihoods component ended in 
+2014 and many PSNP beneficiaries who are currently migrating to using mobile financial services 
+have not received extensive financial literacy trainings. One barrier to providing financial 
+education through the PSNP program is that there is no single financial institution, product or 
+                                                          
+ 
+15  Graduation with Resilience to Achieve Sustainable Development (GRAD) is a 5-year USAID funded project to help 
+the Government of Ethiopia find sustainable solutions to chronic food insecurity. 
+ 
+ 
+16 
+ 
+service that reaches all beneficiaries. This poses a challenge to developing a standard 
+programmatic approach to financial education delivery. 
+ 
+Federal Cooperative Agency 
+The Federal Cooperative Agency (FCA), which currently supervises and regulates nearly 20,000 
+SACCOs, support Kebele-level SACCOs and RuSACCOs and to provide financial education to 
+their respective members as well as community members. The program uses the HABP materials 
+(used within the PSNP program). Coordination with the FCA in this initiative will be critical to 
+successfully delivering financial education to rural Ethiopian adults, and the program can be 
+enhanced by incorporating lessons learned from other programs in this space and leveraging 
+additional materials. 
+3.3. 
+Financial sector programs 
+Some banks and MFIs offer financial education to their clients. For instance, ENAT bank has 
+developed financial education tools and financial literacy training targeted to women.  The 
+training is delivered at all branches of the bank and includes educational dramas and games- 
+based learning tools. Elements of such programs may be able to be standardized and encouraged 
+by all banks nationwide. In addition, as part of the PSNP program, banks and MFIs offer some 
+financial education when beneficiaries open an account to receive their cash disbursements 
+digitally. However, the provision of financial education, particularly to low-income consumers, 
+is not yet standardized in all banks or MFIs when an adult opens an account or gains access to 
+other services. The provision of guidelines extending the process of disclosure and encouraging 
+banks and MFIs to deliver key financial concepts and information to new customers at the point 
+of first interaction and account opening should be considered. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17 
+ 
+4. OVERARCHING CHALLENGES TO FINANCIAL EDUCATION 
+ 
+The level of financial inclusion in Ethiopia is around 35% (Findex Global survey of 
+2017). This has labeled Ethiopia among the countries with low level of financial inclusion. 
+Compared with peers in Sub-Saharan African countries like Kenya, Uganda, Rwanda, 
+Tanzania and the average of SSA that respectively registered 82%, 5 9 %, 50%, 47% and 
+43%, Ethiopia is lagging behind.  Low level of financial literacy and capability are among the 
+major overarching causes for the exclusion. Ethiopia Financial Capability Survey (2017) 
+indicated that roughly 82 percent of unbanked adults reported not owning an account due to a 
+financial literacy or awareness barrier and nearly 85 percent of unbanked women reported not 
+knowing how or where to open an account (as opposed to 80 percent of men). The NFIS has also 
+underscored the limited knowledge and awareness of adults, particularly in rural Ethiopia, about 
+the regulated financial institutions, which are among the strategic causes for low level of financial 
+inclusion in Ethiopia.  It further commends the need for conducting a national survey to gauge 
+more precisely the current status of financial capability in Ethiopia and then to design a national 
+strategy to coordinate effective priority measures to increase financial capability over time. 
+ 
+Major barriers in providing financial education in Ethiopia, therefore, can be summarized within 
+four overarching challenges: i/ Underdeveloped financial education infrastructure and limited 
+centers; ii/ Fragmented programs, modules and ineffective delivery channels; iii/ Unsustainable 
+dissemination and rollout; and iv/ Absence of coordination, monitoring and evaluation system. 
+4.1. 
+ Underdeveloped infrastructure and limited centers 
+Many adults do not have access to quality, strategically delivered financial education. The absence 
+of a well-designed national financial education infrastructure such as national strategy for 
+financial education, limited delivery centers, nationally responsible and coordinating body, 
+committed and dedicated working group are among the fundamental barriers to sustainably run the 
+programs in an organized manner. Lack of clearly identified education centers, clear guidelines 
+and procedures that help to steer the national financial education endeavors, among others, deter 
+the promotion of financial education in Ethiopia. The absence of fund dedicated to scale up certain 
+programs and support financial education centers in a planned and certain ways has its negative 
+consequence in the promotion of financial education at the national level.  
+ 
+ 
+18 
+ 
+4.2. 
+Fragmented programs, modules and ineffective delivery channels 
+Various but fragmented financial education programs have been carried out in the country by 
+different institutions: i) Government led: Ministry of Education, Federal Cooperative Agency, 
+Productive Safety Net Programs; ii) Non-for profit organizations led:  Such as CARE Ethiopia; 
+and iii) Financial institutions led: such as Enat Bank, ACSI, AEMFI, EBA. However, many of 
+these programs do not yet reach scale and their modules and delivery channels are inefficient, 
+ineffective and not sustainable in certain ways. 
+ 
+Consequently, they are unable to bring the required level of capability that helps to shape the 
+financial behavior of the people, particularly in rural Ethiopia. These programs and modules 
+need to be directed and coordinated to achieve the envisioned national financial education goals. 
+The absence of sharing best and effective practices among the current providers of the financial 
+educations has as well limits effective delivery and reaching the required level of scale at the 
+national level. 
+4.3. 
+Unsustainable dissemination and rollout 
+There is no clear policy, plan and procedure that direct the dissemination and rollout of financial 
+education even for programs that are currently running by many stakeholders.  This has impacted 
+negatively on the sustainability of many of the programs that have been started but unable to 
+continue.   These are partly due to the absence of defining clear responsibility to all stakeholders 
+who have vested interest on the financial education agenda of the country.  As leveraging on the 
+existing financial programs that have been running in the country alone cannot help to fully ensure 
+the achievement of the envisioned goals and outcomes, identifying new and potential human 
+resources is critically essential to sustainably disseminate and rollout the financial education 
+programs.   
+   
+Naturally, the financial education dissemination process requires rigorous efforts of various 
+stakeholders, which in some cases would be difficult to uphold without allocating fund for the 
+purpose.  The absence of Financial Education Fund (FEF) is, therefore, among the barriers to build 
+tenable nationwide infrastructure and access centers to financial education. 
+ 
+ 
+ 
+19 
+ 
+As indicated under section 4.2, various fragmented financial education programs are being carried 
+out in the country. Alignment of these programs with good practices that can leverage on well-
+tested modules and materials delivered at teachable moments would highly help to advance the 
+promotion of financial education in the country.  Moreover, designing financial education 
+programs and modules need to take into consideration of the priority focus groups such as women 
+and rural adults who are often lagging behind. 
+4.4. 
+Absence of coordination, monitoring and evaluation system 
+There is no system to coordinate track, monitor and evaluate financial education initiatives, 
+efforts, progresses and achievements of different stakeholders in the country. Consequently, it 
+becomes impossible to gauge changes and impacts in financial education thus far and have created 
+difficulty in making financial education programs sustainable. 
+ 
+As highlighted under section 4.2, there are various financial education programs running in the 
+country by different institutions. Some of these programs, however, are overlapping and 
+duplicating efforts and some are not efficient and effective.  As a result, the required level of 
+capability to shape and change the financial behavior of adults at the national level has not 
+been progressing well.  Most of the adults, particularly in rural Ethiopia, are excluded from 
+financial transactions due to lack of financial knowledge and skill. This has been shading its 
+negative influence on the promotion of financial inclusion, making well-informed financial 
+decisions by most adults, improving financial well-being and ultimately to alleviate poverty. 
+ 
+To realize the required level of change and impact, reinforcing, coordinating and directing the 
+financial education initiatives currently running in the country towards shared and common 
+national goals would help to achieve the ultimate objectives. Addressing these overarching 
+challenges is at the core of promoting financial education, increase financial literacy and bring   
+capability that in particular help marginalized and low income people, the rural adults and 
+women to change and shape their financial behavior and progressively enable them capable of 
+making well-informed financial transactions that would eventually support the achievement of the 
+financial inclusion targets set out in the NFIS. 
+ 
+ 
+20 
+ 
+5. NFES FRAMEWORK 
+There was no study that identifies financial education target groups at national level. Most of the 
+programs that have been running in the country particularly by NGOs are focusing on urban 
+areas and some small cities which are limited in scope and hence not accessible to most of the 
+adults in general and women in rural areas in particular. The Ethiopian capability survey in 
+2017, however, evidenced that rural adults and women should and need to be given utmost priority 
+and focus in financial education. 
+Given the low levels of financial capability in Ethiopia and the importance of financial education 
+and literacy in money management, account ownership and financial inclusion, the NBE is 
+establishing this National Financial Education Strategy. 
+ 
+5.1.NFES framework for action 
+ 
+Progress towards financial education requires a framework to underpin the NFES. The proposed 
+framework reflects the challenges and underlying issues identified and discussed in Section 3 
+and 4. 
+ 
+ 
+ 
+Figure 5.1: NFES Framework for Action 
+ 
+ 
+ 
+21 
+ 
+The NFES Framework for action calls for formulating and executing strategies to addressing the 
+overarching challenges discussed under section 4.  For effective implementation, the strategies 
+need to be grounded on and guided by clear purpose, vision, mission and objectives as assorted 
+below: 
+5.2.Rationale 
+ 
+This NFES intends to provide a cogent framework which establishes priorities, promotes smoother 
+and more sustainable cooperation between stakeholders, coordinates financial education initiatives 
+to avoid duplication and recommends a monitoring and evaluation mechanism to ensure progress 
+towards target goals. It also aims to further operationalize the National Financial Literacy Working 
+Group and other aspects of the National Financial Education Strategy. 
+ 
+The purpose of this National Financial Education Strategy is to provide a coherent, 
+institutionally coordinated and focused approach to financial education delivery that will 
+enhance the financial literacy levels and ultimately the financial capability of Ethiopians 
+5.3.Mission 
+The mission of the National Financial Education Strategy is: 
+To improve and increase the financial literacy and capability of adults, households and 
+enterprises through financial education, to enable them make informed financial 
+decisions.   
+5.4.Vision statement 
+The core vision of the National Financial Education Strategy is: 
+Ensure adults, households and enterprises in Ethiopia are capable of making well- 
+informed financial decisions and ultimately improving their financial transaction well-
+being by 2025. 
+5.5.Objectives 
+ 
+The identified objectives of the National Financial Education Strategy are to: 
+ Build a sustainable financial education access infrastructure; 
+ Design and implement effective education interventions modules to reach scale and 
+identify sustainable delivery channels for financial education; 
+ 
+ 
+22 
+ 
+ Establish sustainable governance mechanisms by identifying a lead coordinator to steer 
+and coordinate the effective effort of national financial education delivery; 
+ Define specific roles and responsibilities of each stakeholder and propose a process by 
+which stakeholders can maximize their use of available resources; 
+ Provide guidance and support stakeholders to perform their roles and responsibilities 
+through the development of a detailed implementation plan; and  
+ Provide a structured monitoring and evaluation framework to track progress and ensure 
+effective implementation of the NFES. 
+ 
+5.6.Main Strategies 
+Strategy 1: Build Robust National Financial Education Infrastructure 
+To effectively implement the National Financial Education Strategy, relevant governance 
+arrangements will need to be in place to provide for policy guidance and implementation 
+oversight, coordinate stakeholders consultation and efforts, and monitor and evaluate the eventual 
+impact of the strategy. These includes i) formulating a NFES; ii) formulating policy and 
+procedure for financial education; iii) establishing a financial education executing unit in the 
+proposed CPFED; iv) building a robust Financial Literacy Working Group; v) reinforcing on  the 
+existing access points  and creating new ones; and vi) creating Financial Education Fund that help 
+to run the programs sustainably. 
+ 
+Strategy 2:   Design and Implement Impactful National Financial Education Programs, 
+Modules and Channels 
+This National Financial Education Strategy encourages enhancing efforts to reach marginalized   
+populations left behind the current programs. According to the 2017 Financial Capability survey, 
+rural and female Ethiopians are not yet adequately reached by financial education efforts or 
+formal financial services more broadly and are lagging behind national financial inclusion and 
+capability levels. Therefore, there is a clear need to prioritize and strengthen financial education 
+initiatives and aggressively strategize to reach rural adults and women. Other target populations, 
+such as low-income urban adults, children and youth, will continue to remain as key target groups. 
+ 
+ 
+ 
+ 
+23 
+ 
+For all programs, a thorough assessment of the target population and their needs is crucial to 
+designing effective and impactful financial education programs, modules and channels that in 
+turn facilitate implementation, tracking and corrective intervention measures in a timely manner. 
+In addition, programs should be formulated and delivered in a such way that leverage teachable 
+moments and good practices that have been proven to work globally, particularly in the context 
+of already existing financial services available to the people.  This strategy calls for financial 
+education programs to be specifically designed to bring impact which is backed by evidence. It is 
+also important to note that programs should be designed within the context of key 
+stakeholders/institutions mandate, and within the context of financial services that already exist 
+within the lives of beneficiaries. Programs that are not within the reach of the already-existing 
+programs or mandate, or that provide awareness or education around products and services that 
+do not yet exist or fit for the target tend to be less successful as learned from good international 
+practices.   
+ 
+For the target groups, therefore, the necessary programs (women, rural adults, youth and 
+children) and modules (saving, credit, insurance, pension, payment, budget etc) together with the 
+appropriate delivery channels would be designed.   Guidelines that give direction to the providers 
+will also be developed and periodically reviewed to ensure effective delivery of the programs 
+ongoing basis. 
+ 
+Strategy 3: 
+Sustainable Dissemination and Rollout to Reach Scale 
+Financial capability levels among Ethiopians will continue to remain limited if sustainable and 
+effective programs are not disseminated and rollout to those that need it most. Many social and 
+government programs are currently providing financial services to many beneficiaries or 
+consumers, and these programs can be leveraged to provide education appropriately at scale. This 
+can also include leveraging financial service providers to provide targeted financial education to 
+new customers and marginalized populations as feasible. 
+ 
+Therefore, formulating national financial education programs together with the necessary 
+modules, delivery channels and setting suitable centers for the trainees help to build and bring the 
+required level of financial capability to reach out scale. These should be supported and tasked 
+ 
+ 
+24 
+ 
+with clear plan for dissemination and rollout taking into consideration of each of the specific 
+programs, modules and delivery channels. 
+   
+Strategy 4: Build and Implement Effective Coordination, Monitoring and Evaluation System 
+In Ethiopia, already there exist several financial education programs that have been successful, 
+and the knowledge and materials within these programs can potentially be leveraged and 
+customized by new stakeholders to further and better design impactful programs. Therefore, 
+strong coordination across various financial education programs and related stakeholders will 
+help to promote knowledge sharing that includes good practices, insights, materials and lessons 
+learned that can be used by other providers.  
+ 
+In view of the foregoing, coordination of stakeholders‟ commitment and cooperation will be 
+critical to providing financial education that would bring impact and help to achieve the goals of 
+the NFES. Stakeholders should commit to contributing to the NFES targets and goals by 
+integrating financial education content, core messages or programs within their current activities 
+and reporting progress over time. 
+ 
+The processes of coordination, monitoring and evaluation require building an internal tracking 
+system to identifying key stakeholders, registering their initiatives and targets track their 
+progresses against standards that should be set out.  Moreover, this process helps to align the 
+current active programs and initiatives with the national programs, modules and goals of the 
+NFES. 
+ 
+Overall, effective coordination across stakeholders and monitoring and evaluation will be key to 
+helping ensure programs are aligned to national goals, scaling-up successful programs, sharing 
+learning or good practices among key public and private stakeholders, and monitoring and 
+reporting national progress over time.  To effectively carry out the monitoring and evaluation 
+tasks of the financial education at the national level, among others, data infrastructure and 
+tracking system will be designed and implemented. Rigorous testing and evaluation of programs 
+prior to rollout will also be carried out ongoing basis.  (The full content of monitoring and 
+evaluation system is discussed under Section 7). 
+ 
+ 
+25 
+ 
+5.7.    Financial education targets 
+As part of Ethiopia‟s Financial Education Results Framework, high-level KPIs to monitor and 
+evaluate financial education progress towards the achievement of the strategy has been 
+established. The high-level financial education indicators and targets were designed to be 
+achievable, but ambitious. The indicators were selected as being feasible to be collected and 
+reported over time, and were informed by an analytic and consultative process. The indicators 
+intend to both monitor and communicate overall progress towards policy objectives. 
+ 
+Multiple stakeholders, financial service providers and government institutions with programs 
+related to the provision of financial services or financial education can commit to their own 
+institutional targets which contribute to national goals of the NFES.  The targets below will help 
+to monitor the impact of financial education efforts on financial capability throughout the nation. 
+ 
+The Financial Education National Results framework will also leverage the financial inclusion 
+strategy indicators to monitor improvements in general financial inclusion, including access to 
+loans, insurance and other financial services as well as activity of accounts. The framework will 
+also leverage the NFIS supply-side data indicators to measure performance in the interim. Since 
+financial capability plays a critical role in the uptake and usage of formal financial services, 
+increases in financial inclusion can indicate both contributions from and improvements of 
+financial capability at a national level. Although there is no clear way to separate the contribution 
+of financial education to overall financial inclusion at a national level using supply-side data, 
+supply-side statistics will still provide an overview of the progress of the financial sector. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+26 
+ 
+a) Demand side targets 
+Table 5.1 Demand Side R e s u l t s  Framework 
+Indicator 
+Priority 
+area 
+Baseline 
+2017 
+2021 2022 2023 2024 2025 
+1. Awareness of financial products and 
+service(average scores)16 
+All 
+4717 
+57 
+61 
+66 
+70 
+7518 
+Female 
+44 
+51 
+53 
+56 
+59 
+62 
+Rural 
+Adults 
+ 
+41 
+51 
+55 
+60 
+64 
+70 
+2. Percentage 
+of 
+adults 
+reporting 
+they know exactly how much 
+money their household has  for  
+day-to-day spending 
+All 
+26 
+29 
+30 
+31 
+32 
+33 
+Female 
+28 
+31 
+32 
+33 
+35 
+36 
+Rural 
+Adults 
+25 
+29 
+31 
+32 
+34 
+36 
+3. Percentage of adults that know how 
+to open an account 
+All 
+41 
+53 
+57 
+62 
+68 
+74 
+Female 
+37 
+46 
+49 
+53 
+56 
+61 
+Rural 
+Adults 
+34 
+45 
+49 
+53 
+58 
+64 
+4. Percentage  of  adults  who  report 
+having an  account  at  a  bank  or 
+another type of  financial institution 
+All 
+35 
+45 
+49 
+54 
+59 
+64 
+Female 
+29 
+39 
+42 
+47 
+51 
+56 
+Rural 
+Adults 
+32 
+43 
+47 
+52 
+58 
+63 
+5. Percentage of adults saving at a 
+formal financial institution 
+All 
+26 
+30 
+31 
+33 
+35 
+36 
+Female 
+20 
+24 
+26 
+27 
+29 
+31 
+Rural 
+Adults 
+25 
+29 
+30 
+31 
+33 
+34 
+6. Percentage of adults that save for 
+old age 
+All 
+9 
+10 
+10 
+11 
+11 
+12 
+Female 
+6 
+7 
+7 
+7 
+7 
+8 
+Rural 
+Adults 
+9 
+11 
+11 
+12 
+13 
+13 
+ 
+Source: World Bank Financial Capability Survey, Ethiopia – 2017, World Bank Findex database, 2017 
+ 
+ 
+ 
+b) Supply side targets 
+The National Financial Education Strategy, through various efforts and effective stakeholder 
+commitment, will aim to provide effective financial education to around 12 million adults 
+with a view to bring the total to 49million19 adults by 2025. 
+                                                          
+ 
+16 To calculate the average score, the methodology includes taking the most known financial products and 
+services (saving, credit, payment, insurance, pension etc..), and weighting each term as “1” and taking the 
+percentage mean average of adults who report being able to understand each term. 
+17 B a s e li n e : World Bank Financial Capability Survey 2017 is the latest demand side data, which is used as proxy to 
+forecast 2025 targets 
+18 Estimated based on demand side target set in the NFIS 
+19 The target for supply side indicator is determined as 80% of 55% of adult population which is projected to 
+be 112mln in 2025. 
+ 
+ 
+27 
+ 
+Table 5.2: Supply Side R e s u l t s  Framework 
+Indicator 
+Baseline 
+2017 
+2021 2022 2023 2024 2025 
+Number of adult population attended financial  
+education programs (In million) 
+37 
+39 
+41 
+44 
+47 
+49 
+ 
+Although some questions could be raised on the quality and nature of the financial literacy training 
+due to lack of consistency, standardization and focus, currently more than 35 million adults have 
+received financial education and awareness in some form:  During account opening, in the course 
+of using the account, though advertisements (advocacy) and general delivery of financial education 
+by microfinance institutions, banks, self-initiated NGOs and Ministry of Education. This includes 
+around 22 million members of cooperatives, 8 million PSNPs beneficiaries and around 17 million 
+under adult education program of the Ministry of Education.   Considering a 20% overlapping on 
+the trainings under all schemes, we consider at least 37million adults have received one or another 
+form of financial education.  This serves as base line for 2020.  Over the course of the strategy 
+period, therefore, it is envisioned to provide financial education for around 12 million adults. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+28 
+ 
+6. COORDINATION AND INSTITUTIONAL ARRANGEMENTS OF THE STRATEGY 
+6.1.Linkages with NFIS governance structure 
+To advance financial inclusion in Ethiopia, the NFIS called for the establishment of a multilevel 
+structure comprised of relevant authorities and actors. The structure comprises of: 
+a. The National Council for Financial Inclusion;   
+b. The National Financial Inclusion Steering Committee; 
+b.   The National Bank of Ethiopia; 
+c.   The Financial Inclusion Secretariat (FIS) – housed at the National Bank of Ethiopia; and 
+d.   coordinators, including   a „Consumer   Protection   and   Financial   Education 
+Coordinator‟.  
+ 
+This strategy will leverage existing NFIS structures to the extent possible. 
+ 
+6.2.Policy guidance and implementation oversight 
+The National Council for Financial Inclusion, which provides overall policy guidance relevant to 
+the National Financial Inclusion Strategy, will be leveraged for the National Financial Education 
+Strategy to help ensure that financial education remains a key policy priority in respective 
+instructions, as per the financial inclusion strategy. In addition, the steering committee will also 
+help oversee the implementation of the National Financial Education Strategy, receive regular 
+updates and provide guidance and oversight to course correct as needed. 
+6.3. Stakeholders coordination and consultation 
+The Consumer Protection and Financial Education Working Group, established after the launch of 
+the NFIS, will be leveraged to serve as a consultation and implementation forum for the Financial 
+Education Strategy efforts. New members of the working group should be introduced and include 
+decision-makers from a wide range of institutions, including stakeholders from the public, 
+private and civil society sectors. Since a range of government entities and private sector 
+players deliver financial education, these stakeholders are critical to be included within the 
+working group to enhance financial education efforts. In addition, stakeholders from civil societies 
+that currently conducting large-scale financial education efforts should be represented in the 
+Working Group as well to support new efforts and share their experiences and success. 
+ 
+ 
+29 
+ 
+The Working Group should be fluid in nature such that it can assign tasks to its members for 
+implementation and can sometimes form sub-groups or task forces to implement the financial 
+education agenda accordingly. 
+6.4.Consumer Protection and Financial Education Directorate (CPFED)  
+This strategy calls for the establishment of a dedicated CPFED. The Directorate should be 
+comprised of three teams: (i) Financial Consumer Protection Regulation and Supervision Team; ii) 
+Compliant Handling Team; and (iii) Financial Education Team. 
+Integrating the actions of these teams under one directorate help to leverage and complement to the 
+efficient and effective execution that would eventually lead scale of operation and to the 
+achievement of the targets set out in this strategy and the overarching goal of the NFIS.  
+ 
+Consumer Protection and Financial Education Directorate together with the working group should 
+be responsible for ensuring the implementation of the NFES. To do so, the Working Group should 
+convene at least quarterly, and, under its mandate, should: 
+i.         help finalize the NFES; 
+ii. 
+provide input into the selection and development of NFES actions over time; 
+iii.       help develop granular action plans and roadmaps to achieve the ultimate goal; and 
+iv. 
+coordinate with the NBE on the implementation of actions assigned to each member 
+and lead institutions as needed. 
+ 
+The Financial Consumer Protection Regulation and Supervision Team, Compliant Handling Team 
+and Financial Education Team would be structured, as stated herein below (Figure 6.1), under the 
+proposed CPFED and leverage and complement each other to provide for the day-to-day 
+administrative, coordination, and M&E functions to support the implementation of the National 
+Financial Education Strategy. The Financial Education staff of the team should include: 
+i. 
+Principal Financial Education Coordinator who will lead the financial 
+education agenda and the execution of the NFES;  
+ 
+ii. 
+Senior 1 and Senior 2 Financial Education Specialists who will support 
+technically the activities of the unit, help to prepare recommendations for the 
+ 
+ 
+30 
+ 
+Working Group, coordinate across stakeholders to enable mutual support and 
+learning, and provide technical support to relevant stakeholders to develop and 
+implement new programs or improve / scale up existing initiatives. In addition, 
+specialists should consistently keep track of new trends, research, and maintain a 
+registry or stock-taking of key programs in Ethiopia, along with their reach and 
+impact; 
+ 
+iii. 
+Monitoring and evaluation specialist who will track financial education progress 
+at 3 levels: (i) the action level to monitor progress in the implementation of 
+financial education programs; (ii) the outcome level to evaluate the success of 
+financial education programs; and (iii) the national level to measure national 
+progress (often through surveys) of the financial literacy framework and strategy. 
+To do so, the M&E coordinator will also provide support to relevant working group 
+members to integrate key indicators and M&E frameworks to track basic financial 
+education information at a programmatic level. 
+ 
+iv.  
+Administrative staff to support the work of the Financial Education specialists 
+under the leadership of the Director of the CPFED. 
+ 
+The staff of the Financial Education Team should work closely with FIS. Once established, the 
+Financial Education Team should focus on the technical aspects of implementing the National 
+Financial Education Strategy. The Directorate also should lead the coordination, communication 
+and convening efforts (particularly with the Working Group) in the context of the NFIS, and act as 
+the intermediary between the Directorate and the FIS, including reporting the progresses. 
+ 
+Until such time of establishing a dedicated directorate to lead, coordinate and implement the 
+foregoing actions in a more planned and focused manner, financial education, financial consumers 
+protection and complaint handing affairs will be carried out by respective supervision directorates 
+of the National Bank of Ethiopia.  The possible future structure of the directorate is also indicated 
+in figure 6.1 herein below.   
+ 
+ 
+31 
+ 
+6.5. The financial inclusion secretariat 
+The Financial Inclusion Secretariat, which is mandated to provide day-to-day administrative, 
+coordination and M&E functions for the National Financial Inclusion Strategy, will work in 
+coordination with the CPFED to monitor the efforts of the National Financial Education Strategy 
+and report progress to the Financial Inclusion Steering Committee, as per the governance 
+arrangements stated within the NFIS. 
+ 
+Until the Consumer Protection and Financial Education Directorate is established and operational, 
+the Financial Inclusion Secretariat should assume the convening functions of coordinating, 
+monitoring and evaluating the implementation of the Financial Education Strategy in the interim. 
+6.6.Reporting and communicating progress  
+The Consumer Protection and Financial Education Directorate will provide quarterly and ad hoc 
+reports to FIS, as well as to the Financial Literacy Working Group. The Financial Inclusion 
+Secretariat will be responsible for updating the Financial Inclusion Steering Committee on all 
+progress with NFES implementation as it relates to the Financial Inclusion Strategy. In order to 
+provide additional information and awareness on financial products and services and to report the 
+progress of financial education efforts to the general public, detailed communication strategies will 
+be formulated and made part of the monitoring and evaluation framework of CPFED. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+32 
+ 
+Figure 6.1: Financial Education Strategy Reporting Structure 
+ 
+ 
+ 
+    ……                 …….…….. 
+ 
+ 
+… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+……………………………….…………… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+National Council for 
+Financial Inclusion 
+National Bank of 
+Ethiopia 
+ 
+Financial 
+Education Team 
+Compliant Handling 
+Team 
+Financial 
+Consumer 
+Protection Regulation 
+and Supervision Team 
+Consumer 
+Protection 
+National Financial 
+Inclusion Steering 
+Committee 
+Financial Institutions 
+Supervision 
+Consumer Protection 
+and Financial Education   
+Directorate 
+Consumer Protection 
+and Financial Education 
+Working Group 
+ 
+ 
+ 
+33 
+ 
+6.7.Funding 
+A flexible approach to funding sources should be considered to fund selected financial education 
+actions. Together with the Financial Literacy Working Group, the Financial Education Team of the 
+CPFED should help gain consensus on which funding model to utilize for its activities. Depending 
+on the actions adopted, NBE may consider various funding options and approaches to support the 
+implementation of the National Financial Education Strategy actions including, but not limited to: 
+ Self-funding: A lead organization funds its own financial education program(s) if it is 
+under its mandate; 
+ 
+A private sector players might pay for a program from its own internal 
+resources; 
+ 
+A public agency or ministry might pay for a program through a budget line 
+item or the reallocation of budgeted funds20; 
+ 
+ Donors funding: There are several donors that may be interested in supporting 
+financial education activities in Ethiopia. Once the planned, donor round-table for 
+Financial Inclusion is established and operational, the group can be leveraged to fund 
+selected financial education activities; 
+ 
+ Pooled funding: A group of organizations pool funds to fund a program.  
+Funds 
+might come from a combination of private, public, and civil society 
+organizations to fund the efforts of one or more organizations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                          
+ 
+20 One caveat regarding this source is that delays in the approval of an organization‟s budget can result in 
+delays in the implementation of a new public program 
+ 
+ 
+ 
+34 
+ 
+7. MONITORING AND EVALUTAION (M&E) 
+An effective NFES requires a robust and well-planned M&E framework to enable stakeholders 
+to track progress, identify bottlenecks and measure impact on overall and priority populations. The 
+M&E framework is designed to track progress against the objectives, activities and outputs 
+outlined in the action plan to enable informed decisions on whether resources are being utilized 
+effectively. 
+The measurement of progress towards financial education objectives set out by this Financial 
+Education Strategy requires a monitoring and evaluation (M&E) system that is well-resourced, 
+well-coordinated and accepted among the NFIS governance arrangements and related stakeholders. 
+The Financial Education M&E system will comprise of four elements: 
+ Data infrastructure which provides relevant and reliable financial education data to 
+comprehensively assess financial education reach and growth in financial 
+capability over time. 
+ A Financial Education results framework that establishes key targets aligned with 
+the policy objectives of the NFES for tracking; 
+ Action plan tracking system and reporting mechanisms that track the execution and 
+outcomes of actions of the strategy to ensure that implementation is on track; and 
+ Support the rigorous testing and evaluation of financial education actions and 
+programs to ensure the efficiency, effectiveness, and impact of financial education 
+actions. 
+7.1.Data infrastructure 
+To measure progress of the financial education strategy and related actions, the Financial 
+Education Team will be tasked with ensuring the following types of data are available as it 
+pertains to the Financial Education Strategy: 
+ 
+Demand-side data to measure and report on the Financial Education Results 
+Framework. The Financial Education Team may need to integrate key financial 
+education and capability indicators into the Ethiopian Socio-Economic household 
+survey periodically carried out by the Central Statistics Agency; 
+ 
+ 
+ 
+35 
+ 
+ 
+Supply-side data, including high-level KPIs or national goals and targets, 
+collected by the NBE originally from providers of financial services and financial 
+education programs to understand potential impacts of enhanced financial 
+educational efforts; 
+ 
+ 
+Action-level data collected by programs relevant to financial education 
+actions to monitor and track the progress and reach of financial education efforts 
+in Ethiopia. 
+7.2.Financial education results framework21 
+The Financial Education National Results framework will also leverage the financial inclusion 
+strategy indicators to monitor improvements in general financial inclusion, including access to 
+loans, insurance and other financial services as well as activity of accounts. The framework will 
+also leverage the NFIS supply-side data indicators to measure performance in the interim. Since 
+financial capability plays a critical role in the uptake and usage of formal financial services, 
+increases in financial inclusion can indicate both contributions from and improvements of financial 
+capability at a national level. Although there is no clear way to separate the contribution of 
+financial education to the overall financial inclusion at a national level using supply-side data, 
+supply-side statistics will still provide an overview of the progress of the financial sector. 
+7.3.Action plan tracking system 
+The Financial Education Team will be tasked with developing (in coordination with Financial 
+Literacy Working Group members) steps to appropriately monitor action plans and their progress, 
+which can also be used as Key Performance Indicators. As far as possible, the Financial Education 
+Team should be responsible to put in place a log frame that clearly lays out how the action and 
+program intends to generate outputs that will in turn yield program outcomes. Such outputs and 
+outcomes, which should be reported by implementing institutions or the working groups themselves, 
+can be leveraged as performance indicators to measure progress of the Financial Education strategy. 
+                                                          
+ 
+21 Ethiopia‟s Financial Education results framework establishes high-level KPIs to monitor financial education 
+progress towards the achievement of the strategy. The high-level financial education indicators and targets were 
+designed to be achievable, but ambitious. The indicators were selected as being feasible to be collected and reported 
+over time, and were informed by an analytic and consultative process.  The indicators intend to both monitor and 
+communicate overall progress towards policy objectives. 
+ 
+ 
+ 
+36 
+ 
+The Financial Education Team will be mandated to develop, maintain and track progress of financial 
+education actions and related programs, and monitor a set of outputs and outcomes to ensure that 
+implementation of financial education actions is on track. 
+7.4.Rigorous testing and evaluation 
+There is a need for a more coordinated approach to rigorously test and evaluate financial education 
+programs prior to national rollout. The Financial Education Team can support and encourage 
+efforts for financial education programs to effectively monitor and evaluate the reach, efficacy and 
+impact of ongoing programs. In addition, the Team can help coordinate and oversee the integration 
+of rigorous testing or evaluations within financial education programs to assess their impact, share 
+insights and scale up resources for effective financial education programs more efficiently. 
+7.5.Reviews 
+A mid-term review of NFES implementation, based on action plan progress and progress towards 
+headline targets, should be conducted at the end of 2023 to take stock of progress and identify 
+new challenges and opportunities associated with the action plan. Based on findings from the 
+review, the NFES will be reassessed to identify new action items or corrective measures through a 
+consultative process. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+37 
+ 
+8. PRIORITY ACTIONS 
+The National Financial Education Strategy should be a living document that prioritizes only a 
+few actions at a time and includes flexibility for reassessment to periodically identify new 
+actions and next steps. The rationale behind this method is based on a need to consistently (i) focus 
+efforts on a few, core, impactful actions; (ii) continuously align efforts to international good 
+practices; and (iii) continuously refocus actions and priorities over time, based on the needs of an 
+evolving market. Therefore, the strategy should allow for a mid-term review based on which 
+implementation of the strategy will be reviewed to refocus efforts and ensure its relevance. 
+ 
+The NFES prioritizes as assorted under Annex 1, based on the NFES Framework for Action, which 
+should be implemented with core financial education good principles in mind (see Annex 6). The 
+actions aim to first develop institutional capacity and infrastructure to spearhead the 
+implementation of the NFES, then to build and integrate effective financial education initiatives 
+into core national efforts.  Detailed implementation plans should be facilitated by the CPFED and 
+developed with the Financial Literacy Working Group. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+38 
+ 
+ANNEXES  
+Annex 1: Financial Literacy Implementation Action Plan 
+ 
+No. 
+Action 
+Responsible body 
+2021 
+2022 2023 2024 2025 
+Strategic Pillar 1: Build National Financial Education Infrastructure  
+1 
+Develop National Financial 
+Education strategy 
+NBE 
+ 
+ 
+ 
+ 
+ 
+2 
+Establish a financial education 
+team to coordinate, monitor 
+and evaluate financial 
+education efforts 
+NBE 
+ 
+ 
+ 
+ 
+ 
+3 
+Reconstitute a Financial 
+Literacy Working Group 
+NBE 
+ 
+ 
+ 
+ 
+ 
+4 
+Establish   fund for the 
+implementation of the strategy 
+NBE  ,Working 
+group 
+ 
+ 
+ 
+ 
+ 
+5 
+Develop guideline for 
+financial education providers 
+NBE, 
+Working 
+group 
+ 
+ 
+ 
+ 
+ 
+Strategic  Pillar  2:     Design  and  Implement  Impactful  National  Financial Education 
+Programs, Modules and Channels 
+Program: 
+Women 
+6 
+Develop TOR to design the 
+necessary modules for saving, 
+credit, 
+insurance, 
+pension, 
+payment, 
+DFS, 
+budget 
+etc…and  delivery  channels  
+for 
+financial 
+education 
+of 
+women 
+NBE, FCA, CBE, 
+EIC, 
+AEMFI, 
+EBA, EIA, 
+Enat 
+Bank, 
+FSMMIPA, 
+FeUJC& 
+FSA, 
+MWCY, 
+CARE 
+Ethiopia 
+ 
+ 
+ 
+ 
+ 
+7 
+Develop 
+and 
+standardize 
+financial educational materials       
+and modules for saving, credit, 
+insurance, pension, payment, 
+DFS, budget etc. 
+NBE, FCA, CBE, 
+EIC, 
+AEMFI, 
+EBA, EIA, 
+Enat 
+Bank, 
+FSMMIPA, 
+FeUJC& 
+FSA , 
+MWCY, 
+CARE 
+Ethiopia. 
+ 
+ 
+ 
+ 
+ 
+8 
+Develop 
+and 
+standardize 
+financial educational channels 
+NBE, FCA, CBE, 
+EIC, 
+AEMFI, 
+EBA, EIA, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+39 
+ 
+No. 
+Action 
+Responsible body 
+2021 
+2022 2023 2024 2025 
+Enat 
+Bank, 
+FSMMIPA, 
+FeUJC& 
+FSA, 
+MWYC, 
+CARE 
+Ethiopia 
+Program : Rural Adults 
+9 
+Develop TOR to design the 
+necessary modules for saving, 
+credit, 
+insurance, 
+pension, 
+payment, DFS, budget etc and 
+delivery channels for financial 
+education of rural adults. 
+NBE, 
+FCA,AEMFI,  
+MoA, ATA,CARE 
+Ethiopia 
+ 
+ 
+ 
+ 
+ 
+10 
+Develop 
+and 
+standardize 
+financial educational materials       
+and modules for saving, credit, 
+insurance, pension, payment, 
+DFS, budget etc. 
+NBE, 
+FCA, 
+AEMFI, 
+MoA  
+ATA, 
+CARE 
+Ethiopia 
+ 
+ 
+ 
+ 
+ 
+11 
+Develop 
+and 
+standardize 
+financial educational channels 
+NBE, 
+FCA, 
+AEMFI, 
+MoA,  
+ATA, 
+CARE 
+Ethiopia 
+ 
+ 
+ 
+ 
+ 
+Program: 
+Youth and MSMEs 
+12 
+Develop TOR to design the 
+necessary modules for saving, 
+credit, 
+insurance, 
+pension, 
+payment, DFS, budget etc. and 
+delivery channels for financial 
+education 
+of 
+youth 
+and 
+MSMEs. 
+NBE, FCA, CBE, 
+EIC, 
+AEMFI, 
+EBA, EIA, 
+ACSI 
+MFI, 
+PEACE 
+MFI, 
+FSMMIPA, 
+FeUJC& 
+FSA,  
+MWCY 
+ 
+ 
+ 
+ 
+ 
+13 
+Develop 
+and 
+standardize 
+financial educational materials       
+and modules for saving, credit, 
+insurance, pension, payment, 
+DFS, budget etc… 
+ 
+ 
+ 
+ 
+NBE, FCA, CBE, 
+EIC, 
+AEMFI, 
+EBA, EIA, 
+ACSI 
+MFI, 
+PEACE 
+MFI, 
+FSMMIPA, 
+FeUJC& 
+FSA,  
+MWCY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+40 
+ 
+No. 
+Action 
+Responsible body 
+2021 
+2022 2023 2024 2025 
+14 
+Develop 
+and 
+standardize 
+financial educational channels 
+NBE, FCA, CBE, 
+EIC, 
+AEMFI, 
+EBA, EIA, 
+ACSI 
+MFI, 
+PEACE 
+MFI, 
+FSMMIPA, 
+FeUJC& 
+FSA,  
+MWCY 
+ 
+ 
+ 
+ 
+ 
+Program: Targeted General Public  
+15 
+Develop TOR to design the 
+necessary modules for saving, 
+credit, 
+insurance, 
+pension, 
+payment, 
+DFS, 
+budget 
+etc…and  delivery  channels 
+for 
+financial 
+education 
+of 
+targeted general public 
+NBE, 
+relevant 
+working 
+group, 
+relevant 
+key 
+stakeholders 
+ 
+ 
+ 
+ 
+ 
+16 
+Develop 
+and 
+standardize 
+financial educational materials 
+and modules for saving, credit, 
+insurance, pension, payment, 
+DFS, budget etc. 
+NBE, 
+relevant 
+working 
+group, 
+relevant 
+key 
+stakeholders 
+ 
+ 
+ 
+ 
+ 
+17 
+Develop 
+and 
+standardize 
+financial educational channels 
+NBE, 
+relevant 
+working 
+group, 
+relevant 
+key 
+stakeholders 
+ 
+ 
+ 
+ 
+ 
+Program: 
+Schools 
+18 
+Develop TOR to design the 
+necessary modules for saving, 
+credit, 
+insurance, 
+pension, 
+payment, 
+DFS, 
+budget 
+etc…and delivery channels for 
+financial education of school. 
+NBE, 
+MoE, 
+AEMFI,EBA,EIA 
+ 
+ 
+ 
+ 
+ 
+19 
+Develop 
+and 
+standardize 
+financial educational materials       
+and modules for saving, credit, 
+insurance, pension, payment, 
+DFS, budget etc… 
+NBE, 
+MoE, 
+AEMFI,EBA,EIA 
+ 
+ 
+ 
+ 
+ 
+20 
+Develop 
+and 
+standardize 
+financial educational channels 
+NBE, 
+MoE, 
+AEMFI,EBA,EIA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+41 
+ 
+No. 
+Action 
+Responsible body 
+2021 
+2022 2023 2024 2025 
+Program :Financial Literacy Week  
+21 
+Develop TOR to coordinate 
+annual financial literacy week 
+targeted different consumer 
+groups of the population. 
+NBE, 
+relevant 
+working 
+group, 
+relevant 
+key 
+stakeholders 
+ 
+ 
+ 
+ 
+ 
+22 
+Carry 
+out 
+the 
+necessary 
+preparation and coordination 
+work for the literacy week. 
+NBE, 
+relevant 
+working 
+group, 
+relevant 
+key 
+stakeholders 
+ 
+ 
+ 
+ 
+ 
+Strategic Pillar 3:  
+Dissemination and Rollout to Reach Scale 
+23 
+Identify effective and key 
+providers. 
+NBE 
+ 
+and 
+responsible bodies 
+(lead institutions ) 
+of 
+respective 
+financial education 
+programs  
+ 
+ 
+ 
+ 
+ 
+24 
+Train trainers (TOT) 
+ 
+ 
+ 
+ 
+ 
+25 
+Select the program, module(s) 
+and channel(s). 
+ 
+ 
+ 
+ 
+ 
+26 
+Identify the target group and 
+their specific location. 
+ 
+ 
+ 
+ 
+ 
+27 
+Disseminate or rollout the 
+actual education. 
+ 
+ 
+ 
+ 
+ 
+Strategic pillar 4:      Build and Implement Effective Coordination, Monitoring and 
+Evaluation System 
+Establish and implement the NFES M & E system and reporting cycle 
+28 
+Assign a dedicated team within 
+the proposed CPFED. 
+NBE 
+ 
+ 
+ 
+ 
+ 
+29 
+Map periodically and register 
+all 
+financial 
+education 
+initiatives in Ethiopia ongoing 
+basis. 
+ 
+ 
+ 
+ 
+ 
+30 
+Develop 
+internal 
+tracking 
+systems. 
+ 
+ 
+ 
+ 
+ 
+31 
+Develop and maintain supply 
+and 
+demand 
+side 
+data 
+collection templates. 
+ 
+ 
+ 
+ 
+ 
+32 
+Collect 
+information 
+periodically, 
+analyze 
+and 
+prepare reports. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+42 
+ 
+No. 
+Action 
+Responsible body 
+2021 
+2022 2023 2024 2025 
+Knowledge   Sharing through series of learning events 
+33 
+Conduct a series of learning 
+events for banks and micro 
+finance 
+institutions 
+and 
+technological service providers 
+on innovative digital financial 
+services, to share knowledge 
+and increase their capacity to 
+develop sustainable business 
+models and suitable products 
+and services. 
+NBE,EBA, 
+AEMFI 
+ 
+ 
+ 
+ 
+ 
+34 
+Assess 
+the 
+existing 
+professional development and 
+qualification opportunities and 
+training 
+courses 
+covering 
+electronic payment services. 
+NBE(PSSD), 
+EIA, 
+EBA, 
+AEMFI 
+ 
+ 
+ 
+ 
+ 
+Savings 
+35 
+Conduct a series of learning 
+events for banks and micro 
+finance 
+institutions 
+on 
+innovative savings products to 
+share Knowledge and increase 
+capacity to develop suitable 
+services for the underserved 
+segments. 
+NBE 
+(BSD, 
+MFISD), 
+EBA,AEMFI 
+ 
+ 
+ 
+ 
+ 
+Credit (movable and immovable property)  and Leasing 
+36 
+Improve the capacity of firms, 
+financial institutions and other 
+related 
+stakeholders 
+around 
+new credit infrastructures. 
+NBE(BSD 
+and 
+MFISD), 
+EBA, 
+EIA, AEMFI 
+ 
+ 
+ 
+ 
+ 
+37 
+Conduct a series of learning 
+events for banks and micro 
+finance 
+institutions 
+on 
+innovative credit products to 
+share knowledge and increase 
+their 
+capacity 
+to 
+develop 
+suitable 
+services 
+for 
+underserved 
+segments, 
+including MSMEs. 
+NBE(BSD 
+and 
+MFISD), 
+EBA, 
+AEMFI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+43 
+ 
+No. 
+Action 
+Responsible body 
+2021 
+2022 2023 2024 2025 
+38 
+Implement capacity building 
+programs to banks and micro 
+finance institutions to improve 
+their capacity and expertise in 
+dealing with the SME sector. 
+EBA, 
+AEMFI,EIFS 
+ 
+ 
+ 
+ 
+ 
+39 
+Assess 
+the 
+available 
+professional development and 
+qualification opportunities and 
+training 
+courses 
+covering 
+credit risk assessment and 
+management activities. 
+NBE (BSD 
+ 
+and 
+MFISD),AEM
+FI, EBA 
+ 
+ 
+ 
+ 
+ 
+Insurance 
+40 
+Conduct   a   series   of   
+learning events for Insurers, 
+to 
+share 
+knowledge 
+and 
+increase capacity to develop 
+innovative insurance products 
+for underserved segments. 
+NBE(ISD), 
+EIA 
+ 
+ 
+ 
+ 
+ 
+41 
+Conduct an assessment of the 
+existing 
+development 
+and 
+qualification opportunities and 
+training 
+courses 
+covering 
+retail insurance and micro-
+insurance, 
+including 
+group 
+insurance. 
+EIA, NBE(ISD) 
+ 
+ 
+ 
+ 
+ 
+Conduct midterm review of the NFES 
+42 
+Conduct midterm review of 
+the NFES on the basis of the 
+financial 
+capability 
+survey 
+carried out every two years 
+and as need arises.    
+NBE 
+ 
+ 
+ 
+ 
+ 
+43 
+Update the strategy. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+44 
+ 
+Annex 2: Description of Priority Actions 
+ 
+ 
+No. 
+Recommendations 
+Description 
+Foundation 1: Build Robust Institutional Arrangements for Financial Education 
+1 
+Build a Robust Financial 
+Literacy Working Group 
+Many public and private stakeholders are either planning to or 
+are already implementing financial education programs. 
+These stakeholders should be identified and invited to join the 
+Financial Literacy working group to coordinate, share 
+experiences and lessons learned, and act as a consultative 
+platform to design and integrate new initiatives. 
+ 
+The Working Group will meet quarterly with the aim to drive 
+the financial literacy agenda forward, foster strategic 
+partnerships, create synergies, review and generate new action 
+items, and share insights and lessons learned. 
+ 
+A range of stakeholders from both the public and private 
+sectors should become members of the working group, and 
+more stakeholders should be added over time. In the short 
+term this strategy recommends including: (i) the FCA (to 
+support efforts to include financial education as a core activity 
+of their Cooperative Extension Agents); (ii) Commercial 
+Bank of Ethiopia (CBE) (iii) Care Ethiopia; (iv) ENAT Bank; 
+(v) PEACE MFI; (vi) Ethiopia ACSI; (vii) Kifiya; (viii) 
+Agricultural Transformation Agency; (ix) the Association of 
+Ethiopian Microfinance Institutions (AEMFI); and (x) the 
+Ethiopian Bankers Association; among others. Additional 
+stakeholders should be brought in to specific work streams as 
+needed from industry and professional associations, for 
+instance including the Legal Association, Accounting 
+Association, and Insolvency Practitioners for financial 
+awareness and capability raising around collateral registries 
+and credit bureaus. 
+2 
+Establish a Consumer 
+Protection and Financial 
+Education  Directorate 
+with 
+Financial 
+Education 
+Team 
+to 
+coordinate 
+sector-wide 
+financial 
+education 
+efforts 
+A Consumer Protection and Financial Education Directorate 
+should be established by the NBE with a mandate to ensure 
+that products and services are delivered and used by 
+Ethiopian consumers in a responsible manner. The CPFED 
+should consist of three teams: a (i) Financial Consumer 
+Protection Regulation and Supervision Team; ii) Compliant 
+Handling Team; and (iii) a Financial Education Team. 
+ 
+Given the mandate of the CPFED, housing the Financial 
+Education Team within a CPFED will offer a comparative 
+advantage in linking and coordinating with relevant 
+stakeholders involved with the roll-out of consumer 
+protections around existing and new financial products and 
+ 
+ 
+45 
+ 
+No. 
+Recommendations 
+Description 
+services. 
+ 
+This NFES prioritizes allocation of staff within the Financial 
+Education Team of the CPFED to coordinate and execute the 
+strategy as well as monitor, evaluate and report the impact of 
+related NFES actions. 
+ 
+Foundation 2: Stakeholder Commitment 
+3 
+Establish and implement 
+the NFES M&E system 
+M&E framework designed specifically to monitor and 
+evaluate financial education programs should be implemented 
+by the Financial Education Team.  The M&E framework 
+should (i) detail an approach and methodology to consolidate 
+financial education programs in Ethiopia and appropriately 
+monitor their efforts. This may include requesting key 
+financial education indicators from relevant programs to 
+better track reach and impact of current efforts; (ii) evaluate 
+national level financial literacy progress through core demand 
+and supply side indicators; (iii) develop a coherent reporting 
+system to disseminate progress and identify bottlenecks; and 
+(iv) track NFES action progress over time. National level 
+indicators should be added to existing surveys like the CSA‟s 
+Ethiopia Socio-Economic survey for periodic tracking. 
+4 
+Define 
+a 
+national 
+commitment 
+for 
+stakeholders 
+for 
+financial 
+education 
+provision 
+A National commitment or Goal should be defined by the 
+Financial Literacy Working group which places a numerical, 
+national target on the number of adults to be reached within 
+financial education. Various implementing stakeholders can 
+contribute to this national goal as feasible and report progress 
+over time. 
+Foundation 3: Knowledge Sharing 
+5 
+Leverage 
+existing 
+knowledge and share 
+lessons learned 
+Once established, the Financial Education Team, with support 
+of the Financial Literacy Working Group and related 
+stakeholders, should become a point of contact within the 
+NBE for coordinating financial education in Ethiopia. 
+ 
+This   effort   may   include   developing   a   mechanism (like   
+a registration process) whereby NFES stakeholders can sign-
+up to receive or contribute insights, lessons learned, or 
+relevant tools and materials, thereby helping to better align 
+programs and stakeholders to good practice. This effort can 
+also be linked to monitoring the reach of current financial 
+education programs. 
+Cross-Cutting Pillars: Reach scale with impactful designed programs with focus on 
+women and rural adults 
+6 
+Coordinate 
+with 
+the 
+Ministry of Education to 
+The Ministry of Education is currently working to revise its 
+school curriculum. Currently, the Ministry of Education 
+ 
+ 
+46 
+ 
+No. 
+Recommendations 
+Description 
+revise 
+the 
+financial 
+education module(s) in 
+the school curriculum 
+includes a Financial Education Team in the Civics and 
+Ethical Education curriculum for grade 5 to 12. This NFES 
+can work to broaden and revise the curriculum, and align it to 
+good practice, so that students can cover a broader range of 
+topics, like digital financial services and emphasize on 
+practical skills with examples tailored to the Ethiopian 
+context. Teachers can also receive training so they have the 
+knowledge, skills and confidence to provide effective 
+financial education to their students. 
+ 
+This action should be implemented in close coordination 
+with the Financial Literacy working group to leverage 
+existing financial education materials, draw from lessons 
+learned and offer a platform for consultation. Stakeholders 
+and NGOs that have already developed curriculum and 
+implemented programs can help tailor and make relevant the 
+curricula for students, based on lessons learned from their 
+own programs 
+ 
+The Financial Literacy Working Group should also assess 
+opportunities to provide financial education within university 
+curricula and as extra-curricular as well. This may also 
+include law and accounting schools for secured transactions 
+or insolvency 
+ 
+7 
+Support 
+the 
+Federal 
+Cooperative 
+Agency 
+(FCA) 
+in 
+enhancing 
+their 
+Financial 
+Education programs 
+The FCA is currently expanding its cooperative extension 
+agent network within Ethiopia to provide financial education 
+to SACCO groups. Providing additional financial education to 
+households within Kebeles is also within their mandate 
+ 
+Through this strategy, the NBE and Financial Literacy 
+Working Group should work to help strengthen the FCA 
+financial education program, delivered   by   Cooperative   
+Development   Agents   to Kebele-level communities. 
+Knowledge sharing with Financial Literacy   Working   
+Group   members   and   leveraging   existing, relevant 
+materials may help to re-vamp training and learning manuals, 
+particularly for PSNP Kebeles. 
+ 
+The FCA may want to leverage the Financial Literacy 
+Working Group to develop and integrate digital literacy 
+modules as well, particularly for PSNP Kebeles, as many 
+PSNP beneficiaries receive disbursements through mobile 
+wallets but without the relevant digital literacy skills 
+ 
+ 
+ 
+47 
+ 
+No. 
+Recommendations 
+Description 
+8 
+Develop 
+financial 
+education guidelines for 
+financial providers 
+Guidelines and related tools like „Frequently Asked Question‟ 
+sheets (FAQs) can be developed and issued to financial 
+service providers to encourage and direct them on how to 
+provide basic financial education and core messages to 
+consumers at teachable- moments (like at the point of account 
+opening, particularly for low-income or first-time consumers) 
+ 
+Guidelines for providers, as well as recommendations around 
+education issues, core messages and relevant financial 
+education tools, can be developed and customized per sector 
+including for banks, microfinance institutions and SACCOs. 
+ 
+Such 
+guidelines 
+will 
+help 
+ensure 
+customers 
+fully 
+understanding basic concepts around their financial product or 
+service (particularly loans), as well as their consumer rights 
+and the range of other product offerings available to them. 
+These efforts would be particularly impactful if adopted by 
+the CBE, given the wide- reach of CBE branches. 
+9 
+Improve 
+awareness 
+around 
+new 
+credit 
+infrastructures law and 
+systems operation 
+Ethiopia has recently established new credit infrastructures 
+serving 
+consumers, 
+small 
+businesses, 
+and 
+financial 
+institutions. Awareness campaigns, capacity building as well 
+as targeted integration of curriculum in technical schools (like 
+law schools and accounting schools) should be implemented 
+to raise awareness and capability for consumers, financial 
+institutions 
+and 
+related 
+stakeholders 
+around 
+credit 
+infrastructure (in particular for credit reporting, secured 
+transactions, 
+the 
+collateral 
+registry 
+and 
+insolvency). 
+Awareness   campaigns   and   capacity   building   should   
+target potential consumers, firms, financial institutions and 
+other related stakeholders (i.e judiciary) and include 
+delivering communications through various media outlets22 
+ 
+ 
+ 
+ 
+ 
+                                                          
+ 
+22 The WBG will support the NBE around these activities by hiring a communications firm to implement such 
+activities before December 2019; any materials developed by the communications firm in this time period may be 
+rolled out by the NBE and Working Group after the contract with the communications firm has ended. 
+ 
+ 
+48 
+ 
+Annex 3:  Roles and Responsibility of Key Stakeholder 
+ 
+ 
+ 
+ 
+ 
+Function 
+NCFI  
+NFISC 
+Financial 
+Education 
+Working Group 
+FIS 
+CPFED 
+Implementing 
+Institutions 
+Policy guidance and implementation oversight 
+Providing overall policy guidance for the 
+National  Financial Education Strategy 
+X 
+ 
+ 
+ 
+ 
+ 
+Addressing 
+bottlenecks 
+to 
+NFES 
+implementation 
+X 
+X 
+ 
+ 
+ 
+ 
+Securing and allocating resources 
+X 
+X 
+X 
+ 
+ 
+ 
+Approving NFES implementation plans 
+ 
+X 
+ 
+ 
+ 
+ 
+Determining areas where policy guidance 
+or resources are needed 
+ 
+X 
+X 
+ 
+X 
+ 
+Stakeholder coordination, consultation and implementation 
+Distributing Financial Education actions 
+and tasks to various institutions 
+ 
+ 
+X 
+X 
+X 
+ 
+Establishing the Financial Education Team 
+governance entities 
+ 
+X 
+ 
+X  
+ 
+Convening and organizing the Financial 
+Education Working Group 
+ 
+ 
+ 
+X 
+ 
+ 
+Preparing recommendations and courses of 
+action for the working group 
+ 
+ 
+ 
+ 
+X 
+ 
+Developing NFES detailed implementation 
+plans 
+ 
+ 
+X 
+ 
+X 
+ 
+Facilitating 
+coordination 
+and  
+implementation of related NFES actions 
+ 
+ 
+ 
+X 
+X 
+ 
+Ensuring consistency and quality of NFES 
+action implementation plans and current 
+education efforts in Ethiopia 
+ 
+ 
+ 
+ 
+X 
+ 
+Implementing actions or relevant NFES 
+tasks 
+ 
+ 
+X 
+ 
+X 
+X 
+Reporting financial education reach and 
+lessons learned 
+ 
+ 
+ 
+ 
+ 
+X 
+Sharing financial education pre-tested 
+resources and materials 
+ 
+ 
+X 
+ 
+X 
+X 
+Liaising with international organizations 
+ 
+ 
+ 
+X 
+X 
+ 
+Consolidating, Communicating and Evaluating Progress 
+Developing an NFES Action Plan Tracker 
+ 
+ 
+ 
+ 
+X 
+ 
+Consolidating 
+and 
+analyzing 
+the 
+implementation progress of NFES actions 
+ 
+ 
+ 
+ 
+X 
+ 
+ 
+ 
+49 
+ 
+ 
+ 
+ 
+ 
+Function 
+NCFI  
+NFISC 
+Financial 
+Education 
+Working Group 
+FIS 
+CPFED 
+Implementing 
+Institutions 
+Developing and maintaining a registry of 
+key Ethiopian financial education programs 
+and a compendium of resources 
+ 
+ 
+ 
+ 
+X 
+ 
+Reporting and analyzing the reach and 
+impact of current financial education 
+programs 
+ 
+ 
+ 
+ 
+X 
+X 
+Tracking 
+national 
+financial 
+education 
+progress through data collection and 
+analysis 
+ 
+ 
+ 
+ 
+X 
+ 
+Preparation of internal Financial Education 
+progress reports as part of the NFIS 
+reporting for the NCFI and NSCFI 
+ 
+ 
+ 
+ 
+X 
+ 
+Preparation of public NFIS progress reports 
+that communicates financial education 
+progresses 
+ 
+ 
+ 
+X 
+ 
+ 
+Developing 
+and 
+implementing 
+a 
+communications strategy for the NFES 
+ 
+ 
+ 
+ 
+X 
+ 
+Reviewing progress and guiding next steps 
+ 
+X 
+X 
+ 
+X 
+ 
+Implementing 
+or 
+coordinating 
+the 
+implementation of evaluations of financial 
+education programs prior to national rollout 
+ 
+ 
+ 
+X 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+50 
+ 
+Annex 4: Target Group Profiles 
+The NFES acknowledges that the opportunities and related actions to improve financial education 
+will vary across different segments of the population. Given evidence from the 2017 World Bank 
+Financial Capability Survey and consensus among NFES implementing stakeholders, the NFES 
+prioritizes women and rural Ethiopians as target populations for which improved levels of 
+financial capability is critical. 
+ 
+The following table summarizes the baseline status of awareness, access and literacy, which are 
+basic components that make up the financial capability of individuals, across key Ethiopian 
+consumer segments. It also lays out the opportunities for financial education and the most effective 
+delivery channels based on findings from the 2017 World Bank Financial Capability Survey 
+ 
+Target 
+Groups 
+Awareness  
+Access and usage 
+Literacy 
+Urban 
+Female 
+Profile: 
+Urban females are very well 
+aware of formal financial 
+services, over 90% know of 
+commercial banks and over 
+70% know of other financial 
+products and services like 
+insurance, ATMs and money 
+transfer services. 
+ 
+Profile: 
+58 
+percent 
+are 
+banked, 
+and 
+the 
+majority bank with 
+public commercial 
+banks like CBE (51 
+percent) or private 
+commercial 
+banks 
+(23 percent). 
+ 
+Most know how to 
+open 
+a 
+bank 
+account 
+(76 
+percent) and the 
+majority rely on 
+formal 
+financial 
+services 
+ 
+Usage 
+of 
+digital 
+channels for financial 
+transactions is low, 
+only 3 percent use 
+mobile money and 14 
+percent 
+used 
+debit 
+card. 
+Profile: 
+While most urban females 
+can 
+handle 
+financial 
+calculations like division, 
+they still lag behind more 
+complicated concepts like 
+simple 
+interest 
+(23 
+percent) and compound 
+interest calculations (14 
+percent). Only a little 
+under 
+half 
+of 
+urban 
+Ethiopian 
+women 
+can 
+handle financial concepts 
+like inflation (47 percent) 
+and 
+discounting 
+(48 
+percent). However, 68 
+percent were able to score 
+above average on the 
+financial literacy quiz. 
+ 
+67 percent report having an 
+exact 
+plan 
+for 
+their 
+expenses and 52 percent 
+report always sticking to 
+their plan, but only 33 
+percent keep exact track of 
+their spending 
+ Opportunity: 
+Focus learning on consumer 
+Opportunity: 
+Efforts to reach urban 
+Opportunity: 
+Most urban females have 
+ 
+ 
+51 
+ 
+Target 
+Groups 
+Awareness  
+Access and usage 
+Literacy 
+protection 
+– 
+only 
+44 
+percent 
+considered 
+alternatives 
+before 
+purchasing 
+a 
+product, 
+and 
+efforts 
+to 
+increase 
+awareness 
+of 
+digital financial services 
+– only 32 percent heard of 
+mobile money services. 
+female 
+can 
+focus 
+around 
+commercial 
+banks. 
+Develop 
+material and provide 
+training to staff at 
+financial 
+service 
+providers, particularly 
+public 
+and 
+private 
+commercial banks to 
+educate consumers on 
+product features and 
+requirements, 
+particularly usage of 
+debit cards and remote 
+usage 
+of 
+bank 
+account. 
+financial goals primarily 
+around 
+household 
+improvements 
+like 
+acquiring furniture and new 
+utensils (46 percent) and 
+starting (21 percent) or 
+growing a business (10 
+percent). Efforts can be 
+focused 
+around 
+helping 
+urban women build skills to 
+take advantage of advanced 
+financial 
+products 
+(insurance 
+and 
+formal 
+credit) 
+and 
+partake 
+in 
+higher levels of planning. 
+Learning Preferences: 
+Almost all urban women indicate wanting to learn more about financial products and 
+services (86 percent). The majority report getting their information by watching 
+television (80 percent) and through mobile phones (84 percent), which corroborates 
+with urban women reporting their preferred channels for learning through TV 
+advertisements (31 percent), mobile phone (19 percent) and local government offices 
+like kebele officials (12 percent). Hence, channels such as the television, mobile 
+phones and local government should be leveraged to implement financial 
+education/capability initiatives on increasing usage of digital delivery channels, 
+product features and financial planning among urban women. 
+Rural 
+Female 
+Profile: 
+Most rural Ethiopian women 
+are aware of basic formal 
+financial 
+products 
+and 
+services offered by public 
+commercial 
+banks 
+(73 
+percent), MFIs (61 percent), 
+SACCOs (52 percent), etc. 
+However, most excluded from 
+the formal financial sector. 
+ 
+Profile: 
+While they are aware 
+of formal financial 
+products and services, 
+the majority of rural 
+women 
+don‟t 
+have 
+access 
+to 
+formal 
+financial services – 82 
+percent are unbanked. 
+Among the 18 percent 
+that 
+report 
+having 
+bank accounts, most 
+use public commercial 
+banks 
+(12%) 
+or 
+microfinance 
+organizations (12%). 
+Over half use informal 
+insurance 
+and 
+Profile: 
+Just 
+like 
+their 
+urban 
+counterparts, rural women 
+struggle 
+with 
+more 
+complicated 
+financial 
+concepts like interest rate 
+calculations – only 12 
+percent can do simple 
+interest 
+or 
+compound 
+interest calculations. 49 
+percent report having an 
+exact plan for expenses 
+and 42 percent report 
+sticking to their plan. Only 
+7 
+percent 
+report 
+not 
+having any financial goals. 
+ 
+ 
+52 
+ 
+Target 
+Groups 
+Awareness  
+Access and usage 
+Literacy 
+approximately 
+one 
+third 
+(22 
+percent) 
+report 
+saving 
+informally. Most rural 
+women (64 percent) 
+report 
+not 
+enough 
+money as the main 
+barrier 
+to 
+account 
+ownership. 73 percent 
+of rural women report 
+not knowing how to 
+open an account – this 
+is the highest among 
+the 
+consumer 
+segments described in 
+this table. 
+Opportunity: 
+Rural women should be a 
+priority segment given low 
+take-up of formal financial 
+products. Only 34 percent 
+considered alternatives before 
+purchasing a financial product. 
+Hence, efforts through large 
+scale government programs 
+like PSNP to improve learning 
+around consumer protection 
+and product features, should 
+be considered. 
+Opportunity: 
+This segment needs to 
+be drawn into the 
+formal financial sector 
+through 
+learning 
+focused 
+on 
+product 
+types 
+and 
+requirements, 
+given 
+that 
+rural 
+women 
+report having informal 
+savings 
+but 
+also 
+perceive 
+that 
+they 
+don‟t 
+have 
+enough 
+money to open a bank 
+account. 
+ 
+Initiatives to increase 
+physical network of 
+access points in rural 
+areas will be key 
+improving 
+account 
+ownership 
+among 
+rural women. 
+Opportunity: 
+Financial 
+education 
+programs 
+should 
+target 
+budget management and 
+financial 
+planning, 
+in 
+addition 
+to 
+practical 
+financial 
+concepts 
+(like 
+interest rate calculations) 
+and their connection to 
+financial products (personal 
+bank agriculture loans) that 
+could be used by rural 
+women to reach their goals. 
+Learning Preferences: 
+Similar to urban women, 84 percent of rural Ethiopian women want to learn more 
+about financial products and officials. The preferred source of learning is through 
+local government like kebele officials and most get their information through their 
+community leader (71 percent) or by listening to the radio (49 percent). These 
+ 
+ 
+53 
+ 
+Target 
+Groups 
+Awareness  
+Access and usage 
+Literacy 
+delivery channels, particularly through local kebele official, financial education 
+campaigns through the radio, and large scale government programs like PSNP should 
+be leveraged while implementing financial education programs for rural women. 
+Urban 
+Male 
+Profile: 
+Over 90 percent of urban 
+Ethiopian men have heard 
+about financial products and 
+services offered by public and 
+private 
+commercial 
+banks. 
+More than 70 percent are 
+aware of ATMs and money 
+transfer 
+services, 
+and 
+69 
+percent have heard of mobile 
+money agents which are the 
+highest among the consumer 
+segments described in this 
+table. 
+Profile: 
+This segment displays 
+the highest level of 
+financial access and 
+capability. 68 percent 
+of urban males are 
+banked 
+and 
+the 
+majority 
+have 
+an 
+account with a public 
+commercial bank like 
+Commercial Bank of 
+Ethiopia 
+(CBE). 
+While it is higher than 
+urban women, only 7 
+percent have a mobile 
+money account. The 
+most 
+common 
+financial 
+product 
+among urban males is 
+a transaction/savings 
+account (67 percent). 
+Despite 
+reasonably 
+high levels of account 
+ownership 
+among 
+urban 
+males, 
+53 
+percent report using 
+informal 
+insurance 
+(iddir) and 32 percent 
+report 
+having 
+an 
+informal 
+saving 
+product like Equb or 
+with self-help groups. 
+Profile: 
+Most urban males can 
+handle basic financial 
+concepts like division 
+(91 percent), inflation 
+(60 
+percent) 
+and 
+discounting (57 percent). 
+Similar 
+to 
+other 
+segments, understanding 
+of 
+interest 
+rate 
+calculations is still low 
+(36 percent – simple 
+interest, 18 percent – 
+compound interest). In 
+terms of planning, 62 
+percent exactly plan how 
+their money will be spent 
+but 44 percent stick to their 
+plan. 
+Given reasonably high levels 
+of 
+awareness 
+of 
+financial 
+products and services among 
+urban males, focus should be 
+on increasing usage. Urban 
+males may also need to 
+enhance their understanding of 
+consumer 
+rights 
+and 
+complaints 
+mechanisms. 
+Opportunity: 
+Efforts 
+should 
+be 
+focused 
+on 
+encouraging 
+more 
+financial transactions 
+at 
+formal 
+financial 
+institutions. 
+Develop 
+material and provide 
+training to staff at 
+Opportunity: 
+Financial education around 
+budgeting 
+and 
+debt 
+management might be most 
+useful for this segment. 
+ 
+ 
+54 
+ 
+Target 
+Groups 
+Awareness  
+Access and usage 
+Literacy 
+Financial education on second 
+tier products such as insurance 
+and pensions will be relevant 
+for this segment. 
+financial 
+service 
+providers, particularly 
+public 
+and 
+private 
+commercial banks to 
+educate consumers on 
+product features and 
+requirements. 
+Learning Preferences: 
+Preferences for learning about financial products and services are mostly divided 
+across learning from agents sent by financial service providers (25 percent), mobile 
+phones (20 percent) and TV shows or advertisements (22 percent). Financial 
+programs should leverage these channels while implementing initiatives around 
+increased usage, awareness of second-tier products and consumer rights. Training on 
+budgeting and debt management, or product features might be most effective when 
+delivered at a bank branch or through an agent sent by the bank. 
+Rural 
+Male 
+Profile: 
+Awareness of physical access 
+points for financial services 
+are moderate. 87 percent have 
+heard of public commercial 
+banks (like CBE) and 78 
+percent 
+have 
+heard 
+of 
+microfinance 
+organizations. 
+Awareness of digital financial 
+products and services among 
+this segment is very low. Less 
+than 20 percent have heard of 
+ATMs or bank agents or 
+mobile money agents. 
+Profile: 
+While slightly better 
+off than rural females, 
+the majority of rural 
+males 
+are 
+also 
+unbanked 
+(72 
+percent). 
+Informal 
+insurance is one of the 
+most commonly used 
+financial products (58 
+percent) among this 
+segment. 
+Just 
+like 
+their 
+female 
+counterparts, 
+almost 
+no rural men report 
+using a mobile money 
+service. 
+Profile: 
+76 
+percent 
+can 
+do 
+division and, 43 percent 
+understand the concept of 
+discounting as well as 
+inflation. Similar to other 
+segments, rural Ethiopian 
+men struggle for interest 
+rate calculations. 
+ 
+Almost all individuals in 
+this 
+segment 
+report 
+planning (either exactly or 
+at least roughly) how their 
+money will be spent, and 
+the majority stick to their 
+plan at least sometimes. 
+ 
+Most financial goals are 
+focused 
+on 
+building 
+a 
+home/upgrading 
+their 
+existing accommodations, 
+or farm investments. 
+Opportunity: 
+Efforts should be focused on 
+educating rural Ethiopian men 
+on digital delivery channels for 
+financial services. 
+Initiatives 
+to 
+improve 
+Opportunity: 
+Just as in the case of 
+rural 
+women, 
+initiatives to increase 
+physical network of 
+access points in rural 
+Opportunity: 
+Financial 
+education 
+programs 
+should 
+target 
+budget management and 
+financial 
+planning, 
+in 
+addition 
+to 
+practical 
+ 
+ 
+55 
+ 
+Target 
+Groups 
+Awareness  
+Access and usage 
+Literacy 
+understanding of products and 
+their requirements particularly 
+formal 
+insurance 
+or 
+requirements 
+for 
+account 
+opening 
+to 
+remove 
+misconceptions around formal 
+financial services, should be 
+considered. 
+areas will be key 
+improving 
+account 
+ownership among this 
+segment. 
+ 
+Encouraging take-up 
+and usage of formal 
+financial products and 
+services by marketing 
+and providing targeted 
+products 
+through 
+financial 
+service 
+providers, during key 
+moments 
+such 
+as 
+formal 
+agriculture 
+insurance 
+before 
+planting season should 
+be considered. 
+financial 
+concepts 
+(like 
+interest rate calculations) 
+and their connection to 
+financial products (personal 
+bank agriculture loans) that 
+could be used by rural men 
+to reach their goals. 
+Learning Preferences: 
+There is a preference for learning or getting information from the local government 
+office or community leaders like kebele officials (39 percent). 79 percent report 
+getting information in general, from their community leader and 57 percent listen to 
+the radio. Training on financial products and its offering through financial service 
+providers should be held at the local government office or community center. 
+Financial education training through large scale government programs like PSNP and 
+financial education campaigns through the radio can also be considered for this 
+segment. 
+Youth 
+Profile: 
+Most youth are familiar with 
+basic 
+financial 
+services 
+provided at a public (83 
+percent) or private commercial 
+bank (66 percent). However, 
+similar to other segments, 
+knowledge of mobile money 
+services is lagging behind – 
+only 32 percent report having 
+heard 
+of 
+mobile 
+money 
+services. 
+Profile: 
+Ethiopians 
+between 
+ages 18-24 are mostly 
+unbanked 
+(70 
+percent). Those with 
+bank accounts mostly 
+depend 
+on 
+public 
+commercial banks (24 
+percent). 
+The 
+most 
+commonly 
+used 
+product 
+among 
+Ethiopian 
+youth 
+is 
+informal insurance (46 
+percent). 
+When 
+it 
+comes to savings, 30 
+percent report having 
+informal savings and 
+Profile: 
+77 percent can do simple 
+division but just like other 
+consumer segments, more 
+complicated 
+financial 
+concepts 
+seem 
+to 
+be 
+difficult 
+for 
+Ethiopian 
+youth. In terms of planning, 
+only 56 percent report 
+having an exact plan for 
+their expenses, while 44 
+percent actually stick to 
+their plan. 
+ 
+ 
+56 
+ 
+Target 
+Groups 
+Awareness  
+Access and usage 
+Literacy 
+30 
+percent 
+report 
+having formal savings. 
+However, 56 percent 
+report not knowing 
+how 
+to 
+open 
+an 
+account. 
+Opportunity: 
+Given that youth are typically 
+more technologically savvy, 
+learning should be focused 
+around 
+digital 
+financial 
+services to improve financial 
+capability with regard to 
+awareness 
+and 
+access to 
+financial products and 
+Services. 
+Opportunity: 
+Efforts 
+should 
+be 
+focused 
+around 
+increasing take-up of 
+formal insurance and 
+converting 
+informal 
+savings to formal 
+savings. along with 
+initiatives 
+that 
+familiarize youth with 
+the basics of account 
+opening. 
+Opportunity: 
+Financial literacy initiatives 
+should be timed around 
+life-cycle events such as 
+entering the work force to 
+equip youth with managing 
+their own finances. Efforts 
+should 
+be 
+directed 
+at 
+schools, universities or job 
+training programs to 
+improve 
+financial 
+capability among youth. 
+Due importance should be 
+given to youth especially 
+because 
+they 
+are 
+still 
+forming financial behaviors 
+which can be more easily 
+improved as opposed to 
+adult consumer segments 
+whose habits are set and 
+less susceptible to change. 
+Learning Preferences: 
+Ethiopian youth seem to most prefer learning from agents of financial service 
+providers who are sent to their community (31 percent) and tend to get their 
+information from their community leader (61 percent) or by listening to the radio (64 
+percent). Hence, efforts to increase financial capability of youth should be delivered 
+through channels such as agents from financial service providers, messages from their 
+local kebele officials or trainings at the kebele center and perhaps financial education 
+campaigns or programs delivered through the radio. Delivery of financial education 
+should be timed around key life-cycle events such as entering the work-force or 
+starting higher education to equip youth with effective and responsible financial 
+management at a young age. 
+ 
+ 
+ 
+ 
+ 
+57 
+ 
+Annex 5: SWOT Analysis 
+A SWOT analysis is a useful and widely used tool for understanding the Strengths and 
+Weaknesses of an initiative, and for identifying the Opportunities and Threats to a particularly 
+objective. In this case, the below SWOT analysis identifies strengths, weaknesses opportunities 
+and threats on the implementation of Ethiopia‟s National Financial Education Strategy towards 
+the achievement of financial inclusion in Ethiopia. 
+ 
+ 
+Annex 6: Good Principles to Consider for Financial Education in Ethiopia 
+Improving financial capability of Ethiopians means developing an effective financial education 
+ecosystem where adults receive education during teachable moments and that is relevant and 
+contextualized to their lives. There are many objectives of financial education programs, but a 
+core objective should be to help provide adults the necessary resources and skills to manage 
+money and navigate the financial sector and related products and services effectively and 
+responsibly, with full understanding of their consumer rights. To develop this ecosystem, 
+different institutions and stakeholders, including financial institutions, should be able to deliver 
+financial education in a way that is efficient and within their core mandate. One pitfall of 
+financial education efforts in some countries include grand campaigns or events which often are 
+time and resource intensive, but don‟t generate impactful change. Oftentimes workshops or 
+lecture-based seminars in villages and schools, particularly by financial institutions, have not 
+been shown to be effective. Ensuring that financial education efforts in Ethiopia are impactful 
+means integrating good practices for financial education within the design and delivery of 
+financial education programs and efforts. In addition, understanding efforts that are ineffective 
+from other country experiences (or through impact evaluations) is also critical for identifying an 
+appropriate strategy to improve the sector efficiently.  
+ 
+Designing and Delivering Effective Financial Education Programs23 
+The following tips should be taken into consideration by all parties to improve the effectiveness 
+and impact of financial capability programs and activities in Ethiopia: 
+ Financial education efforts should stay within the core mandate of an institution. 
+ Financial education should be delivered at “teachable moments”, and within the context 
+financial services actually available to individuals. For instance, awareness and education on 
+mobile banking may not be relevant for rural adults that do not often use mobile phones or 
+have access to an agent. Education should be provided when relevant context is available to 
+consumers. Using teachable moments (i.e. a time when an individual is about to make an 
+important financial decision or use a financial service, such as making a deposit into a 
+savings account or receiving a loan disbursement) for financial education helps receivers 
+retain their knowledge and newly acquired financial tools and behaviors. Teachable moments 
+often occur around critical life events24, like receiving a cash transfer from the government or 
+taking out a loan. Such timings can be leveraged to provide financial capability, since 
+individuals during those moments are more likely to be receptive to new information and 
+                                                          
+ 
+23 This section draws extensively from the recently issued “Good Practices for Financial Consumer Protection 2017” World Bank 
+report. [World Bank Group, 2017. “Good Practices for Financial Consumer Protection, 2017 Edition”, World Bank, Washington, 
+DC] 
+24 Center for Financial Inclusion. Using Teachable Moments to Reach Consumers when they are Making Financial 
+Decisions. <https://cfi-blog.org/2016/04/19/teachable-moments-reach-consumers-when-they-are-making-
+financial-decisions/> 
+ 
+ 
+59 
+ 
+adopt behavioral changes as part of their financial service. Leveraging “teachable moments” 
+is an effective strategy to connect real-life decision making together with financial education 
+and helps to ensure that information is more likely to be retained, used and can influence 
+cash management behaviors25 
+ 
+ 
+ Extra educational efforts should be provided to first-time users (and even low-income / 
+less-educated consumers) of financial services, particularly for digital financial services 
+where risks are often higher than traditional financial services.  
+ 
+ A variety of channels and delivery mechanisms should be used for financial capability 
+programs, including both face-to-face training programs and non-traditional channels that 
+leverage technology, mass media, or behavioral interventions, such as nudges, reminders, 
+and choice architecture. 
+ 
+ The delivery channels for, and content of, financial capability programs should be client-
+focused and reflect the demographics, cultural and financial context, and learning needs 
+and preferences of the target population. 
+ 
+ Financial capability programs should be cost-effective and make optimal use of 
+resources. 
+ 
+ Financial capability programs should be designed not only to increase recipients' 
+knowledge, but also to enable them to develop and practice their skills, to instill 
+responsible attitudes, and, most important, to promote financially capable behaviors. 
+ 
+ So far as possible, financial capability initiatives should be fun, entertaining, and 
+interactive and use simple messages that will resonate with the target audience. Where 
+practical, they should involve “learning by doing.” 
+ 
+ Financial capability messages should provide objective advice and should not be used as 
+marketing initiatives for financial products or services. 
+ 
+ Financial capability messages should be repeated and reinforced over time, as one-off 
+interventions are unlikely to be successful. 
+                                                          
+ 
+25 Center for Financial Inclusion. Using Teachable Moments to Reach Consumers when they are Making Financial 
+Decisions. <https://cfi-blog.org/2016/04/19/teachable-moments-reach-consumers-when-they-are-making-
+financial-decisions/>  
+ 
+ 
+ 
+60 
+ 
+ 
+ So far as practicable, financial capability programs should build on successful programs 
+already being undertaken in a country and leverage insights from the existing evidence 
+base of effective financial capability programs in other countries. 
+ 
+Strengthening the Financial Education of Women26 
+Women often face different constraints than men with respect to accessing financial products and 
+services. Specifically, women tend to face different constraints and responsibilities related to 
+education, skills, mobility, household work and child care, which can impact their ability to take 
+advantage of financial education programs. Therefore, when designing financial education 
+programs these gendered constraints should be considered to ensure women can receive targeted 
+education that suits their educational needs and delivery preferences. The development of 
+gender-sensitive, localized and culturally-appropriate financial education should be a major 
+consideration. It is critical to ensure that, when designing the program, stakeholder consultations 
+include both female and male representatives and women are properly consulted to understand 
+and ensure their perspectives are integrated into program design. The following tips should be 
+considered when developing financial education programs to better reach and suit the needs of 
+women: 
+ Programs should develop gender-sensitive strategies for education delivery, and educators 
+should have a grasp of gender-sensitive approaches to facilitation; 
+ 
+ Educators should always work to encourage equal participation in sessions that involve both 
+male and female beneficiaries; 
+ 
+ Programs should dedicate resources to hire female educators or staff members, especially to 
+help facilitate activities and sessions that may be separated by gender; 
+ 
+ Including training options for women to receive education and training in female-only, 
+gender disaggregated environments is helpful in enabling women to feel more comfortable 
+and open when discussing thoughts on financial topics; 
+ 
+ If feasible, including house visits as training options for women will help to include women 
+who may otherwise have difficulty traveling; 
+ 
+ Working with women to identify optimum timings for trainings will help ensure the timings 
+are relevant to their schedule, as the timings and workload of women differ from those of 
+men; 
+ 
+                                                          
+ 
+26 This section was drawn from the World Bank’s ‘Integrating Financial Education into Cash Transfer Programs’ report. World 
+Bank Group, July 2018. “Integrating Financial Education into Cash Transfer Programs”. < 
+http://documents.worldbank.org/curated/en/866461531462775238/pdf/128334-WP-PUBLIC-Integrating-FinCap-into-G2P.pdf> 
+ 
+ 
+61 
+ 
+ Avoiding reference to gendered behaviors in content and trainings is crucial, as otherwise it 
+may reinforce stereotypes and inhibit conversation. In addition, content should advocate for 
+and include scenarios where women take active roles in financial management and decision 
+making. 
+ 
+Enhancing Digital Financial Literacy27 
+Electronic payment instruments or mobile money platforms are quickly becoming a means to 
+reach financially excluded populations. Such success stories are evident in east Africa, with the 
+rise of M-Pesa products in Kenya and Tanzania. However, an e-payment platform can often be a 
+previously underserved adult‟s first exposure to the formal financial system and its various 
+digital delivery channels. Many adults often face barriers28 to accessing and using their account, 
+which should be addressed through the delivery of tailored digital financial education.  
+ 
+For adults using a digital transaction account for the first time, receiving financial education 
+through the same platform and using a digital financial education delivery mechanism may 
+holistically strengthen their familiarity with digital tools.  
+ 
+Typical modules that will need to be considered when trying to enhance the digital literacy of a 
+population, particularly in the wake of digital savings or transaction schemes, include building 
+skills to use electronic payment instruments, raising awareness and knowledge of digital delivery 
+mechanisms (like ATMs, mobile money, card-based services, POS machines, agent networks, 
+etc.), and PIN literacy. Modules may be considered for all types of electronic payment methods 
+(mobile, card or agent based) and should include: (i) Opening and filling an e-payment account; 
+(ii) Receiving electronic transfers; (iii) Using and spending e-payments (particularly mobile 
+money if applicable); (iv) Accumulating and saving e-payment funds; (v) Utilizing additional 
+financial service offerings; (vi) Managing cash transfer funds and avoiding mistakes and fraud; 
+(vii) Whom, how and where to complain for e-payment issues. 
+ 
+Leverage existing, tested materials for delivering financial education  
+Ethiopia currently has an eco-system that can produce materials in a variety of media to enable 
+programs to deliver engaging content, exercises, and tools that should result in changes in the 
+behavior of the learners they engage. Many organizations that have already developed and tested 
+                                                          
+ 
+27 This section was drawn from the World Bank’s ‘Integrating Financial Education into Cash Transfer Programs’ report. World 
+Bank Group, July 2018. “Integrating Financial Education into Cash Transfer Programs”. < 
+http://documents.worldbank.org/curated/en/866461531462775238/pdf/128334-WP-PUBLIC-Integrating-FinCap-into-G2P.pdf> 
+27 Common barriers to digital access and usage of accounts includes (i) a lack of knowledge of the services available; (ii) low 
+numeracy levels; (iii) little understanding of the financial infrastructure; (iv) discomfort with the concept of e-payments, 
+especially mobile money; and (v) low confidence pertaining to the use of e-payments, particularly for women. 
+ 
+28 Common barriers to digital access and usage of accounts includes (i) a lack of knowledge of the services available; (ii) low 
+numeracy levels; (iii) little understanding of the financial infrastructure; (iv) discomfort with the concept of e-payments, 
+especially mobile money; and (v) low confidence pertaining to the use of e-payments, particularly for women. 
+ 
+ 
+62 
+ 
+a wide range of financial education content and materials can be further leveraged. These 
+resources should be collected, compiled and consolidated for other organizations and institutions 
+to leverage off successful materials.  
+ 
+Monitoring National Financial Education Reach 
+A national strategy and coordination unit can help develop key performance indicators to track 
+the progress of financial education programs and measure the direct and indirect impact of 
+financial education efforts. Prior to program implementation, guidance can be provided to key 
+stakeholders to establish key financial capability targets and key performance indicators (KPIs), 
+and relevant tools can be circulated to program staff on how to collect data. Many of these 
+indicators can be predefined and standardized to try to aggregate across various programs to be 
+able to assess progress at the provincial and national levels. Defining KPIs and targets ahead of 
+implementation will provide structure for assessing progress and effective rollout and should be 
+aligned with a programmatic theory of change. 
+ 
+ 
+ 
+ 
+63 
+ 
+Annex 7: Financial Education Mapping Exercise 
+A mapping of financial education programs in Ethiopia was conducted to inform development of 
+the National Financial Education Strategy in June 2016. The exercise intended to map recent or 
+ongoing initiatives to understand their reach and impact. Although not exhaustive, Annex 8 
+provides a summary of financial education initiatives conducted over time. 
+ 
+The most common financial education content focused on savings mobilization, specifically 
+using formal accounts at a bank, MFI, SACCO or RuSACCO to save, followed by debt 
+management and budgeting. Overall content of financial education programs in Ethiopia 
+conformed to international standards in terms of clarity of presentation, logical structure and 
+limited reliance on text to convey messages25. However, the mapping exercise is limited and 
+only provides a general overview of programs in Ethiopia that incorporate different approaches. 
+ 
+A wide range of channels are used to deliver programs to their target populations that make up a 
+variety of audiences: children, youth, women, PSNP beneficiaries, farmers, etc. These efforts are 
+typically grounded in different business models with varying end goals. Donor-led/voluntary 
+initiatives, which are most common in Ethiopia, aim to provide financial education out of 
+a genuine interest to improve financial capability of the Ethiopian population. For financial 
+sector programs, a positive business case in creating a potential market for future products and 
+services motivates efforts to further financial education. Government led efforts are primarily a 
+result of a legal mandate that aims to improve financial capability of a target population. These 
+motivations often overlap and have different implications on how financial education programs 
+are operationalized. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+64 
+ 
+Annex 8: Major Organizations Providing Financial Education 
+Category 
+Organization Name 
+Program Name 
+# of 
+Programs 
+Financial 
+Sector 
+Programs 
+ 
+1. Public 
+Financial 
+Enterprises 
+Agency 
+(PFEA) and Commercial 
+Bank of Ethiopia 
+ 
+PFEA Financial Education 
+Strategy 
+ 
+1 
+2. Nyala Insurance 
+Education associated with 
+marketing  
+ 
+1 
+3. ENAT Bank 
+ENAT financial education 
+1 
+4. Ethiopian 
+Insurers 
+Association 
+Insurance 
+awareness 
+program 
+1 
+Government 
+Led Programs 
+5. Ethiopian Government 
+ 
+The Ethiopia Protection of 
+Basic Services (PBS) project 
+ 
+ 
+1 
+6. Ministry of Agriculture 
+& Natural Resources 
+ 
+No information 
+ 
+1 
+7. Federal 
+Cooperative 
+Agency 
+No information 
+1 
+8. Ministry of Youth & 
+Sport 
+No information 
+1 
+9. Government of Ethiopia, 
+multiple ministries 
+ 
+PSNP-4 
+ 
+1 
+10. Regional Government of 
+Tigray, 
+the 
+Prison 
+Administration 
+and 
+DECSI 
+ 
+ 
+The Mekelle Prison Project 
+ 
+ 
+1 
+NGO/Donor 
+Led Programs 
+11. World Learning 
+Social 
+and 
+Financial 
+Education 
+for 
+Pupils 
+in 
+Ethiopian Primary Schools 
+ 
+1 
+12. Vision Fund 
+Children and Youth Program 
+1 
+13. Hiwot 
+Integrated 
+Development Authority 
+(HIDA) 
+ 
+Children and Youth Program 
+ 
+1 
+14. Hope Enterprise 
+Children and Youth Program 
+1 
+15. Save the Children 
+Partnership 
+for 
+better 
+achievement in Ethiopia 
+ 
+2 
+16. Dires for Development 
+Project 
+Ethiopia; 
+Empowering 
+disabled 
+youth with entrepreneurial 
+skills 
+ 
+2 
+17. PEACE MFI 
+YouthStart, Adult financial 
+literacy program 
+ 
+2 
+18. ACSI 
+YouthStart, UNCDF 
+1 
+19. Wasasa 
+Microlead 
+1 
+ 
+ 
+65 
+ 
+Category 
+Organization Name 
+Program Name 
+# of 
+Programs 
+20. AEMFI 
+Microlead 
+1 
+21. DVV 
+International‟s 
+Regional Office, East 
+and Horn of Africa 
+Integrated 
+Women‟s 
+Empowerment 
+Program 
+(IWEP) 
+ 
+1 
+22. Mother's 
+Union 
+Christian 
+care 
+for 
+families 
+Literacy 
+& 
+Financial 
+Education Program 
+ 
+1 
+23. Ethiopia Assemblies of 
+God Church, Economic 
+Development 
+Association 
+Program: "10x10"; Women's 
+Micro- Enterprise 
+ 
+2 
+24. UN Women 
+Joint Program on Gender 
+Equality 
+and 
+Women 
+Empowerment- Rural Women 
+Economic 
+Empowerment 
+Component 
+ 
+ 
+1 
+25. Pupillary 
+Pupillary 
+Empowering 
+Women in Ethiopia 
+ 
+1 
+26. Nuru International 
+Nuru 
+Ethiopia 
+Financial 
+Inclusion Program 
+ 
+1 
+27. The Confederation of 
+Ethiopian Trade Unions 
+(CETU) 
+Providing security through 
+SACCOs in Ethiopia 
+ 
+1 
+28. WISE (Organization for 
+Women 
+in 
+Self 
+Employment) 
+WISE 
+Capacity 
+Building 
+Project 
+ 
+1 
+ 
+29. CARE Ethiopia 
+GRAD Program 
+1 
+30. International Livestock 
+Research Institute 
+Education associated with 
+marketing 
+weather-based 
+index insurance 
+ 
+1 
+31. World Food Program, 
+UN 
+Education associated with 
+marketing 
+weather-based 
+index insurance 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+66 
+ 
+Annex 9: General Category of Stakeholders for Financial Education 
+ 
+Category 
+Organization Name 
+Financial Sector 
+Financial Institutions and their respective associations 
+Public sector 
+Public ministries and agencies such as; 
+ Ministry of Education 
+ Ministry of Agriculture  
+ Agricultural Transformation Agency. 
+ Federal Cooperative Agency 
+ Government of Ethiopia (for PSNP-Project) 
+Ethiopian Postal Service Enterprise 
+ Ministry of Finance  
+ Minister of Women, Children & Youth 
+ Ethiopian Central Statistical Agency 
+Donor Community 
+International development agencies (e.g.  World  
+bank, UNDP) 
+Civil societies 
+NGOs and charities (e.g. Care Ethiopia, Microlead) 
+Business   Associations (e.g.   The   Confederation   of 
+Ethiopian trade Unions) 
+Technological    service    providers 
+ 
+,MNOs, delivery channels 
+Technology providers 
+Media 
+TV channels, Radio stations  and websites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+67 
+ 
+Annex 10: Working Group Members29 
+Institutions  
+Number of 
+representatives  
+1. ACSI 
+1 
+2. AEMFI 
+1 
+3. Agricultural Transformation Agency  
+1 
+4. CARE Ethiopia 
+1 
+5. Commercial Bank of Ethiopia 
+1 
+6. Enat Bank 
+1 
+7. Ethiopian Institute of Financial Studies  
+1 
+8. Ethiopian Bankers Association 
+2 
+9. Ethiopian Insurance Corporation 
+1 
+10. Ethiopian Insurers Association  
+2 
+11. Federal Cooperative Agency 
+1 
+12. FeUJC & FSA 
+1 
+13. FeSMMIDA 
+1 
+14. Ministry of Agriculture  
+1 
+15. Ministry of Education 
+2 
+16. Minister of Women, Children & Youth 
+1 
+17. PEACE MFI 
+1 
+18. NBE 
+1 
+Total 
+21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                          
+ 
+29 Depending on the circumstance key stakeholders listed under Annex 9 may be invited to join the working group  
+ 
+ 
+68 
+ 
+ 
+ 
+Annex 11: Experiences on development and implementation of financial education strategy 
+Singapore 
+MoneySENSE is the national financial education programme in Singapore. 
+It is spearheaded by the Financial Education Steering Committee (FESC). The Monetary 
+Authority of Singapore chairs the FESC, which comprises representatives from several public 
+sector agencies and government ministries, including the Ministry of Education, Ministry of 
+Health, Ministry of Manpower, Ministry of Social and Family Development, Central Provident 
+Fund Board, National Library Board and People‟s Association. (OECD/INFE Policy Handbook, 
+2015, page 90) 
+ 
+Malaysia 
+Co-operation among the private sector, central bank and Ministry of Education paving the 
+way to mandatory financial education. 
+ 
+Beginning in 2017, financial education will be implemented progressively into the secondary 
+school curriculum in mathematics, English language, Malay language, commerce, basic 
+economics and living skills. The proposed financial education framework comprises the 
+following six financial literacy elements. Their respective learning standards for different school 
+grades have been used by the MOE as key reference in the embedment of financial education 
+into the school subjects: 
+ Money, Source of Income and Career Choice; 
+ Financial Responsibility and Decision Making; 
+ Money Management and Planning; 
+ Savings and Investments; 
+ Credit and Debt Management; 
+ Risk Management, Wealth Protection and Insurance. 
+(OECD/INFE Policy Handbook, 2015, page 108) 
+ 
+ 
+ 
+ 
+ 
+69 
+ 
+Brazil 
+The leadership of a multilateral body and the creation of a public-private partnership 
+Brazil‟s National Strategy for Financial Education (Estratégia Nacional de Educação Financeira 
+– ENEF) was formally established by Presidential Decree (Presidency of the Republic of Brazil, 
+2010). This act also created the National Committee for Financial Education (Comitê Nacional 
+de Educação Financeira – CONEF), to handle the implementation phase of Brazil‟s National 
+Strategy (NS). CONEF is responsible for ENEF‟s strategic governance, and coordinates its 
+implementation: it sets the objectives of the strategy, and the guidelines and bylaws covering its 
+financing, implementation, and evaluation. The Committee is also authorized to create working 
+groups with expertise to provide technical support and to approve its own bylaws. 
+ 
+CONEF is composed of the following members: 
+1. A Deputy-Governor of the Central Bank of Brazil (Banco Central do Brasil – BCB); 
+2. President of the Securities and Exchange Commission (CVM); 
+3. Superintendent-Director of Brazil‟s National Superintendence for Pension Funds (PREVIC); 
+4. Superintendent of Brazil‟s Superintendence of Private Insurance (SUSEP); 
+5. Executive-Secretary of the Ministry of Finance (MF); 
+6. Executive-Secretary of the Ministry of Education (MEC); 
+7. Executive-Secretary of the Ministry of Social Security (MPAS); 
+8. Executive-Secretary of the Ministry of Justice (MJ); and 
+9. Four representatives of civil society: The Brazilian Financial and Capital Markets Association 
+(ANBIMA), Brazil‟s major stock exchange (BM&FBOVESPA), the Brazilian Association of 
+Banks (FEBRABAN), and the Brazilian Insurance Confederation (CNSEG). 
+ 
+The Presidency of CONEF rotates among the first five members listed above. As determined in 
+CONEF‟s bylaws, the four representatives of civil society must be chosen among self-regulatory 
+bodies recognized by one of the four regulators; industry associations from financial, capital, 
+insurance, or pension markets; and consumer protection organizations. These representatives 
+have a renewable 3-year mandate. Their current mandates are valid until December 2017. 
+ 
+The establishment of sub-committees and dedicated working groups by project/policy area 
+The Presidential Decree creating CONEF also established a Pedagogical Support Group (Grupo 
+de ApoioPedagógico – GAP) to provide pedagogical guidance to all ENEF‟s actions. The Group 
+ 
+ 
+70 
+ 
+is composed of the Ministry of Education (MEC) and the four financial regulators, as well as by 
+educational institutions and associations: The National Council of Education, five federal 
+educational institutions appointed by MEC, the National Council of Education Secretaries 
+(CONSED) and the National Union of Municipal Education Managers (UNDIME). The Ministry 
+of Education presides over GAP and also serves as its Executive Secretariat. All the educational 
+content of ENEF‟s actions is submitted to the GAP. As a multidisciplinary group, with strong 
+methodological background, it is the forum for detailed in-depth discussions that revises and 
+approves all financial education pedagogical material. It meets whenever convened, and the 
+meetings are usually preceded by intensive revision activity of the documents for discussion. 
+Since the beginning of ENEF‟s implementation, GAP has been meeting face-to-face around 3-4 
+times a year, with meetings lasting 1-2 days. The consistency of GAP‟s input and approach is 
+ensured by the permanent presidency of the Ministry of Education. 
+ 
+The Permanent Technical Commission (Comissão Permanente – CP) is another consultative 
+committee part of the national strategy. CP assists CONEF at the technical level, proposing rules, 
+parameters and guidelines for ENEF‟s plans and actions. CP also advises CONEF by issuing 
+recommendations on possible partnerships, branding of financial education material, financial 
+literacy assessments and ENEF‟s website, among others. It is composed of representatives from 
+the institutions that are part of CONEF, and its internal governance structure follows CONEF‟s 
+presidency rotation scheme. The representatives sitting in the CP are drawn from those directly 
+involved in implementing Financial Education initiatives within CONEF‟s members.  
+ 
+Consequently, the meetings of the CP are instrumental in preparing and discussing issues before 
+these are submitted to CONEF‟s strategic approval. The CP serves as the forum to discuss the 
+details of the implementation of most of ENEF‟s programs, and where most of the hands-on 
+work is performed. CP meetings regularly encompass the presence of CONEF's partner Brazil‟s 
+Association of Financial Education (AEF-Brasil) (see the case study “Brazil: a public-private 
+partnership in action”). 
+ 
+CP meets nearly once a month, mostly via videoconference, and each meeting usually lasts 
+around four hours. CP members permanently consult with the strategic levels of their own 
+ 
+ 
+71 
+ 
+institutions before entering the meetings. Decisions are usually made by consensus and then 
+transmitted to CONEF (OECD/INFE Policy Handbook, 2015, page 50). 
+ 
+India 
+ 
+The creation of a new public body in charge of the implementation of the national strategy 
+A Technical Group on Financial Inclusion and Financial Literacy of the Financial Stability and 
+Development Council Sub-Committee (FSDC-SC) headed by the Deputy Governor, Reserve 
+Bank of India, with representation from all financial sector regulatory authorities is the 
+institutional mechanism set up to coordinate the efforts of all the financial sector regulators in the 
+field of financial education. The National Strategy for Financial Education (NSFE) for India has 
+been prepared under the aegis of this Technical Group. 
+ 
+A National Centre of Financial Education (NCFE) has then been established as a specialized 
+institution for implementation of National Strategy for Financial Education. It reports to the 
+Technical group. The main role of NCFE is creating standard financial education material for 
+various segments of the financial sector, develop and maintain a website exclusively for financial 
+education which will be a one stop repository of all financial education activities by all the 
+financial sector regulators: 
+ Reserve Bank of India; 
+ Security and Exchange Board of India; 
+ Pension Fund Regulatory and Development Authority; 
+ Insurance Regulatory and Development Authority; and 
+ Forward Market Commission. 
+All the above-mentioned financial regulators fund NCFE through an annual budget approved by 
+the Technical Group. NCFE's activities are guided by a Core Committee which comprises one 
+senior officer from each of the participating regulators. The mandate of the Core Committee is to 
+give in-principle approval to the projects to be implemented by NCFE after going through 
+funding needs of the activities/projects of NCFE which will then be placed before the Technical 
+Group for approval (OECD/INFE Policy Handbook, 2015, page 51). 
+ 
+ 
+ 
+ 
+ 
+72 
+ 
+Uganda 
+ 
+Bank of Uganda Spearheading development of development of Financial Literacy Strategy  
+ 
+Bank of Uganda has spearheaded the development and implementation of a Strategy for 
+Financial Literacy (FL) in Uganda. The rationale behind the Strategy has been to provide focus, 
+drive and momentum; encourage the development of high quality resources; encourage the use 
+of simple, clear and compelling messages; reduce the risk of duplication and unintended gaps; 
+enable partners to learn from each other; and encourage the active participation of a wider range 
+of stakeholders. 
+ 
+During this process, the Bank of Uganda has engaged more than 150 stakeholders. This 
+structured consultative process aimed to mobilize the expertise and resources of a broad range of 
+organizations, developing a strategy founded on the principles of cost-effectiveness, cooperation, 
+sustainability and feasibility. The development of the Strategy has been supported by the German 
+Development Cooperation through GIZ and guided by a high-level Financial Literacy Advisory 
+Group comprised of influential decision makers drawn from the public, private and NGO sectors.  
+The process culminated in the launch of the Strategy on Friday 16th August, 2013. The Financial 
+Literacy Website was also launched at this event. 
+Strategy for Financial Literacy in Uganda 
+The Strategy for Financial Literacy in Uganda recommends priority activities through five major 
+channels, or “strands”. 
+ 
+Financial Education in Schools: Incorporation of FL into the secondary school curriculum as 
+part of the overall reform of the curriculum, as well as into the primary school curriculum 
+through the development of supplementary materials and teachers‟ trainings; extension of extra-
+curricular FL activities. 
+ 
+Financial Literacy for the Youth: Incorporation of FL into university exit courses and training 
+of community FL mentors who incorporate FL into the activities of already existing youth clubs 
+and associations. 
+ 
+Financial Literacy and Rural Outreach: Provision of FL trainings to rural communities, 
+capitalizing on existing trainings and trainers. This includes the use of a variety of community 
+channels, such as community radios, community parliaments, and many more. 
+ 
+Financial Literacy in Workplaces, Clubs & Associations: Improving FL at formal workplaces 
+through presentations and trainings, as well as presentations being held to informal workers 
+through their associations. 
+ 
+ 
+73 
+ 
+Use of Media for Financial Literacy: Development of a lively and vibrant website dedicated to 
+FL; engagement of newspapers and magazines and radio to increase their FL content, as well as 
+the use of social media. (Source: Bank of Ghana; 2019) 
+ 
+ 

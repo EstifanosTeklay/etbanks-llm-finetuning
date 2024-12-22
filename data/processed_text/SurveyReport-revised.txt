@@ -1,0 +1,1566 @@
+                
+ 
+ 
+ 
+ 
+Bank Supervision Directorate 
+ 
+ December 2009 
+ 
+1
+ 
+ 
+       
+Banking Industry Risk Management Survey Report 
+National Bank of Ethiopia   
+ 
+I. INTRODUCTION 
+The National Bank of Ethiopia (NBE) plans to move towards risk based supervision of 
+banks. International experience suggests that such a move presupposes enhanced 
+supervisory reliance on work of third parties, including that of banks. For improved 
+reliance on work of third parties, supervisors need to ensure existence of strong risk 
+management practice in supervised banks.   
+ 
+To this end, the NBE conducted, in November 2009, its first bank risk management 
+survey. Nine staffs1 of the Bank contacted all the 15 banks in the industry with a 
+questionnaire to be completed.  
+ 
+The survey aimed to identify status of risk management practices by banks and to put 
+forward recommendations to address weaknesses. 
+ 
+The rest of this report2 has three sections. The second section presents ‘executive 
+summary’, 
+the 
+third 
+‘detailed 
+findings’, 
+and 
+the 
+fourth 
+‘conclusion 
+and 
+recommendations’.   
+                                                 
+1 Ato Gobena Worana, Ato Tsega Mekonnen, Ato Behailu Fekadu, Ato Abdilkadir Muche, Ato Chalchisa Debere, Ato 
+Getnet Adane, Ato Tesfamariam Hailu, Ato Wubshet Fola, and Ato Yitbarek Mezemer   
+2 Drafted by Ato Gobena Worana and Ato Tsega Mekonnen; edited by Ato Solomon Desta and approved for circulation 
+by H.E. Ato Getahun Nana 
+                
+ 
+ 
+ 
+ 
+Bank Supervision Directorate 
+ 
+ December 2009 
+ 
+2
+ 
+Finally, the NBE would like to thank all the banks who participated in the survey. 
+ 
+II. EXECUTIVE SUMMARY 
+ 
+Results of banking sector risk management survey suggest existence of some positive 
+steps taken so far by banks to strengthen their risk management practices. For instance, 
+bank boards have given fairly adequate attention to risk management, risk management 
+function has qualified staffs, risk management policies and procedures are in place, and 
+business continuity/contingency plans exist for operational and liquidity risks. However, 
+as detailed hereunder, weaknesses dominate banking sector risk management practices 
+and thus indicate some supervisory concerns.   
+ 
+i. Board responsibility   
+ Full/part of board members in 87% of banks did not sit for training on risk 
+management.   
+ 60% of banks’ boards of directors are not provided with relevant and up-to-date 
+economic, business and market data for informed decision-making.   
+ 
+ii. Structure and resources  
+ Specific budget allocated to risk management function in 75% of banks is either 
+relatively insignificant (0.14-0.43% of total budget), or unknown.  
+ In 73% of banks, only part or none of the staffs were trained in risk management. 
+ 
+iii. Strategies, policies and programs 
+ 60% and 74% of banks have not yet documented risk management strategy and 
+program, respectively. 
+ 50% or above of banks lack timeframe to periodically review risk management 
+documents.   
+                
+ 
+ 
+ 
+ 
+Bank Supervision Directorate 
+ 
+ December 2009 
+ 
+3
+ Risk management policies of 60% of banks do not define risk limits, & 93% of the 
+rest either rely only on NBE limits for counterparty, or above 3/4th of them did not 
+define limits at all for geography, product, security, sector, etc.  
+ 
+iv. Communication 
+ Internal communication of risk appetite and findings is low in 60% of banks. 
+v. Appraisal and reward 
+ Risk management process, in the vast majority (87%) of banks, is either partly or 
+fully not integrated with HR management and policies.   
+ 
+vi. Benefits and outcomes 
+ No weakness. 
+ 
+vii. Auditors 
+ 77% of external auditors and 60% of internal auditors of banks do not 
+independently review effectiveness of banks’ risk management functions.    
+ 
+viii. Risk identification and preparedness 
+ Risk management function of 93% of banks does not capture risks related to 
+procurement and HR. 
+ 87% of banks do not conduct workshop to identify risks in each activity/product, 
+60% of them have not created risk register, and 87% of them do not exercise stress 
+testing as a risk management tool. 
+ 93% of banks do not have continuity/disaster recovery/contingency plan in place for 
+other risks like market, reputation, etc.  
+ 
+ix. Nature of risks facing banks 
+ Credit, operational and liquidity risks were key bank risks over the last two years, 
+and will continue to be so over the next five years. 
+ 
+Recommendations  
+ 
+                
+ 
+ 
+ 
+ 
+Bank Supervision Directorate 
+ 
+ December 2009 
+ 
+4
+To strengthen banks’ risk management: i) the NBE should review the existing risk 
+management guidelines and issue them to all banks; ii) banks should be required to 
+produce risk management programs acceptable to the NBE by giving due attention to 
+credit, operational and liquidity risks; and iii) the NBE should design and implement 
+short-term training programs to banks’ board members and risk management staffs. 
+ 
+III. DETAILED FINDINGS 
+Banks were asked selected questions under the following headings:  
+ 
+ 
+i. 
+Board responsibility;   
+ii. 
+Structure and resources;  
+iii. 
+Strategies, policies and programs; 
+iv. 
+Communication; 
+v. 
+Appraisal and reward;  
+vi. 
+Benefits and outcomes;  
+vii. 
+Auditors;  
+viii. 
+Risk identification and preparedness; and 
+ix. 
+Nature of risks facing banks.  
+ 
+i. Board responsibility 
+ 
+Banks were asked eight questions under this heading. These questions are designed to 
+review whether bank boards are aware of their responsibilities and give adequate focus to 
+risk management.  
+ 
+ 
+ 
+ 
+ 
+                     “Yes” responses  
+1. Does your board have formal terms of reference for risk management?  
+53% 
+                           
+2. Is your board aware of risk management requirements expected from  
+    your bank by the NBE? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+100% 
+3. To what extent are board members trained in risk management area? 
+ 
+  
+ 
+Fully  
+ 
+ 
+ 
+ 
+ 
+13% 
+     
+  
+ 
+Partly  
+ 
+ 
+ 
+ 
+ 
+20% 
+                
+ 
+ 
+ 
+ 
+Bank Supervision Directorate 
+ 
+ December 2009 
+ 
+5
+     
+  
+ 
+Not at all 
+ 
+ 
+ 
+ 
+ 
+67% 
+4. Is risk management standing board agenda item?  
+ 
+ 
+ 
+67% 
+                           
+ 
+ 
+        
+  
+“Yes” responses  
+5. How much time does the board spend on average over the last one  
+    year on risk management issues in terms of percentage?  
+ 
+ 
+ 
+ 
+    
+  
+ 
+0-5%  
+ 
+ 
+ 
+ 
+ 
+0% 
+                           
+     
+  
+ 
+6-10%  
+ 
+ 
+ 
+ 
+ 
+8% 
+                           
+  
+  
+ 
+11-25% 
+ 
+ 
+ 
+ 
+ 
+38% 
+     
+ 
+ 
+ 
+26-50% 
+ 
+ 
+ 
+ 
+ 
+46% 
+ 
+ 
+ 
+ 
+>50%  
+ 
+ 
+ 
+ 
+ 
+8% 
+ 
+6. How do you rate degree of risk management on board’s agenda?  
+ 
+ 
+ 
+ 
+  
+ 
+Low 
+ 
+ 
+ 
+ 
+ 
+ 
+7% 
+ 
+  
+ 
+Medium 
+ 
+ 
+ 
+ 
+ 
+60% 
+ 
+  
+ 
+High   
+ 
+ 
+ 
+ 
+ 
+33% 
+7. Does the board demonstrate and evidence its engagement with the  
+    risk management process in any of the following ways?  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Meetings 
+ 
+ 
+ 
+ 
+ 
+80% 
+ 
+  
+ 
+Formal reports 
+ 
+ 
+ 
+ 
+ 
+53% 
+ 
+  
+ 
+Setting of policy 
+ 
+ 
+ 
+ 
+86% 
+ 
+  
+ 
+Monitoring implementation of risk policies  
+60% 
+8. Is your board provided with relevant and up-to-date economic, business 
+    and market data for decision? 
+ 
+ 
+ 
+ 
+ 
+ 
+40%  
+ 
+ 
+ 
+ 
+ 
+Findings: 
+ 
+ 
+                
+ 
+ 
+ 
+ 
+Bank Supervision Directorate 
+ 
+ December 2009 
+ 
+6
+ Majority of banks’ boards of directors have defined terms of reference for risk 
+management, are aware of risk management requirements expected from them by 
+the NBE, use risk management as a standing agenda item, spend fairly adequate 
+time on and engage sufficiently with issues related to risk management.  
+ 
+ Nevertheless, full/part of board members in 87% of banks did not sit for training on 
+risk management, suggesting an urgent need for risk management capacity building 
+of board members; and  
+ Similarly, 60% of bank boards were not provided with relevant and up-to-date 
+economic, business and market data for wise decision-making, implying a need for 
+further work in strengthening management information system especially within the 
+context of risk management.      
+ 
+     
+ii. Structure and resources 
+Banks were asked nine questions under this heading. Purpose of these questions was to 
+assess whether risk management function has received proper leadership, resources, 
+monitoring system, etc 
+                                                                                                                     “Yes” responses 
+9. Is risk management delegated to a subgroup, for example a risk  
+    management unit?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+67% 
+                           
+10. If your response to question no. 9 is yes, is one key person  
+    responsible for risk management?  
+ 
+ 
+ 
+ 
+ 
+60% 
+11. Is organizational structure adequate for effective risk  
+    management function? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+60% 
+12. Are human and financial resources allocated to risk  
+    management function? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+80% 
+13. If your response to question no. 12 is yes, what is the  
+      quality and quantity of these resources?  
+ 
+ Human resources (adequate number & qualification) 
+ 
+100%  
+ 
+ % of risk management budget in total budget: 
+                
+ 
+ 
+ 
+ 
+Bank Supervision Directorate 
+ 
+ December 2009 
+ 
+7
+ 
+  
+ 
+0.14-0.43%  
+ 
+ 
+ 
+ 
+ 
+42% 
+ 
+  
+ 
+1.81-2.2% 
+ 
+ 
+ 
+ 
+ 
+25% 
+ 
+ 
+  
+ 
+NA3   
+ 
+ 
+ 
+ 
+ 
+33% 
+ 
+“Yes” responses  
+14. To what extent are risk management staffs trained in  
+       risk management area?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fully  
+ 
+ 
+ 
+ 
+ 
+27%  
+ 
+ 
+ 
+ 
+Partly  
+ 
+ 
+ 
+ 
+ 
+33% 
+ 
+ 
+ 
+ 
+Not at all 
+ 
+ 
+ 
+ 
+ 
+40% 
+15. Does risk management unit submit periodic report to senior 
+    management and board? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+60% 
+16. If your response to question no. 15 is yes, how often and what 
+    does the report cover? 
+ 
+Frequency: 
+ 
+ 
+ 
+Quarterly 
+ 
+ 
+ 
+ 
+ 
+90% 
+ 
+ 
+ 
+ 
+Fortnightly 
+ 
+ 
+ 
+ 
+ 
+10% 
+ 
+Coverage:   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exceptions to policies, limits, compliance…  
+100%  
+ 
+ 
+ 
+ 
+Risk level 
+ 
+ 
+ 
+ 
+ 
+89% 
+ 
+ 
+ 
+Risk trend 
+ 
+ 
+ 
+ 
+ 
+89% 
+ 
+ 
+ 
+Risk management weaknesses 
+ 
+ 
+67% 
+ 
+ 
+ 
+ 
+Others  
+ 
+ 
+ 
+ 
+ 
+ 
+33% 
+ 
+ 
+ 
+ 
+ 
+Recommendations 
+ 
+ 
+ 
+ 
+56% 
+ 
+17. Is risk considered by the following committees? 
+ 
+ 
+ 
+ 
+Board committee (Audit/risk management)  
+53% 
+ 
+ 
+ 
+Senior management  
+ 
+ 
+ 
+80% 
+ 
+                                                 
+3 Not available 
+                
+ 
+ 
+ 
+ 
+Bank Supervision Directorate 
+ 
+ December 2009 
+ 
+8
+Findings: 
+ 
+ 
+ Most banks responded that they have delegated risk management function, assigned 
+relatively qualified risk management staffs to the function, and exercise risk 
+reporting and deliberations.   
+ 
+ However, budget earmarked for risk management in 75% of banks is either 
+relatively insignificant (0.14-0.43% of total budget), or the amount set aside is 
+entirely unknown, suggesting that the function is largely overlooked; and  
+ 
+ Meanwhile, in 73% of banks, either only part of risk management staffs were 
+trained in risk management areas, or no staff was trained at all, implying an 
+immediate need for steps to be taken to bring all risk management staff on board.  
+ 
+iii. Strategies, policies and programs  
+ 
+Using five questions under this heading, our objective was to review whether banks have 
+documented appropriate strategies, policies and programs related to risk management. 
+                                                                                                                                     
+         “Yes” responses 
+18. Does your board have the following key risk management documents?                 
+  
+  
+ 
+Strategy 
+ 
+ 
+ 
+ 
+ 
+40% 
+ 
+ 
+ 
+ 
+Policy  
+ 
+ 
+ 
+ 
+ 
+87% 
+  
+  
+ 
+Program 
+ 
+ 
+ 
+ 
+ 
+26% 
+ 
+ 
+ 
+ 
+Procedure, or guideline 
+ 
+ 
+ 
+67% 
+ 
+19. If your response to question no. 18 is yes, are the documents approved? 
+ 
+ 
+  
+ 
+Strategy by board 
+ 
+ 
+ 
+ 
+66% 
+ 
+ 
+  
+ 
+Policy by board 
+ 
+ 
+ 
+ 
+85% 
+ 
+  
+ 
+Program by the NBE  
+ 
+ 
+ 
+75% 
+ 
+ 
+  
+ 
+Procedure, guideline by board/CEO  
+ 
+90% 
+                
+ 
+ 
+ 
+ 
+Bank Supervision Directorate 
+ 
+ December 2009 
+ 
+9
+20. How often are the documents under no. 19 reviewed? 
+ 
+ 
+ 
+ 
+ 
+ 
+Strategy:  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Every 2 & 5 years 
+ 
+ 
+ 
+ 
+33% 
+ 
+ 
+ 
+ 
+As required 
+ 
+ 
+ 
+ 
+ 
+67% 
+  
+ 
+Policy: 
+     
+ 
+ 
+ 
+Annually, every 2 and 5 years 
+ 
+ 
+ 
+54% 
+         “Yes” responses 
+As required 
+ 
+ 
+ 
+ 
+ 
+46% 
+        
+Program: 
+ 
+                         
+Annually and every 5 years  
+ 
+ 
+50% 
+As required                     
+ 
+ 
+ 
+50% 
+ 
+ 
+ 
+Procedures, guidelines: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annually 
+ 
+ 
+ 
+ 
+ 
+50% 
+ 
+ 
+ 
+As required 
+ 
+ 
+ 
+ 
+ 
+50% 
+21. Does the policy quantify and define the appetite for risk? 
+ 
+ 
+40% 
+22. If your response to question no. 21 is yes, which areas   
+      have limits/risk tolerances?4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) Counterparty (single, related, etc)  
+    keep limits as set by the NBE 
+ 
+ 
+93% 
+ 
+  
+ 
+ 
+ 
+b) Geography  
+ 
+ 
+ 
+ 
+7% 
+ 
+ 
+ 
+ 
+c) Product 
+ 
+ 
+ 
+ 
+ 
+27% 
+ 
+ 
+ 
+d) Security 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- Type  
+ 
+ 
+ 
+ 
+0% 
+ 
+ 
+ 
+ 
+ 
+- Margin 
+ 
+ 
+ 
+ 
+13% 
+ 
+ 
+ 
+ 
+e) Sector 
+ 
+ 
+ 
+ 
+ 
+33% 
+ 
+ 
+ 
+ 
+ 
+f) Others5 
+ 
+ 
+ 
+ 
+ 
+13% 
+ 
+                                                 
+4 Question modified during survey 
+5 Off-balance sheet, loan to deposit ratio, liquidity ratio, limits on NPLs ratio, loan by contractual maturity 
+(term), currency composition, etc 
+                
+ 
+ 
+ 
+ 
+Bank Supervision Directorate 
+ 
+ December 2009 
+ 
+10
+Findings: 
+ 
+ 
+ It is encouraging to see that policies and procedures are documented by majority of 
+banks. However, 60% and 74% of banks have not yet documented risk management 
+strategy and program, respectively. This suggests inadequate performance of board 
+and senior management in these particular areas; 
+ Majority of banks having strategies, policies, programs and procedures related to 
+risk management, have also secured approvals on the documents from relevant 
+authorities. Also, it is good that majority of banks responded that they review their 
+risk management policies annually, every 2 or 5 years. Nevertheless, 50% or above 
+of banks responded that they review risk management strategy, program and 
+procedure, “as required”; meaning, they lack timeframe to review the documents, 
+limiting a proper means for accountability and control; and  
+ 
+ Unfortunately, there is general weakness in terms of defining appetite for risk. 
+Majority (60%) of banks responded that their risk management policies do not 
+define and quantify the appetite for risk, suggesting limited aspect of risk control. 
+Even the vast majority (93%) of those 40% of banks who claimed to have policies 
+with defined risk limits/tolerances, just use NBE limits for counterparties (single, 
+related, etc) without having their own, or more than 3/4th of them failed to define 
+limits for geography, product, security, sector and others. It is, therefore, imperative 
+that there is an urgent need for further work in these areas. 
+ 
+iv. Communication      
+                                                                                                                                      
+Banks were asked three questions under this heading to provide information on how risk 
+management policies and practices were communicated internally. 
+                                                                                                                                     
+        “Yes” responses 
+23. Does the bank share a common language that defines its appetite for risk? 
+40%                 
+24. To what extent is risk management policy communicated internally? 
+                
+ 
+ 
+ 
+ 
+Bank Supervision Directorate 
+ 
+ December 2009 
+ 
+11
+ 
+ 
+ 
+ 
+Fully  
+ 
+ 
+ 
+ 
+ 
+40% 
+  
+  
+ 
+Partly  
+ 
+ 
+ 
+ 
+ 
+40% 
+ 
+ 
+ 
+ 
+Not at all 
+ 
+ 
+ 
+ 
+ 
+20% 
+ 
+25. Are risk management reports and findings shared across staff?  
+ 
+40% 
+ 
+Findings: 
+ Results of survey indicate that as high as 60% of banks’ internal communication of 
+risk appetite and findings is low, implying a need for involving the wider staffs. 
+ 
+v. Appraisal and Reward   
+                                                                                                           
+The intent of asking banks a question under this caption is to know to what extent the risk 
+management process of banks is integrated with their HR management and policies 
+including appraisal and reward systems. 
+                                                                                                                                     
+         “Yes” responses  
+26. To what extent is risk management process integrated with HR  
+      management & policies including appraisal and reward system?                 
+ 
+ 
+ 
+ 
+Fully  
+ 
+ 
+ 
+ 
+ 
+13% 
+  
+  
+ 
+Partly  
+ 
+ 
+ 
+ 
+ 
+53% 
+ 
+ 
+ 
+ 
+Not at all 
+ 
+ 
+ 
+ 
+ 
+34% 
+ 
+Findings: 
+ 
+ Unfortunately, survey results show that risk management process, in the vast 
+majority (87%) of banks, is either partly or fully not integrated with HR 
+management and policies, for motivated behavioral change.  
+ 
+vi. Benefits and outcomes 
+                                                                                                                                
+                
+ 
+ 
+ 
+ 
+Bank Supervision Directorate 
+ 
+ December 2009 
+ 
+12
+The purpose of asking banks a couple of questions, under this heading, is to assess if 
+banks appreciate benefits of risk management and whether they benchmark their process 
+against external standards.  
+ 
+ 
+ 
+ 
+“Yes” responses  
+27. On scale 1 (low) to 5 (high), to what extent does risk management  
+       benefit your business in the following areas?                 
+ 
+ 
+ 
+ 
+Improved strategic planning (5) 
+ 
+ 
+70% 
+  
+  
+ 
+Better business performance (5) 
+ 
+ 
+61% 
+ 
+ 
+ 
+ 
+Increased regulatory compliance (5)  
+ 
+69% 
+  
+  
+ 
+Improved internal control (5)  
+ 
+ 
+61% 
+ 
+  
+ 
+Improved risk impact likelihood (5)  
+ 
+62% 
+28. Have you benchmarked your risk management process, for  
+      example against other banks or against external standards? 
+ 
+ 
+80% 
+ 
+Findings: 
+ 
+ Fortunately, majority of banks appreciate benefits of risk management, and exercise 
+benchmarking. 
+ 
+vii. Auditors 
+ 
+A couple of questions under this heading are designed to verify involvement of auditors 
+in commenting on risk management effectiveness.  
+         “Yes” responses  
+29. Have your external auditors given their views on the  
+      effectiveness of your risk management process?  
+ 
+ 
+ 
+33%                 
+                
+ 
+ 
+ 
+ 
+Bank Supervision Directorate 
+ 
+ December 2009 
+ 
+13
+30. Have your internal auditors given their views on the 
+      effectiveness of your risk management process?  
+ 
+ 
+ 
+40% 
+  
+Findings: 
+ 
+ 
+ 
+ 
+ 77% and 60% of banks responded that external auditors and internal auditors, 
+respectively, have not reviewed effectiveness of their risk management process. 
+viii. Risk identification and preparedness  
+ 
+With the following six questions under this title, our attempt was to evaluate whether 
+banks have proper risk management tools in place to identify, measure, and control risk. 
+  
+“Yes” responses 
+31. Are risks in each of the following activities/products  
+      captured by risk management function? 
+  
+  
+ 
+Lending 
+ 
+ 
+ 
+ 
+ 
+87% 
+ 
+ 
+ 
+ 
+Treasury 
+ 
+ 
+ 
+ 
+ 
+87% 
+  
+  
+ 
+Investment  
+ 
+ 
+ 
+ 
+ 
+67% 
+ 
+ 
+ 
+ 
+Retail banking  
+ 
+ 
+ 
+ 
+67% 
+ 
+ 
+ 
+ 
+ 
+Transfer 
+ 
+ 
+ 
+ 
+ 
+67% 
+  
+  
+ 
+Foreign  
+ 
+ 
+ 
+ 
+ 
+80% 
+  
+  
+ 
+IT 
+ 
+ 
+ 
+ 
+ 
+ 
+80% 
+ 
+ 
+ 
+ 
+Others (Procurement & HR)  
+ 
+ 
+7% 
+ 
+32. Have you ever conducted workshops to identify risks in each activity?  
+13% 
+33. Have you created risk registers?   
+ 
+ 
+ 
+ 
+ 
+40% 
+ 
+34. Do you exercise stress testing as a risk management tool?  
+ 
+ 
+13% 
+  
+35. What is the share of insured assets6 value in that of total assets? 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+40-69% 
+ 
+ 
+ 
+ 
+ 
+13% 
+                                                 
+6 Net of loans made on clean basis, suspense accounts, stock, acquired assets, equity participation, cash 
+above approved limit, etc 
+                
+ 
+ 
+ 
+ 
+Bank Supervision Directorate 
+ 
+ December 2009 
+ 
+14
+  
+ 
+ 
+ 
+70-89% 
+ 
+ 
+ 
+ 
+ 
+60% 
+     
+ 
+ 
+ 
+90-100% 
+ 
+ 
+ 
+ 
+ 
+27% 
+36. Do you have business continuity/disaster recovery/contingency plan? 
+        
+ 
+ 
+For operational risk (including IT) 
+ 
+ 
+73% 
+ 
+                         
+For liquidity risk 
+ 
+ 
+ 
+ 
+60% 
+ 
+For other risks (credit, market, & reputation)  
+7% 
+ 
+Findings: 
+ 
+ 
+ Majority of banks responded that risks in all activities/products are captured by risk 
+management function, except procurement and HR whose risks are not captured by 
+93% of banks; 
+ 
+ Results of survey show that insurance is effectively used by majority of banks as a 
+risk management tool; although 87% of banks do not conduct workshop to identify 
+risks in each activity, 60% of them did not create risk register, and 87% of them do 
+not exercise stress testing as a risk management tool; and 
+ 
+ Likewise, majority of banks responded that they have continuity/disaster 
+recovery/contingency plan in place for operational and liquidity risks; although, 
+93% of banks do not have one for other risks like market & reputation.  
+ 
+ix. Nature of risks facing banks 
+ 
+A couple of questions under this title are intended to rank key risks affecting banking 
+business.  
+         “Yes” responses  
+37. Which three risks had most affected your bank in the last two years?   
+                 
+  
+ 
+ 
+ 
+Credit risk 
+ 
+ 
+ 
+ 
+ 
+60% 
+  
+  
+ 
+Operational risk 
+ 
+ 
+  
+ 
+53%                 
+                
+ 
+ 
+ 
+ 
+Bank Supervision Directorate 
+ 
+ December 2009 
+ 
+15
+  
+ 
+ 
+ 
+Liquidity risk  
+ 
+ 
+ 
+ 
+40% 
+38. Which three risks, do you think, will be key (most relevant) to  
+       your bank over the next five years?  
+ 
+                 
+  
+ 
+ 
+ 
+Credit risk 
+ 
+ 
+ 
+ 
+ 
+100% 
+  
+  
+ 
+Operational risk 
+ 
+ 
+  
+ 
+80%          
+ 
+ 
+ 
+ 
+Liquidity risk  
+ 
+ 
+ 
+ 
+80% 
+ 
+  
+ 
+ 
+  
+ 
+ 
+Findings: 
+ 
+ 
+ The survey revealed that credit, operational and liquidity risks have been 
+dominant risks over the last two years, and will continue to be key risks over the 
+next five years. 
+ 
+IV. CONCLUSION AND RECOMMENDATIONS 
+ 
+Results of survey suggest existence of some positive steps so far taken by banks to 
+strengthen their risk management practices. These include: preparation of terms of 
+reference for risk management, creation of risk management awareness, considering risk 
+management as an agenda item and allotting adequate time for its deliberations by 
+majority of bank boards.  
+ 
+Also, in large proportion of banks, risk management is delegated, risk management staffs 
+are qualified, risk management findings regularly reported, risk management policies and 
+procedures are developed and approved, risk management practice is benchmarked, risks 
+in products/activities are captured, business continuity/contingency plans exist for 
+operational and liquidity risks. 
+ 
+On the other hand, this survey unveiled a number of risk management weaknesses. 
+Significant proportion of banks lack: training for board/risk management staff, up-to-date 
+and relevant data for informed decisions, adequate risk management budget, risk 
+                
+ 
+ 
+ 
+ 
+Bank Supervision Directorate 
+ 
+ December 2009 
+ 
+16
+management strategies and programs, timeframe to review risk management documents, 
+risk limits, risk communication, risk management integration with HR management and 
+policies, risk management audit review, and initiatives to identify risks.  
+ 
+Moreover, greater part of banks failed to capture risks related to procurement and HR, to 
+create risk register, exercise stress testing, to put in place tools to effectively mitigate 
+other risks like market and reputation.    
+ 
+To strengthen banks’ risk management: i) the NBE should review the existing risk 
+management guidelines and issue them to all banks; ii) banks should be required to 
+produce risk management programs acceptable to the NBE by giving due attention to 
+credit, operational and liquidity risks; and iii) the NBE should design and implement 
+short-term training programs to banks’ board members and risk management staffs. 
